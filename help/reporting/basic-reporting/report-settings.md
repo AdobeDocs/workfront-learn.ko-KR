@@ -1,0 +1,27 @@
+---
+title: 보고서 설정 이해
+description: 이 비디오에서는 액세스 방법을 알아봅니다 [!DNL  Workfront] 보고서 설정 및 몇 가지 일반적인 보고서 설정에 대해 설명합니다.
+activity: use
+feature: Reports and Dashboards
+type: Tutorial
+role: User
+level: Beginner
+team: Technical Marketing
+thumbnail: 335159.png
+kt: 8871
+exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
+source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+workflow-type: tm+mt
+source-wordcount: '45'
+ht-degree: 0%
+
+---
+
+# 보고서 설정 이해
+
+이 비디오에서는 다음을 학습합니다.
+
+* 보고서 설정에 액세스하는 방법
+* 몇 가지 일반적인 보고서 설정에 사용되는 항목
+
+>[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12)

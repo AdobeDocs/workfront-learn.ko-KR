@@ -1,0 +1,26 @@
+---
+title: '`[!UICONTROL Workfront DAM] 및 사용자 프로필 설명'''
+description: 세 가지 차이점 알아보기 [!UICONTROL Workfront DAM] 사용자 프로필 및 탐색 방법 [!UICONTROL Workfront DAM].
+activity: use
+feature: Digital Content and Documents
+type: Tutorial
+role: User
+level: Beginner
+team: Technical Marketing
+kt: 8992
+exl-id: 383b5890-e1e3-44e1-b548-486bea04c079
+source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+workflow-type: tm+mt
+source-wordcount: '45'
+ht-degree: 0%
+
+---
+
+# 기여자: 시작하기
+
+이 비디오에서는 다음을 학습합니다.
+
+* 세 사람의 차이점 [!UICONTROL Workfront DAM] 사용자 프로필
+* 탐색 방법 [!UICONTROL Workfront DAM]
+
+>[!VIDEO](https://video.tv.adobe.com/v/335252/?quality=12)
