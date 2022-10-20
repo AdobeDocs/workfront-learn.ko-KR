@@ -1,6 +1,6 @@
 ---
 title: 사용자 지정 양식 만들기 및 공유
-description: 맞춤형 양식을 만들고, 양식에 고유한 필드를 추가하고, 섹션 및 논리를 사용하여 필드를 구성하고, 사용자와 양식을 공유하는 방법에 대해 알아보십시오.
+description: 사용자 정의 양식을 만들고, 양식에 고유한 필드를 추가하고, 섹션 및 논리를 사용하여 필드를 구성하고, 사용자와 양식을 공유하는 방법에 대해 알아보십시오.
 feature: System Setup and Administration
 type: Tutorial
 role: Admin, Leader, User
