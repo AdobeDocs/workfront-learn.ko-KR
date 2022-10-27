@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5caa6c2ae6e6791fdcb621bf13f46164ead1277c
+source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
 workflow-type: tm+mt
-source-wordcount: '2206'
+source-wordcount: '2212'
 ht-degree: 2%
 
 ---
@@ -107,7 +107,7 @@ ht-degree: 2%
       + [이해 [!UICONTROL 간트] 보기](manage-work/projects/understand-the-gantt-view.md)
       + [프로젝트 정보 보기](manage-work/projects/view-project-information.md)
       + [프로젝트 상태 변경](manage-work/projects/change-the-project-status.md)
-   + Tasks {#tasks}
+   + 작업 {#tasks}
       + [작업을 만드는 방법](manage-work/tasks/how-to-create-tasks.md)
       + [작업 순서 지정 알아보기](manage-work/tasks/learn-to-sequence-tasks.md)
       + [이해 [!UICONTROL 작업 시간]](manage-work/tasks/understand-work-effort.md)
@@ -216,7 +216,7 @@ ht-degree: 2%
       + [고급 보고 파트 1](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [고급 보고 파트 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [고급 보고 파트 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
-   + Enhanced Analytics {#enhanced-analytics}
+   + 고급 Analytics {#enhanced-analytics}
       + [시작하기 [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [추가 [!UICONTROL analytics] 템플릿 레이아웃 지정](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [기본 탐색 이해](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -564,7 +564,7 @@ ht-degree: 2%
       + [백로그 정리](agile/gooming-the-backlog.md)
       + [반복 계획 및 생성](agile/plan-and-create-an-iteration.md)
       + [반복 페이지 사용](agile/using-the-iteration-page.md)
-   + 칸반 {#kanban}
+   + Kanban {#kanban}
       + [간판 팀 생성](agile/create-a-kanban-team.md)
       + [간판 팀으로서 작업 관리](agile/manage-work-kanban-team.md)
    + 보드  {#boards}
@@ -573,6 +573,7 @@ ht-degree: 2%
       + [보드에 대한 팀 구성원 추가 및 관리](boards/add-and-manage-team-members-for-a-board.md)
       + [보드에 카드 추가](boards/add-cards-to-a-board.md)
       + [기본 보드 찾기 및 만들기](boards/find-and-create-a-basic-board.md)
+      + [보드에서 찾기 및 검색](boards/find-and-search-in-a-board.md)
       + [보드 열 관리](boards/manage-board-columns.md)
       + [보드에서 카드 관리](boards/manage-cards-on-a-board.md)
 
