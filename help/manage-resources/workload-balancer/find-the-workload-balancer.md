@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: 4f5ef62945a0e28b80bbb9855b67817e2297a712
+source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,12 @@ ht-degree: 0%
 ![주 메뉴 옵션 리소스](assets/Find_01.png)
 
 * 클릭 [!UICONTROL 리소스] 에서 [!UICONTROL 기본 메뉴].
-* 로 이동합니다. [!UICONTROL 작업 로드 밸런서] 섹션을 참조하십시오.
+* 로 이동합니다. [!UICONTROL 예약] 섹션을 참조하십시오.
+* 을(를) 클릭합니다. [!UICONTROL &quot;작업 로드 밸런서로 전환&quot;] 링크를 클릭합니다.
 
-![워크로드 밸런서 섹션](assets/Find_02.png)
+![워크로드 밸런서로 전환](assets/Find_02.png)
+
+다음 [!DNL Workload Balancer] Workfront 도구의 리소스 관리 영역으로 이동할 때의 기본 옵션입니다.
 
 ## 작업 로드 밸런서 내의 영역
 
@@ -38,10 +41,10 @@ ht-degree: 0%
 
 할당된 작업 영역 에는 Workfront 내에서 이미 할당된 사용자 목록과 작업이 표시됩니다. 기본적으로 이 영역은 사용자가 속한 Workfront 팀의 일부인 사용자로 필터링됩니다. 이렇게 하면 작업에 배정된 팀원이 확인할 수 있습니다.
 
-![지정된 영역 사용자](assets/Find_04.png)
+![지정된 영역 사용자](assets/Find_03b.png)
 
 미지정 작업 영역에는 개인, Job 역할 또는 팀에 할당되어야 하는 작업이 표시됩니다. 그러나 처음에는 이 지역이 아무것도 표시되지 않습니다.
 
-![할당되지 않은 작업 영역](assets/Find_05.png)
+![할당되지 않은 작업 영역](assets/Find_03c.png)
 
 [지정되지 않은 작업 영역]을 공백으로 시작하면 먼저 할당하기 전에 [지정된 작업 영역]에서 사용자의 현재 작업 로드에 집중할 수 있습니다.

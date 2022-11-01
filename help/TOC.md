@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
+source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
 workflow-type: tm+mt
-source-wordcount: '2212'
+source-wordcount: '2218'
 ht-degree: 2%
 
 ---
@@ -92,39 +92,39 @@ ht-degree: 2%
 
 + 작업 관리 {#manage-work}
    + 프로젝트 {#projects}
-      + [기본 프로젝트 작성 이해](manage-work/projects/understand-basic-project-creation.md)
-      + [프로젝트를 만드는 다른 방법 이해](manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [프로젝트 찾기](manage-work/projects/find-projects.md)
-      + [프로젝트 공유](manage-work/projects/share-a-project.md)
-      + [프로젝트 페이지 탐색](manage-work/projects/navigate-the-project-page.md)
-      + [프로젝트 계획 시작](manage-work/projects/getting-started-plan-a-project.md)
+      + [프로젝트 상태 변경](manage-work/projects/change-the-project-status.md)
       + [프로젝트 세부 사항을 입력합니다](manage-work/projects/fill-in-the-project-details.md)
-      + [프로젝트를 실시간으로 실행](manage-work/projects/take-a-project-live.md)
+      + [프로젝트 찾기](manage-work/projects/find-projects.md)
       + [프로젝트 관리 시작](manage-work/projects/getting-started-manage-a-project.md)
+      + [프로젝트 계획 시작](manage-work/projects/getting-started-plan-a-project.md)
+      + [프로젝트 페이지 탐색](manage-work/projects/navigate-the-project-page.md)
+      + [프로젝트 공유](manage-work/projects/share-a-project.md)
+      + [프로젝트를 실시간으로 실행](manage-work/projects/take-a-project-live.md)
       + [전체 프로젝트 진행 상태 추적](manage-work/projects/track-overall-project-progress.md)
       + [프로젝트 지표를 사용하여 작업 진행 상태 추적](manage-work/projects/track-work-progress-with-project-metrics.md)
+      + [기본 프로젝트 작성 이해](manage-work/projects/understand-basic-project-creation.md)
+      + [프로젝트를 만드는 다른 방법 이해](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [프로젝트 통신 이해](manage-work/projects/understand-project-communication.md)
       + [이해 [!UICONTROL 간트] 보기](manage-work/projects/understand-the-gantt-view.md)
       + [프로젝트 정보 보기](manage-work/projects/view-project-information.md)
-      + [프로젝트 상태 변경](manage-work/projects/change-the-project-status.md)
    + 작업 {#tasks}
+      + [프로젝트 계획에서 작업 할당](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [작업을 만드는 방법](manage-work/tasks/how-to-create-tasks.md)
       + [작업 순서 지정 알아보기](manage-work/tasks/learn-to-sequence-tasks.md)
       + [이해 [!UICONTROL 작업 시간]](manage-work/tasks/understand-work-effort.md)
       + [상위-하위 작업 이해](manage-work/tasks/understand-parent-child-tasks.md)
       + [계획된 시간 이해](manage-work/tasks/understand-planned-hours.md)
       + [작업 기간 이해](manage-work/tasks/understand-task-durations.md)
-      + [프로젝트 계획에서 작업 할당](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [작업](manage-work/tasks/work-with-tasks.md)
    + 문제/요청 {#issues-requests}
+      + [문제를 다른 작업 항목으로 변환](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [요청에서 프로젝트 만들기](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [요청 찾기](manage-work/issues-requests/find-requests.md)
       + [계획되지 않은 작업 처리](manage-work/issues-requests/handle-unplanned-work.md)
       + [요청 수행](manage-work/issues-requests/make-a-request.md)
-      + [요청 찾기](manage-work/issues-requests/find-requests.md)
       + [요청 관리](manage-work/issues-requests/manage-incoming-requests.md)
-      + [요청 업데이트](manage-work/issues-requests/update-a-request.md)
-      + [요청에서 프로젝트 만들기](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [문제를 다른 작업 항목으로 변환](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [디지털 작업 검토](manage-work/issues-requests/review-and-approve-digital-work.md)
+      + [요청 업데이트](manage-work/issues-requests/update-a-request.md)
       + [문제 지정 관리](manage-work/issues-requests/manage-issue-assignments.md)
       + [문제에 대한 보고서](manage-work/issues-requests/report-on-issues.md)
    + 포트폴리오 {#portfolios}
@@ -153,22 +153,22 @@ ht-degree: 2%
       + [날짜 유형 및 진행 상태 이해](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [프로젝트 타임라인 이해](manage-work/project-timelines/understand-project-timelines.md)
    + 프로젝트 닫기 {#close-a-project}
+      + [프로젝트 닫기](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [작업 및 문제 닫기](manage-work/close-a-project/close-tasks-and-issues.md)
       + [승인 완료](manage-work/close-a-project/complete-approvals.md)
       + [학습한 내용 기록](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [로그 및 검토 시간](manage-work/close-a-project/log-and-review-hours.md)
       + [자산 업로드](manage-work/close-a-project/upload-assets.md)
-      + [프로젝트 닫기](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [프로젝트 활동 닫기](manage-work/close-a-project/close-a-project-activity.md)
    + 프로젝트 재무 {#project-finances}
-      + [성능 지표 이해](manage-work/project-finances/understand-performance-metrics.md)
-      + [태스크 수익 및 원가 기본값 설정](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [재무 정보 찾기](manage-work/project-finances/find-financial-information.md)
       + [환율 설정](manage-work/project-finances/set-up-exchange-rates.md)
       + [비용 유형 설정](manage-work/project-finances/set-up-expense-types.md)
+      + [태스크 수익 및 원가 기본값 설정](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [재무 액세스 이해](manage-work/project-finances/understand-financial-access.md)
-      + [재무 업데이트 및 검토](manage-work/project-finances/update-and-review-finances.md)
-      + [재무 정보 찾기](manage-work/project-finances/find-financial-information.md)
       + [여러 청구 비율 이해](manage-work/project-finances/multiple-billing-rates.md)
+      + [성능 지표 이해](manage-work/project-finances/understand-performance-metrics.md)
+      + [재무 업데이트 및 검토](manage-work/project-finances/update-and-review-finances.md)
 
 
 
@@ -210,6 +210,8 @@ ht-degree: 2%
       + [기본 제공 작업 필터 이해](reporting/intermediate-reporting/open-built-in-task-filters.md)
       + [기본 제공 문제 필터 이해](reporting/intermediate-reporting/open-built-in-issue-filters.md)
       + [필터에 대한 기본 텍스트 모드 이해](reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [보기에 대한 기본 텍스트 모드 이해](reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [그룹화에 대한 기본 텍스트 모드 이해](reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [사용자 정의 프롬프트 만들기](reporting/intermediate-reporting/custom-prompts.md)
    + 고급 보고 {#advanced-reporting}
       + [고급 보고 시작](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -573,7 +575,6 @@ ht-degree: 2%
       + [보드에 대한 팀 구성원 추가 및 관리](boards/add-and-manage-team-members-for-a-board.md)
       + [보드에 카드 추가](boards/add-cards-to-a-board.md)
       + [기본 보드 찾기 및 만들기](boards/find-and-create-a-basic-board.md)
-      + [보드에서 찾기 및 검색](boards/find-and-search-in-a-board.md)
       + [보드 열 관리](boards/manage-board-columns.md)
       + [보드에서 카드 관리](boards/manage-cards-on-a-board.md)
 
