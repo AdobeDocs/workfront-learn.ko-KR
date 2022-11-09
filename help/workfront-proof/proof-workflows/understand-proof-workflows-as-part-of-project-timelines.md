@@ -4,12 +4,12 @@ description: 에서 프로젝트 타임라인에 검토 및 승인 프로세스�
 activity: use
 feature: Workfront Proof
 type: Tutorial
+role: User, Admin
+level: Beginner, Intermediate
 team: Technical Marketing
 kt: 8825
-role: User
-level: Beginner
 exl-id: 51cc65eb-2ac8-4de5-88d1-67c1556432ba
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: aec0a3fe340663a37420ff0f25ee7ce53e64260a
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
