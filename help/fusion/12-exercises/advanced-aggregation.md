@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
+exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
+source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
-
 
 # 고급 집계
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. 새 시나리오를 만들고 이름을 &quot;고급 집계&quot;로 지정합니다.
 1. 트리거 모듈을 HTTP - 요청 모듈을 만듭니다.
-1. 스페인어가 사용되는 모든 국가의 목록을 제공하는 이 URL https://restcountries.com/v2/lang/es 을 사용하십시오.
+1. 이 URL을 사용하고, `https://restcountries.com/v2/lang/es`스페인어가 사용되는 모든 국가의 목록을 제공합니다.
 1. 메서드를 Get으로 둡니다.
 1. 응답 구문 분석 확인란을 클릭합니다.
 1. 이 모듈의 이름을 &quot;국가 가져오기&quot;로 바꿉니다.
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    **각 국가에 대한 하위 지역 정보를 수집해야 하므로 추가 HTTP 요청을 수행해야 합니다.**
 
-1. 다른 요청을 추가하여 하위 영역 정보를 가져옵니다. 첫 번째 나라만 돌아온다고 하지만 지금은 괜찮다. 다른 HTTP 추가 요청 모듈을 만들고 URL https://restcountries.com/v2/name/ 을 사용합니다.
+1. 다른 요청을 추가하여 하위 영역 정보를 가져옵니다. 첫 번째 나라만 돌아온다고 하지만 지금은 괜찮다. 다른 HTTP 추가 요청 모듈을 만들고 URL을 사용합니다 `https://restcountries.com/v2/name/{country name}`.
 1. 첫 번째 국가의 이름을 가져오려면 매핑 패널로 이동하고 데이터, 배열에서 이름 을 차례로 클릭합니다. 다음 [1] 데이터 필드에서 는 배열의 첫 번째 항목을 반환함을 의미합니다.
 
    + 숫자를 클릭하고 필요한 경우 인덱스를 변경하지만 이 경우 첫 번째 항목만을 원할 수 있습니다.
