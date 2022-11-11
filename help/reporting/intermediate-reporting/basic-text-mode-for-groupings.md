@@ -9,13 +9,13 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11369
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '193'
 ht-degree: 1%
 
 ---
-
 
 # 그룹화에 대한 기본 텍스트 모드 이해
 
@@ -36,7 +36,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
 
-## 4명의 부모 집단
+## 작업 - 상위 4개 그룹
 
 다음 텍스트 모드는 최대 4가지 상위 수준을 기준으로 작업을 그룹화하고 존재하지 않는 부모를 비워 둡니다.
 
@@ -53,7 +53,7 @@ group.0.valueformat=string
 ![4명의 부모별로 그룹화된 프로젝트 작업을 보여주는 화면 이미지입니다](assets/4-parents-grouping.png)
 
 
-## 전체 그룹화 비율
+## 작업 - 전체 그룹 비율
 
 다음 텍스트 모드는 완료율을 기준으로 작업을 그룹화합니다. 작업은 그룹화할 때 다음 범주 중 하나로 분류됩니다.
 
@@ -74,7 +74,7 @@ textmode=true
 
 ![완료율별로 그룹화된 프로젝트 작업을 보여주는 화면 이미지입니다](assets/percent-complete-grouping.png)
 
-## statusEqualsWith, then status
+## 작업 - statusEqualsWith, then 상태
 
 다음 텍스트 모드에서는 statusEquatesWith를 기준으로 작업을 그룹화한 다음 상태별로 그룹화합니다.
 
@@ -98,4 +98,14 @@ textmode=true
 
 ![statusEquatesWith로 그룹화된 프로젝트 작업을 보여주는 화면 이미지입니다.](assets/status-equates-with.png)
 
+
+## 증명 승인 - 프로젝트 이름별 그룹
+
+```
+group.0.valueformat=HTML
+group.0.valuefield=documentVersion:document:project:name
+group.0.displayname=Project Name
+```
+
+![프로젝트 이름별로 그룹화된 증명 승인을 보여주는 화면 이미지입니다](assets/proof-approvals-grouped-by-project-name.png)
 

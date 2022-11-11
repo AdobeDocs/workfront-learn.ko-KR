@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -87,14 +87,42 @@ EXISTS:1:assignedByID=$$USER.ID
 
 로그인한 사용자가 현재 담당자 중 하나 이상을 할당한 모든 작업을 표시합니다. 여러 사람에 의해 할당자가 지정된 경우 처음 할당받은 사람의 이름만 작업 랜딩 페이지에 &quot;요청자&quot;로 표시됩니다.
 
-## 활동: 텍스트 모드 질문
+### 작업 - 완료 - 승인 보류 중인 모든 작업 표시
 
-1. &quot;ID로 입력됨&quot;이라는 제목의 필드에 대한 낙타사례를 어떻게 쓰실 건가요?
-1. 문제 보고서에서 닫힌 것으로 표시되었지만 승인 보류 중인 문제를 표시하는 필터를 만듭니다.
+```
+status=CPL:A
+status_Mod=in
+```
 
-### 답변
 
-1. &quot;Entered By ID&quot; 필드에 대한 카멜 대소스는 다음과 같이 기록해야 합니다. enteredByID
-1. 텍스트 모드는 문제 보고서 필터의 다음과 같습니다.
+### 문제 - 완료 - 승인 보류 중인 모든 문제를 표시합니다.
 
-   ![텍스트 모드에서 새 필터를 만드는 화면의 이미지입니다](assets/btm-answer.png)
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### 프로젝트 - 완료 - 승인 보류 중인 모든 프로젝트를 표시합니다.
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### 참고 - 태그가 지정된 모든 댓글 표시
+
+```
+tags:userID=$$USER.ID
+tags:userID_Mod=in
+```
+
+
+### 매개 변수/사용자 지정 필드 보고서 - 사용자 지정 양식에 첨부되지 않은 사용자 지정 필드를 표시합니다(정리 작업에서 매우 유용함)
+
+```
+EXISTS:A:$$EXISTSMOD=NOTEXISTS
+EXISTS:A:$$OBJCODE=CTGYPA
+EXISTS:A:parameterID=FIELD:ID
+```
