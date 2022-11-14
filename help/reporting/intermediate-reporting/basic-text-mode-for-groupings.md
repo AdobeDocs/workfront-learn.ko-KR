@@ -10,10 +10,10 @@ level: Intermediate
 team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
-source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
+source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 1%
+source-wordcount: '267'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,12 @@ ht-degree: 1%
 >* 보고 요소 이해
 >* 보고 구성 요소 이해
 >* 기본 그룹 만들기
+
+
+>[!TIP]
+>
+>* 텍스트 모드를 보다 깊이 이해하려면 기록된 웨비나 이벤트를 시청하는 것이 좋습니다 [전문가에게 문의 - 텍스트 모드 보고 소개](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en): 길이 1시간입니다.
+>* 텍스트 모드에 대해 자세히 알아보려면 [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 모두 5시간 30분 길이의 자습서.
 
 
 이 비디오에서는 다음을 학습합니다.

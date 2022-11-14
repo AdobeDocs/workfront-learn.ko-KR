@@ -9,9 +9,10 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11367
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
+source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -26,6 +27,12 @@ ht-degree: 0%
 >* 보고 요소 이해
 >* 보고 구성 요소 이해
 >* 기본 보기 만들기
+
+
+>[!TIP]
+>
+>* 텍스트 모드를 보다 깊이 이해하려면 기록된 웨비나 이벤트를 시청하는 것이 좋습니다 [전문가에게 문의 - 텍스트 모드 보고 소개](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en): 길이 1시간입니다.
+>* 텍스트 모드에 대해 자세히 알아보려면 [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 모두 5시간 30분 길이의 자습서.
 
 
 이 비디오에서는 다음을 학습합니다.
@@ -521,4 +528,3 @@ valueformat=HTML
 ```
 
 ![증명 승인의 프로젝트 및 작업을 보여주는 화면 이미지](assets/proof-approval-project-and-task.png)
-
