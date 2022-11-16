@@ -1,6 +1,6 @@
 ---
 title: 보고서 보내기 및 공유
-description: 이 비디오에서는 사용자, 팀 또는 전자 메일 주소로 보고서를 보내는 방법과 보고서를 의 모든 사람과 공유하는 방법을 배웁니다 [!DNL  Workfront].
+description: 사용자, 팀 또는 이메일 주소로 보고서를 보내는 방법과 Workfront의 모든 사용자와 보고서를 공유하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335158.png
 kt: 8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 1. 설정 **[!UICONTROL 반복]** to [!UICONTROL 주별].
 1. 설정 [!UICONTROL 시간] 오전 5시까지입니다
 1. 설정 [!UICONTROL 반복] 월요일까지입니다.
-1. 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
 >[!NOTE]
 >

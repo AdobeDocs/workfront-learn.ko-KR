@@ -1,6 +1,6 @@
 ---
 title: 매트릭스 보고서 만들기
-description: 이 비디오에서는 매트릭스 보고서가 언제 유용할 수 있는지 그리고 에서 매트릭스 보고서를 만드는 방법을 알아봅니다 [!DNL  Workfront].
+description: 매트릭스 보고서가 유용할 수 있는 시기와 Workfront에서 매트릭스 보고서를 만드는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335156.png
 kt: 8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---

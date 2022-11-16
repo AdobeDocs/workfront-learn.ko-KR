@@ -1,6 +1,8 @@
 ---
 title: 필터에서 OR 구문 만들기
-description: OR 문으로 필터에 이 OR를 표시할 것인지 알려줍니다.
+description: OR 문을 사용하여 보고서에서 이 OR를 보고 싶다고 Workfront에 알리는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: create-or-statements-in-filters.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---

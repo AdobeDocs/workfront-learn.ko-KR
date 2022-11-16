@@ -1,6 +1,6 @@
 ---
-title: KPI 이해
-description: 이 비디오에서는 의 KPI 데이터에서 값을 가져오는 방법을 알아봅니다. [!DNL  Workfront].
+title: 의 KPI 이해 [!UICONTROL Enhanced Analytics]
+description: KPI 데이터에서 현재 발생하는 내용과 과거 트렌드에 대한 가치를 창출하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335046.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# KPI 이해
+# 의 KPI 이해 [!UICONTROL Enhanced Analytics]
 
 이 비디오에서는 다음을 학습합니다.
 

@@ -1,6 +1,6 @@
 ---
-title: 탐색에 대해 자세히 알아보기
-description: 이 비디오에서는 작업자가 의 각 프로젝트에 얼마나 많은 시간을 할애하는지 신속하게 확인하는 방법을 알아봅니다 [!DNL  Workfront].
+title: 에서 탐색에 대해 자세히 알아보기 [!UICONTROL Enhanced Analytics]
+description: Workfront의 각 프로젝트에 작업자가 얼마나 많은 시간을 할애하고 있는지 신속하게 확인하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8733
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# 탐색에 대해 자세히 알아보기
+# 에서 탐색에 대해 자세히 알아보기 [!UICONTROL Enhanced Analytics]
 
 이 비디오에서는 다음을 학습합니다.
 

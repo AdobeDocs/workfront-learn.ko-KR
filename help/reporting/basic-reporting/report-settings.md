@@ -1,6 +1,6 @@
 ---
 title: 보고서 설정 이해
-description: 이 비디오에서는 액세스 방법을 알아봅니다 [!DNL  Workfront] 보고서 설정 및 몇 가지 일반적인 보고서 설정에 대해 설명합니다.
+description: Workfront 보고서 설정에 액세스하는 방법과 몇 가지 일반적인 보고서 설정에 대해 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335159.png
 kt: 8871
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---

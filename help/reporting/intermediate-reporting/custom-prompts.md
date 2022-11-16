@@ -1,6 +1,6 @@
 ---
 title: 사용자 정의 프롬프트 만들기
-description: 사용자 지정 프롬프트 정의, 텍스트 모드를 사용하여 사용자 지정 프롬프트를 만드는 방법 및 보고 시 사용할 수 있는 몇 가지 예를 알아봅니다 [!DNL  Workfront].
+description: 사용자 지정 프롬프트, 텍스트 모드를 사용하여 사용자 지정 프롬프트를 만드는 방법 및 Workfront의 보고에서 사용할 수 있는 몇 가지 예를 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336822.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 2%
 
 ---

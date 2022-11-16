@@ -1,14 +1,16 @@
 ---
 title: 추가 달력 옵션 이해
 description: 달력 그룹을 편집 및 삭제하는 방법과 일정을 공유하는 방법을 알아봅니다.
+activity: use
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
+team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 kt: 10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%
@@ -42,7 +44,7 @@ ht-degree: 0%
 1. 선택 **[!UICONTROL 공유]** 에서 **[!UICONTROL 달력 작업]** 드롭다운 메뉴
 1. 일정을 공유할 사용자, 역할, 팀, 그룹 또는 회사의 이름을 입력합니다.
 1. 사용자가 [!UICONTROL 보기] 또는 [!UICONTROL 관리] 달력 보고서에 대한 액세스 권한.
-1. 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
 캘린더를 공유할 때 주목할 점은 다음과 같습니다.
 

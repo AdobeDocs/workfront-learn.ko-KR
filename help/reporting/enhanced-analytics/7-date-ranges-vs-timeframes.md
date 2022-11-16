@@ -1,6 +1,8 @@
 ---
 title: 날짜 범위 및 시간대 이해
-description: 날짜 범위는 달력 위젯을 사용하여 지정됩니다. 시간 프레임은 차트 내에 만들어집니다.
+description: in [!UICONTROL Enhanced Analytics], 날짜 범위는 달력 위젯을 사용하여 지정됩니다. 시간 프레임은 차트 내에 만들어집니다.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-date-ranges-and-timeframes.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
 
-# 날짜 범위 및 시간대 이해
+# 의 날짜 범위 및 기간을 이해합니다 [!UICONTROL Enhanced Analytics]
 
 를 볼 때 [!DNL Enhanced analytics] 차트, 날짜 범위는 달력 위젯을 사용하여 지정됩니다. 를 클릭하고 드래그하여 특정 영역을 정의할 때 차트 내에 타임프레임이 생성되므로 해당 기간 동안의 정보를 확대하여 보다 자세한 정보를 볼 수 있습니다.
 

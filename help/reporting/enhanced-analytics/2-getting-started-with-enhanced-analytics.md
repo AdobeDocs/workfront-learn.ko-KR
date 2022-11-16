@@ -1,6 +1,8 @@
 ---
 title: 시작하기 [!UICONTROL Enhanced Analytics]
-description: Enhanced Analytics를 최대한 활용하기 위해 업데이트할 가장 중요한 필드를 배웁니다.
+description: Enhanced Analytics에서 Workfront에서 팀 및 프로젝트가 어떻게 진행되는지 보여주기 위해 Workfront에서 업데이트해야 할 가장 중요한 필드를 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: analytics-prerequisites.png
 type: Tutorial
@@ -8,14 +10,16 @@ role: User
 level: Beginner
 kt: 10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 5%
+source-wordcount: '282'
+ht-degree: 4%
 
 ---
 
-# 시작하기 [!UICONTROL Enhanced Analytics]
+# Adobe Workfront 시작 [!UICONTROL Enhanced Analytics]
+
+Enhanced Analytics를 통해 Workfront에서 팀 및 프로젝트가 어떻게 진행되는지 그리고 향후 프로젝트를 계획하는 데 도움이 되도록 이전 프로젝트에서 발생한 사항을 확인할 수 있습니다.
 
 ## Analytics 사전 요구 사항
 

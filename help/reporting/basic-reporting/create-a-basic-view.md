@@ -1,6 +1,6 @@
 ---
 title: 기본 보기 만들기
-description: 이 비디오에서는 보기가 무엇인지, 보기를 만드는 방법, 에서 다른 사용자와 보기를 공유하는 방법을 알아봅니다. [!DNL  Workfront].
+description: 보기의 정의, 보기를 만드는 방법 및 Workfront에서 다른 사용자와 보기를 공유하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,10 +10,10 @@ level: Beginner
 team: Technical Marketing
 kt: 8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 3%
+source-wordcount: '298'
+ht-degree: 4%
 
 ---
 
@@ -54,6 +54,6 @@ ht-degree: 3%
 1. 에서 [!UICONTROL 이 열에 표시] 필드에 &quot;status&quot;를 입력하고 아래의 &quot;Progress Status&quot;를 선택합니다 [!UICONTROL 작업] 필드 소스.
 1. 클릭 **[!UICONTROL 열 추가]** 다시 한 번
 1. 에서 [!UICONTROL 이 열에 표시] 필드에서 &quot;status&quot;를 입력하고 작업 필드 소스 아래에서 &quot;Status Icons&quot;를 선택합니다.
-1. 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
 마우스로 페이지의 [!UICONTROL 상태 아이콘] 열이 표시되는 것을 확인합니다. 회색으로 표시된다면 작업에 메모, 문서, 승인 프로세스 등이 없음을 의미합니다. 아이콘이 색상으로 표시되면 작업과 연결된 항목이 하나 이상 있습니다. 메모 또는 문서 아이콘을 클릭하여 해당 항목으로 이동할 수 있습니다.

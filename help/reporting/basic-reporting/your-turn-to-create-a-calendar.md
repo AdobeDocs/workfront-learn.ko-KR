@@ -1,6 +1,8 @@
 ---
 title: 캘린더 만들기
-description: 이 실습 활동에서 고객 달력을 만드는 방법을 알아봅니다.
+description: 완료되지 않은 작업 및 문제를 보여주는 고객 일정을 만드는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
@@ -8,10 +10,10 @@ level: Beginner
 thumbnail: your-turn-to-create-a-calendar.png
 kt: 10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 0%
+source-wordcount: '378'
+ht-degree: 1%
 
 ---
 

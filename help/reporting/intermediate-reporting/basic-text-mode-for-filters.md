@@ -1,6 +1,6 @@
 ---
 title: 필터에 대한 기본 텍스트 모드 이해
-description: 텍스트 모드, 카멜 표기법 및 의 보고서 필터에서 사용할 수 있는 몇 가지 기본 "플러그 앤 플레이" 텍스트 모드를 알아봅니다 [!DNL  Workfront].
+description: 텍스트 모드, 카멜 표기법 및 Workfront의 보고서 필터에서 사용할 수 있는 몇 가지 기본 "플러그인 및 재생" 텍스트 모드를 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---

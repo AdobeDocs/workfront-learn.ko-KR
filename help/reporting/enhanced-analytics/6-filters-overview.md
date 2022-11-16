@@ -1,6 +1,6 @@
 ---
 title: 필터 이해
-description: 일반적인 프로젝트 필드를 기반으로 필터를 추가하는 방법 및 사용자 지정 양식을 사용하여 필터를 추가하는 방법을 [!DNL  Workfront].
+description: 일반적인 프로젝트 필드를 기반으로 필터를 추가하는 방법 및 사용자 지정 양식을 사용하여 필터를 추가하는 방법을 [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8721
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-# 필터 이해
+# 의 필터 이해 [!UICONTROL Enhanced Analytics]
 
 이 비디오에서는 다음을 학습합니다.
 

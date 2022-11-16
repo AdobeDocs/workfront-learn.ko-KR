@@ -1,6 +1,6 @@
 ---
 title: 차트를 사용하여 보고서 만들기
-description: 이 비디오에서는 차트가 데이터의 시각화를 개선하는 방법과 차트 도구를 사용하는 방법을 알아봅니다 [!DNL  Workfront].
+description: 차트를 통해 데이터의 시각화를 개선하고 Workfront에서 차트 도구를 사용하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335153.png
 kt: 8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---

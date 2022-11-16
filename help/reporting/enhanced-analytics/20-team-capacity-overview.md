@@ -1,6 +1,8 @@
 ---
-title: 팀 용량 이해
-description: 팀 용량 차트는 홈 팀이 초과 할당 또는 초과 할당된 시점을 보여줍니다.
+title: 의 팀 용량 이해 [!UICONTROL Enhanced Analytics]
+description: 팀 용량 차트에서 홈 팀이 초과 할당 또는 초과 할당 받은 시기를 어떻게 표시하는지 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-team-capacity.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# 팀 용량 이해
+# 의 팀 용량 이해 [!UICONTROL Enhanced Analytics]
 
 팀 용량 차트는 홈 팀이 초과 할당 또는 초과 할당된 시점을 보여줍니다. 이 차트는 홈 팀에 지정된 날짜에 할당된 작업의 양을 표시하며 번아웃에 근접하거나 사용자에게 도전하지 않을 때 짙은 파란색을 지정합니다. 보다 가볍고 투명한 색상은 작업 로드가 더 균형 있게 조정되었음을 나타냅니다.
 

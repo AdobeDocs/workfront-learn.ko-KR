@@ -1,6 +1,6 @@
 ---
 title: 추가 [!UICONTROL Analytics] 템플릿 레이아웃 지정
-description: 시스템 및 그룹 관리자가 새 Workfront Experience Platform 및 [!DNL  Workfront] 클래식.
+description: 시스템 및 그룹 관리자가 Analytics에 대한 액세스 권한을 부여하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335045.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8726
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-# 추가 [!UICONTROL Analytics] 템플릿 레이아웃 지정
+# 추가 [!UICONTROL Enhanced Analytics] 템플릿 레이아웃 지정
 
 이 비디오에서는 다음을 학습합니다.
 

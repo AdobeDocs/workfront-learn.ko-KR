@@ -1,6 +1,8 @@
 ---
-title: 계획된 시간 및 기간 보기 이해
+title: 에서 계획된 시간 및 기간 보기 이해 [!UICONTROL Enhanced Analytics]
 description: Burndown 및 Project 트리맵 차트에서 계획 시간 또는 기간별로 정보를 볼 수 있습니다.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-planned-hours-and-duration-views.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# 계획된 시간 및 기간 보기 이해
+# 에서 계획된 시간 및 기간 보기 이해 [!UICONTROL Enhanced Analytics]
 
 Burndown 및 Project 트리맵 차트에서는 Workfront 환경에 대해 더 정확하게 간주되는 내용에 따라 계획된 시간이나 기간별로 정보를 볼 수 있습니다.
 

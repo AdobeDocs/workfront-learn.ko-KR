@@ -1,6 +1,6 @@
 ---
-title: 컨설팅 지침 이해
-description: 이 비디오에서는 조직에서 를 보다 효율적으로 운영할 수 있도록 추천을 하는 방법을 알아봅니다 [!DNL  Workfront].
+title: 의 컨설팅 지침 이해 [!UICONTROL Enhanced Analytics]
+description: 조직에서 Workfront을 보다 효율적으로 운영할 수 있도록 추천하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8723
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# 컨설팅 지침 이해
+# 의 컨설팅 지침 이해 [!UICONTROL Enhanced Analytics]
 
 이 비디오에서는 다음을 학습합니다.
 

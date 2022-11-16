@@ -1,6 +1,6 @@
 ---
 title: 사용자 기반 와일드카드를 사용하여 필터 만들기
-description: 와일드카드를 사용하고 사용자 기반 와일드카드가 있는 필터를 빌드하는 방법을 알아봅니다. [!DNL  Workfront].
+description: 사용자 기반 와일드카드를 사용하는 방법 및 로그인한 사용자를 기반으로 필터를 빌드하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336810.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 날짜 기반 와일드카드를 사용하여 필터 만들기
-description: 날짜 기반 와일드카드를 사용하고 날짜 기반 와일드카드를 사용하는 필터를 만드는 방법 및 시기를 알아봅니다. [!DNL  Workfront].
+description: 날짜 기반 와일드카드를 사용하는 방법 및 시기 및 현재 날짜를 기반으로 필터를 만드는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336812.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---

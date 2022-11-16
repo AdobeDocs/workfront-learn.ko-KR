@@ -1,6 +1,6 @@
 ---
 title: 기본 제공 문제 필터 이해
-description: 기본 제공 문제 필터를 검토하여 빌드 방법을 확인하고 고유한 문제 필터를 만드는 방법을 알아봅니다. [!DNL  Workfront].
+description: 내장된 문제 필터를 검토하여 빌드 방법을 확인하고 Workfront에서 고유한 문제 필터를 만드는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336819.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---

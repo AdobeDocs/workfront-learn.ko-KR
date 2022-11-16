@@ -1,6 +1,6 @@
 ---
 title: 보고 구성 요소 이해
-description: 이 비디오에서는 Workfront 보고 뒤의 주요 구성 요소와 및에서 보고 요소에서 이러한 구성 요소를 사용하는 방법을 알아봅니다 [!DNL  Workfront].
+description: 보고 배후의 주요 구성 요소와 Workfront의 보고 요소에서 이러한 구성 요소를 사용하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335146.jpeg
@@ -10,9 +10,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---

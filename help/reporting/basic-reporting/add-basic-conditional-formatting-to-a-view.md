@@ -1,6 +1,6 @@
 ---
 title: 기본 조건부 서식 추가
-description: 이 비디오에서는 보기에 조건부 서식이 무엇인지, 에서 조건부 서식을 만들고 수정하는 방법을 알아봅니다 [!DNL  Workfront].
+description: 열 규칙을 사용하여 설정한 기준에 따라 보고서나 보기에서 텍스트 색상, 서식 및 배경색을 변경하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -10,14 +10,16 @@ level: Beginner
 team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
 # 보기에 기본 조건부 서식 추가
+
+조건부 서식은 열 규칙을 만들어 수행됩니다. 열 규칙을 사용하면 설정한 기준에 따라 특정 방식으로 열 서식을 지정할 수 있습니다.
 
 이 비디오에서는 다음을 학습합니다.
 

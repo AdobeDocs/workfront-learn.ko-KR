@@ -1,6 +1,6 @@
 ---
 title: 작업 이해 - 마우스를 가져간 후 클릭하고 클릭한 다음 를 클릭합니다.
-description: 차트 위로 마우스를 이동하고, 차트에 일정 표를 만들고, 추가 차트를 표시하는 방법을 모두 사용하여 자세한 정보를 얻는 방법을 알아봅니다. [!DNL  Workfront].
+description: 차트 위로 마우스를 이동하고, 차트에 일정 표를 만들고, 추가 차트를 표시하는 방법을 모두 사용하여 자세한 정보를 얻는 방법을 알아봅니다. [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-# 작업 이해 - 마우스를 가져간 후 클릭하고 클릭한 다음 를 클릭합니다.
+# 의 작업 이해 [!UICONTROL Enhanced Analytics] - 마우스를 가져간 후 클릭하고 클릭한 다음 를 클릭합니다.
 
 이 비디오에서는 다음을 학습합니다.
 

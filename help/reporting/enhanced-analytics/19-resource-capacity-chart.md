@@ -1,6 +1,8 @@
 ---
-title: 자원 능력 차트 이해
-description: 자원 능력 차트는 필터링된 기간 내에 홈 팀에 지정된 계획 시간의 수를 팀의 총 가용 시간과 비교하여 보여줍니다.
+title: 의 리소스 용량 차트 이해 [!UICONTROL Enhanced Analytics]
+description: 리소스 능력 차트가 필터링된 기간 내에 홈 팀에 지정된 계획 시간 수를 팀의 총 가용 시간과 비교하여 어떻게 표시하는지 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-the-resource-capacity-chart.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
-# 자원 능력 차트 이해
+# 의 리소스 용량 차트 이해 [!UICONTROL Enhanced Analytics]
 
 자원 능력 차트는 필터링된 기간 내에 홈 팀에 지정된 계획 시간의 수를 팀의 총 가용 시간과 비교하여 보여줍니다.
 

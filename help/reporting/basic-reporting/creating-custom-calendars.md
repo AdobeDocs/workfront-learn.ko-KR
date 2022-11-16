@@ -1,6 +1,8 @@
 ---
 title: 사용자 지정 달력 만들기
-description: 자신만의 사용자 지정 달력을 만드는 방법을 알아봅니다
+description: 작업 항목 및 개인 시간을 보여주는 자신만의 사용자 지정 달력을 만드는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: create-a-custom-calendar.png
 kt: 10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -48,7 +50,7 @@ ht-degree: 0%
 1. 표시할 경우 [!UICONTROL 실제 날짜] 해당 정보를 사용할 수 있는 경우 메뉴에서 예를 선택합니다. 선택한 날짜 유형을 항상 원하는 경우 아니오를 선택합니다([!UICONTROL 투영됨], [!UICONTROL 계획됨], 또는 [!UICONTROL 사용자 지정])을 클릭하여 표시합니다.
 1. 달력에 표시할 항목 정보 유형을 선택합니다.[!UICONTROL 작업], [!UICONTROL 프로젝트], [!UICONTROL 문제], 또는 [!UICONTROL 해제 시간].
 1. 필터를 설정하여 원하는 정보를 표시합니다.
-1. 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
 ![달력 그룹에 작업 항목을 추가할 화면의 이미지입니다](assets/calendar-2-2.png)
 
@@ -73,6 +75,6 @@ ht-degree: 0%
 1. 실제 날짜를 사용할 수 없는 경우 정보가 표시되는 방식을 무시합니다. 적용되지 않습니다.
 1. 선택 [!UICONTROL 해제 시간] 을 참조하십시오.
 1. 필터의 경우 사용자 ID를 팀 구성원의 이름으로 설정합니다.
-1. 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
 ![일정 그룹에 시간 제한 항목을 추가할 화면의 이미지입니다](assets/calendar-2-3.png)

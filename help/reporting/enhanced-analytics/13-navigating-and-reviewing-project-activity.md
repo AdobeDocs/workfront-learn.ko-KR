@@ -1,6 +1,6 @@
 ---
-title: 프로젝트 활동 탐색 및 검토 이해
-description: 이 비디오에서는 로그인한 사용자, 작업 상태 변경 및 완료된 작업을 기반으로 프로젝트를 비교하는 방법을 알아봅니다. [!DNL  Workfront].
+title: 에서 프로젝트 활동 탐색 및 검토 이해 [!UICONTROL Enhanced Analytics]
+description: 로그인한 사용자, 작업 상태 변경 사항 및 Workfront에서 완료된 작업을 기반으로 프로젝트를 비교하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
-# 프로젝트 활동 탐색 및 검토 이해
+# 에서 프로젝트 활동 탐색 및 검토 이해 [!UICONTROL Enhanced Analytics]
 
 이 비디오에서는 다음을 학습합니다.
 

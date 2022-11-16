@@ -1,6 +1,6 @@
 ---
 title: 대시보드 만들기
-description: 이 비디오에서는 대시보드에 대한 모든 정보를 [!DNL  Workfront].
+description: 다양한 목록 보고서, 차트, 달력 및 외부 웹 페이지를 Workfront의 대시보드에 결합하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335157.png
 kt: 8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---

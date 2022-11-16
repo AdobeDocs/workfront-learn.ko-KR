@@ -1,6 +1,6 @@
 ---
-title: 번다운 액세스 및 검토 이해
-description: Burndown 차트에 액세스하고 나머지 시간, 프로젝트 조건 및 프로젝트 속도 간의 관계를 이해하는 방법을 알아봅니다. [!DNL  Workfront].
+title: 에서 번다운 차트 액세스 및 검토 이해 [!UICONTROL Enhanced Analytics]
+description: Workfront에서 번다운 차트에 액세스하고 남은 시간, 프로젝트 조건 및 프로젝트 속도 간의 관계를 이해하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
-# 번다운 액세스 및 검토 이해
+# 에서 번다운 액세스 및 검토 이해 [!UICONTROL Enhanced Analytics]
 
 이 비디오에서는 다음을 학습합니다.
 

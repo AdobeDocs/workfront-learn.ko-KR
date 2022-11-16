@@ -1,6 +1,6 @@
 ---
-title: 기본 탐색 이해
-description: 이 비디오에서는 로 이동하는 방법을 알아봅니다 [!UICONTROL Analytics] 영역 및 작업 차트와 사용자 차트의 개요를 참조하십시오 [!DNL  Workfront].
+title: 의 기본 탐색 이해 [!UICONTROL Enhanced Analytics]
+description: 로 이동하는 방법 알아보기 [!UICONTROL Analytics] 영역 및 Workfront의 작업 차트와 사람 차트에 대한 개요를 참조하십시오.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335057.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-# 기본 탐색 이해
+# 의 기본 탐색 이해 [!UICONTROL Enhanced Analytics]
 
 로 이동하려면 [!UICONTROL Analytics] 새 Workfront 경험에서 [!UICONTROL 기본 메뉴] 버튼을 클릭합니다.
 

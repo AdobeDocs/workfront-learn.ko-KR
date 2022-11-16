@@ -1,6 +1,6 @@
 ---
 title: 기본 필터 활동 만들기
-description: 이 비디오에서는 활동을 수행하여 Workfront에서 자신만의 필터를 만듭니다.
+description: 이 활동에서는 "Projects I Own This Month Closing"이라는 프로젝트 필터를 만듭니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336807.jpeg
@@ -10,9 +10,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---

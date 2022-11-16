@@ -1,6 +1,6 @@
 ---
-title: 프로젝트 탐색 및 검토 이해
-description: 이 비디오에서는 의 비행 계획 차트를 읽는 방법을 알아봅니다. [!DNL  Workfront].
+title: 에서 프로젝트 탐색 및 검토 이해 [!UICONTROL Enhanced Analytics]
+description: Workfront에서 비행 계획 차트를 읽는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
 
-# 프로젝트 탐색 및 검토 이해
+# 에서 프로젝트 탐색 및 검토 이해 [!UICONTROL Enhanced Analytics]
 
 이 비디오에서는 다음을 학습합니다.
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 ## 조건은 진행 상태를 기반으로 합니다
 
-프로젝트 조건은 프로젝트가 진행되는 방식을 시각적으로 보여줍니다. Workfront은 프로젝트 내의 작업 진행 상태를 기반으로 조건을 결정합니다.
+프로젝트 조건은 프로젝트 진행 방식을 시각적으로 보여줍니다. Workfront은 프로젝트 내의 작업 진행 상태를 기반으로 조건을 결정합니다.
 
 ![가능한 진행 상태 이미지](assets/section-2-2.png)
 

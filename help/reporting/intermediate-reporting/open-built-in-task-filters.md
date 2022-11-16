@@ -1,6 +1,6 @@
 ---
 title: 기본 제공 작업 필터 이해
-description: 기본 제공 작업 필터를 검토하여 빌드 방법을 확인하고 고유한 작업 필터를 만드는 방법을 알아봅니다. [!DNL  Workfront].
+description: 내장된 작업 필터를 검토하여 작성 방법을 확인하고 Workfront에서 고유한 작업 필터를 만드는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336818.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
