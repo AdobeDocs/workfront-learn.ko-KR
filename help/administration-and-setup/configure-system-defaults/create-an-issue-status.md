@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 kt: 10019
 exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 5fe0cbb9797ceaac0c402d912be6ed6665ac48ae
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
@@ -25,11 +25,11 @@ ht-degree: 0%
 1. 선택 **[!UICONTROL 상태]**.
 1. 을(를) 선택합니다 **[!UICONTROL 문제]** 탭.
 1. 오른쪽 위의 필드가 로 설정되어 있는지 확인합니다. [!UICONTROL 시스템 상태]. 이렇게 하면 새 상태가 [!DNL Workfront] 인스턴스.
-1. 선택 **[!UICONTROL 기본 목록 ]**모든 문제 상태를 보려면 여기에서 상태를 만들거나 수정합니다.
+1. 선택 **[!UICONTROL 기본 목록]** 모든 문제 상태를 보려면 여기에서 상태를 만들거나 수정합니다.
 1. 클릭 **[!UICONTROL 새 상태 추가]**.
 1. 조직에 필요한 필드를 작성합니다. 이름, 설명, 색상, 등호, 키 등
 1. 이 상태에서 사용할 수 있는 문제 유형에 대한 확인란을 선택합니다.
-1. 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
 ![새 상태 창 설정 [!UICONTROL 상태] 페이지](assets/admin-fund-create-issue-status.png)
 
