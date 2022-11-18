@@ -1,16 +1,18 @@
 ---
 title: Workfront에서 로 파일 보내기 [!UICONTROL Workfront DAM]
 description: 에서 완료된 파일을 전송하는 방법을 알아봅니다. [!DNL Workfront] to [!UICONTROL Workfront DAM].
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
 kt: 10108
 exl-id: 13e24ccc-4d29-4c3a-8340-5fcdbfe4f859
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,7 +31,7 @@ ht-degree: 0%
 
    ![에 액세스할 수 있는 폴더가 표시되는 창의 이미지입니다 [!UICONTROL Workfront DAM]](assets/05-workfront-dam-folders.png)
 
-1. 클릭 **[!UICONTROL 저장]**.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 1. 다음 [!UICONTROL 문서] 페이지가 다시 로드되고 이제 [!UICONTROL Workfront DAM] 파일 이름 옆에 아이콘이 표시됩니다. 즉, 파일이 [!UICONTROL DAM].
 
    ![의 이미지 [!UICONTROL Workfront DAM] 파일 이름 옆에 표시되는 아이콘](assets/06-dam-logo.png)

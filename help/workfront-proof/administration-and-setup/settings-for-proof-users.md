@@ -1,5 +1,5 @@
 ---
-title: 교정을 위한 사용자 설정 방법
+title: 언어 교정 사용자를 위한 설정
 description: 결정하는 방법 알아보기 [!DNL  Workfront] 사용자에게 교정 라이센스가 부여되고 두 가지 모두에서 사용자 설정을 조정합니다 [!DNL Workfront] 및 백엔드 설정을 지정합니다.
 activity: use
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335126.png
 kt: 8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---

@@ -1,14 +1,17 @@
 ---
-title: 앱 및 모듈에 익숙해지십시오
+title: 추가 앱 및 일반 모듈에 익숙해지십시오
 description: 트리거, 작업 및 검색이 무엇인지, 그리고 서로 다른 App Connectors에서 발견되는 모듈 유형이 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: e078a9e9-69c8-40a1-9ad1-e9517acf3ee6
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

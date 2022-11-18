@@ -1,6 +1,8 @@
 ---
 title: 성능 지표 이해
-description: 성능 지표는 다음과 같습니다 [!UICONTROL 성능 인덱스 메서드] ([!UICONTROL PIM]) 및 [!UICONTROL 완료 시 예상] ([!UICONTROL EAC]).
+description: 성능 지표를 사용하는 방법 알아보기 - [!UICONTROL 성능 인덱스 메서드] ([!UICONTROL PIM]) 및 [!UICONTROL 완료 시 예상] ([!UICONTROL EAC]).
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-performance-metrics.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---

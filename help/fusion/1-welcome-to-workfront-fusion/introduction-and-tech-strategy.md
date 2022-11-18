@@ -1,14 +1,17 @@
 ---
 title: 소개 및 기술 전략
-description: 이 비디오에서는 의 강력한 기능과 유연성을 [!DNL Adobe Workfront Fusion], Fusion 코어 및 디자이너 기능 및 Fusion 예제 시나리오와 동일합니다.
+description: 의 힘과 유연성에 대해 알아보기 [!DNL Adobe Workfront Fusion], Fusion 코어 및 디자이너 기능 및 Fusion 예제 시나리오와 동일합니다.
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---

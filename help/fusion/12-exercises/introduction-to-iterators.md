@@ -1,18 +1,21 @@
 ---
 title: 반복기 소개
 description: 반복 방식의 앱을 사용하고 각 정보 번들에 대해 작업을 수행하는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11046
 thumbnail: KT11046.png
-source-git-commit: f367e016498d5c1814cab79e19e6e9001db2851f
+exl-id: 8d751885-372a-4716-9542-079cc3d36caf
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
 
 ---
-
 
 # 반복기 소개
 

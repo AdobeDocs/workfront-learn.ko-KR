@@ -1,6 +1,8 @@
 ---
 title: 승인 완료
 description: 에서 프로젝트를 닫을 수 있도록 불완전한 승인을 식별하고 해결하는 방법을 알아봅니다 [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: complete-approvals.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%

@@ -1,6 +1,8 @@
 ---
 title: 템플릿에서 직접 프로젝트 만들기
 description: 이미 만든 템플릿으로 시작하여 프로젝트를 만드는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%

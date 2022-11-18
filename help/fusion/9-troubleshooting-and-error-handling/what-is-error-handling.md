@@ -2,11 +2,14 @@
 title: 오류 처리란 무엇입니까?
 description: 몇 가지 일반적인 오류 유형과 시스템에서 기본적으로 이러한 오류를 처리하는 방법을 배웁니다. 그런 다음 사용자 지정 오류 처리를 적용하는 방법을 배웁니다 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 843acdb1-192a-4124-b91c-128ee6a1353d
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%

@@ -1,16 +1,18 @@
 ---
 title: 목표를 다른 목표에 정렬하여 활성화
 description: 에서 목표를 활성화하는 방법을 알아봅니다. [!DNL Workfront Goals] 이것을 다른 목표에 맞춰 정렬함으로써.
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
@@ -25,6 +27,6 @@ ht-degree: 0%
 
    ![의 스크린샷 [!UICONTROL 목표 세부 사항] 패널을 보여 주는 패널 [!UICONTROL 정렬 기준] 섹션](assets/07-workfront-goals-align-to.png)
 
-1. 클릭 [!UICONTROL 저장].
+1. [!UICONTROL 저장]을 클릭합니다.
 
 목표를 다른 목표에 정렬하면 하위 목표가 만들어집니다. 하위 목표를 조직 또는 팀의 상위 목표에 기여하는 개별 목표로서 생각하십시오. 하위 목표는 상위 목표의 진행 상황을 활성화하고 영향을 줄 수 있습니다.

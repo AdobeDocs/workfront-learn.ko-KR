@@ -1,18 +1,21 @@
 ---
 title: 라우터
 description: 라우터의 중요성과 이 라우터를 사용하여 서로 다른 모듈을 조건부로 처리하는 방법을 이해합니다.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11043
 thumbnail: KT11043.png
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
-
 
 # 라우터
 
@@ -55,8 +58,8 @@ ht-degree: 0%
    >
    >자신의 슈퍼히어로 토큰에 액세스하는 데 문제가 있으면 다음 공유 토큰을 사용할 수 있습니다. 10110256647253588. 이 공유 토큰이 모든 사람에게 계속 작동할 수 있도록 슈퍼 히어로 API를 몇 번 호출하는지 주의하십시오.
 
-1. Get superhero appearance 설정을 열고 URL을 https://www.superheroapi.com/api/으로 변경합니다.[액세스 토큰]/332/appearance 액세스 토큰을 URL에 포함해야 합니다. 확인 을 클릭합니다.
-1. Get Superhero 기능에 대한 설정을 열고 URL을 https://www.superheroapi.com/api/으로 변경합니다.[액세스 토큰]/332/powerstats. 액세스 토큰을 URL에 포함해야 합니다. 확인 을 클릭합니다.
+1. Get the settings for the Superhero appearance and change the URL to(슈퍼히어로 모양 가져오기 설정을 열고 URL을 다음으로 변경합니다.) `https://www.superheroapi.com/api/[access- token]/332/appearance`. 액세스 토큰을 URL에 포함해야 합니다. 확인 을 클릭합니다.
+1. 슈퍼히어로 기능 가져오기 설정을 열고 URL을 다음으로 변경합니다. `https://www.superheroapi.com/api/[access- token]/332/powerstats`. 액세스 토큰을 URL에 포함해야 합니다. 확인 을 클릭합니다.
 1. 각 수퍼 히어로 모듈을 마우스 오른쪽 단추로 클릭하고 이 모듈만 실행을 선택합니다. 이렇게 하면 매핑에 필요한 데이터 구조가 생성됩니다.
 1. 둘 다 실행한 후 각 URL 필드의 숫자 &quot;332&quot;를 구문 분석 CSV 모듈에서 매핑된 열 4로 변경합니다.
 

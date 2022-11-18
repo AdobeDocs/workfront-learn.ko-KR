@@ -1,14 +1,17 @@
 ---
 title: 초기 시나리오 디자인 연습
-description: 이 비디오에서는 폴더 및 새 시나리오를 만들고 시나리오 디자이너를 사용하고 기본 시나리오를 만드는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
+description: 에서 폴더 및 새 시나리오를 만들고 시나리오 디자이너를 사용하고 기본 시나리오를 만드는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---

@@ -2,11 +2,14 @@
 title: JSON 작업 연습
 description: 에서 디자인 요구 사항을 지원하기 위해 시나리오 내에서 JSON을 만들고 구문 분석하는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%

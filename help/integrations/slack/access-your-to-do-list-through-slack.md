@@ -1,5 +1,5 @@
 ---
-title: Slack을 통해 할 일 목록에 액세스합니다
+title: 할 일 목록에 액세스 [!DNL Slack]
 description: 에서 할 일 목록에 액세스하는 방법을 알아봅니다. [!DNL Workfront]
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8818
 exl-id: ef55731b-3da3-4c9a-a93a-5dc1ced7f53d
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
 
-# Slack을 통해 할 일 목록에 액세스합니다
+# 할 일 목록에 액세스 [!DNL Slack]
 
 이 비디오에서는 다음 방법을 배웁니다.
 

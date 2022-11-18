@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '2218'
+source-wordcount: '2219'
 ht-degree: 2%
 
 ---
@@ -342,7 +342,7 @@ ht-degree: 2%
       + [을 통해 승인 만들기 [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
       + [Workfront 검색 [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [Workfront 이해 대상 [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
-      + [최근 작업 보기 [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+      + [을 통해 최근 작업 보기 [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
 
 
 
@@ -451,7 +451,7 @@ ht-degree: 2%
 
 
 
-+ Workfront 증명 {#workfront-proof}
++ Workfront Proof {#workfront-proof}
    + [언어 교정의 이점 알아보기](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [문서와 증명 간의 차이점 이해](workfront-proof/document-vs-proof.md)
    + [언어 교정 뷰어 설명](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -460,7 +460,7 @@ ht-degree: 2%
    + 관리 및 설정 {#administration-and-setup-for-proof}
       + [증명 주석 작업 사용자 지정](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [증명 결정 옵션 사용자 지정](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-      + [이메일 경고와 증명 알림 비교](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+      + [이메일 경고 및 증명 알림 이해](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
       + [증명 역할 및 이메일 경고](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [증명 보고](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [위험 증명 설정에서 기본값 설정](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
@@ -599,7 +599,7 @@ ht-degree: 2%
    + [샌드박스 미리 보기](best-practices/preview-sandbox-bp.md)
    + [프로젝트, 작업 및 문제 환경 설정](best-practices/project-task-issue-preferences-bp.md)
    + [프로젝트 템플릿](best-practices/project-templates-bp.md)
-   + [Workfront 증명](best-practices/proofing-bp.md)
+   + [Workfront Proof](best-practices/proofing-bp.md)
    + [요청 큐](best-practices/request-queues-bp.md)
    + [리소스 플래너](best-practices/resource-planner-bp.md)
    + [리소스 풀](best-practices/resource-pools-bp.md)

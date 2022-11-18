@@ -1,6 +1,8 @@
 ---
-title: 증명 역할 및 이메일 경고 시작
+title: 증명 역할 및 이메일 경고
 description: 증명 수신자에게서 증명 및 가시성에 액세스할 수 있도록 적절한 증명 역할과 이메일 경고를 활성화하는 방법을 알아봅니다. [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
 kt: 10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---

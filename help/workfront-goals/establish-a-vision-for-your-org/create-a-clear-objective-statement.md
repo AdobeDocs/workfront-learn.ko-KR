@@ -1,5 +1,5 @@
 ---
-title: 목표 또는 종료 목표 정의 및 표현
+title: 목표 또는 종료 목표를 정의하고 표현합니다
 description: 명확한 목표 설명 또는 Commander's Intent를 작성하고 강력한 엔터프라이즈 또는 조직 목표를 작성하는 방법을 알아봅니다.
 activity: use
 feature: Workfront Goals
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 0%

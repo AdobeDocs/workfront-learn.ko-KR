@@ -1,5 +1,5 @@
 ---
-title: 이메일 경고 및 증명 알림 설명
+title: 이메일 경고 및 증명 알림 이해
 description: 에서 이메일 경고와 증명 알림의 차이를 이해합니다 [!DNL  Workfront].
 feature: Workfront Proof
 type: Tutorial
@@ -8,14 +8,14 @@ level: Beginner
 thumbnail: email-alert-vs-proof-notifications.png
 kt: 10174
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-# 이메일 경고와 증명 알림 비교
+# 이메일 경고 및 증명 알림 이해
 
 이메일 경고는 증명 알림 이메일과 다릅니다. 새로운 검토용 증명을 지정받거나, 증명이 늦게 있거나, 증명을 볼 수 있는 새로운 버전이 있을 때 증명 알림 이메일을 받게 됩니다.
 

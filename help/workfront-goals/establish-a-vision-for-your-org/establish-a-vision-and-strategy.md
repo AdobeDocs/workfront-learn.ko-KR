@@ -1,5 +1,5 @@
 ---
-title: 비전 및 전략 수립 방법
+title: 비전과 전략 수립
 description: 계획 단계, 예제 목표 및 영향의 범위 동안 "what" 및 "why"를 소개하는 방법에 대해 알아봅니다.
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---

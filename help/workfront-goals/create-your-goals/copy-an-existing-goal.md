@@ -1,13 +1,15 @@
 ---
 title: 기존 목표 복사
 description: 에서 기존 목표를 복사하는 방법을 알아봅니다. [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10121
 exl-id: bf9ac10a-8419-458b-b4e8-bedb0ad3b98f
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '525'
 ht-degree: 0%
@@ -44,7 +46,7 @@ Pro-tips graphic
 
 1. 을(를) 확인합니다. **[!UICONTROL 결과 복사]** 상자에 원래 목표에 결과가 추가되고 새 목표에 복사하려는 경우 상자를 선택합니다. 복사된 목표의 결과에는 원래 목표의 결과와 동일한 소유자, 이름 및 측정값이 있습니다.
 
-1. 클릭 **[!UICONTROL 저장]**. 복사된 목표가 초안 상태로 저장됩니다.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다. 복사된 목표가 초안 상태로 저장됩니다.
 
    ![의 이미지 [!UICONTROL 목표 세부 사항] 패널 [!DNL Workfront Goals] 사용 [!UICONTROL 복사] 옵션](assets/03-workfront-goals-copy-a-goal.png)
 

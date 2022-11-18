@@ -1,6 +1,8 @@
 ---
 title: 전체 프로젝트 진행 상태 추적
 description: 프로젝트 헤더에 표시된 정보를 통해 전체 프로젝트 진행 상황과 상태를 추적하는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%

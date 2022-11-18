@@ -1,5 +1,5 @@
 ---
-title: 에서 질적 업데이트 만들기 [!DNL Workfront Goals]
+title: 에서 질적 업데이트 [!DNL Workfront Goals]
 description: '[!DNL 목표]에서 정성 또는 서면으로 업데이트하는 방법을 알아봅니다.'
 activity: use
 feature: Workfront Goals
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8925
 exl-id: 92d40d56-0a25-488b-9308-64ddfe545baa
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%

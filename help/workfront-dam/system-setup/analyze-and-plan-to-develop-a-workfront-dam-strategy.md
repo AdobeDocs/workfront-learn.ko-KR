@@ -1,13 +1,15 @@
 ---
 title: 개발 [!UICONTROL Workfront DAM] 전략
 description: 을(를) 분석하고 개발할 계획을 수립하는 방법을 알아봅니다. [!UICONTROL Workfront DAM] 전략.
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
 kt: 10086
 exl-id: f2132b79-5d36-4f5a-b06b-9cefa3d2ff7f
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%

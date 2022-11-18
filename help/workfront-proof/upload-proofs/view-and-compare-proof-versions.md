@@ -1,5 +1,5 @@
 ---
-title: 증명 버전을 보고 비교하는 방법
+title: 증명 버전 보기 및 비교
 description: 에서 증명 버전을 열고, 식별하고, 마크업을 추가하고, 주석을 작성하고, 비교하는 방법을 알아봅니다 [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335142.png
 kt: 8845
 exl-id: 8ade7208-4a39-4471-845f-5290fe27b66b
-source-git-commit: baaf95f88239faaa05771409d7f2376193b9c518
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---

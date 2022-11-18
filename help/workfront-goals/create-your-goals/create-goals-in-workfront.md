@@ -1,5 +1,5 @@
 ---
-title: Workfront에서 목표 만들기
+title: 에서 목표 만들기 [!DNL Workfront Goals]
 description: 에서 목표를 만드는 방법을 알아봅니다 [!DNL Workfront Goals] 세 가지 다른 옵션 사용.
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 10122
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
 
-# Workfront에서 목표 만들기
+# 에서 목표 만들기 [!DNL Workfront Goals]
 
 in [!DNL Workfront Goals], 경영진 및 기업 리더십 팀은 각 수준에서 개별 조직 전체의 진행 상황을 볼 수 있습니다. [!DNL Workfront Goals] 는 가장 높은 우선 순위를 향상시키고, 위험에 처한 목표를 파악하며, 실시간으로 문제를 진단하고, 사전 예방적으로 올바른 과정을 파악할 수 있는 주요 실행 가능한 통찰력을 얻을 수 있는 가시성을 제공합니다.
 
@@ -65,7 +65,7 @@ in [!DNL Workfront Goals], 경영진 및 기업 리더십 팀은 각 수준에�
 
 1. 을(를) 확인합니다. **[!UICONTROL 결과 복사]** 상자에 원래 목표에 결과가 추가되고 새 목표에 복사하려는 경우 상자를 선택합니다. 복사된 목표의 결과에는 원래 목표의 결과와 동일한 소유자, 이름 및 측정값이 있습니다.
 
-1. 클릭 **[!UICONTROL 저장]**. 복사된 목표가 초안 상태로 저장됩니다.
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다. 복사된 목표가 초안 상태로 저장됩니다.
 
    ![의 이미지 [!UICONTROL 목표 세부 사항] 패널 [!DNL Workfront Goals] 사용 [!UICONTROL 복사] 옵션](assets/03-workfront-goals-copy-a-goal.png)
 

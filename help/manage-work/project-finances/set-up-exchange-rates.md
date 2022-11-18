@@ -1,6 +1,8 @@
 ---
 title: 환율 설정
-description: 환율은 프로젝트 및 보고서에서 세계 각국의 통화별로 재무 정보를 반영하기 위해 사용할 수 있습니다.
+description: 프로젝트 및 보고서에서 환율을 사용하여 전 세계의 다양한 통화로 재무 정보를 반영하는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-exchange-rates.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---

@@ -1,14 +1,17 @@
 ---
 title: 필터 연습
-description: 이 비디오에서는 의 모듈에 있는 두 모듈 사이에 필터를 추가하는 방법을 알아봅니다 [!DNL Adobe Workfront Fusion].
+description: 의 모듈에 있는 두 모듈 사이에 필터를 추가하는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -36,6 +39,10 @@ Workfront에서는 자체 환경에서 연습을 다시 시도하기 전에 연�
 >이 연습을 완료하는 방법에 대한 단계별 지침은 [필터 연습](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) 운동.
 
 ## 네 차례야
+
+>[!NOTE]
+>
+>연습 연습은 선택 사항이며 Fusion 교육을 완료하는 데 필요하지 않습니다.
 
 이 연습 연습은 연습에서 학습한 내용을 기반으로 만들어지지만 솔루션은 제공되지 않습니다.
 

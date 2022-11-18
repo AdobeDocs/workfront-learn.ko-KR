@@ -2,11 +2,14 @@
 title: 데이터 구조 연습
 description: 한 파일에서 시간 로그 정보를 가져와서 변형한 데이터로 새 파일을 만드는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

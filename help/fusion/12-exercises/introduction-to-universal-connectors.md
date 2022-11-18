@@ -1,18 +1,21 @@
 ---
 title: 범용 커넥터 소개
 description: REST 범용 커넥터 작업 및 반환된 데이터 작업에 대한 이해를 확장합니다.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11042
 thumbnail: KT11042.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
-
 
 # 범용 커넥터 소개
 
@@ -50,7 +53,7 @@ REST 범용 커넥터 작업 및 반환된 데이터 작업에 대한 이해를 
    **범용 커넥터를 사용하여 Pokemon 데이터를 가져옵니다.**
 
 1. HTTP Make a Request 모듈을 추가합니다.
-1. URL 필드에서 https://pokeapi.co/api/v2/pokemon/ 을 사용합니다.[문자], 위치 [문자] 는 CSV 구문 분석 모듈에서 열 3에 매핑됩니다.
+1. URL 필드에서 `https://pokeapi.co/api/v2/pokemon/[Character]`, 위치 [문자] 는 CSV 구문 분석 모듈에서 열 3에 매핑됩니다.
 1. 구문 분석 응답 확인란을 선택합니다.
 1. 고급 설정 표시를 선택한 다음 &quot;모든 상태를 오류로 평가&quot; 옆에 있는 상자를 선택합니다.
 1. 확인 을 클릭하고 &quot;Get Pokemon info&quot; 모듈의 이름을 변경합니다.

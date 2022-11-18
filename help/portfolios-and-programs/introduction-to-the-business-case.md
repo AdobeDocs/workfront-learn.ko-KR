@@ -1,13 +1,15 @@
 ---
 title: 사용 방법 [!UICONTROL 비즈니스 사례] in [!DNL  Workfront]
 description: 사용 방법 알아보기 [!UICONTROL 비즈니스 사례] in [!DNL  Workfront] 그래서 여러분이 프로젝트에 필요한 정보를 얻어서 현명한 결정을 내릴 수 있도록 말입니다.
+activity: use
+team: Technical Marketing
 feature: Strategic Planning
 thumbnail: introduction-to-the-business-case.png
 type: Tutorial
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: 3398b789630fa67b8a592c82f6fcf0b6d87e4ead
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%

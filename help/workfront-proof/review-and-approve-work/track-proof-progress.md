@@ -1,6 +1,8 @@
 ---
-title: 증명 진행 상태를 추적하는 방법
+title: 증명 진행 추적
 description: 사용 방법 알아보기 [!UICONTROL SOCD] 증명의 진행 상황을 추적할 지표, 증명 진행률 및 보고서 [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: track-proof-progress.png
 kt: 10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '674'
 ht-degree: 1%
 
 ---

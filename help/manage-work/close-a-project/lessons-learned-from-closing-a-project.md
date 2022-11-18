@@ -1,6 +1,8 @@
 ---
 title: 학습한 내용 기록
 description: '"학습" 작업을 포함하여 무엇이 잘 진행되었는지, 다음 번에 무엇이 개선될 수 있는지 파악하는 방법을 알아봅니다.'
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: lessons-learned-from-closing-a-project.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
-source-git-commit: a64b29632b502af42d366ce543e5a71e9901e99c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%

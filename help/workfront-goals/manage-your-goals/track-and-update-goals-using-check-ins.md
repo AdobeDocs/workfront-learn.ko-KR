@@ -1,13 +1,15 @@
 ---
 title: 체크인을 사용하여 목표 추적 및 업데이트
 description: 에서 목표에 대한 진행 상황을 추적, 업데이트 및 계산하는 방법을 알아봅니다. [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10126
 exl-id: acb6670a-486a-4d88-b422-57ed21833f76
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%

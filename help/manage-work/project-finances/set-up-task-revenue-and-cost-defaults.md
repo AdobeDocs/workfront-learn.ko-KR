@@ -1,6 +1,8 @@
 ---
 title: 태스크 수익 및 원가 기본값 설정
-description: 수익 유형 및 원가 유형은 태스크에 대한 계획 및 실제 재무 정보를 계산하는 데 사용됩니다.
+description: 태스크에 대한 계획 및 실제 재무 정보를 계산하는 데 수익 유형 및 원가 유형을 사용하는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-task-revenue-and-cost-defaults.png
 type: Tutorial
@@ -8,10 +10,10 @@ role: User
 level: Intermediate
 kt: 10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 9%
+source-wordcount: '202'
+ht-degree: 8%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 증명 워크플로우를 편집하는 방법
+title: 증명 워크플로우 편집
 description: 증명 마감일을 업데이트하고, 기존 워크플로우에 사용자를 추가하고, 에서 기존 워크플로우를 자동화된 워크플로우로 전환하는 방법을 알아봅니다 [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335138.png
 kt: 8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---

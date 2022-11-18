@@ -1,13 +1,15 @@
 ---
 title: 에서 목표 활성화 [!DNL Workfront Goals]
 description: 에서 목표를 활성화하는 방법을 알아봅니다 [!DNL Workfront Goals] 만들면 됩니다.
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%

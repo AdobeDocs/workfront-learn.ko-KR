@@ -2,13 +2,16 @@
 title: Webhooks 연습
 description: 웹 후크를 사용하여 앱을 만들어 고객이 알코올 구입하기에 충분한지 여부를 확인하는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -46,6 +49,10 @@ Workfront에서는 자체 환경에서 연습을 다시 시도하기 전에 연�
 ![스위치 모듈을 사용한 이미지](assets/beyond-basic-modules-6.png)
 
 ## 네 차례야
+
+>[!NOTE]
+>
+>연습 연습은 선택 사항이며 Fusion 교육을 완료하는 데 필요하지 않습니다.
 
 이 연습 연습은 연습에서 학습한 내용을 기반으로 만들어지지만 솔루션은 제공되지 않습니다.
 

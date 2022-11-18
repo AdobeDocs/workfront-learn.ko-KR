@@ -2,18 +2,21 @@
 title: 범용 커넥터 소개 연습
 description: HTTP 커넥터를 통해 Poke API를 호출하여 Pokemon 캐릭터에 대한 정보를 수집하고 게시하는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Universal Connectors 연습
+# 범용 커넥터 소개 연습
 
 ## 개요
 
@@ -29,9 +32,9 @@ Workfront에서는 자체 환경에서 연습을 다시 시도하기 전에 연�
 
 ### 연습 URL
 
-Pokemon API 웹 사이트: https://pokeapi.co/
+Pokemon API 웹 사이트: `https://pokeapi.co/`
 
-연습용 URL: https://pokeapi.co/api/v2/pokemon/{Character}
+연습용 URL: `https://pokeapi.co/api/v2/pokemon/{Character}`
 
 >[!TIP]
 >

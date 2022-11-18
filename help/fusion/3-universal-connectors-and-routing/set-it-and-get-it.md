@@ -1,14 +1,17 @@
 ---
 title: 설정 및 가져오기
-description: 이 비디오에서는 여러 경로 간에 데이터를 공유하고, 설정 및 변수 가져오기 를 사용하는 방법을 모두 알아봅니다. [!DNL Adobe Workfront Fusion].
+description: 다양한 경로 간에 데이터를 공유하고, Set and Get 변수를 사용하는 방법을 모두 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9016
 exl-id: 18781714-af56-4bde-84c5-bf445186e43a
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---

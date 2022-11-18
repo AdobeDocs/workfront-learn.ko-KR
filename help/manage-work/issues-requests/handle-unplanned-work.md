@@ -1,6 +1,8 @@
 ---
 title: 계획되지 않은 작업 처리
 description: 을 사용하여 조직에서 계획하지 않은 작업을 처리하는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: handle-unplanned-work.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 0%

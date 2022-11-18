@@ -2,13 +2,16 @@
 title: 라우터 연습
 description: 라우터를 사용하여 Pokemon과 슈퍼히어로들 번들을 의 올바른 경로로 전달하는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -29,9 +32,9 @@ Workfront에서는 자체 환경에서 연습을 다시 시도하기 전에 연�
 
 ## 연습 URL
 
-* 슈퍼히어로 API 웹 사이트: https://www.superheroapi.com/
-* 연습의 첫 번째 URL: https://www.superheroapi.com/api/{access-token}/{character-id}/appearance
-* 연습용 두 번째 URL: https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats
+* 슈퍼히어로 API 웹 사이트: `https://www.superheroapi.com/`
+* 연습의 첫 번째 URL: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* 연습용 두 번째 URL: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 자신의 슈퍼히어로 토큰에 액세스하는 데 문제가 있으면 다음 공유 토큰을 사용할 수 있습니다. 10110256647253588. 이 공유 토큰이 모든 사람에게 계속 작동할 수 있도록 슈퍼 히어로 API를 몇 번 호출하는지 주의하십시오.
 
@@ -86,6 +89,10 @@ Workfront Fusion Universal Connectors에 대해 자세히 알아보고 Experienc
 Experience League에서 사전 빌드된 앱 커넥터의 전체 목록을 확인할 수 있습니다. Workfront Fusion 제품 팀에 새로운 앱 커넥터를 제안하려면 Innovation Lab에 아이디어를 제출하십시오. 아직 제출하지 않았다면 Innovation Lab에 대해 자세히 알아보고 아이디어를 투표할 수 있으며 1년에 2회 리더보드 우선 순위에 참여할 수 있습니다. 이미 Innovation Lab에 액세스할 수 있는 경우에는 로그인한 다음 아이디어를 제출하십시오.
 
 ## 네 차례야
+
+>[!NOTE]
+>
+>연습 연습은 선택 사항이며 Fusion 교육을 완료하는 데 필요하지 않습니다.
 
 이 연습 연습은 연습에서 학습한 내용을 기반으로 만들어지지만 솔루션은 제공되지 않습니다.
 

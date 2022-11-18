@@ -1,6 +1,6 @@
 ---
 title: 증명 결정 옵션 사용자 지정
-description: 증명 결정 을 학습합니다. 그런 다음 증명 결정 옵션의 이름을 변경하고 교정 시스템 설정에서 불필요한 옵션을 숨깁니다.
+description: 증명 결정을 배웁니다. 그런 다음 증명 결정 옵션의 이름을 변경하고 교정 시스템 설정에서 불필요한 옵션을 숨깁니다.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: 335127.png
 kt: 8827
 exl-id: 947a67cd-e9bd-472a-af40-33ec93cd65a9
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%

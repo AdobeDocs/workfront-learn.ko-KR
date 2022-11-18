@@ -1,18 +1,21 @@
 ---
 title: 초기 시나리오 디자인
 description: 첫 번째 시나리오를 빌드하고 Workfront Fusion에 처음 로그인할 때 사용할 몇 가지 기본 탐색 팁을 알아봅니다.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11038
 thumbnail: KT11038.png
-source-git-commit: c348222464180e994e7b414d1b84e07f58b6b2ae
+exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 0%
 
 ---
-
 
 # 초기 시나리오 디자인
 

@@ -2,11 +2,14 @@
 title: 테스트 및 실행
 description: 디자인 및 테스트를 통해 일관되게 반복하고 사용 시 세부 정보와 공유 가능한 설명서를 만드는 방법을 알아봅니다 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%

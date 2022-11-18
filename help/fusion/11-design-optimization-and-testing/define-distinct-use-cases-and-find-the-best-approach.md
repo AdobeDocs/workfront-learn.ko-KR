@@ -1,14 +1,17 @@
 ---
-title: 사용 사례 정의 및 최상의 방법 찾기
+title: 개별 사용 사례를 정의하고 가장 적합한 방법을 찾습니다
 description: 시나리오에 대한 특정 사용 사례를 식별하고 올바른 디자인을 결정하며 이해 당사자에게 최상의 조언을 제공하는 방법을 알아봅니다 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

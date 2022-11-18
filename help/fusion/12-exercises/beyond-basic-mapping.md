@@ -1,18 +1,21 @@
 ---
 title: 기본 매핑 이상의 기능
 description: 매핑 패널 공식을 사용하여 모듈로 전송된 필드를 조작하거나 변환하는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11039
 thumbnail: KT11039.png
-source-git-commit: c348222464180e994e7b414d1b84e07f58b6b2ae
+exl-id: 979d794d-b936-402e-b07c-71e999f40780
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
 
 ---
-
 
 # 기본 매핑 이상의 기능
 

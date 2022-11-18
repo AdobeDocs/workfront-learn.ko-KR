@@ -1,6 +1,8 @@
 ---
 title: 프로젝트 정보 보기
 description: 필터, 보기 및 그룹화를 통해 프로젝트 정보를 쉽게 볼 수 있게 만들어 프로젝트를 관리하는 데 도움이 되는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: view-project-information.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%

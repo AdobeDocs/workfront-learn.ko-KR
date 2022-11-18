@@ -1,5 +1,5 @@
 ---
-title: 의 개별 목표 업데이트 [!DNL Workfront Goals]
+title: 에서 개별 목표 업데이트 보기 [!DNL Workfront Goals]
 description: 에서 개별 목표를 보는 방법을 알아봅니다 [!UICONTROL 펄스] [!DNL 목표]에서 스트림을 업데이트합니다.
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 2%
 
 ---

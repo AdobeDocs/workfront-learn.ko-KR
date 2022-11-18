@@ -1,6 +1,8 @@
 ---
 title: 프로젝트 공유
 description: 프로젝트 관련 이해관계자 및 프로젝트 관련 이해관계자가 사용 중인 작업을 파악할 수 있도록 프로젝트를 공유하는 방법을 알아봅니다 [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: share-a-project.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%

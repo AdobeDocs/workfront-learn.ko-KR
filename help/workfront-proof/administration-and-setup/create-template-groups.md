@@ -1,6 +1,8 @@
 ---
 title: 템플릿 그룹을 만들어 자동화된 워크플로우 템플릿 구성
-description: 템플릿 그룹을 만들어 사용자가 만드는 자동화된 교정 워크플로우 템플릿을 구성하는 방법을 알아봅니다.
+description: 템플릿 그룹을 만들어 사용자가 만드는 자동 교정 워크플로우 템플릿을 구성하는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,7 +10,7 @@ level: Intermediate
 thumbnail: create-template-groups.png
 kt: 10232
 exl-id: 248cba16-fa88-44e1-a3d5-e763783d965d
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%

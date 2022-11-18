@@ -1,6 +1,8 @@
 ---
 title: 재무 액세스 이해
-description: 관리자는 Financial Access 권한을 통해 Workfront에서 추적된 재무 정보를 보고 편집할 수 있는 사용자를 제어할 수 있습니다.
+description: 관리자가 재무 액세스 권한을 통해 Workfront에서 추적된 재무 정보를 보고 편집할 수 있는 사용자를 제어하는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-financial-access.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '415'
 ht-degree: 5%
 
 ---

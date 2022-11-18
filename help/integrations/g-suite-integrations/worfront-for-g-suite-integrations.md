@@ -1,5 +1,5 @@
 ---
-title: 'G Suite 통합을 통해 워크플로우 개선'
+title: G Suite 통합을 통해 워크플로우 개선
 description: 이메일을 [!DNL Workfront] 작업 또는 문제, 보기 및 업데이트 [!DNL Workfront] Gmail 작업 및 승인 [!DNL Workfront] Gmail에서 작업.
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

@@ -1,20 +1,22 @@
 ---
-title: Workfront에서 통합 구성
+title: 구성 [!UICONTROL Workfront DAM] Workfront 통합
 description: 를 활성화하는 방법을 알아봅니다 [!UICONTROL Workfront DAM] 통합(시스템 관리자 액세스 수준)
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
 kt: 10087
 exl-id: ee9489a5-abe9-4a81-96bd-625c82189d3d
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Workfront에서 통합 구성
+# 구성 [!UICONTROL Workfront DAM] Workfront 통합
 
 를 활성화합니다 [!UICONTROL Workfront DAM] Workfront에서 통합 **[!UICONTROL 설정]** 영역. 다음을 수행해야 합니다 [!UICONTROL Workfront] 시스템 관리자 액세스 수준.
 

@@ -1,18 +1,21 @@
 ---
 title: 이전 버전에 액세스
 description: 이전 버전의 시나리오로 돌아가는 방법을 알아봅니다. (60자에서 160자 사이여야 하지만 56자)
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11041
 thumbnail: KT1101.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
-
 
 # 이전 버전에 액세스
 

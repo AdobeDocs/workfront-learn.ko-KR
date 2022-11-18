@@ -1,12 +1,15 @@
 ---
-title: Webhook World 이해
+title: 웹 후크 세계 이해
 description: Webhooks를 트리거로 사용하는 방법 및 Webhooks를 사용하여 들어오는 데이터에 대한 큐를 만드는 방법을 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 87140000-e26b-48b3-ad58-c60b6be7a7fa
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%

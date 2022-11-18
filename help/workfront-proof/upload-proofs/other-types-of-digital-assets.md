@@ -1,6 +1,8 @@
 ---
 title: 비디오 증명 업로드
 description: 언어 교정을 위한 비디오를 업로드하는 방법을 알아봅니다 [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,7 +10,7 @@ level: Beginner
 thumbnail: upload-a-proof-video.png
 kt: 10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%

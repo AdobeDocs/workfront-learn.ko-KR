@@ -2,18 +2,21 @@
 title: 실행, 주기 및 번들 연습
 description: 다양한 시나리오 구성을 사용하여 실행 및 사이클을 탐색하는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 820f35af-a068-4a15-9322-98462964de61
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# 실행, 주기 및 번들 연습 탐색
+# 실행, 주기 및 번들 연습
 
 ## 개요
 

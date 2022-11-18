@@ -2,11 +2,14 @@
 title: 불완전한 실행 이해
 description: 불완전한 실행의 정의와 에서 불완전한 실행을 가져오는 오류를 처리하는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%

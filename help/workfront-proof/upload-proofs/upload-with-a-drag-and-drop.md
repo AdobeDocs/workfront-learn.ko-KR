@@ -1,6 +1,8 @@
 ---
-title: 드래그 앤 드롭으로 업로드하는 방법
+title: 드래그 앤 드롭으로 업로드
 description: 에 파일을 업로드하는 것의 이점 및 제한 사항에 대해 알아봅니다. [!DNL  Workfront] 끌어서 놓기 사용.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: upload-drag-and-drop.png
 kt: 10178
 exl-id: b092b7cd-34e0-4fb5-9c69-db5709279460
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---

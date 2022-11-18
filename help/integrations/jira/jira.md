@@ -1,5 +1,5 @@
 ---
-title: '를 사용하여 가시성 만들기 [!DNL Jira] 통합'
+title: 를 사용하여 가시성 만들기 [!DNL Jira] 통합
 description: Analytics Mobile Apps 또는 Analytics Premium이 [!DNL Jira] 통합을 통해 팀이 수행하는 작업을 파악할 수 있습니다.
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%

@@ -1,13 +1,15 @@
 ---
 title: 목표 정렬 제거
 description: 에서 목표 정렬을 제거하는 방법을 알아봅니다. [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10124
 exl-id: 3e5751b8-2547-42c5-bcb7-d312d31271d5
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%

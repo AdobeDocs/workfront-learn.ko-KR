@@ -1,6 +1,6 @@
 ---
-title: 목표에 결과 추가 방법
-description: '[!DNL 목표]에 결과를 추가하여 목표를 활성화하는 방법을 알아봅니다.'
+title: 목표에 결과 추가
+description: 결과를 추가하여 목표를 활성화하는 방법을 알아봅니다. [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8922
 exl-id: e54aa547-97d1-4603-bb63-503e605be408
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---

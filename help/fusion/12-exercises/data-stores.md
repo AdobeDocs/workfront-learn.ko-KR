@@ -1,18 +1,21 @@
 ---
 title: 데이터 저장소
 description: 두 시스템 간에 회사 이름을 동기화하는 방법을 알아봅니다. (60자에서 160자 사이여야 하지만 59자)
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11055
 thumbnail: KT11055.png
-source-git-commit: c348222464180e994e7b414d1b84e07f58b6b2ae
+exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '878'
 ht-degree: 0%
 
 ---
-
 
 # 데이터 저장소
 

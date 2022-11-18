@@ -1,5 +1,5 @@
 ---
-title: 자산을 게시하는 방법 [!UICONTROL Brand Connect]
+title: 자산 게시 대상 [!UICONTROL Brand Connect]
 description: 에 자산 및 폴더를 게시하는 방법을 알아봅니다. [!UICONTROL Brand Connect] in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---

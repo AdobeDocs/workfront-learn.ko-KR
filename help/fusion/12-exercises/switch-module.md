@@ -1,18 +1,21 @@
 ---
 title: 스위치 모듈
 description: 보다 복잡하거나 동적 데이터 변환을 수행해야 할 때 스위치 모듈을 사용하는 방법을 이해합니다.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11052
 thumbnail: KT11052.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
 
 ---
-
 
 # 스위치 모듈
 

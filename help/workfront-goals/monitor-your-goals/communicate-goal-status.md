@@ -1,16 +1,18 @@
 ---
 title: 목표 상태 전달
 description: 에서 목표 진행 상황 및 상태에 대해 다른 사용자와 통신하는 방법을 알아봅니다. [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -34,7 +36,7 @@ ht-degree: 0%
 
    ![자산](assets/17-workfront-goals-share-a-goal.png)
 
-1. 다음 중 하나를 수행합니다.
+1. 다음 중 하나를 수행하십시오.
 
    * 을(를) 선택합니다 [!UICONTROL 시스템 전체 관리] 편집 액세스 권한이 있는 시스템의 모든 사용자에게 관리 권한을 제공하는 설정 [!DNL Goals] 그들의 [!DNL Workfront] 액세스 수준. 이 옵션은 모든 새로운 목표에 대해 기본적으로 선택 취소되어 있습니다.
    * 제공할 사용자의 이름을 입력합니다 [!UICONTROL 관리] 에 대한 권한 [!UICONTROL 관리 액세스 권한 부여] 상자. 목록에 표시될 이름을 선택합니다.

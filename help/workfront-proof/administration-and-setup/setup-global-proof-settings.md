@@ -1,6 +1,8 @@
 ---
 title: 전역 증명 설정 설정
 description: 사용자를 위한 기본 증명 역할을 설정하는 방법을 알아봅니다. 기본 언어 교정 계정 설정 교정을 위한 기본 증명 설정입니다.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,9 +10,9 @@ level: Intermediate
 thumbnail: setup-global-proof-settings.png
 kt: 10237
 exl-id: c10eb48d-2e05-4b82-8393-60c4b9196d40
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---

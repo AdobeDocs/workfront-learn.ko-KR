@@ -1,18 +1,21 @@
 ---
 title: 라우팅 패턴
 description: 다른 API를 실제로 처리하지 않고도 라우팅 및 대체 경로의 개념을 보강합니다.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11044
 thumbnail: KT11044.png
-source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
+exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
 
 ---
-
 
 # 라우팅 패턴
 

@@ -2,13 +2,16 @@
 title: 고급 집계 연습
 description: 웹 서비스를 호출하여 여러 국가에 대한 세부 정보를 반환하고 하위 영역별로 그룹화된 모집단을 식별하는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -45,6 +48,10 @@ Workfront에서는 자체 환경에서 연습을 다시 시도하기 전에 연�
 시나리오에서 모든 세그먼트를 둘러싸는 그림자가 **시작 반복기** 변환 후 **종단 누적**. 이렇게 하면 Workfront Fusion 시나리오에서 이러한 세그먼트를 쉽게 찾을 수 있습니다.
 
 ## 네 차례야
+
+>[!NOTE]
+>
+>연습 연습은 선택 사항이며 Fusion 교육을 완료하는 데 필요하지 않습니다.
 
 이 연습 연습은 연습에서 학습한 내용을 기반으로 만들어지지만 솔루션은 제공되지 않습니다.
 

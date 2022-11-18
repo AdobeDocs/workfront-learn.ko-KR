@@ -1,5 +1,5 @@
 ---
-title: 탐색 [!UICONTROL 펄스] 목표의 스트림 업데이트
+title: 탐색 [!UICONTROL 펄스] 에서 스트림 업데이트 [!DNL Goals]
 description: 탐색 방법 알아보기 [!UICONTROL 펄스] [!DNL 목표]에서 스트림을 업데이트합니다.
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8927
 exl-id: 441d5056-5e5f-4104-aa44-321fe0da9a12
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---

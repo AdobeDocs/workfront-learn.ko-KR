@@ -1,13 +1,15 @@
 ---
 title: 수동으로 목표 연결
 description: 에서 수동으로 목표를 서로 연결하는 방법을 알아봅니다. [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10123
 exl-id: 00e2dfd6-1b6e-4352-b1c7-9953e84d03db
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%

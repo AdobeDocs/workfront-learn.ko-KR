@@ -1,5 +1,5 @@
 ---
-title: 은 어디에 있습니까? [!DNL Workfront Goals] 내 작업 라이프 사이클에 적응하는 건가요?
+title: 방법 이해 [!UICONTROL Workfront 목표] 작업 주기에 맞는
 description: 일반적인 작업 라이프 사이클의 6단계 및 작업 라이프 사이클의 "전략 단계"에서 핵심 구성 요소에 대해 알아봅니다.
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-# 은 어디에 있습니까? [!DNL Workfront Goals] 내 작업 라이프 사이클에 적응하는 건가요?
+# 방법 이해 [!UICONTROL Workfront 목표] 작업 주기에 맞는
 
 이 비디오에서는 다음 사항에 대해 학습합니다.
 

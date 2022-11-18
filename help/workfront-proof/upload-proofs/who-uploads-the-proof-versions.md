@@ -1,6 +1,8 @@
 ---
 title: 증명 버전을 업로드하는 사람은 누구입니까?
 description: 에서 증명 버전을 업로드하는 책임이 있는 사람 [!DNL  Workfront] 다양할 수 있습니다. 일반적인 사용 사례에서 조직의 이상적인 설정을 식별할 수 있습니다.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,7 +10,7 @@ level: Beginner
 thumbnail: who-uploads-proofs.png
 kt: 10162
 exl-id: e49ce586-ff9e-459c-967f-f974791612cb
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%

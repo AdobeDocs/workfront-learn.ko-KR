@@ -1,6 +1,8 @@
 ---
-title: 증명 주석을 관리하는 방법
+title: 증명 댓글 관리
 description: 에서 증명 주석을 관리하는 방법 알아보기 [!DNL  Workfront] 주석 작업을 적용하고 주석을 확인하고 주석 열을 필터링함으로써 주석을 확인할 수 있습니다.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: manage-proof-comments.png
 kt: 10109
 exl-id: 603023f3-f79e-414c-a6da-1f42c234c63d
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '444'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,8 @@
 ---
-title: 증명 세부 정보 설명
+title: 증명 세부 사항 이해
 description: 자세한 내용은 [!DNL  Workfront] 요약 패널 및 [!UICONTROL 문서 세부 정보] 페이지.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,14 +10,14 @@ level: Beginner
 thumbnail: understand-proof-details.png
 kt: 10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '1029'
 ht-degree: 0%
 
 ---
 
-# 증명 세부 사항 개요
+# 증명 세부 사항 이해
 
 ## 증명 세부 사항 보기
 

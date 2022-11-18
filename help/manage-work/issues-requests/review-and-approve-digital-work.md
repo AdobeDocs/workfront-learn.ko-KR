@@ -1,5 +1,5 @@
 ---
-title: 디지털 작업 검토
+title: 디지털 검토 및 작업 승인
 description: 에서 프로젝트, 작업, 문제, 문서 및 증명을 찾고 승인하는 방법을 알아봅니다 [!DNL  Workfront].
 activity: use
 feature: Work Management
@@ -10,14 +10,14 @@ level: Intermediate
 team: Technical Marketing
 kt: 8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# 디지털 작업 검토
+# 디지털 검토 및 작업 승인
 
 이 비디오에서는 다음 방법을 배웁니다.
 

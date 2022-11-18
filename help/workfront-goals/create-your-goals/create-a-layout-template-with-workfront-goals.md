@@ -1,5 +1,5 @@
 ---
-title: 레이아웃 템플릿 [!DNL Workfront Goals]
+title: 추가 [!DNL Workfront Goals] 레이아웃 템플릿으로
 description: 을 사용하여 레이아웃 템플릿을 만드는 방법을 알아봅니다. [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] 조직에 맞는 용어입니다.
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---

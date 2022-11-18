@@ -1,6 +1,8 @@
 ---
 title: 프로젝트 통신 이해
 description: 프로젝트, 작업, 문제 또는 문서에 대한 업데이트를 사용하여 프로젝트 작업에 대해 통신하는 방법을 알아봅니다. 그런 다음 의 기존 업데이트를 검토합니다 [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-project-communication.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%

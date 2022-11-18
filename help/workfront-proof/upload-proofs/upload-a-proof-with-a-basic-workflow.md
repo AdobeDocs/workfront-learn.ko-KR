@@ -1,5 +1,5 @@
 ---
-title: 기본 워크플로우를 사용하여 증명을 업로드하는 방법
+title: 기본 워크플로우를 사용하여 증명 업로드
 description: 파일을 증명으로 업로드하고, 이해 관계자 검토 및 승인을 위한 기본 교정 워크플로우를 추가하고, 에서 교정 검토 기한을 설정하는 방법을 알아봅니다. [!DNL Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335132.png
 kt: 8832
 exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---

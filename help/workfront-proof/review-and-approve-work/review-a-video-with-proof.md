@@ -1,5 +1,5 @@
 ---
-title: 증명을 사용하여 비디오를 검토하는 방법
+title: 증명으로 비디오 검토
 description: 에서 교정 기능을 사용하여 뷰어 설정을 조정하고 타임스탬프가 지정된 주석을 비디오에 추가하는 방법을 알아봅니다 [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335144.png
 kt: 8847
 exl-id: 42715056-5edb-4619-8754-d48392677d51
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---

@@ -2,11 +2,14 @@
 title: 라우팅 패턴 연습
 description: 변수 설정 모듈을 사용하여 여러 경로를 통해 숫자를 전송하여 필터 및 폴백이 작동하는 방식을 확인하는 방법을 알아봅니다 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

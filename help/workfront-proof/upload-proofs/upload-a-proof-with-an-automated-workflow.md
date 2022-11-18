@@ -1,5 +1,5 @@
 ---
-title: 자동화된 워크플로우를 사용하여 업로드하는 방법
+title: 자동화된 워크플로우를 사용하여 증명 업로드
 description: 자동 증명 워크플로우를 사용하는 시기, 증명 템플릿을 사용하여 워크플로우를 적용하는 방법 및 처음부터 자동화된 워크플로우를 설정하는 방법을 알아봅니다.
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335133.png
 kt: 8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '575'
 ht-degree: 0%
 
 ---

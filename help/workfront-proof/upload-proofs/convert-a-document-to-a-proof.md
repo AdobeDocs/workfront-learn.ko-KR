@@ -1,5 +1,5 @@
 ---
-title: 문서를 증명으로 변환하는 방법
+title: 문서를 증명으로 변환
 description: 에 이미 존재하는 문서의 증명을 생성하는 방법을 알아봅니다. [!DNL  Workfront]를 채울 때 워크플로우를 추가하고 증명을 만든 후 워크플로우를 추가하거나 편집합니다.
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335134.png
 kt: 8834
 exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---

@@ -2,11 +2,14 @@
 title: 완료되지 않은 실행 연습
 description: 에서 오류를 평가하고 수정한 후 불완전한 실행을 저장한 다음 번들을 다시 실행하는 가치를 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%

@@ -1,5 +1,5 @@
 ---
-title: 액세스 수준 편집 [!DNL Workfront Goals]
+title: 편집 [!UICONTROL 액세스 수준] 대상 [!DNL Workfront Goals]
 description: 에서 사용자의 라이선스 유형에 따라 액세스 수준을 편집하는 방법을 알아봅니다. [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# 액세스 수준 편집
+# 액세스 수준 편집 [!DNL Workfront Goals]
 
 이 비디오에서는 다음 방법을 배웁니다.
 

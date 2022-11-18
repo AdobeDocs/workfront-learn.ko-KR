@@ -1,6 +1,8 @@
 ---
 title: 비용 유형 설정
-description: Workfront에는 비용을 입력할 때 사용할 수 있는 사전 빌드된 비용 유형이 있으며, 새 비용 유형을 추가할 수 있습니다.
+description: 비용을 입력할 때 미리 작성한 비용 유형을 사용하는 방법과 새 비용 유형을 만드는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-expense-types.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '252'
 ht-degree: 2%
 
 ---

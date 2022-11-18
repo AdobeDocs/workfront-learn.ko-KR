@@ -1,6 +1,8 @@
 ---
 title: 이해 [!UICONTROL 작업 시간]
-description: 사용 방법 알아보기 [!UICONTROL 작업 시간] 프로젝트 타임라인에서 예정된 시간 대신
+description: 사용 방법 알아보기 [!UICONTROL 작업 시간] 프로젝트 타임라인에서 계획된 시간을 신속하게 예측할 수 있습니다.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-work-effort.jpeg
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---

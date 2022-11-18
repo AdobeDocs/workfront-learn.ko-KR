@@ -1,6 +1,8 @@
 ---
 title: 로그 및 검토 시간
 description: 에서 프로젝트를 닫기 전에 미결 시간을 기록하고 기록된 시간을 검토합니다. [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: log-and-review-hours.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10136
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%

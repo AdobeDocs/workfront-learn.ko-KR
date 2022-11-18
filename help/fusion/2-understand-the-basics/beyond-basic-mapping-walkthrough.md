@@ -1,14 +1,17 @@
 ---
-title: 기본 매핑 설명 넘어
-description: 이 비디오에서는 의 매핑 패널 공식을 사용하여 이전에 만든 시나리오의 일부 프로젝트 필드를 변경합니다. [!DNL Adobe Workfront Fusion].
+title: 기본 매핑 연습 넘어
+description: 의 매핑 패널 공식을 사용하여 이전에 만든 시나리오에서 일부 프로젝트 필드를 변경합니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -32,6 +35,10 @@ Workfront에서는 자체 환경에서 연습을 다시 시도하기 전에 연�
 >이 연습을 완료하는 방법에 대한 단계별 지침은 [기본 매핑 연습 넘어](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) 운동.
 
 ## 네 차례야
+
+>[!NOTE]
+>
+>연습 연습은 선택 사항이며 Fusion 교육을 완료하는 데 필요하지 않습니다.
 
 이 연습 연습은 연습에서 학습한 내용을 기반으로 만들어지지만 솔루션은 제공되지 않습니다.
 

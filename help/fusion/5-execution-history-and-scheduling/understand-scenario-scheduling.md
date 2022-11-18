@@ -1,14 +1,17 @@
 ---
 title: 시나리오 예약 이해
-description: 이 비디오에서는 어떤 시나리오 예약, 주기 및 실행이 있는지 알 수 있습니다 [!DNL Adobe Workfront Fusion].
+description: 어떤 시나리오 예약, 주기 및 실행이 있는지 알아봅니다 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 85a51840-03b4-4584-a3c5-e2002a04464d
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---

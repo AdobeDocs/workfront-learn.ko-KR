@@ -1,6 +1,8 @@
 ---
 title: 위험 증명 설정에서 기본값 설정
 description: 교정 설정의 일부로 위험 증명 알림에 대한 기본 설정을 설정하는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,7 +10,7 @@ level: Intermediate
 thumbnail: set-default-at-risk-proof-settings.png
 kt: 10234
 exl-id: 1e99e434-9aa5-44e3-8496-76dd57bd2f91
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%

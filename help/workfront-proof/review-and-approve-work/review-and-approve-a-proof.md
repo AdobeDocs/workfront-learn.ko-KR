@@ -1,5 +1,5 @@
 ---
-title: 증명 검토 및 승인 방법
+title: 증명 검토 및 승인
 description: 증명에 액세스하고 댓글을 달거나 마크업을 사용하여 필요한 변경 사항을 표시하고 증명 댓글에 답글을 달거나 증명을 통해 [!DNL Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: review-approve-digital-work.png
 kt: 8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '683'
 ht-degree: 0%
 
 ---
 
-# 디지털 증명 검토 및 승인
+# 증명 검토 및 승인
 
 증명을 검토하기 전에, 자신에게 어떤 것이 기대되는지 반드시 확인하세요. 교정 워크플로우에서 어떤 역할을 수행합니까? 증명 검토, 승인 또는 둘 다?
 

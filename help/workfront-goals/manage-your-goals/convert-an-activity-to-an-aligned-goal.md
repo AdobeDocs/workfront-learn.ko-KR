@@ -1,5 +1,5 @@
 ---
-title: 활동 또는 결과를 정렬된 목표로 변환
+title: 활동을 정렬된 목표로 변환
 description: '[!DNL 목표]에서 활동을 전환하거나 결과를 정렬된 목표로 변환하는 방법을 알아봅니다.'
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8898
 exl-id: 16343eab-1243-4f36-824f-a53da328de78
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---

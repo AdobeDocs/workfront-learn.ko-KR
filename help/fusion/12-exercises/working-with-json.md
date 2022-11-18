@@ -1,18 +1,21 @@
 ---
 title: JSON 작업
 description: 디자인 요구 사항을 지원하기 위해 시나리오 내에서 JSON을 만들고 구문 분석하는 방법을 알아봅니다.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11056
 thumbnail: KT11056.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
 
 ---
-
 
 # JSON 작업
 

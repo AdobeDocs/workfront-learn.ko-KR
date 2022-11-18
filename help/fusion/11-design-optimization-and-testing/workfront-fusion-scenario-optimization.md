@@ -2,11 +2,14 @@
 title: Workfront Fusion 시나리오 최적화
 description: 에서는 더 적은 수의 작업을 수행하고, API 호출을 더 적게 보내고, 적은 수의 모듈을 사용하는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%

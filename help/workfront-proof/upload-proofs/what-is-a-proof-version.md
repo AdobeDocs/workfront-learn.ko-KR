@@ -1,6 +1,8 @@
 ---
-title: 증명의 버전이란 무엇입니까?
+title: 증명 버전이란 무엇입니까?
 description: '[!DNL ''s] 언어 교정 기능을 사용하여 여러 반복 파일의 검토 및 승인 프로세스를 관리하는 데 어떻게 도움이 될 수 있는지 알아봅니다.'
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,14 +10,14 @@ level: Beginner
 thumbnail: what-is-a-proof-version.png
 kt: 10161
 exl-id: 3a3c6315-d032-4f78-bdbc-e1070c7fb1e1
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# 증명의 버전은 무엇입니까?
+# 증명 버전이란 무엇입니까?
 
 [!DNL Workfront’s] 언어 교정 기능을 사용하면 여러 버전의 파일을 사용하는 경우에도 검토 및 승인 프로세스를 관리할 수 있습니다.
 
