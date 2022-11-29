@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 많은 Workfront Fusion 사용자가 사용하는 모든 시스템에 대해 생각하고 결국 &quot;Workfront Fusion에 ____ 소프트웨어를 연결할 수 있는 커넥터가 있습니까?&quot;라고 묻습니다. (사용하는 시스템의 빈 공간을 입력합니다.)
 
-Workfront Fusion에 사전 설치된 커넥터가 있는지 확인하는 가장 간단한 방법은 앱 추가 기능을 사용하고 이름별로 앱을 검색하는 것입니다. 또한 **앱 및 해당 모듈** Workfront Fusion이 연결할 수 있는 응용 프로그램 목록에 대한 Experience League 문서
+Workfront Fusion에 사전 설치된 커넥터가 있는지 확인하는 가장 간단한 방법은 앱 추가 기능을 사용하고 이름별로 앱을 검색하는 것입니다. 또한 [앱 및 해당 모듈](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) Workfront Fusion이 연결할 수 있는 응용 프로그램 목록에 대한 Experience League 문서
 
 커넥터는 이 문서의 앱에만 국한되지 않습니다. 작업하려는 앱에 사전 빌드된 커넥터가 없으면 다음 모듈을 사용하여 웹 서비스에 직접 연결할 수 있습니다.
 
