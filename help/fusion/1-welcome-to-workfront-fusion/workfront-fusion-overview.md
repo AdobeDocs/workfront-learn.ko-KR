@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -44,3 +44,18 @@ Workfront은 Workfront Fusion 테스트 드라이브를 제공하지 않습니�
 
 연습 연습을 완료하는 데 대한 단계별 지침이 있습니다. Fusion > Strenges 아래의 왼쪽 탐색 막대에서 액세스하거나 연습 자습서의 하단에 제공된 링크를 사용할 수 있습니다.
 
+### 선택적 연습
+
+연습 연습과 연습은 연습 연습의 몇 가지 연습에 따라 제공됩니다.
+
+연습 연습을 해결하는 방법에는 여러 가지가 있습니다. 따라서 회사에서 시나리오를 작성할 때 수행해야 할 작업이므로, 따라야 할 단계나 &quot;정확한 답변&quot;을 취하지 않고 시나리오 목표를 달성하도록 시도하는 것이 목적입니다.
+
+연습 연습은 연습 활동과 관련되어 있습니다.
+
+문제는 그들이 배운 다른 개념들을 포함하는 것을 시도하고 싶어하는 사람들을 위한 것입니다.
+
+### 지원 방법
+
+단계별 지침은 연습 연습을 수행하는 데 도움이 됩니다.
+
+또한 [Workfront Fusion 2.0 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) 여기서 질문을 게시할 수 있습니다.

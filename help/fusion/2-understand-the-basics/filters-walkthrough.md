@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Workfront에서는 자체 환경에서 연습을 다시 시도하기 전에 연�
 
 >[!NOTE]
 >
->연습 연습은 선택 사항이며 Fusion 교육을 완료하는 데 필요하지 않습니다.
+>연습 연습과 과제는 선택 사항이며 Fusion 교육을 완료할 필요는 없습니다.
 
 이 연습 연습은 연습에서 학습한 내용을 기반으로 만들어지지만 솔루션은 제공되지 않습니다.
 
