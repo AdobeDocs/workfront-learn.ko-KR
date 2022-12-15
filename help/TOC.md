@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c4850a9fcb1174aa6ef3f0c1c107f619358b30da
+source-git-commit: 9e68a35e9803543934ae9ba3db7497395d2f9c31
 workflow-type: tm+mt
-source-wordcount: '2262'
+source-wordcount: '2369'
 ht-degree: 2%
 
 ---
@@ -341,6 +341,14 @@ ht-degree: 2%
       + [를 사용하여 가시성 만들기 [!DNL Jira] 통합](integrations/jira/jira.md)
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook 추가 기능 설치](integrations/outlook/integrations-microsoft-outlook.md)
+   + Microsoft Teams {#ms-teams}
+      + [Adobe Workfront for Microsoft Teams 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 액세스](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 항목 검색 및 공유](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
    + Slack {#slack}
       + [할 일 목록에 액세스 [!UICONTROL Slack]](integrations/slack/access-your-to-do-list-through-slack.md)
       + [다음을 통해 작업 할당 [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)
@@ -348,6 +356,7 @@ ht-degree: 2%
       + [Workfront 검색 [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [Workfront 이해 대상 [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
       + [을 통해 최근 작업 보기 [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+
 
 
 

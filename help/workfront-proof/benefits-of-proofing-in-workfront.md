@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
-source-git-commit: 2ee758f7cb3e8d08cc4ec953486be187a59850e7
+source-git-commit: 9e68a35e9803543934ae9ba3db7497395d2f9c31
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -37,6 +37,3 @@ ht-degree: 0%
 * **이메일 경고 —** 증명에 활동이 있을 때 알림.
 * **증명 사용자 —** 어떤 사람이 [!DNL Workfront] 디지털 증명을 업로드, 검토, 승인, 관리 등을 할 수 있는 계획 또는 작업 라이선스.
 
-<!--
-For a complete list of [!DNL Workfront] proof terms, download this guide.
--->
