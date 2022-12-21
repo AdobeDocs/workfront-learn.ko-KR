@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 사용 가능한 날짜 및 시간 표현식을 확인할 때 사용 가능한 몇 가지 옵션이 있습니다.
 
-![리소스 관리 호출기 1대 설정](assets/DTM01.png)
+![샘플 날짜 및 시간 표현식](assets/datetimeexpressions01.png)
 
 가장 자주 사용되는 두 개의 날짜 및 시간 표현식 세트가 있습니다 [!DNL Workfront] 고객:
 
@@ -37,9 +37,11 @@ ht-degree: 0%
 
 사용 가능한 날짜 및 시간 표현식을 보면 사용 가능한 옵션이 몇 가지 있습니다.
 
-![리소스 관리 호출기 1대 설정](assets/math01.png)
+![샘플 수학 표현식](assets/datetimeexpressions02.png)
 
-[!DNL Workfront] 고객은 일반적으로 다음 두 가지 수학 표현식 세트를 사용합니다.
+Workfront 고객은 일반적으로 다음 두 가지 수학 표현식 세트를 사용합니다.
 
 * SUB, SUM, DIV, PROD
 * ROUND
+
+<b>참고</b>: 각 표현식에 대한 전체 목록 및 자세한 내용은 &quot;계산된 데이터 표현식&quot; 설명서 페이지를 참조하십시오.
