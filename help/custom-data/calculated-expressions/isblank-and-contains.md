@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -32,31 +32,31 @@ CONTAINS 표현식과 ISBLANK 표현식은 모두 간단한 true 또는 false �
 
 ISBLANK 텍스트 표현식에 표현식의 이름과 하나의 데이터 포인트가 포함됩니다.
 
-**ISBLANK(데이터 포인트)**
+**ISBLANK({data point})**
 
 ![사용률 보고서가 있는 작업 로드 밸런서](assets/isblank03.png)
 
 위의 예에서 프로젝트에 설명이 있는지 확인하려는 경우 표현식은 다음과 같습니다.
 
-ISBLANK(설명)
+ISBLANK({description})
 
 ## 포함
 
 CONTAINS 텍스트 표현식에는 표현식 이름, 찾고 있는 단어 또는 구, 찾을 필드가 포함됩니다.
 
-**CONTAINS(&quot;phrase&quot;,field)**
+**CONTAINS(&quot;phrase&quot;,{fields})**
 
 찾고 있는 단어나 구에 따옴표를 붙여야 합니다. 그렇지 않으면 표현식이 유효하지 않습니다.
 
 위의 예에서(프로젝트 설명에서 &quot;자선 이벤트&quot;를 찾는) 표현식은 다음과 같습니다.
 
-**CONTAINS(&quot;자선 이벤트&quot;,설명)**
+**CONTAINS(&quot;자선 이벤트&quot;,{description})**
 
 ![사용률 보고서가 있는 작업 로드 밸런서](assets/isblank04.png)
 
 **참고**: CONTAINS 표현식은 대/소문자를 구분합니다. 예를 들어, &quot;자선 이벤트&quot;가 설명 필드에서 대문자로 시작하는 경우 표현식에서 해당 구문을 대문자로 표현하십시오.
 
-**CONTAINS(&quot;Charity Event&quot;,Description)**
+**CONTAINS(&quot;자선 이벤트&quot;,{description})**
 
 ISBLANK 및 CONTAINS 표현식은 값이 있는지 확인하려는 경우 사용할 수 있습니다. 그러나 실제로 그 값을 보거나 더 나은 통찰력을 제공하기 위해 어떤 종류의 설명자를 갖는 것이 값이 무엇인지 아는 것이 더 유용할 수 있습니다.
 
