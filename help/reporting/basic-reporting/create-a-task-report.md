@@ -1,6 +1,6 @@
 ---
 title: 작업 보고서 만들기
-description: 복잡한 필터를 사용하여 작업 보고서를 만들고 Workfront에서 만든 보고서를 찾는 방법을 알아봅니다. 활동 - 프롬프트가 있는 참고 보고서를 생성합니다.
+description: 복잡한 필터로 작업 보고서를 만들고 Workfront에서 만든 보고서를 찾는 방법에 대해 알아봅니다. 활동 - 프롬프트가 있는 메모 보고서를 만듭니다.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 5%
+ht-degree: 11%
 
 ---
 
