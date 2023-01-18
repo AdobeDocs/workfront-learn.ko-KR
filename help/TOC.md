@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 24d3d910949169043c51066f4a48bdaaa63f0dee
+source-git-commit: dbc68ed71e366a49a85a2941730338e34ffc5e4d
 workflow-type: tm+mt
-source-wordcount: '2367'
+source-wordcount: '2379'
 ht-degree: 2%
 
 ---
@@ -60,6 +60,9 @@ ht-degree: 2%
    + 승인 프로세스 및 이정표 경로 {#approval-processes-and-milestone-paths}
       + [그룹별 승인 프로세스 이해](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
       + [이정표 만들기](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+   + 시스템 성능 및 유지 관리 {#system-perfomance-and-maintenance}
+      + [기존 Adobe Workfront 인스턴스 관리](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
@@ -249,7 +252,7 @@ ht-degree: 2%
       + [프로젝트에 대한 리소스 관리 설정](manage-resources/resource-management/settings-for-projects.md)
       + [사용자를 위한 리소스 관리 설정](manage-resources/resource-management/settings-for-users.md)
       + [자원 관리 설정, 작업 로드 밸런서 및 활용률 보고서](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
-   + 업무 균형자 {#workload-balancer}
+   + 워크로드 밸런서 {#workload-balancer}
       + [작업 로드 밸런서 찾기](manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [작업 로드 밸런서 필터링](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [작업 로드 밸런서에서 사용자 할당 보기](manage-resources/workload-balancer/view-user-allocations.md)
@@ -627,7 +630,7 @@ ht-degree: 2%
    + [작업표 및 로그인 시간](best-practices/timesheets-logging-time-bp.md)
    + [활용성](best-practices/utilization-bp.md)
    + [Workfront 목표](best-practices/workfront-goals-bp.md)
-   + [업무 균형자](best-practices/workload-balancer-bp.md)
+   + [워크로드 밸런서](best-practices/workload-balancer-bp.md)
 
 
 
