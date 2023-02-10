@@ -8,16 +8,23 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: null
-source-git-commit: 2676209549c4805d372eacaf62daef2cd2481c11
+source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # Creative Cloud에 Adobe Workfront 확장 사용
 
-Photoshop, XD, InDesign, Illustrator, Premiere Pro 및 After Effects과 같은 Adobe Creative Cloud 애플리케이션을 종료하지 않고 Adobe Workfront에서 자신에게 할당된 작업을 찾아 업데이트합니다.
+다음 Adobe Creative Cloud 애플리케이션을 종료하지 않고 Adobe Workfront에서 자신에게 할당된 작업을 찾아 업데이트합니다.
+
+* Photoshop
+* XD
+* InDesign
+* Illustrator
+* Premiere Pro
+* After Effects
 
 사용 중인 Adobe Creative Cloud 애플리케이션에 올바른 플러그인을 설치해야 합니다.
 
@@ -27,7 +34,7 @@ Photoshop, XD, InDesign, Illustrator, Premiere Pro 및 After Effects과 같은 A
 
 >[!NOTE]
 >
->다음에 유의하십시오 **Premiere Pro** 및 **After Effects** 플러그인을 통해 Workfront의 비디오 업로드 및 검토 및 승인을 현재 사용할 수 없습니다.
+>**Premiere Pro** 및 **After Effects** Workfront의 비디오 업로드, 검토 및 승인은 플러그인을 통해 현재 사용할 수 없습니다.
 
 
 이 비디오에서는 Creative Cloud 앱 내에서 다음을 수행하는 방법을 알아봅니다.
