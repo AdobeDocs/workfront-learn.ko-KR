@@ -3,7 +3,7 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5665cdab87bf09dc9fde94137481fba4d9764cf4
+source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
 workflow-type: tm+mt
 source-wordcount: '2378'
 ht-degree: 2%
@@ -330,7 +330,7 @@ ht-degree: 2%
 
 + 통합 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Creative Cloud에 Adobe Workfront 확장 사용](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
+      + [Creative Cloud에 Adobe Workfront 플러그인 사용](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [구성 중](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
