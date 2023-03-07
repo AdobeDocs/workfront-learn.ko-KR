@@ -5,18 +5,19 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8810
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-# 승인 위임 [!DNL Home]
+# 다음에서 승인 위임 [!DNL Home]
 
-이 비디오에서는 다음 방법을 배웁니다.
+이 비디오에서는 다음 방법을 알아봅니다.
 
-* 다른 사람에게 승인 할당
+* 다른 사용자에게 승인 할당
 * 위임 기간 종료
 * 위임된 승인 찾기
 

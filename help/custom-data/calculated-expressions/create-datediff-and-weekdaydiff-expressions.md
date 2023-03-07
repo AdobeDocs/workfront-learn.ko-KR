@@ -10,7 +10,8 @@ team: Technical Marketing
 thumbnail: 335176.png
 kt: 8913
 exl-id: 7ef77612-d490-4dc5-82e1-5c36acad761e
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -19,10 +20,10 @@ ht-degree: 0%
 
 # DATEDIFF 및 WEEKDAYDIFF 표현식 만들기
 
-이 비디오에서는 다음을 학습합니다.
+이 비디오에서는 다음 사항에 대해 알아봅니다.
 
-* DATEDIFF 및 WEEKDAYDIFF 표현식에서 계산하는 항목
-* 계산된 필드에 WEEKDAYDIFF 데이터 표현식을 만드는 방법
+* DATEDIFF 및 WEEKDAYDIFF 표현식에서 계산하는 값
+* 계산된 필드에서 WEEKDAYDIFF 데이터 표현식을 만드는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12)
 

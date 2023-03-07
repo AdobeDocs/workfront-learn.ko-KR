@@ -1,6 +1,6 @@
 ---
-title: 에서 업데이트를 수행하여 작업을 수행합니다 [!UICONTROL Enhanced Analytics]
-description: Workfront의 플라이트 차트 내에서 업데이트를 만드는 방법을 알아봅니다.
+title: 에서 업데이트하여 조치 취하기 [!UICONTROL 향상된 분석]
+description: Workfront의 진행 중인 작업 차트에서 업데이트하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png
@@ -10,17 +10,18 @@ level: Beginner
 team: Technical Marketing
 kt: 8736
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
-# 에서 업데이트를 수행하여 작업을 수행합니다 [!UICONTROL Enhanced Analytics]
+# 에서 업데이트하여 조치 취하기 [!UICONTROL 향상된 분석]
 
-이 비디오에서는 다음을 학습합니다.
+이 비디오에서는 다음 사항에 대해 알아봅니다.
 
-* 비행 차트 작업 내에서 업데이트를 수행하는 방법
+* 진행 중인 작업 차트에서 업데이트하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12)

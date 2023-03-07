@@ -1,6 +1,6 @@
 ---
-title: 레이아웃 템플릿에 대한 액세스 할당 및 관리
-description: 사용자에게 레이아웃 템플릿을 할당하고 액세스를 관리할 수 있는 사용자를 제어하는 방법을 알아봅니다.
+title: 레이아웃 템플릿에 대한 액세스 권한 할당 및 관리
+description: 레이아웃 템플릿을 사용자에게 할당하고 액세스를 관리할 수 있는 사용자를 제어하는 방법에 대해 알아봅니다.
 feature: System Setup and Administration
 level: Intermediate
 activity: deploy
@@ -10,18 +10,19 @@ role: Admin
 thumbnail: 335080.jpeg
 kt: 8766
 exl-id: 9f250af7-0da4-4e50-80de-52136dc350fa
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-# 레이아웃 템플릿에 대한 액세스 할당 및 관리
+# 레이아웃 템플릿에 대한 액세스 권한 할당 및 관리
 
-이 비디오에서는 다음 방법을 배웁니다.
+이 비디오에서는 다음 방법을 알아봅니다.
 
-* 할당으로 이동합니다.
+* 할당으로 이동
 * 사용자, 그룹 또는 팀에 레이아웃 템플릿 할당
 * 레이아웃 템플릿 액세스를 관리할 수 있는 사용자 제어
 

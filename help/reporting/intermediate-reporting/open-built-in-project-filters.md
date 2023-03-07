@@ -1,6 +1,6 @@
 ---
 title: 기본 제공 프로젝트 필터 이해
-description: 내장된 프로젝트 필터를 검토하여 빌드 방법을 확인하고 Workfront에서 고유한 프로젝트 필터를 만드는 방법을 알아봅니다.
+description: 기본 제공 프로젝트 필터를 검토하여 Workfront에서 기본 제공 프로젝트 필터가 빌드되는 방법을 확인하고 고유한 프로젝트 필터를 만드는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336817.png
@@ -10,7 +10,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -19,22 +20,22 @@ ht-degree: 0%
 
 # 기본 제공 프로젝트 필터 이해
 
-이 비디오에서는 다음 방법을 배웁니다.
+이 비디오에서는 다음 방법을 알아봅니다.
 
-* 기본 제공 프로젝트 필터를 검토하여 빌드 방법을 확인하십시오
-* 학습한 내용을 사용하여 고유한 프로젝트 필터 만들기
+* 기본 제공 프로젝트 필터를 검토하여 구축 방법 확인
+* 학습한 내용을 사용하여 나만의 프로젝트 필터 만들기
 
 >[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12)
 
 
-## 활동: 프로젝트 파일러 만들기
+## 작업: 프로젝트 파일러 만들기
 
-소유하는 모든 활성 프로젝트를 보려는 경우, 여기서 &quot;활성&quot;은 Planning 또는 Current와 동일한 프로젝트 상태를 의미합니다. 프로젝트 영역에서 &quot;Active Projects I Own&quot;이라는 프로젝트 필터를 만듭니다.
+소유하고 있는 모든 활성 프로젝트를 확인하려고 합니다. 여기서 &quot;활성&quot;은 프로젝트 상태가 계획 또는 현재와 동일함을 의미합니다. 프로젝트 영역에서 &quot;내가 소유한 활성 프로젝트&quot;라는 프로젝트 필터를 만듭니다.
 
 ## 답변
 
-필터는 다음과 같습니다.
+필터는 다음과 같아야 합니다.
 
-![프로젝트 필터를 만드는 화면의 이미지입니다](assets/opening-built-in-project-filters-1.png)
+![프로젝트 필터를 만드는 화면 이미지](assets/opening-built-in-project-filters-1.png)
 
-특정 프로그램 또는 포트폴리오에서 프로젝트 찾는 것과 같은 추가 필터 규칙을 포함할 수 있습니다. 이 경우 Workfront에서는 필터 이름을 &quot;마케팅 Portfolio에서 소유한 활성 프로젝트&quot;와 같이 적절히 설명적인 이름으로 바꾸는 것을 권장합니다.
+특정 프로그램 또는 포트폴리오에서 프로젝트를 찾는 것과 같은 추가 필터 규칙을 포함할 수 있습니다. 이렇게 하면 Workfront에서는 &quot;마케팅 Portfolio에서 내가 소유한 활성 프로젝트&quot;와 같이 필터를 적절하게 설명하는 이름으로 바꾸는 것이 좋습니다.

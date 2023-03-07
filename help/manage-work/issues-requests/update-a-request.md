@@ -1,6 +1,6 @@
 ---
 title: 요청 업데이트
-description: 제출한 요청을 찾아 의 해당 요청에 대해 업데이트하는 방법을 알아봅니다. [!DNL  Workfront].
+description: 제출한 요청을 찾고 해당 요청에 대해 업데이트하는 방법에 대해 알아봅니다. [!DNL  Workfront].
 activity: use
 feature: Work Management
 type: Tutorial
@@ -10,7 +10,8 @@ team: Technical Marketing
 thumbnail: 336091.png
 kt: 8807
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
-source-git-commit: 04d68e951d86ada2381e7735d3e01ee28d47a30a
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # 요청 업데이트
 
-이 비디오에서는 다음 방법을 배웁니다.
+이 비디오에서는 다음 방법을 알아봅니다.
 
 * 제출한 요청 찾기
 * 요청 업데이트

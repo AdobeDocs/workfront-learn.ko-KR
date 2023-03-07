@@ -1,5 +1,5 @@
 ---
-title: 사용자를 위한 리소스 관리 설정
+title: 사용자에 대한 리소스 관리 설정
 description: 리소스 관리 도구를 올바르게 사용하는 데 필요한 사용자 설정에 대해 알아봅니다.
 feature: Resource Management
 type: Tutorial
@@ -10,18 +10,19 @@ team: Technical Marketing
 thumbnail: 335161.png
 kt: 8873
 exl-id: a1ecee82-11f4-4b10-ba0d-49eff4c337c0
-source-git-commit: c6c0e4405cd3151b5ad9a490dbeab237855dde29
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 4%
 
 ---
 
-# 사용자를 위한 리소스 관리 설정
+# 사용자에 대한 리소스 관리 설정
 
-사용 가능한 리소스를 이해하려면 의 각 사용자에게 적용해야 하는 몇 가지 사항이 있습니다 [!DNL Workfront].
+사용 가능한 리소스를 이해하는 데 있어 각 사용자에게 적용해야 하는 몇 가지 사항이 있습니다. [!DNL Workfront].
 
-이 비디오 자습서에서는 다음에 대한 설정에 대해 알아봅니다.
+이 비디오 튜토리얼에서는 다음에 대한 설정에 대해 알아봅니다.
 
 * 일정
 * 개인 휴무

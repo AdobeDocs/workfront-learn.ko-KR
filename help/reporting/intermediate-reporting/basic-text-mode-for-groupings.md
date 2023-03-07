@@ -1,6 +1,6 @@
 ---
-title: 그룹화에 대한 기본 텍스트 모드 이해
-description: 텍스트 모드, 카멜 표기법 및 Workfront의 그룹화에 사용할 수 있는 몇 가지 기본 "플러그인 및 재생" 텍스트 모드를 알아봅니다.
+title: 그룹화를 위한 기본 텍스트 모드 이해
+description: 텍스트 모드가 무엇인지, 카멜 표기법이 무엇인지, Workfront에서 그룹화할 때 사용할 수 있는 몇 가지 기본 "플러그 앤 플레이" 텍스트 모드에 대해 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -10,41 +10,42 @@ level: Intermediate
 team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
-source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
 
-# 그룹화에 대한 기본 텍스트 모드 이해
+# 그룹화를 위한 기본 텍스트 모드 이해
 
 >[!IMPORTANT]
 >
->전제 조건:
+>사전 요구 사항:
 >
 >* 보고 요소 이해
 >* 보고 구성 요소 이해
->* 기본 그룹 만들기
+>* 기본 그룹화 만들기
 
 
 >[!TIP]
 >
->* 텍스트 모드를 보다 깊이 이해하려면 기록된 웨비나 이벤트를 시청하는 것이 좋습니다 [전문가에게 문의 - 텍스트 모드 보고 소개](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en): 길이 1시간입니다.
->* 텍스트 모드에 대해 자세히 알아보려면 [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 모두 5시간 30분 길이의 자습서.
+>* 텍스트 모드를 더 깊이 있게 이해하려면 기록된 웨비나 이벤트를 시청하는 것이 좋습니다 [전문가에게 문의 - 텍스트 모드 보고 소개](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en): 1시간 길이입니다.
+>* 텍스트 모드에 대해 더 자세히 알아보려면 [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 총 5시간 30분 분량의 튜토리얼.
 
 
-이 비디오에서는 다음을 학습합니다.
+이 비디오에서는 다음 사항에 대해 알아봅니다.
 
-* 텍스트 모드는 무엇입니까?
-* 낙타의 예는 무엇인가요
-* 그룹화에 사용할 수 있는 몇 가지 기본적인 &quot;플러그 앤 플레이&quot; 텍스트 모드
+* 텍스트 모드
+* 낙타 케이스는 무엇입니까?
+* 그룹화에 사용할 수 있는 몇 가지 기본 &quot;플러그 앤 플레이&quot; 텍스트 모드
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
 
-## 작업 - 상위 4개 그룹
+## 작업 - 상위 4개 그룹화
 
-다음 텍스트 모드는 최대 4가지 상위 수준을 기준으로 작업을 그룹화하고 존재하지 않는 부모를 비워 둡니다.
+다음 텍스트 모드에서는 최대 4단계의 상위 항목을 기준으로 작업을 그룹화하고 존재하지 않는 상위 항목은 공백으로 둡니다.
 
 ```
 textmode=true
@@ -56,12 +57,12 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![4명의 부모별로 그룹화된 프로젝트 작업을 보여주는 화면 이미지입니다](assets/4-parents-grouping.png)
+![상위 4명으로 그룹화된 프로젝트 작업을 보여 주는 화면 이미지](assets/4-parents-grouping.png)
 
 
-## 작업 - 전체 그룹 비율
+## 작업 - 완료율 그룹화
 
-다음 텍스트 모드는 완료율을 기준으로 작업을 그룹화합니다. 작업은 그룹화할 때 다음 범주 중 하나로 분류됩니다.
+다음 텍스트 모드에서는 완료율을 기반으로 작업을 그룹화합니다. 작업을 그룹화할 때 다음 범주 중 하나에 속합니다.
 
 * 0%
 * 1%~25%
@@ -78,11 +79,11 @@ group.0.valueformat=doubleAsString
 textmode=true
 ```
 
-![완료율별로 그룹화된 프로젝트 작업을 보여주는 화면 이미지입니다](assets/percent-complete-grouping.png)
+![완료율별로 그룹화된 프로젝트 작업을 보여 주는 화면 이미지](assets/percent-complete-grouping.png)
 
-## 작업 - statusEqualsWith, then 상태
+## 작업 - statusEquatesWith, status
 
-다음 텍스트 모드에서는 statusEquatesWith를 기준으로 작업을 그룹화한 다음 상태별로 그룹화합니다.
+다음 텍스트 모드에서는 statusEqualsWith, status 순으로 작업을 그룹화합니다.
 
 ```
 group.0.enumclass=com.attask.common.constants.TaskStatusEnum
@@ -102,7 +103,7 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![statusEquatesWith로 그룹화된 프로젝트 작업을 보여주는 화면 이미지입니다.](assets/status-equates-with.png)
+![statusEqualsWith로 그룹화된 프로젝트 작업을 보여 주는 화면 이미지](assets/status-equates-with.png)
 
 
 ## 증명 승인 - 프로젝트 이름별 그룹
@@ -113,5 +114,5 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![프로젝트 이름별로 그룹화된 증명 승인을 보여주는 화면 이미지입니다](assets/proof-approvals-grouped-by-project-name.png)
+![프로젝트 이름별로 그룹화된 증명 승인을 보여주는 화면 이미지](assets/proof-approvals-grouped-by-project-name.png)
 
