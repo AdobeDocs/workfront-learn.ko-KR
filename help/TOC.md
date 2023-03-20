@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
+source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
 workflow-type: tm+mt
-source-wordcount: '2378'
+source-wordcount: '2380'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 2%
       + [그룹 및 하위 그룹 만들기](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [그룹 관리의 필요성 이해](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
       + [회사 만들기](administration-and-setup/organizational-setup/user-organization-companies.md)
-      + [라이센스, 액세스 수준 및 작업 역할이 있는 사용자 설정](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [라이센스 및 액세스 수준을 사용하여 사용자 설정](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [작업 역할 만들기 및 관리](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [다른 사용자로 로그인](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
    + 삭제된 항목 관리 {#manage-deleted-items}
       + [휴지통에서 개체 복원](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
