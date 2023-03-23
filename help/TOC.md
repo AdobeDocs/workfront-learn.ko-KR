@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
+source-git-commit: 8c00be25fc5ce3d7d8a25476e6f52cb40c758673
 workflow-type: tm+mt
-source-wordcount: '2380'
+source-wordcount: '2345'
 ht-degree: 2%
 
 ---
@@ -297,7 +297,7 @@ ht-degree: 2%
       + [기업 및 조직의 목표를 중심으로 공동 작업](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
       + [전략에 그룹 및 팀 정렬](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
    + 목표 만들기 {#create-goals}
-      + [사용 방법 이해 [!UICONTROL Workfront 목표]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
+      + [[!UICONTROL Workfront 목표] 개요](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [설정 [!UICONTROL Workfront 목표] 조직](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [선택한 사용자에게 목표 액세스 권한 부여](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [용 레이아웃 템플릿 만들기 [!UICONTROL Workfront 목표] 사용자](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
@@ -311,18 +311,12 @@ ht-degree: 2%
    + 목표 관리 {#manage-goals}
       + [목표 맞춤](workfront-goals/manage-your-goals/align-your-goals.md)
       + [목표 정렬 제거](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-      + [활동을 정렬된 목표로 변환](workfront-goals/manage-your-goals/convert-an-activity-to-an-aligned-goal.md)
-      + [질적 업데이트 만들기](workfront-goals/manage-your-goals/make-a-qualitative-update.md)
       + [수량 업데이트](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
-      + [수동으로 목표 연결](workfront-goals/manage-your-goals/manually-connect-goals-to-one-another.md)
-      + [을 사용하여 목표 추적 및 업데이트 [!UICONTROL 체크인]](workfront-goals/manage-your-goals/track-and-update-goals-using-check-ins.md)
       + [완료되면 목표 닫기](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + 목표 모니터링 {#monitor-goals}
       + [그래프 섹션 이해](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
-      + [개별 목표 업데이트 보기](workfront-goals/monitor-your-goals/view-individual-goal-updates.md)
       + [목표 진행률 계산](workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [목표 상태 전달](workfront-goals/monitor-your-goals/communicate-goal-status.md)
-      + [탐색 [!UICONTROL 펄스] 스트림 업데이트](workfront-goals/monitor-your-goals/navigate-the-pulse-update-stream.md)
 
 
 

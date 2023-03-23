@@ -1,6 +1,6 @@
 ---
-title: 이해 [!DNL Workfront Goals]
-description: 시스템 관리자가 액세스할 수 있는 사용자에 대해 알아봅니다. [!DNL Workfront Goals], what permissions a system administrator has in [!DNL Workfront Goals], and how to enable [!DNL Workfront Goals] 레이아웃 템플릿을 통해.
+title: Workfront 목표 개요
+description: 목표 목록, 그래프 및 목표 정렬을 탐색하는 방법을 알아봅니다.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,20 +9,19 @@ level: Beginner
 team: Technical Marketing
 kt: 8888
 exl-id: 08cdc3de-dc45-4273-b17b-90ae753613c6
-doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 683b3291033ff87dacae8b670e5a54a203cc2743
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 0%
+source-wordcount: '32'
+ht-degree: 3%
 
 ---
 
 # [!DNL Workfront Goals] 개요
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오에서는 다음 방법을 배웁니다.
 
-* 액세스 가능한 사용자 [!DNL Workfront Goals]
-* 시스템 관리자의 권한 [!DNL Workfront Goals]
-* 활성화 방법 [!DNL Workfront Goals] 레이아웃 템플릿을 통해
+* 목표 목록 탐색
+* 그래프 탐색
+* 목표 정렬 탐색
 
 >[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12)
