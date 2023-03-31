@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: cc1c18f700dc688351dbf3ba3ede9faf5bfc45bb
+source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ in [!DNL Workfront Goals], 경영진 및 기업 리더십 팀은 각 수준에�
 
    ![의 이미지 [!UICONTROL 목표 세부 사항] 패널 [!DNL Workfront Goals] 사용 [!UICONTROL 복사] 옵션](assets/03-workfront-goals-copy-a-goal.png)
 
-1. 클릭 **[!UICONTROL 활성화]**- 목표 상태를 활성으로 업데이트합니다. &quot;활성화&quot;하려면 목표에 연결된 활동이 있거나 결과가 있어야 합니다.
+1. 3점 아이콘을 클릭한 다음  **[!UICONTROL 활성화]**- 목표 상태를 활성으로 업데이트합니다. &quot;활성화&quot;하려면 목표에 연결된 활동이 있거나 결과가 있어야 합니다.
 
 이전 기간에 완료되지 않은 목표를 복사한 후 다음 기간에 계속 작업하려면 다음을 수행합니다.
 
