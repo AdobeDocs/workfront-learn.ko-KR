@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8c00be25fc5ce3d7d8a25476e6f52cb40c758673
+source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
 workflow-type: tm+mt
-source-wordcount: '2345'
+source-wordcount: '2341'
 ht-degree: 2%
 
 ---
@@ -302,7 +302,6 @@ ht-degree: 2%
       + [선택한 사용자에게 목표 액세스 권한 부여](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [용 레이아웃 템플릿 만들기 [!UICONTROL Workfront 목표] 사용자](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [목표 만들기](workfront-goals/create-your-goals/create-goals-in-workfront.md)
-      + [기존 목표 복사](workfront-goals/create-your-goals/copy-an-existing-goal.md)
    + 목표 활성화 {#activate-goals}
       + [목표 활성화](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [목표를 다른 목표에 정렬하여 활성화](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
