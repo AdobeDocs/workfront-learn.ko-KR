@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,10 @@ ht-degree: 0%
 1. 클릭 [!UICONTROL 변경 내용 저장].
 
 목표를 다른 목표에 정렬하면 하위 목표가 만들어집니다. 하위 목표를 조직 또는 팀의 상위 목표에 기여하는 개별 목표로서 생각하십시오. 하위 목표는 상위 목표의 진행 상황을 활성화하고 영향을 줄 수 있습니다.
+
+## 이제 상위 목표를 활성화합니다
+
+하위 목표를 만들었으므로 이제 상위 목표에 대한 진행률 표시기가 됩니다. 상위 목표 이름 옆에 있는 세 개의 점 메뉴를 클릭하면 활성화 옵션이 표시됩니다.
+
+![상위 목표를 활성화하는 방법을 보여주는 스크린샷입니다.](assets/activate-the-parent-goal.png)
+
