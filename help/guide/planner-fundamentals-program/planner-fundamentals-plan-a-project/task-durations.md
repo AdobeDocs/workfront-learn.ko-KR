@@ -6,7 +6,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 2ac96361d0cc90b62dfd5378b5a487f889d07199
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 * 프로젝트 타임라인의 지속 시간 요소
 * 작업 기간 사용에 대한 권장 사항
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on)

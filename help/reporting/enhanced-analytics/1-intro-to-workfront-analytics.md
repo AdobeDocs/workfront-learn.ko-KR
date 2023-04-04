@@ -1,6 +1,6 @@
 ---
 title: Workfront Analytics로
-description: 의 제품 관리자인 Joel Pettigrow를 통해 분석이 어떻게 시작되었고 이것이 가능하게 하는 흥미로운 기능에 대해 알아봅니다. [!DNL Enhanced analytics].
+description: Analytics가 어떻게 만들어졌는지, Joel Pettigrade의 제품 관리자를 통해 이 기능이 가능한 뛰어난 기능을 살펴볼 수 있습니다 [!DNL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 doc-type: video
 kt: 8870
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Workfront Analytics로
 
-Workfront의 제품 관리자인 Joel Pettigrow와 함께 이 비디오를 시청하십시오. [!DNL Enhanced analytics]를 통해 analytics의 작동 방식과 이를 통해 가능한 흥미로운 기능을 살펴볼 수 있습니다.
+Workfront의 제품 관리자인 Joel Pettigrade와 함께 이 비디오를 시청하십시오 [!DNL Enhanced analytics]를 통해 analytics가 어떻게 발전했으며 이를 통해 가능한 흥미로운 기능을 살펴볼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on)

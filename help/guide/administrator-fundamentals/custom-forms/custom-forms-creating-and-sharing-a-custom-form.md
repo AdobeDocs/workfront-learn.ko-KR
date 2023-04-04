@@ -6,7 +6,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: Admin
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 * 섹션 및 논리를 사용하여 필드 구성
 * 다른 사용자와 양식 공유
 
->[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on)

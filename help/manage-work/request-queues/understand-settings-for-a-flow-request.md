@@ -1,6 +1,6 @@
 ---
 title: 흐름 요청에 대한 설정 이해
-description: 에서 요청 흐름이 어떻게 처리되는지 알아봅니다. [!DNL  Workfront] 효과가 있습니다. 그런 다음 라우팅 규칙, 주제 그룹 및 대기열 주제를 만듭니다.
+description: 요청 흐름 프로세스 알아보기 [!DNL  Workfront] 작동합니다. 그런 다음 라우팅 규칙, 주제 그룹 및 대기열 항목을 만듭니다.
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -11,7 +11,7 @@ thumbnail: 335222.jpeg
 kt: 8959
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # 흐름 요청에 대한 설정 이해
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오에서는 다음을 학습합니다.
 
-* 대기열 관리와 관련된 요청 흐름 프로세스
-* 라우팅 규칙, 주제 그룹 및 대기열 주제를 만들고 사용하는 방법
+* 큐 관리와 관련된 요청 흐름 프로세스
+* 라우팅 규칙, 항목 그룹 및 대기열 항목을 만들고 사용하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on)

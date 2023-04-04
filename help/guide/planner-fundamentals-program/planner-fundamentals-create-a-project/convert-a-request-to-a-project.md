@@ -6,7 +6,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 2ac96361d0cc90b62dfd5378b5a487f889d07199
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 * 올바른 프로젝트 템플릿을 선택합니다
 * 요청을 프로젝트로 변환
 
->[!VIDEO](https://video.tv.adobe.com/v/335083/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335083/?quality=12&learn=on)

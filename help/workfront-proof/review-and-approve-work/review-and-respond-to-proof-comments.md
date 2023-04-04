@@ -1,6 +1,6 @@
 ---
 title: 증명 댓글 검토 및 응답
-description: 증명 뷰어 및 의 증명 주석을 보고 응답하는 방법에 대해 알아보기 [!UICONTROL 업데이트] 섹션 / [!DNL  Workfront].
+description: 증명 뷰어와 [!UICONTROL 업데이트] 섹션 [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,7 +11,7 @@ thumbnail: 335139.png
 kt: 8839
 exl-id: be205a02-2f77-4598-ae15-31463d1ce8e1
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # 증명 댓글 검토 및 응답
 
-이 비디오에서는 다음 방법을 알아봅니다.
+이 비디오에서는 다음 방법을 배웁니다.
 
-* 증명 뷰어의 댓글 보기 및 응답
+* 증명 뷰어에서 주석 보기 및 응답
 * 에서 증명 주석 보기 [!UICONTROL 업데이트] 섹션
-* 에서 증명 댓글에 응답 [!UICONTROL 업데이트] 섹션
+* 의 증명 댓글에 응답합니다. [!UICONTROL 업데이트] 섹션
 
->[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on)

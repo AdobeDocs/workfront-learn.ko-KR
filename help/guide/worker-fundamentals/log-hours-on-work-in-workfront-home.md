@@ -6,7 +6,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 371ded50162e2122d276e5c3a7d5865c6f62207c
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 * 로깅 시간 값
 * 작업 할당에서 시간을 기록하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on)

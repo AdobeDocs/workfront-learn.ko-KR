@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '886'
 ht-degree: 0%
@@ -36,7 +36,7 @@ in [!DNL Workfront Goals], 경영진 및 기업 리더십 팀은 각 수준에�
 
 * 탐색 [!UICONTROL 목표 목록] 새 목표를 추가하는 섹션
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on)
 
 ## 기존 목표 복사
 
@@ -93,5 +93,5 @@ in [!DNL Workfront Goals], 경영진 및 기업 리더십 팀은 각 수준에�
 
 * 활동을 추가하고 정렬된 목표로 변환합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on)
 

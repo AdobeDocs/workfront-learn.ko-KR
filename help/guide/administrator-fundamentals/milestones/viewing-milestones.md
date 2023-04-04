@@ -7,7 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: User
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 * 특정 프로젝트에서 이정표 보기
 * 프로젝트 영역에서 이정표 보기 읽기
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on)

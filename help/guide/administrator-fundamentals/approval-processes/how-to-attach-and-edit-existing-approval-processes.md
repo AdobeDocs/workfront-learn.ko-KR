@@ -7,7 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: User
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 8%
@@ -21,4 +21,4 @@ ht-degree: 8%
 * 기존의 승인 진행 사용
 * 특정 프로젝트, 작업 또는 문제에 대한 기존 승인 프로세스 편집
 
->[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: 요청 대기열 이해
-description: 에서 요청 대기열을 구성하는 방법 알아보기 [!DNL  Workfront] 및 요청 제출 방법.
+title: 요청 큐 이해
+description: 에서 요청 큐를 구성하는 방법을 알아봅니다. [!DNL  Workfront] 및 요청을 제출하는 방법입니다.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -11,50 +11,50 @@ thumbnail: 335220.jpeg
 kt: 8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
-# 요청 대기열 이해
+# 요청 큐 이해
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오에서는 다음을 학습합니다.
 
-* 다음을 통해 요청을 제출하는 방법 [!DNL  Workfront] 요청 대기열
-* 요청 대기열 구성 방식
+* 를 통해 요청을 제출하는 방법 [!DNL  Workfront] 요청 큐
+* 요청 큐의 구성 방식
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
-## 초안 자동 저장 요청
+## 자동으로 초안 저장 요청
 
-요청 양식 작성을 시작할 때, [!DNL Workfront] 초안을 입력한 후 자동으로 저장 [!UICONTROL 제목] 필드. 즉, 에서 멀리 이동해야 하는 경우 데이터가 손실되지 않습니다. [!UICONTROL 요청] 다른 작업을 수행하거나 요청 중간에 일시 중지해야 추가 정보가 수집되는 영역입니다.
+요청 양식 작성을 시작하면 [!DNL Workfront] 을 입력한 후 자동으로 초안 저장 [!UICONTROL 제목] 필드. 즉, [!UICONTROL 요청] 영역을 사용하여 다른 작업을 수행하거나 추가 정보를 수집하기 위해 요청 중간에 일시 중지해야 하는 경우.
 
-창의 맨 위에 초안이 저장되었다는 표시가 나타납니다. [!DNL Workfront] 필수 필드가 아직 채워지지 않았더라도 요청 초안이 저장됩니다.
+창 상단에 초안이 저장되었다는 표시가 나타납니다. [!DNL Workfront] 필수 필드를 아직 입력하지 않은 경우에도 요청 초안을 저장합니다.
 
 ![요청 초안 만들기 이미지](assets/queue-mgt-make-a-request-draft-1.png)
 
-요청을 제출할 준비가 되면에서 찾으십시오. [!UICONTROL 초안] 탭. 이름을 클릭하여 열고 양식 작성을 완료합니다. 그런 다음 [!UICONTROL 요청 제출] 완료 시.
+요청을 제출할 준비가 되면 [!UICONTROL 초안] 탭. 이름을 클릭하여 열고 양식 작성을 완료합니다. 그런 다음 [!UICONTROL 요청 제출] 다 되면
 
 ![요청 초안 회수 이미지](assets/queue-mgt-make-a-request-draft-2.png)
 
-## 당신 차례입니다
+## 네 차례야
 
-잠시 시간을 내어 방금 제시하신 정보를 검토해 보겠습니다.
+방금 알려주신 정보를 잠시 검토해 보겠습니다.
 
-**질문:** Workfront에서 어떻게 요청합니까? 순서대로 단계를 나열합니다.
+**질문:** Workfront에서 어떻게 요청합니까? 단계를 순서대로 나열합니다.
 
-* 만들어야 하는 요청 유형을 선택합니다
-* 요청 제출 을 클릭합니다
-* 양식에 정보를 입력하십시오
-* &quot;새 요청&quot; 클릭
-* 요청 영역으로 이동합니다.
+* 수행할 요청 유형을 선택합니다
+* 요청 제출을 클릭합니다
+* 양식에 정보를 기입하세요
+* &quot;New Request&quot;를 클릭합니다.
+* 요청 영역으로 이동합니다
 
 
-**답변:** 요청 영역으로 이동하고 > 새 요청 을 클릭하고 > 수행해야 하는 요청 유형을 선택하고 > 양식에 정보를 입력한 다음 > 요청 제출 을 클릭합니다
+**답변:** 요청 영역 > 새 요청 클릭 > 수행해야 하는 요청 유형을 선택 > 양식에 대한 정보를 입력 > 요청 제출 클릭
 
-**질문:** 요청은 정말 ...
+**질문:** 요청은 정말...
 
 **답변:** 문제
 

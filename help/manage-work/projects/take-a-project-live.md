@@ -1,6 +1,6 @@
 ---
-title: 프로젝트 실행
-description: 다음을 수행하는 방법 알아보기 [!DNL  Workfront] 프로젝트 상태를 사용하여 프로젝트 라이브.
+title: 프로젝트를 실시간으로 실행
+description: 사용 방법 알아보기 [!DNL  Workfront] 프로젝트 상태를 사용하여 프로젝트 라이브 상태가 됩니다.
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
@@ -11,17 +11,17 @@ team: Technical Marketing
 kt: 8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 0%
 
 ---
 
-# 프로젝트 실행
+# 프로젝트를 실시간으로 실행
 
-이 비디오에서는 다음 방법을 알아봅니다.
+이 비디오에서는 다음 방법을 배웁니다.
 
-* 프로젝트 상태를 사용하여 프로젝트를 라이브로 전환합니다.
+* 프로젝트 상태를 사용하여 프로젝트를 실시간으로 진행
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on)

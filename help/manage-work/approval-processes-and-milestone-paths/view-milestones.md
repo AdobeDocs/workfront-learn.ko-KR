@@ -1,6 +1,6 @@
 ---
-title: 마일스톤 보기
-description: 에서 마일스톤을 보는 방법 알아보기 [!DNL  Workfront] 프로젝트에서 마일스톤 보기를 사용하여 [!UICONTROL 프로젝트] 영역입니다.
+title: 이정표 보기
+description: 에서 이정표를 보는 방법을 알아봅니다 [!DNL  Workfront] 프로젝트에서 이정표 보기를 사용하고 [!UICONTROL 프로젝트] 영역.
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg
@@ -11,18 +11,18 @@ team: Technical Marketing
 kt: 8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# 마일스톤 보기
+# 이정표 보기
 
-이 비디오에서는 다음 방법을 알아봅니다.
+이 비디오에서는 다음 방법을 배웁니다.
 
-* 특정 프로젝트의 마일스톤 보기
-* 의 마일스톤 보기 읽기 [!UICONTROL 프로젝트] 영역
+* 특정 프로젝트에서 이정표 보기
+* 에서 이정표 보기 읽기 [!UICONTROL 프로젝트] 영역
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on)

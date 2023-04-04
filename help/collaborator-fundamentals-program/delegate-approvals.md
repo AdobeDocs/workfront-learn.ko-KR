@@ -6,22 +6,22 @@ type: Tutorial
 team: Technical Marketing
 kt: 8810
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-# 다음에서 승인 위임 [!DNL Home]
+# 승인 위임 [!DNL Home]
 
-이 비디오에서는 다음 방법을 알아봅니다.
+이 비디오에서는 다음 방법을 배웁니다.
 
-* 다른 사용자에게 승인 할당
+* 다른 사람에게 승인 할당
 * 위임 기간 종료
 * 위임된 승인 찾기
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
 
 <!---
 learn more URLS

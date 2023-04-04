@@ -1,6 +1,6 @@
 ---
 title: 오류 처리란 무엇입니까?
-description: 몇 가지 일반적인 오류 유형과 시스템에서 기본적으로 이를 처리하는 방법에 대해 알아본 다음 [!DNL Adobe Workfront Fusion].
+description: 몇 가지 일반적인 오류 유형과 시스템에서 기본적으로 이러한 오류를 처리하는 방법을 배웁니다. 그런 다음 사용자 지정 오류 처리를 적용하는 방법을 배웁니다 [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,7 +10,7 @@ level: Beginner
 kt: 9063
 exl-id: 843acdb1-192a-4124-b91c-128ee6a1353d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # 오류 처리란 무엇입니까?
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오에서는 다음을 학습합니다.
 
-* 일반적인 오류 유형 정의 및 시스템에서 기본적으로 처리하는 방법
-* 오류 처리 모듈을 사용하여 사용자 정의 오류 처리를 적용하는 방법
+* 몇 가지 일반적인 오류 유형은 무엇이며, 기본적으로 시스템에서 이러한 유형을 처리하는 방법입니다
+* 오류 처리 모듈을 사용하여 사용자 지정 오류 처리를 적용하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on)

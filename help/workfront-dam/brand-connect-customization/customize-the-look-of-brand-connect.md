@@ -1,6 +1,6 @@
 ---
-title: 모양 사용자 정의 [!UICONTROL Brand Connect]
-description: 다음에 대해 알아보기 [!UICONTROL Brand Connect] 는에 사용되고 액세스 방법은 입니다. [!UICONTROL Brand Connect] 의 설정 [!UICONTROL WORKFRONT DAM].
+title: 모양 사용자 지정 [!UICONTROL Brand Connect]
+description: 학습 내용 [!UICONTROL Brand Connect] 및 액세스 방법에 사용 [!UICONTROL Brand Connect] 설정 [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,18 +10,18 @@ team: Technical Marketing
 kt: 8979
 exl-id: 97b51b63-0ad3-4751-aed8-afc77a9560bc
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# 모양 사용자 정의 [!UICONTROL Brand Connect]
+# 모양 사용자 지정 [!UICONTROL Brand Connect]
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오에서는 다음을 학습합니다.
 
-* 내용 [!UICONTROL Brand Connect] 다음에 사용됨:
-* 액세스 방법 [!UICONTROL Brand Connect] 의 설정 [!UICONTROL WORKFRONT DAM]
+* What [!UICONTROL Brand Connect] 에 사용됨
+* 액세스 방법 [!UICONTROL Brand Connect] 설정 [!UICONTROL Workfront DAM]
 
->[!VIDEO](https://video.tv.adobe.com/v/335241/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335241/?quality=12&learn=on)
