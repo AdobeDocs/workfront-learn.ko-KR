@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '2341'
+source-wordcount: '2344'
 ht-degree: 2%
 
 ---
@@ -306,7 +306,7 @@ ht-degree: 2%
       + [목표 활성화](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [목표를 다른 목표에 정렬하여 활성화](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [목표에 결과 추가](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
-      + [목표에 활동 추가](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
+      + [목표에 활동 및 프로젝트 추가](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
    + 목표 관리 {#manage-goals}
       + [목표 맞춤](workfront-goals/manage-your-goals/align-your-goals.md)
       + [목표 정렬 제거](workfront-goals/manage-your-goals/remove-goal-alignment.md)
