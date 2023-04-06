@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 <!--Insert link to LP 1, above -->
 
-목표 정렬을 사용하여 다음을 수행합니다.
+목표 정렬 섹션을 사용하여 다음을 수행합니다.
 
 * 사용자 또는 조직에 속한 목표를 봅니다.
 * 목표 계층 구조를 표시하고 정렬된 하위 목표를 봅니다.
-* 목표 세부 사항 패널에 액세스하여 목표, 결과 또는 활동을 업데이트합니다.
+* 목표를 열어 진행 상태 표시기를 확인합니다.
 
 목표가 정렬되도록 하는 것은 하향식 모든 사람이 동일한 이니셔티브를 추진하는 작업을 수행할 것임을 의미합니다. 시각화는 각 주요 기업 목표가 부서별, 팀 및 개별 수준에 맞게 직접 정렬되는 방식의 중요한 부분입니다. 팀 간 기능적으로 정렬하면 사일로가 줄어듭니다. 정렬은 모든 사람의 목적에 대한 명확성을 만들고 이 조직을 정말로 중요한 것에 연결합니다.
 
@@ -49,6 +49,7 @@ ht-degree: 0%
 
 이 비디오에서는 다음 방법을 배웁니다.
 
-* 탐색 [!UICONTROL 목표 정렬] 페이지
+* 상향 및 하향 접근 방식을 모두 사용하여 목표 정렬
+* 탐색 [!UICONTROL 목표 정렬] 섹션
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)

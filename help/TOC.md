@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '2344'
+source-wordcount: '2346'
 ht-degree: 2%
 
 ---
@@ -310,7 +310,7 @@ ht-degree: 2%
    + 목표 관리 {#manage-goals}
       + [목표 맞춤](workfront-goals/manage-your-goals/align-your-goals.md)
       + [목표 정렬 제거](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-      + [수량 업데이트](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
+      + [결과 및 활동의 진행 상태 업데이트](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [완료되면 목표 닫기](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + 목표 모니터링 {#monitor-goals}
       + [그래프 섹션 이해](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)

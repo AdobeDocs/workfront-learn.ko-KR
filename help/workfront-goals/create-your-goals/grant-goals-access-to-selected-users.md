@@ -1,5 +1,5 @@
 ---
-title: 편집 [!UICONTROL 액세스 수준] 대상 [!DNL Workfront Goals]
+title: 선택한 사용자에게 목표 액세스 권한 부여
 description: 에서 사용자의 라이선스 유형에 따라 액세스 수준을 편집하는 방법을 알아봅니다. [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
@@ -10,18 +10,18 @@ team: Technical Marketing
 kt: 8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# 액세스 수준 편집 [!DNL Workfront Goals]
+# 선택한 사용자에게 목표 액세스 권한 부여
 
 이 비디오에서는 다음 방법을 배웁니다.
 
-* 라이선스 유형에 따라 액세스 수준 편집
+* 선택한 사용자에게 목표 액세스 권한 부여
 
 >[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
 
