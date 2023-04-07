@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10119
 exl-id: fa7aba9b-503e-4fad-93ee-9b709a839e11
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -34,11 +34,8 @@ ht-degree: 0%
 
 ![의 다양한 진행률 레이블을 포함하는 그래픽 [!DNL Workfront Goals]](assets/15-workfront-goals-progress-bar-code.png)
 
-![목표 진행 비율 열의 스크린샷입니다 [!UICONTROL 체크인] 섹션 [!DNL Workfront Goals]](assets/16-workfront-goals-progress-status-bar.png)
 
-<!-- Learn more graphic -->
+>[!TIP]
+>
+>목표 진행 상황을 계산하는 데 사용되는 공식에 대한 자세한 내용은 다음 문서를 참조하십시오. [Adobe Workfront 목표의 목표 진행 및 조건 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold).
 
-* 목표 진행 상황을 계산하는 데 사용되는 공식에 대한 자세한 내용은 다음 공식을 참조하십시오. [!DNL   Goals].
-
-
-<!-- need link to documentation article, above -->
