@@ -10,16 +10,14 @@ level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
 
 # 라우터 연습
-
-## 개요
 
 라우터를 사용하여 Pokemon과 슈퍼히어로들 번들을 올바른 경로로 전달한 다음 각 캐릭터에 대한 작업을 만듭니다.
 

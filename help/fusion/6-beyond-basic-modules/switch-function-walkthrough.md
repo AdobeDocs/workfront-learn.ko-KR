@@ -10,16 +10,14 @@ level: Beginner
 kt: 9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 # 스위치 함수 연습
-
-## 개요
 
 간단한 데이터 변경의 경우 Switch 함수를 사용하여 모듈 필드 내에서 한 값을 다른 값으로 변환합니다. 이 연습에서는 두 글자로 된 키를 전자 메일로 전송된 프로젝트 진행 상태의 실제 이름으로 변경합니다.
 

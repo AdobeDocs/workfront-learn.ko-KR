@@ -10,16 +10,14 @@ level: Beginner
 kt: 9067
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 1%
+source-wordcount: '93'
+ht-degree: 0%
 
 ---
 
 # 완료되지 않은 실행 연습
-
-## 개요
 
 불완전한 실행을 저장하고 오류를 평가하고 수정한 후 번들을 다시 실행할 때 제공된 값을 이해하는 유용한 습관을 알아봅니다.
 

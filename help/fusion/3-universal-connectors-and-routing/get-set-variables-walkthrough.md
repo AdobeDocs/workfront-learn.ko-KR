@@ -10,16 +10,14 @@ level: Beginner
 kt: 9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
 
 # 변수 설정 및 가져오기 연습
-
-## 개요
 
 Workfront에서 프로젝트에 대한 정보를 조회하고 관련 정보가 포함된 이메일을 전송합니다.
 

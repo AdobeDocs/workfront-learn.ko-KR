@@ -10,16 +10,14 @@ level: Beginner
 kt: 9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
 # 라우팅 패턴 및 폴백 연습
-
-## 개요
 
 변수 설정 모듈을 사용하여 여러 경로를 통해 숫자를 전송하여 라우팅 시 필터 및 폴백이 작동하는 방식을 확인할 수 있습니다.
 

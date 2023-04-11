@@ -10,16 +10,14 @@ level: Beginner
 kt: 9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 1%
+source-wordcount: '90'
+ht-degree: 0%
 
 ---
 
 # 배열 연습
-
-## 개요
 
 단순 및 복잡한 배열이 사용된 이전 연습 연습을 검토합니다. 필요한 경우 스토리지 기능을 사용하여 정보를 활용하는 방법과 이러한 방법을 살펴봅니다.
 

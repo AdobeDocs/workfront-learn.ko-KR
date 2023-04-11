@@ -10,16 +10,14 @@ level: Beginner
 kt: 9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
 # 초기 시나리오 디자인 연습
-
-## 개요
 
 프로젝트 목록 CSV 파일의 각 행에 대해 Workfront에서 새 프로젝트를 만듭니다.
 

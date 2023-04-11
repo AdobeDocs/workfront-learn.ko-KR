@@ -10,16 +10,14 @@ level: Beginner
 kt: 9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 # 데이터 구조 연습
-
-## 개요
 
 시간 항목 목록이 포함된 CSV 파일을 엽니다. 이 시간 항목은 여러 사용자가 특정 일 동안 로그인한 시간(분)입니다. 목표는 이 정보를 가져와서 각 사용자가 매일 로그인한 총 시간(시간)을 표시하는 새 CSV를 만드는 것입니다.
 

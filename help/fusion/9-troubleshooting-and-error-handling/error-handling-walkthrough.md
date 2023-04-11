@@ -10,16 +10,14 @@ level: Beginner
 kt: 9065
 exl-id: ce7c810d-e62b-4561-9b94-a7d4075ce654
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 1%
+source-wordcount: '90'
+ht-degree: 0%
 
 ---
 
 # 오류 처리 연습
-
-## 개요
 
 기본 오류 처리가 발생하는 방식과 지시어를 사용하여 특정 모듈 오류 처리를 추가하는 방법을 이해합니다.
 

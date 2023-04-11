@@ -10,16 +10,14 @@ level: Beginner
 kt: 9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # 실행 기록 연습
-
-## 개요
 
 &quot;강력한 필터 사용&quot; 시나리오에 대한 실행 내역을 검토하여 실행 시 발생한 작업과 실행 시 구조화된 방법을 이해합니다.
 

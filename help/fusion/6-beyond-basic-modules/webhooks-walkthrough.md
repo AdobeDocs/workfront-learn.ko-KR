@@ -10,16 +10,14 @@ level: Beginner
 kt: 9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
 # Webhooks 연습
-
-## 개요
 
 이 시나리오는 고객이 술을 구입할 만큼 나이가 들었는지 여부를 쉽게 결정할 수 있도록 편의점 앱을 만듭니다. 계산원은 제공된 URL에 고객의 이름과 생년월일 및 검증된 클라이언트 토큰을 게시하면 됩니다. 입력한 후 해당 응답을 계산하여 요청자에게 반환하기 위해 시나리오를 트리거합니다.
 

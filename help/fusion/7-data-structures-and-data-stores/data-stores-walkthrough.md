@@ -10,16 +10,14 @@ level: Beginner
 kt: 9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
 
 # 데이터 저장소 연습
-
-## 개요
 
 이 연습에서는 데이터 저장소를 사용하여 회사 목록과 Workfront 간에 회사 이름을 동기화합니다.
 

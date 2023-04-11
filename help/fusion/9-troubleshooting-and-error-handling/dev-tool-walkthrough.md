@@ -10,16 +10,14 @@ level: Beginner
 kt: 9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # 개발 도구 연습
-
-## 개요
 
 Workfront 개발 도구에서 다양한 영역을 설치하고 사용하여 만든 요청/응답 및 고급 시나리오 디자인 트릭을 자세히 살펴봅니다.
 

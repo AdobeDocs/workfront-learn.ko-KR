@@ -10,16 +10,14 @@ level: Beginner
 kt: 9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # 반복기 소개 연습
-
-## 개요
 
 Workfront에서 특정 프로젝트를 보고 해당 프로젝트 내의 모든 작업을 확인합니다. 그런 다음 증분 도구 모듈을 사용하여 프로젝트 내의 작업 수를 계산합니다. 마지막으로 변수 설정 모듈을 사용하여 열린 문제 수에서 하위 수를 빼서 각 작업 번들에 대한 숫자 값을 생성합니다.
 

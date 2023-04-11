@@ -10,16 +10,14 @@ level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # 기본 매핑 연습 넘어
-
-## 개요
 
 매핑 패널 공식을 사용하여 첫 번째 연습에서 만든 &quot;초기 시나리오 디자인&quot;에서 프로젝트 이름, 계획 시작 날짜 및 우선 순위를 변경합니다.
 

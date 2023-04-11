@@ -10,16 +10,14 @@ level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
 # 강력한 필터 연습 사용
-
-## 개요
 
 이전에 만든 &quot;기본 매핑 이외의&quot; 연습 연습을 사용하여 모듈의 두 모듈 사이에 필터를 추가하여 프로젝트 목록에 &quot;빨간색&quot; 프로젝트 색상이 있는 프로젝트만 만듭니다.
 
