@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
+source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
 workflow-type: tm+mt
-source-wordcount: '2353'
+source-wordcount: '2360'
 ht-degree: 2%
 
 ---
@@ -141,6 +141,7 @@ ht-degree: 2%
       + [흐름 요청에 대한 설정 이해](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [요청 큐 만들기](manage-work/request-queues/create-a-request-queue.md)
       + [요청 흐름 만들기](manage-work/request-queues/create-a-request-flow.md)
+      + [요청 큐에 대한 일반적인 질문에 대한 답변](manage-work/request-queues/request-queue-faq.md)
    + 승인 프로세스 및 이정표 경로 {#approval-processes-and-milestone-paths}
       + [단일 사용 승인 프로세스 만들기](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [기존 승인 프로세스 첨부 및 편집](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
