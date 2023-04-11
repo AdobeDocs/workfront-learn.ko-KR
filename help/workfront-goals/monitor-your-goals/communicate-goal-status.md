@@ -9,16 +9,16 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '469'
+ht-degree: 1%
 
 ---
 
 # 목표 상태 전달
 
-목표를 업데이트했다면, 잠시 뒤로 물러나서 여러분이 작업하고 있는 목표들과 그들이 팀, 그룹, 그리고 회사 목표들과 어떻게 관련되는지를 조밀하게 살펴보는 것이 좋습니다. 목표 진행 상황과 상태에 대해 다른 사람과 소통하는 것은 정렬하는 데 중요한 부분입니다.
+목표를 업데이트했다면 잠시 뒤로 물러나서 여러분이 작업하고 있는 목표들과 그들이 팀, 그룹, 그리고 회사 목표에 어떻게 관련되는지를 새로운 눈으로 보는 것을 보세요. 목표 진행 상황과 상태에 대해 다른 사람과 소통하는 것은 정렬하는 데 중요한 부분입니다.
 
 올바른 사람을 목표에 맞게 업데이트하는 방법에는 여러 가지가 있습니다. 다음을 기준으로 시작할 수 있습니다.
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1. 목표 이름 옆에 있는 3점 아이콘을 클릭한 다음 [!UICONTROL **공유**]. 다음 [!UICONTROL 목표 액세스] 상자가 표시됩니다.
 
-   ![자산](assets/17-workfront-goals-share-a-goal.png)
+   ![목표 공유 스크린샷](assets/17-workfront-goals-share-a-goal.png)
 
 1. 다음 중 하나를 수행하십시오.
 

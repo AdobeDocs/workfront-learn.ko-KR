@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2353'
 ht-degree: 2%
 
 ---
@@ -222,6 +222,7 @@ ht-degree: 2%
       + [고급 보고 파트 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [고급 보고 파트 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
    + 고급 Analytics {#enhanced-analytics}
+      + [제품 관련 잠시 [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [시작하기 [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [추가 [!UICONTROL analytics] 템플릿 레이아웃 지정](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [기본 탐색 이해](reporting/enhanced-analytics/4-basic-navigation.md)

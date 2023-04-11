@@ -1,5 +1,5 @@
 ---
-title: Workfront Analytics로
+title: 제품 관련 잠시 - Workflate Analytics 소개
 description: Analytics가 어떻게 만들어졌는지, Joel Pettigrade의 제품 관리자를 통해 이 기능이 가능한 뛰어난 기능을 살펴볼 수 있습니다 [!DNL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 doc-type: video
 kt: 8870
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
