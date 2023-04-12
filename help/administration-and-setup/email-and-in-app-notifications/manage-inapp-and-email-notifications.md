@@ -1,7 +1,7 @@
 ---
 title: 인앱 및 이메일 이벤트 알림 관리
 description: 사용자가 수신하는 인앱 및 이메일 알림을 제어하여 작업에 관한 유용한 이메일을 수신하는 방법에 대해 알아보십시오.
-short-description: Learn how users can control which in-app and email notifications they receive.
+short-description: 사용자가 수신하는 인앱 및 이메일 알림을 제어하는 방법을 알아봅니다.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -13,8 +13,8 @@ kt: 10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 11%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
