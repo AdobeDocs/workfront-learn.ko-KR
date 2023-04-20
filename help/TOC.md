@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
+source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
 workflow-type: tm+mt
-source-wordcount: '2360'
+source-wordcount: '2368'
 ht-degree: 2%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 2%
       + [레이아웃 템플릿 찾기](administration-and-setup/layout-templates/find-layout-templates.md)
       + [레이아웃 템플릿을 사용하여 용어 사용자 지정](administration-and-setup/layout-templates/customize-workfront-terminology.md)
       + [사용자 지정 [!UICONTROL 기본 메뉴] 레이아웃 템플릿 사용](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [레이아웃 템플릿을 통해 핀 추가 및 관리](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
       + [레이아웃 템플릿으로 홈 사용자 지정](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [레이아웃 템플릿에 대한 액세스 할당 및 관리](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [레이아웃 템플릿으로 개체 영역 사용자 정의](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
@@ -64,6 +65,7 @@ ht-degree: 2%
       + [이정표 만들기](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
    + 시스템 성능 및 유지 관리 {#system-perfomance-and-maintenance}
       + [기존 Adobe Workfront 인스턴스 관리](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
