@@ -1,5 +1,5 @@
 ---
-title: 프로젝트를 만드는 다른 방법 이해
+title: 프로젝트를 만드는 네 가지 방법을 알아봅니다
 description: 템플릿에서 프로젝트를 만들거나, 프로젝트를 처음부터 만들거나, 기존 프로젝트를 복사하거나, [!DNL Microsoft Project] 파일.
 activity: use
 feature: Work Management
@@ -11,14 +11,14 @@ team: Technical Marketing
 kt: 8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-# 프로젝트를 만드는 다른 방법 이해
+# 프로젝트를 만드는 네 가지 방법을 알아봅니다
 
 이 비디오에서는 다음 방법을 배웁니다.
 

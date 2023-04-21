@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '2368'
+source-wordcount: '2369'
 ht-degree: 2%
 
 ---
@@ -100,7 +100,7 @@ ht-degree: 2%
 + 작업 관리 {#manage-work}
    + 프로젝트 {#projects}
       + [기본 프로젝트 작성 이해](manage-work/projects/understand-basic-project-creation.md)
-      + [프로젝트를 만드는 다른 방법 이해](manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [프로젝트를 만드는 네 가지 방법을 알아봅니다](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [프로젝트 세부 사항을 입력합니다](manage-work/projects/fill-in-the-project-details.md)
       + [프로젝트 페이지 탐색](manage-work/projects/navigate-the-project-page.md)
       + [프로젝트 계획 시작](manage-work/projects/getting-started-plan-a-project.md)
