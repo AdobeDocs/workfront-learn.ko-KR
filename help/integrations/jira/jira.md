@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 1402821a23ed67d46179e419aff18f7befc66620
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 0%
 ## 정의 [!DNL Jira] ?
 
 [!DNL Jira]  는 에서 만든 제품입니다 [!DNL Atlassian] 개발 및 기술 지원 팀에 대한 프로젝트 및 문제를 추적하려면 다음을 수행하십시오. 많은 팀이 [!DNL Jira]  작업 수준 진행 상태를 추적하지만 [!DNL Workfront] 프로젝트를 관리하려면 즉, 팀이 두 작업 모두에서 작업을 만들어 노력을 두 배로 늘립니다 [!DNL Workfront] 및 [!DNL Jira] . 아직 [!DNL Jira]  네이티브 통합. 이러한 종류의 정보는 두 애플리케이션 간에 자동으로 전송될 수 있습니다.
+
+## Jira용 Adobe Workfront을 설치하려면 어떻게 해야 합니까?
+
+이동 [지라용 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=en) jira용 Adobe Workfront을 설치 및 구성하는 방법을 알아봅니다.
 
 ## 다음을 수행할 수 있습니다. [!DNL Jira]  통합?
 
