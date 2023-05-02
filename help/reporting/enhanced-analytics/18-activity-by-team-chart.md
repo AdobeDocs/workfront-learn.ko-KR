@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -42,5 +42,5 @@ ht-degree: 0%
 ## 차트로 이동하는 방법
 
 1. 을(를) 클릭합니다. [!UICONTROL 사람] 왼쪽 패널에서 탭을 클릭합니다.
-1. 를 사용하십시오 [!UICONTROL 필터] 검사할 홈 팀을 선택합니다.
+1. 를 사용하십시오 [!UICONTROL 필터] 검사할 하나 이상의 홈 팀을 선택합니다.
 1. 팀별 활동이 사람 차트 맨 위에 표시됩니다.

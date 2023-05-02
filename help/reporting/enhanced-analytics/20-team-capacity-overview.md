@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 ## 차트로 이동하는 방법
 
 1. 을(를) 클릭합니다. [!UICONTROL 사람] 왼쪽 패널에서 탭을 클릭합니다.
-1. 를 사용하십시오 [!UICONTROL 필터] 검사할 홈 팀을 선택합니다.
+1. 를 사용하십시오 [!UICONTROL 필터] 검사할 하나 이상의 홈 팀을 선택합니다.
 1. 팀 용량 차트가 아래에 표시됩니다 [!UICONTROL 자원 능력] 차트.
 
 ## 차트 사용 방법
