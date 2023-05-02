@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -38,3 +38,9 @@ ht-degree: 0%
 1. 자주색 상자에서는 해당 날에 로그인한 프로젝트에 할당된 사용자가 더 어두운 색조를 사용하여 로그인한 사용자가 더 많다는 것을 보여줍니다.
 1. 분홍 상자는 사용자가 해당 날에 프로젝트의 작업 상태를 변경했으며, 세부 색조가 더 많은 작업 상태가 변경되었음을 나타냅니다.
 1. 파란색 상자는 사용자가 프로젝트에 대한 작업을 완료했음을 보여 주고, 세부 음영으로 완료되는 작업이 더 많음을 나타냅니다.
+
+## 차트로 이동하는 방법
+
+1. 을(를) 클릭합니다. [!UICONTROL 사람] 왼쪽 패널에서 탭을 클릭합니다.
+1. 를 사용하십시오 [!UICONTROL 필터] 검사할 홈 팀을 선택합니다.
+1. 팀별 활동이 사람 차트 맨 위에 표시됩니다.

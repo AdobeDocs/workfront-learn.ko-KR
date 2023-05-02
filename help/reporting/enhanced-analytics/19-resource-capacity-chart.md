@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ ht-degree: 0%
 1. 시간은 바닥을 가로질러 있다. 차트의 x축이고 위의 팀에 표시되는 시간 범위로 계산됩니다.
 1. 원은 홈 팀에 지정된 계획 시간 수를 표시합니다.
 1. 세로줄은 홈 팀에서 사용할 수 있는 총 시간 수를 보여줍니다.
+
+## 차트로 이동하는 방법
+
+1. 을(를) 클릭합니다. [!UICONTROL 사람] 왼쪽 패널에서 탭을 클릭합니다.
+1. 를 사용하십시오 [!UICONTROL 필터] 검사할 홈 팀을 선택합니다.
+1. 이 표시됩니다 [!UICONTROL 자원 능력] 차트가 팀 활동 차트 아래에 나타납니다.
 
 ## 차트 사용 방법
 

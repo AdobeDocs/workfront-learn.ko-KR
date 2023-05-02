@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ ht-degree: 0%
 1. 하단의 날짜는 선택한 날짜 범위에서 가져옵니다.
 1. 어두운 파란색 채우기 색상은 홈 팀이 불꺼짐(4)을 경험했거나 문제가 없음을 나타냅니다.
 1. 밝은 파란색이나 더 투명한 파란색은 홈 팀의 작업 부하가 균형을 잡음을 나타냅니다
+
+## 차트로 이동하는 방법
+
+1. 을(를) 클릭합니다. [!UICONTROL 사람] 왼쪽 패널에서 탭을 클릭합니다.
+1. 를 사용하십시오 [!UICONTROL 필터] 검사할 홈 팀을 선택합니다.
+1. 팀 용량 차트가 아래에 표시됩니다 [!UICONTROL 자원 능력] 차트.
 
 ## 차트 사용 방법
 
