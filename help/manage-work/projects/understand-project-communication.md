@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 통신 이해
-description: 프로젝트, 작업, 문제 또는 문서에 대한 업데이트를 사용하여 프로젝트 작업에 대해 통신하는 방법을 알아봅니다. 그런 다음 의 기존 업데이트를 검토합니다 [!DNL  Workfront].
+description: 좋은 프로젝트 계획, 업데이트, 작업 상태, 완료%, 문제 및 보고서를 사용하여 프로젝트 작업에 대해 통신하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,32 +8,30 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-05T00:00:00Z
 kt: 10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 96e0a94ad39354765c171f762003c58feec5a4c8
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 2%
 
 ---
 
 # 프로젝트 통신 이해
 
-프로젝트 경영의 90%는 의사소통이다. 프로젝트 팀, 관리자 및 프로젝트 이해 관계자와 커뮤니케이션
+이 비디오에서는 다음을 사용하여 모든 프로젝트 이해 관계자와 통신하는 방법을 알아봅니다.
 
-하지만 프로젝트 팀이 프로젝트 커뮤니케이션에 이메일, 인스턴트 메시징, 회의, 스티커 메모 등을 사용하면 정보가 산란됩니다... 더 나빠지거나 잊혀집니다. 에서 프로젝트 자체에 대한 프로젝트 작업에 대한 커뮤니케이션을 유지합니다. [!DNL Workfront] 업데이트 사용.
+* 좋은 프로젝트 계획
+* 업데이트
+* 작업 상태 및 완료 퍼센트
+* 문제
+* 보고서
 
-프로젝트 팀 구성원이 할당에 대해 작업하면서 [!DNL Workfront] [!UICONTROL 홈] Analytics Mobile Apps 또는 Analytics Premium이 있어야 합니다.
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on)
 
-![프로젝트의 업데이트 섹션](assets/planner-fund-project-communication.png)
-
-작업, 문제 및 문서의 업데이트가 프로젝트 수준으로 롤업됩니다 [!UICONTROL 업데이트] 탭, 정보를 빠르고 쉽게 볼 수 있습니다.
-
-그런 다음 버튼을 클릭하기만 하면 업데이트에 응답할 수 있습니다. 이렇게 하면 모든 대화가 한 곳에서 유지되므로 나중에 다시 볼 수 있습니다.
-
-<!---
-learn more urls
-Communicate about work in Home
-Subscribe to items in Workfront
-Update work
---->
+>[!TIP]
+>
+>비디오에 표시된 노트 검색 보고서를 만들려면, [작업 보고서 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) 자습서입니다.
+>
+>프로젝트 패널에 참고 검색 보고서를 추가하려면 [대시보드 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) 자습서입니다.
