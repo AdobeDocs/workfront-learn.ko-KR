@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: d85820a7516bfde170ec1df8ce96b16dafab2cf1
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,11 @@ ht-degree: 0%
 ![보기가 표시된 프로젝트 작업 목록](assets/planner-fund-task-list-fvg.png)
 
 많은 [!DNL Workfront] 고객은 사용자 정의 양식 정보와 수행 중인 작업과 관련된 기타 필드를 표시하는 사용자 정의 보기를 만듭니다.
+
+## 사용자 지정 필터, 보기 및 그룹화를 만드는 방법을 알아봅니다
+
+[기본 필터 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
+
+[기본 보기 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+
+[기본 그룹 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
