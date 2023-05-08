@@ -1,6 +1,6 @@
 ---
 title: 그룹 관리자의 필요성 이해
-description: 시스템 관리자가 그룹 관리자를 사용하여 유지 관리를 지원하는 방법을 알아봅니다 [!DNL Workfront] 그룹에 작업을 더 잘 제어할 수 있도록 하는 설정.
+description: 시스템 관리자가 그룹 관리자를 사용하여  [!DNL Workfront]  설정을 유지하면서도 그룹에 작업에 대한 더 많은 제어 권한을 부여하는 방법을 알아보십시오.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
