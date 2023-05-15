@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
+source-git-commit: c59055ce84ea42d7f7f20fa9e0e414fa50e73938
 workflow-type: tm+mt
-source-wordcount: '2369'
+source-wordcount: '2366'
 ht-degree: 2%
 
 ---
@@ -113,9 +113,9 @@ ht-degree: 2%
       + [전체 프로젝트 진행 상태 추적](manage-work/projects/track-overall-project-progress.md)
       + [프로젝트 지표를 사용하여 작업 진행 상태 추적](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [이해 [!UICONTROL 간트] 보기](manage-work/projects/understand-the-gantt-view.md)
-      + [프로젝트 상태 변경](manage-work/projects/change-the-project-status.md)
+      + [프로젝트 닫기](manage-work/projects/change-the-project-status.md)
    + 작업 {#tasks}
-      + [작업을 만드는 방법](manage-work/tasks/how-to-create-tasks.md)
+      + [작업 만들기](manage-work/tasks/how-to-create-tasks.md)
       + [상위-하위 작업 이해](manage-work/tasks/understand-parent-child-tasks.md)
       + [작업](manage-work/tasks/work-with-tasks.md)
       + [프로젝트 계획에서 작업 할당](manage-work/tasks/assign-tasks-from-the-project-plan.md)
