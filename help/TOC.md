@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
+source-git-commit: 81ea900e3204fac1c3c4e4b11e380ae487122410
 workflow-type: tm+mt
-source-wordcount: '2367'
+source-wordcount: '2368'
 ht-degree: 2%
 
 ---
@@ -364,10 +364,10 @@ ht-degree: 2%
 
 + Fusion {#fusion}
    + Workfront Fusion 시작 {#welcome-to-workfront-fusion}
-      + [Workfront Fusion 개요](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
+      + [소개 및 기술 전략](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
+      + [Workfront Fusion 교육 개요](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
       + [Workfront Fusion 운동 파일 설정](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
       + [새 사용자로 로그인](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
-      + [소개 및 기술 전략](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
       + [핵심 개념](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
    + 기본 사항 이해 {#understand-the-basics}
       + [초기 시나리오 디자인 연습](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
