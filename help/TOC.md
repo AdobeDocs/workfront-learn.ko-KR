@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 81ea900e3204fac1c3c4e4b11e380ae487122410
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '2368'
+source-wordcount: '2370'
 ht-degree: 2%
 
 ---
@@ -23,8 +23,10 @@ ht-degree: 2%
       + [라이선스 및 액세스 수준으로 사용자 설정](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
       + [작업 역할 만들기 및 관리](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [다른 사용자로 로그인](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
+
    + 삭제된 항목 관리 {#manage-deleted-items}
       + [휴지통에서 개체 복원](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
+
    + 시스템 기본값 구성 {#configure-system-defaults}
       + [전역 기본 프로젝트 설정 구성](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
       + [기본 문제 유형 이해](administration-and-setup/configure-system-defaults/default-issue-types.md)
@@ -33,6 +35,7 @@ ht-degree: 2%
       + [문제 심각도 만들기 및 관리](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [문제 유형 및 용어 맞춤화](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [글로벌 기본 문제 환경 설정 구성](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+
    + 레이아웃 템플릿 {#layout-templates}
       + [레이아웃 템플릿이란 무엇입니까?](administration-and-setup/layout-templates/what-are-layout-templates.md)
       + [레이아웃 템플릿 찾기](administration-and-setup/layout-templates/find-layout-templates.md)
@@ -45,6 +48,8 @@ ht-degree: 2%
       + [레이아웃 템플릿을 사용하여 프로젝트 세부 정보 사용자 정의](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
       + [레이아웃 템플릿을 사용하여 프로젝트 헤더 사용자 정의](administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
       + [레이아웃 템플릿을 사용하여 보고 목록 사용자 정의](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
+
+
    + 이메일 및 인앱 알림 {#email-and-in-app-notifications}
       + [인앱 및 이메일 알림 관리](administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
       + [이벤트 알림 설정](administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
@@ -53,6 +58,7 @@ ht-degree: 2%
       + [작업 항목에 미리 알림 첨부](administration-and-setup/email-and-in-app-notifications/user-attach-reminder-notifications.md)
       + [자동 미리 알림 설정](administration-and-setup/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
       + [작업 항목 구독](administration-and-setup/email-and-in-app-notifications/user-subscribe-to-work-items.md)
+
    + 사용자 만들기 및 관리 {#create-and-manage-users}
       + [사용자 추가](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
       + [개별 사용자 만들기](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
@@ -60,19 +66,13 @@ ht-degree: 2%
       + [사용자 정보 수정](administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [사용자 비활성화 또는 삭제 시기 및 방법](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [시스템 감사 로그 이해](administration-and-setup/create-and-manage-users/system-audit-log.md)
+
    + 승인 프로세스 및 마일스톤 경로 {#approval-processes-and-milestone-paths}
       + [그룹별 승인 프로세스 이해](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
       + [마일스톤 만들기](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+
    + 시스템 성능 및 유지 관리 {#system-perfomance-and-maintenance}
       + [기존 Adobe Workfront 인스턴스 관리](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
-
-
-
-
-
-
-
-
 
 
 + 사용자 정의 데이터 {#custom-data}
@@ -82,6 +82,7 @@ ht-degree: 2%
       + [사용자 정의 양식 편집](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [오브젝트에 사용자 정의 양식 첨부](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [사용자 정의 양식을 PDF으로 내보내기](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
+
    + 계산된 표현식 {#calculated-expressions}
       + [계산된 필드 및 표현식 시작](custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
       + [데이터 표현식 구조 학습](custom-data/calculated-expressions/data-expression-structure.md)
@@ -95,7 +96,6 @@ ht-degree: 2%
       + [ISBLANK 및 CONTAINS 표현식 사용](custom-data/calculated-expressions/isblank-and-contains.md)
       + [IF 텍스트 표현식 만들기](custom-data/calculated-expressions/create-an-if-text-expression.md)
       + [계산된 필드 표현식에 대해 알아야 할 사항](custom-data/calculated-expressions/things-to-know-about-expressions.md)
-
 
 + 작업 관리 {#manage-work}
    + 프로젝트 {#projects}
@@ -114,6 +114,7 @@ ht-degree: 2%
       + [프로젝트 지표를 사용하여 작업 진행 추적](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [이해 [!UICONTROL 간트] 보기](manage-work/projects/understand-the-gantt-view.md)
       + [프로젝트 닫기](manage-work/projects/change-the-project-status.md)
+
    + 작업 {#tasks}
       + [작업 만들기](manage-work/tasks/how-to-create-tasks.md)
       + [상위-하위 작업 이해](manage-work/tasks/understand-parent-child-tasks.md)
@@ -123,6 +124,7 @@ ht-degree: 2%
       + [작업 시퀀스 지정 방법 알아보기](manage-work/tasks/learn-to-sequence-tasks.md)
       + [계획된 시간 이해](manage-work/tasks/understand-planned-hours.md)
       + [이해 [!UICONTROL 작업 노력]](manage-work/tasks/understand-work-effort.md)
+
    + 문제/요청 {#issues-requests}
       + [계획되지 않은 작업 처리](manage-work/issues-requests/handle-unplanned-work.md)
       + [요청](manage-work/issues-requests/make-a-request.md)
@@ -132,33 +134,39 @@ ht-degree: 2%
       + [요청 업데이트](manage-work/issues-requests/update-a-request.md)
       + [요청에서 프로젝트 만들기](manage-work/issues-requests/create-a-project-from-a-request.md)
       + [문제를 다른 작업 항목으로 변환](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [디지털 작업 검토](manage-work/issues-requests/review-and-approve-digital-work.md)
+      + [디지털 작업 검토 및 승인](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [문제에 대한 보고서](manage-work/issues-requests/report-on-issues.md)
+
    + 포트폴리오 {#portfolios}
       + [포트폴리오 개요](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [비즈니스 사례 소개](portfolios-and-programs/introduction-to-the-business-case.md)
       + [포트폴리오 작업의 우선 순위 지정 및 관리](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+
    + 요청 대기열 {#request-queues}
       + [요청 대기열 이해](manage-work/request-queues/understand-request-queues.md)
       + [흐름 요청에 대한 설정 이해](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [요청 대기열 만들기](manage-work/request-queues/create-a-request-queue.md)
       + [요청 흐름 만들기](manage-work/request-queues/create-a-request-flow.md)
       + [요청 대기열에 대한 일반적인 질문에 대한 답변](manage-work/request-queues/request-queue-faq.md)
+
    + 승인 프로세스 및 마일스톤 경로 {#approval-processes-and-milestone-paths}
       + [일회용 승인 프로세스 만들기](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [기존 승인 프로세스 첨부 및 편집](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [작업, 문제 및 승인 위임](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [마일스톤 보기](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
       + [마일스톤 적용](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+
    + 프로젝트 템플릿 만들기 및 관리 {#create-and-manage-project-templates}
       + [프로젝트 템플릿 만들기](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [템플릿에서 바로 프로젝트 만들기](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [프로젝트 템플릿 공유](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [기존 프로젝트 복사](manage-work/manage-projects/copy-an-existing-project.md)
+
    + 프로젝트 타임라인 {#project-timelines}
       + [프로젝트 타임라인 이해](manage-work/project-timelines/understand-project-timelines.md)
       + [날짜 유형 및 진행 상태 이해](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [프로젝트 타임라인에서 진행 상황 추적](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+
    + 프로젝트 닫기 {#close-a-project}
       + [프로젝트 닫기](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [작업 및 문제 닫기](manage-work/close-a-project/close-tasks-and-issues.md)
@@ -167,6 +175,7 @@ ht-degree: 2%
       + [학습한 레슨 기록](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [시간 기록 및 검토](manage-work/close-a-project/log-and-review-hours.md)
       + [프로젝트 활동 닫기](manage-work/close-a-project/close-a-project-activity.md)
+
    + 프로젝트 재무 {#project-finances}
       + [성능 지표 이해](manage-work/project-finances/understand-performance-metrics.md)
       + [작업 수익 및 비용 기본값 설정](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
@@ -176,15 +185,6 @@ ht-degree: 2%
       + [재무 업데이트 및 검토](manage-work/project-finances/update-and-review-finances.md)
       + [재무 정보 찾기](manage-work/project-finances/find-financial-information.md)
       + [여러 청구 요금 이해](manage-work/project-finances/multiple-billing-rates.md)
-
-
-
-
-
-
-
-
-
 
 
 
@@ -208,6 +208,7 @@ ht-degree: 2%
       + [사용자 지정 달력 만들기](reporting/basic-reporting/creating-custom-calendars.md)
       + [추가 캘린더 옵션 이해](reporting/basic-reporting/additional-calendar-options.md)
       + [캘린더를 만들 차례입니다.](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
+
    + 중간 보고 {#intermediate-reporting}
       + [사용자 기반 와일드카드로 필터 만들기](reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
       + [날짜 기반 와일드카드로 필터 만들기](reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
@@ -219,11 +220,13 @@ ht-degree: 2%
       + [보기의 기본 텍스트 모드 이해](reporting/intermediate-reporting/basic-text-mode-for-views.md)
       + [그룹화를 위한 기본 텍스트 모드 이해](reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [사용자 지정 프롬프트 만들기](reporting/intermediate-reporting/custom-prompts.md)
+
    + 고급 보고 {#advanced-reporting}
       + [고급 보고 시작](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
       + [고급 보고 1부](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [고급 보고 2부](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [고급 보고 3부](reporting/advanced-reporting/advanced-reporting-part-3.md)
+
    + 고급 Analytics {#enhanced-analytics}
       + [제품에 대해 잠시 설명 [!UICONTROL 향상된 분석]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [시작 [!UICONTROL 향상된 분석]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
@@ -249,15 +252,13 @@ ht-degree: 2%
       + [최종 사용자 사용 사례 이해](reporting/enhanced-analytics/22-end-user-use.md)
       + [컨설팅 지침 이해](reporting/enhanced-analytics/23-consulting-guidance.md)
 
-
-
-
 + 리소스 관리 {#manage-resources}
    + 리소스 관리 {#resource-management}
       + [리소스 관리 성숙도](manage-resources/resource-management/resource-management-maturity.md)
       + [프로젝트에 대한 리소스 관리 설정](manage-resources/resource-management/settings-for-projects.md)
       + [사용자에 대한 리소스 관리 설정](manage-resources/resource-management/settings-for-users.md)
       + [리소스 관리 설정, 업무 균형자 및 활용률 보고서](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+
    + 워크로드 밸런서 {#workload-balancer}
       + [업무 균형자 찾기](manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [업무 균형자 필터링](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
@@ -265,18 +266,21 @@ ht-degree: 2%
       + [업무 균형자에서 일별 할당 조정](manage-resources/workload-balancer/adjust-daily-allocations.md)
       + [업무 균형자에 대해 고려할 설정](manage-resources/workload-balancer/settings-to-consider-for-the-workload-balancer.md)
       + [업무 균형자에서 작업 할당](manage-resources/workload-balancer/assign-work-in-the-workload-balancer.md)
+
    + 리소스 계획 수립 {#resource-planning}
       + [리소스 플래너란 무엇입니까?](manage-resources/resource-planning/what-is-the-resource-planner.md)
       + [활용성 보기](manage-resources/resource-planning/view-utlization-intro-filter-the-resource-planner.md)
       + [사용자별 보기](manage-resources/resource-planning/view-by-users/view-by-users.md)
       + [작업 역할별 보기](manage-resources/resource-planning/view-by-job-role/view-by-job-role.md)
       + [프로젝트별 보기](manage-resources/resource-planning/view-by-project/view-by-project.md)
+
    + 개인 휴무 일정 {#personal-time-off-calendar}
       + [휴무 캘린더를 사용하는 이유는 무엇입니까?](manage-resources/pto/why-use-time-off-calendar.md)
       + [휴무가 프로젝트 타임라인에 미치는 영향](manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [다른 사용자 휴가 관리](manage-resources/pto/manage-other-users-time-off.md)
       + [작업 할당 시 휴무 확인](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [리소스 관리 툴의 가시성](manage-resources/pto/visibility-in-resource-management-tools.md)
+
    + 시나리오 플래너 {#scenario-planner}
       + [시나리오 플래너에 대한 제품 관련 잠시](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [시나리오 플래너란 무엇입니까?](manage-resources/scenario-planner/what-is-scenario-planner.md)
@@ -287,10 +291,6 @@ ht-degree: 2%
       + [계획 업데이트 및 복사](manage-resources/scenario-planner/update-and-copy-plans.md)
       + [시나리오 게시](manage-resources/scenario-planner/publish-a-scenario.md)
 
-
-
-
-
 + Workfront 목표 {#workfront-goals}
    + 조직에 대한 비전 수립 {#establish-a-vision-and-strategy}
       + [Workfront 목표에 대한 비전 이해](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
@@ -300,46 +300,51 @@ ht-degree: 2%
       + [명확한 목표 명세서 작성](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
       + [엔터프라이즈 및 조직 목표를 중심으로 공동 작업](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
       + [내 전략에 맞게 그룹 및 팀 정렬](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
+
    + 목표 만들기 {#create-goals}
       + [[!UICONTROL Workfront 목표] 개요](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [설정 [!UICONTROL Workfront 목표] 조직용](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [선택한 사용자에게 목표 액세스 권한 부여](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [레이아웃 템플릿 만들기 [!UICONTROL Workfront 목표] 사용자](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [목표 만들기](workfront-goals/create-your-goals/create-goals-in-workfront.md)
+
    + 목표 활성화 {#activate-goals}
       + [목표 활성화](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [목표를 다른 목표에 정렬하여 활성화](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [목표에 결과 추가](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
       + [목표에 활동 및 프로젝트 추가](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
+
    + 목표 관리 {#manage-goals}
       + [목표 조정](workfront-goals/manage-your-goals/align-your-goals.md)
       + [목표 정렬 제거](workfront-goals/manage-your-goals/remove-goal-alignment.md)
       + [결과 및 활동 진행 업데이트](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [완료되면 목표 닫기](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
+
    + 목표 모니터링 {#monitor-goals}
       + [그래프 섹션 이해](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
       + [목표 진행률 계산](workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [목표 상태 전달](workfront-goals/monitor-your-goals/communicate-goal-status.md)
 
 
-
-
-
-
 + 통합 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
       + [Creative Cloud에 Adobe Workfront 플러그인 사용](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
+
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [구성 중](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
       + [문서 전송 및 에셋 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
       + [버전 기록](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
+
    + G Suite {#g-suite-integrations}
       + [G Suite 통합으로 워크플로우 개선](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
+
    + Jira {#jira}
       + [를 사용하여 가시성 만들기 [!DNL Jira] 통합](integrations/jira/jira.md)
+
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook 추가 기능 설치](integrations/outlook/integrations-microsoft-outlook.md)
+
    + Microsoft Teams {#ms-teams}
       + [Adobe Workfront for Microsoft Teams 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
       + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
@@ -348,6 +353,7 @@ ht-degree: 2%
       + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
       + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
       + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
+
    + Slack {#slack}
       + [Workfront 이해 [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
       + [다음을 통해 최근 작업 보기 [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
@@ -356,19 +362,14 @@ ht-degree: 2%
       + [다음을 통해 승인 [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
       + [Workfront 검색 [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
 
-
-
-
-
-
-
 + Fusion {#fusion}
    + Workfront Fusion 시작 {#welcome-to-workfront-fusion}
       + [소개 및 기술 전략](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
+      + [새 사용자로 로그인](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
       + [Workfront Fusion 교육 개요](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
       + [Workfront Fusion 운동 파일 설정](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
-      + [새 사용자로 로그인](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
       + [핵심 개념](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
+
    + 기본 사항 이해 {#understand-the-basics}
       + [초기 시나리오 디자인 연습](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
       + [매핑 패널 및 공식 편집기](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
@@ -377,6 +378,7 @@ ht-degree: 2%
       + [필터 사용](fusion/2-understand-the-basics/use-filters.md)
       + [필터 연습](fusion/2-understand-the-basics/filters-walkthrough.md)
       + [이전 버전 액세스 연습](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
+
    + 범용 커넥터 및 라우팅 {#universal-connectors-and-routing}
       + [Universal connectors 연습 개요](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [범용 커넥터 소개 연습](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
@@ -386,18 +388,21 @@ ht-degree: 2%
       + [라우팅 패턴 연습](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
       + [세트-잇](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [변수 가져오기/설정 연습](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+
    + 반복 및 집계 {#iteration-and-aggregation}
       + [반복기 소개](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
       + [반복기 소개 연습](fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
       + [집계 소개](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
       + [집계 연습](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
       + [고급 집계 워크스루](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
+
    + 실행 기록 및 예약 {#execution-history-and-scheduling}
       + [실행 내역 소개](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
       + [실행 내역 워크스루](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
       + [시나리오 일정 이해](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
       + [균형 실행 주기 및 번들](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [주기 및 번들 실행](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
+
    + 기본 모듈 이상 {#beyond-basic-modules}
       + [추가 앱 및 공통 모듈 익히기](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [위로 전환](fusion/6-beyond-basic-modules/switch-it-up.md)
@@ -405,17 +410,20 @@ ht-degree: 2%
       + [스위치 모듈 연습](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
       + [웹후크 세계 이해](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [Webhooks 연습](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
+
    + 데이터 구조 및 데이터 저장소 {#data-structures-and-data-stores}
       + [데이터 구조 이해](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
       + [데이터 구조 연습](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
       + [데이터 저장소 이해](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
       + [데이터 저장소 연습](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
+
    + 최종 기능 비트 및 보브 {#final-functional-bits-and-bobs}
       + [Workfront 앱 워크스루](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
       + [배열 컬렉션 및 요소 이해](fusion/8-final-functional-bits-and-bobs/understand-arrays-collections-and-elements.md)
       + [배열 연습](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
       + [시나리오에서 JSON 이해](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
       + [JSON 작업 연습](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
+
    + 문제 해결 및 오류 처리 {#troubleshooting-and-error-handling}
       + [개발 도구를 사용한 고급 문제 해결](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
       + [개발 도구 연습](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
@@ -424,9 +432,11 @@ ht-degree: 2%
       + [오류 처리 연습](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
       + [불완전한 실행 이해](fusion/9-troubleshooting-and-error-handling/understand-incomplete-executions.md)
       + [불완전한 실행 연습](fusion/9-troubleshooting-and-error-handling/incomplete-executions-walkthrough.md)
+
    + Workfront Fusion 관리 {#workfront-fusion-administration}
       + [조직 팀 및 사용자 이해](fusion/10-workfront-fusion-administration/understand-organizations-teams-and-users.md)
       + [관리 워크스루](fusion/10-workfront-fusion-administration/administration-walkthrough.md)
+
    + 설계 최적화 및 테스트 {#design-optimization-and-testing}
       + [서로 다른 사용 사례를 정의하고 최상의 접근 방식 찾기](fusion/11-design-optimization-and-testing/define-distinct-use-cases-and-find-the-best-approach.md)
       + [Workfront Fusion 시나리오 최적화](fusion/11-design-optimization-and-testing/workfront-fusion-scenario-optimization.md)
@@ -455,16 +465,6 @@ ht-degree: 2%
       + [JSON 작업](fusion/12-exercises/working-with-json.md)
       + [개발 도구](fusion/12-exercises/devtool.md)
 
-
-
-
-
-
-
-
-
-
-
 + Workfront Proof {#workfront-proof}
    + [증명의 이점 알아보기](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [문서와 증명의 차이점 이해](workfront-proof/document-vs-proof.md)
@@ -482,6 +482,7 @@ ht-degree: 2%
       + [기본 증명 역할 설정](workfront-proof/administration-and-setup/set-default-proof-roles.md)
       + [증명 계정 기본 설정 설정](workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [증명 사용자 설정](workfront-proof/administration-and-setup/settings-for-proof-users.md)
+
    + 증명 업로드 {#upload-proofs}
       + [증명 버전이란 무엇입니까?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
       + [누가 증명 버전을 업로드합니까?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
@@ -495,12 +496,14 @@ ht-degree: 2%
       + [자동화된 워크플로로 증명 업로드](workfront-proof/upload-proofs/upload-a-proof-with-an-automated-workflow.md)
       + [드래그 앤 드롭으로 업로드](workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
       + [여러 파일을 하나의 증명으로 결합](workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
+
    + 증명 워크플로 {#proof-workflows}
       + [프로젝트 타임라인의 일부로서 증명 워크플로 이해](workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
       + [증명 워크플로 편집](workfront-proof/proof-workflows/edit-a-proof-workflow.md)
       + [템플릿 그룹을 만들어 자동화된 워크플로 템플릿 구성](workfront-proof/administration-and-setup/create-template-groups.md)
       + [자동화된 워크플로우 템플릿 만들기](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
       + [자동화된 워크플로우 템플릿 편집](workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
+
    + 작업 검토 및 승인 {#review-and-approve-work-for-proof}
       + [증명 뷰어 탐색](workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
       + [증명 검토 및 승인](workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
@@ -511,9 +514,6 @@ ht-degree: 2%
       + [증명 주석 관리](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [증명 진행 추적](workfront-proof/review-and-approve-work/track-proof-progress.md)
 
-
-
-
 + Workfront DAM {#workfront-dam-program}
    + 시스템 설정 {#system-setup}
       + [이해 [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
@@ -523,6 +523,7 @@ ht-degree: 2%
       + [그룹 및 사용자 설정](workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront에서 통합 구성](workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [맞춤화 [!DNL Workfront DAM]](workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
+
    + 메타데이터 및 키워드 {#metadata-and-keywords}
       + [메타데이터 이해](workfront-dam/metadata-and-keywords/metadata-introduction.md)
       + [키워드 분류 활성화 및 적용](workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
@@ -532,6 +533,7 @@ ht-degree: 2%
       + [메타데이터 매핑 설정](workfront-dam/metadata-and-keywords/metadata-mapping.md)
       + [메타데이터 키워드 설정](workfront-dam/metadata-and-keywords/keyword-setup.md)
       + [메타데이터 설정](workfront-dam/metadata-and-keywords/metadata-setup.md)
+
    + Brand Connect 사용자 지정 {#brand-connect-customization}
       + [이란? [!UICONTROL Brand Connect]?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
       + [에서 시스템 설정 설정 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
@@ -539,6 +541,7 @@ ht-degree: 2%
       + [에서 브랜드 지침 만들기 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)
       + [모양 사용자 정의 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/customize-the-appearance-of-brand-connect.md)
       + [모양 사용자 정의 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/customize-the-look-of-brand-connect.md)
+
    + Workfront DAM 사용자: 기여자 {#workfront-dam-contributor}
       + [이해 [!UICONTROL WORKFRONT DAM] 참여자로서](workfront-dam/workfront-dam-user-contributor/contributor-getting-started.md)
       + [기여자로서의 자산 관리 이해](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
@@ -549,6 +552,7 @@ ht-degree: 2%
       + [기여자로서 파일 보내기](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [자산을 기여자로 게시](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
       + [추가 [!UICONTROL WORKFRONT DAM] 링크](workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
+
    + Brand Connect 사용자 {#brand-connect}
       + [이해 [!UICONTROL Brand Connect] 사용자로서](workfront-dam/brand-connect-user/brand-connect-introduction.md)
       + [이해 [!UICONTROL Brand Connect] 알림](workfront-dam/brand-connect-user/brand-connect-notifications.md)
@@ -556,10 +560,6 @@ ht-degree: 2%
       + [라이트박스를 사용자로 이해](workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
       + [사용자로서의 탐색 및 검색 이해](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [사용자로 에셋 작업](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
-
-
-
-
 
 + 홈 {#home}
    + [내 작업 찾기](workfront-home/find-your-work-in-workfront-home.md)
@@ -582,9 +582,11 @@ ht-degree: 2%
       + [백로그 정리](agile/gooming-the-backlog.md)
       + [반복 계획 및 만들기](agile/plan-and-create-an-iteration.md)
       + [반복 페이지 사용](agile/using-the-iteration-page.md)
+
    + Kanban {#kanban}
       + [칸반 팀 만들기](agile/create-a-kanban-team.md)
       + [칸반 팀으로 작업 관리](agile/manage-work-kanban-team.md)
+
    + 보드  {#boards}
       + [기본 게시판 찾기 및 만들기](boards/find-and-create-a-basic-board.md)
       + [보드 열 관리](boards/manage-board-columns.md)
@@ -593,8 +595,6 @@ ht-degree: 2%
       + [게시판의 팀원 추가 및 관리](boards/add-and-manage-team-members-for-a-board.md)
       + [보드에서 열 설정 추가 및 편집](boards/add-and-edit-column-settings-on-a-board.md)
       + [카드용 태그 추가 및 관리](boards/add-and-manage-tags-for-cards.md)
-
-
 
 + 우수 사례 {#best-practices}
    + [애자일](best-practices/agile-bp.md)
