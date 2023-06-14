@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
+source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
 workflow-type: tm+mt
-source-wordcount: '2370'
+source-wordcount: '2374'
 ht-degree: 2%
 
 ---
@@ -73,6 +73,13 @@ ht-degree: 2%
 
    + 시스템 성능 및 유지 관리 {#system-perfomance-and-maintenance}
       + [기존 Adobe Workfront 인스턴스 관리](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
+   + 프로젝트 재무 {#project-finances}
+      + [성능 지표 이해](manage-work/project-finances/understand-performance-metrics.md)
+      + [작업 수익 및 비용 기본값 설정](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [환율 설정](manage-work/project-finances/set-up-exchange-rates.md)
+      + [경비 유형 설정](manage-work/project-finances/set-up-expense-types.md)
+      + [재무 액세스 이해](manage-work/project-finances/understand-financial-access.md)
 
 
 + 사용자 정의 데이터 {#custom-data}
@@ -176,16 +183,10 @@ ht-degree: 2%
       + [시간 기록 및 검토](manage-work/close-a-project/log-and-review-hours.md)
       + [프로젝트 활동 닫기](manage-work/close-a-project/close-a-project-activity.md)
 
-   + 프로젝트 재무 {#project-finances}
-      + [성능 지표 이해](manage-work/project-finances/understand-performance-metrics.md)
-      + [작업 수익 및 비용 기본값 설정](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-      + [환율 설정](manage-work/project-finances/set-up-exchange-rates.md)
-      + [경비 유형 설정](manage-work/project-finances/set-up-expense-types.md)
-      + [재무 액세스 이해](manage-work/project-finances/understand-financial-access.md)
+   + 사용자를 위한 프로젝트 재무 {#project-finances-users}
       + [재무 업데이트 및 검토](manage-work/project-finances/update-and-review-finances.md)
       + [재무 정보 찾기](manage-work/project-finances/find-financial-information.md)
       + [여러 청구 요금 이해](manage-work/project-finances/multiple-billing-rates.md)
-
 
 
 + 보고 {#reporting}
