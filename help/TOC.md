@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '2374'
+source-wordcount: '2384'
 ht-degree: 2%
 
 ---
@@ -187,6 +187,9 @@ ht-degree: 2%
       + [재무 업데이트 및 검토](manage-work/project-finances/update-and-review-finances.md)
       + [재무 정보 찾기](manage-work/project-finances/find-financial-information.md)
       + [여러 청구 요금 이해](manage-work/project-finances/multiple-billing-rates.md)
+
+   + 중간 프로젝트 {#intermediate-projects}
+      + [기간 유형 및 작업 제한 이해 및 관리](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 
 
 + 보고 {#reporting}

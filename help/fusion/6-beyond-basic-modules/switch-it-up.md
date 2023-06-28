@@ -1,27 +1,27 @@
 ---
-title: 스위치를 켜라!
-description: 스위치 기능과 스위치 모듈을 사용할 시점 [!DNL Adobe Workfront Fusion].
+title: 바꿔!
+description: 스위치 기능 및 스위치 모듈이 무엇인지와 의 스위치 기능과 스위치 모듈을 사용할 시기에 대해 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9047
+jira: KT-9047
 exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# 스위치를 켜라!
+# 바꿔!
 
-이 비디오에서는 다음을 학습합니다.
+이 비디오에서는 다음 사항에 대해 알아봅니다.
 
-* 스위치 기능 및 모듈은 무엇이며 각 기능이 어떻게 다른지 설명합니다.
+* 스위치 기능 및 모듈의 정의 및 차이점
 * 스위치 기능과 스위치 모듈을 사용해야 하는 경우
 
 >[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on)

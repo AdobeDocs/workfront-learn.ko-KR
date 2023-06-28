@@ -5,9 +5,9 @@ topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # 프로젝트 설정
 
-이 비디오에서는 다음 방법을 배웁니다.
+이 비디오에서는 다음 방법을 알아봅니다.
 
 * 사용자 지정 상태 변경
-* 글로벌 프로젝트 환경 설정 지정
+* 전역 프로젝트 환경 설정 지정
 * 일정 만들기 및 사용
 
 >[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on)

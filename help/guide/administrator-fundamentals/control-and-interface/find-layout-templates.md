@@ -1,13 +1,13 @@
 ---
 title: 레이아웃 템플릿 찾기
-description: 이 비디오에서는 레이아웃 템플릿과 이 템플릿이 유용한 이유를 알아봅니다.
+description: 이 비디오에서는 레이아웃 템플릿과 이것이 유용한 이유에 대해 알아봅니다.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '33'
 ht-degree: 0%
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # 레이아웃 템플릿 찾기
 
-이 비디오에서는 다음을 학습합니다.
+이 비디오에서는 다음 사항에 대해 알아봅니다.
 
-* 레이아웃 템플릿 정의
+* 레이아웃 템플릿이란
 * 레이아웃 템플릿이 유용한 이유
 
 >[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on)

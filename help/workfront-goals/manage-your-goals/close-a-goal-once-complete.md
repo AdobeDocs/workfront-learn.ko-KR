@@ -1,16 +1,16 @@
 ---
 title: 완료되면 목표 닫기
-description: '[!DNL 목표]에서 목표를 닫는 방법을 알아봅니다.'
+description: '[!DNL Goals]에서 목표를 닫는 방법에 대해 알아봅니다.'
 activity: use
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8926
+jira: KT-8926
 exl-id: 6d31d231-5b59-4924-907e-200800ba0f44
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # 완료되면 목표 닫기
 
-이 비디오에서는 다음 방법을 배웁니다.
+이 비디오에서는 다음 방법을 알아봅니다.
 
-* 목표가 완료되는 시점을 나타내거나 목표 작업을 더 이상 수행하지 않을 때 즉시 목표를 닫습니다
+* 목표를 닫아 목표가 언제 완료되었는지, 목표를 더 이상 실행하지 않을 때 또는 가까운 시일 내에 목표를 완료할지 여부를 나타냅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on)

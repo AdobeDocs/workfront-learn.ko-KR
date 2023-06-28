@@ -1,5 +1,5 @@
 ---
-title: 계산된 필드에서 CONCAT 표현식을 사용합니다
+title: 계산된 필드에서 CONCAT 표현식 사용
 description: Adobe의 계산된 필드에서 CONCAT 표현식을 사용하는 방법을 알아봅니다 [!DNL Workfront].
 feature: System Setup and Administration
 type: Tutorial
@@ -8,17 +8,17 @@ level: Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335178.png
-kt: 8915
+jira: KT-8915
 exl-id: 25223b40-1fef-4ae1-8a9b-3235f88ec30f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# 계산된 필드에서 CONCAT 표현식을 사용합니다
+# 계산된 필드에서 CONCAT 표현식 사용
 
 이 비디오에서는 다음을 학습합니다.
 

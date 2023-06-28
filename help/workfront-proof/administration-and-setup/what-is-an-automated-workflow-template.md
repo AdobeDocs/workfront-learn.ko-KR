@@ -1,6 +1,6 @@
 ---
 title: 자동화된 워크플로우 템플릿이란 무엇입니까?
-description: 자동 언어 교정 워크플로우 템플릿이 무엇이고 사용자가 템플릿을 통해 혜택을 볼 수 있는 방법을 알아봅니다. 생성할 템플릿 계획을 시작합니다.
+description: 자동화된 증명 워크플로 템플릿이 무엇이고 증명 사용자가 템플릿을 통해 얻을 수 있는 이점에 대해 알아봅니다. 생성할 템플릿을 계획합니다.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,10 +8,10 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335129.png
-kt: 8829
+jira: KT-8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # 자동화된 워크플로우 템플릿이란 무엇입니까?
 
-이 비디오에서는 다음을 학습합니다.
+이 비디오에서는 다음 사항에 대해 알아봅니다.
 
-* 자동화된 워크플로우 템플릿은 무엇입니까
-* 증명 사용자가 워크플로우 템플릿을 통해 얻을 수 있는 이점
+* 자동화된 워크플로 템플릿이란
+* 증명 사용자가 워크플로 템플릿을 통해 얻는 이점
 * 생성할 템플릿을 계획하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on)
