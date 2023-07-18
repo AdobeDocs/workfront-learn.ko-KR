@@ -5,12 +5,13 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
+last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 1%
+source-wordcount: '368'
+ht-degree: 0%
 
 ---
 
@@ -38,10 +39,18 @@ ht-degree: 1%
 
 다음을 사용할 수 있습니다. [!UICONTROL 검색] 탐색 막대의 필드 또는 [!UICONTROL 프로젝트] 영역입니다.
 
+요청 대기열에서 요청을 여는 경우 탐색 표시 영역에서 프로젝트 이름을 클릭할 수 있습니다.
+
 **요청 사용자 정의 양식의 정보를 프로젝트로 전송할 수 있습니까?**
 
 예. 여기에는 사용자 정의 양식을 만들고 두 양식 모두를 선택하는 작업이 포함됩니다 [!UICONTROL 문제] 및 [!UICONTROL 프로젝트] 객체 유형.
 
 **프로젝트나 과제 보고서를 보고 있어요. 이 개체가 발생한 요청을 어떻게 확인할 수 있습니까?**
 
-다음을 활용할 수 있습니다. **[!UICONTROL 전환된 문제 작성자]** 프로젝트 및 작업 보고서에 해당 정보를 추가할 필드 소스입니다.
+의 필드에 액세스할 수 있습니다. **[!UICONTROL 전환된 문제]** 및 **[!UICONTROL 전환된 문제 작성자]** 프로젝트 및 작업 보고서에 해당 정보를 추가할 필드 소스입니다.
+
+**보고서에서 요청 대기열을 필터링하는 가장 좋은 방법은 무엇입니까?**
+
+프로젝트 필터에 다음이 포함된 경우 **대기열>>공개>>같음>>없음** 보고서에는 다음과 같은 프로젝트만 표시됩니다. **아님** 요청 대기열.
+
+프로젝트 필터에 다음이 포함된 경우 **대기열>>공개>>같지 않음>>없음** 보고서에는 다음과 같은 프로젝트만 표시됩니다. **은(는)** 요청 대기열.
