@@ -2,7 +2,7 @@
 title: 고급 보고 시작
 description: 사용 방법 알아보기 [!UICONTROL API 탐색기] 및 텍스트 모드를 통해 고급 필터, 보기 및 그룹화 만들기 [!UICONTROL 보고 UI].
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -10,7 +10,7 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 이 튜토리얼을 시청하기 전에 다음을 수행해야 합니다.
 
-* Workfront 사용에 대한 적절한 이해. 즉, 최소 3개월에서 6개월 동안 Workfront의 진지한 사용자였습니다.
+* Workfront 사용에 대한 적절한 이해. 이는 최소 3개월에서 6개월 동안 Workfront의 진지한 사용자였음을 의미합니다.
 * 보고서에 포함할 객체를 잘 이해합니다.
 * 사용자 정의 양식, 특히 계산된 사용자 정의 필드 사용에 대한 올바른 이해.
 * A [!UICONTROL 플랜] 보고서 및 필터를 만들 수 있는 권한이 활성화된 라이선스 유형입니다.

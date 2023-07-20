@@ -1,7 +1,7 @@
 ---
 title: SUB, SUM, DIV 또는 PROD 데이터 표현식 작성
 description: Adobe의 계산된 필드에서 기본 수학 표현식을 사용하고 만드는 방법을 알아봅니다 [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -11,7 +11,7 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 0%
@@ -47,7 +47,7 @@ ROUND 표현식은 임의의 숫자를 사용하여 특정 소수 자릿수로 �
 
 ![사용률 보고서를 포함한 업무 균형자](assets/round01.png)
 
-하지만 사용자 정의 필드를 만들 때 필드 형식을 텍스트로 남겨두면 보기 내에서 형식을 쉽게 변경할 수 없습니다. 프로젝트에서 다음과 같은 숫자가 표시되지 않도록 하려면 ROUND 표현식을 사용해야 합니다.
+그러나 사용자 정의 필드를 만들 때 필드 형식을 텍스트로 남겨두면 보기 내에서 형식을 쉽게 변경할 수 없습니다. 프로젝트에서 다음과 같은 숫자가 표시되지 않도록 하려면 ROUND 표현식을 사용해야 합니다.
 
 ![사용률 보고서를 포함한 업무 균형자](assets/round02.png)
 
@@ -57,7 +57,7 @@ ROUND 표현식은 표현식 이름(ROUND)과 일반적으로 두 개의 데이�
 
 표현식은 ROUND(데이터 포인트, #)와 같이 구성됩니다.
 
-계획된 시간과 실제 시간의 차이를 계산하는 표현식에서 이 표현식 —DIV(SUB({workRequired},{actualWorkRequired}),60) - 첫 번째 데이터 포인트입니다. 그런 다음 해당 표현식에서 나온 숫자가 소수점의 오른쪽에 있는 2자리를 넘지 않도록 해야 한다.
+계획된 시간과 실제 시간의 차이를 계산하는 표현식에서 이 표현식 —DIV(SUB({workRequired},{actualWorkRequired}),60) - 첫 번째 데이터 포인트입니다. 그런 다음 해당 표현식에서 나온 숫자가 소수점 오른쪽에 있는 2자리를 넘지 않도록 하십시오.
 
 ![사용률 보고서를 포함한 업무 균형자](assets/round03.png)
 

@@ -2,7 +2,7 @@
 title: 필터의 기본 텍스트 모드 이해
 description: 텍스트 모드가 무엇인지, 카멜 표기법이 무엇인지, Workfront의 보고서 필터에서 사용할 수 있는 몇 가지 기본 "플러그 앤 플레이" 텍스트 모드에 대해 알아봅니다.
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -118,7 +118,7 @@ status_Mod=in
 ```
 
 
-## 참고 - 태그 지정된 모든 댓글 표시
+## 메모 - 태그 지정된 모든 댓글 표시
 
 ```
 tags:userID=$$USER.ID

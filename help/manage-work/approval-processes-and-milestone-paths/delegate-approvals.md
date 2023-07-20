@@ -2,7 +2,7 @@
 title: 작업, 문제 및 승인 위임
 description: 프로젝트, 작업, 문제 및 타임카드에 대한 승인을 다른 Workfront 사용자에게 위임하는 방법을 알아봅니다. 작업 및 문제 할당을 위임하는 방법도 알아봅니다.
 activity: use
-feature: Work Management
+feature: Approvals
 type: Tutorial
 role: User
 level: Intermediate
@@ -11,7 +11,7 @@ thumbnail: 336094.png
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%

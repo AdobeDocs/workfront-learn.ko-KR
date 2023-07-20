@@ -1,7 +1,7 @@
 ---
 title: 사용자 정의 양식 만들기 및 공유
 description: 사용자 정의 양식을 만들고, 양식에 고유한 필드를 추가하고, 섹션 및 논리를 사용하여 필드를 구성하고, 사용자와 양식을 공유하는 방법에 대해 알아보십시오.
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Beginner, Intermediate
@@ -11,7 +11,7 @@ thumbnail: 335172.png
 jira: KT-8909
 exl-id: b37334c7-67d0-4359-9537-dc26843582d1
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 5%

@@ -2,7 +2,7 @@
 title: 그룹화를 위한 기본 텍스트 모드 이해
 description: 텍스트 모드가 무엇인지, 카멜 표기법이 무엇인지, Workfront에서 그룹화할 때 사용할 수 있는 몇 가지 기본 "플러그 앤 플레이" 텍스트 모드에 대해 알아봅니다.
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%

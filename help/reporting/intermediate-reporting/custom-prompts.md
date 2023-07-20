@@ -2,7 +2,7 @@
 title: 사용자 지정 프롬프트 만들기
 description: 사용자 지정 프롬프트의 정의, 텍스트 모드를 사용하여 사용자 지정 프롬프트를 만드는 방법 및 Workfront에서 보고에 사용할 수 있는 몇 가지 예를 알아봅니다.
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 336822.png
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 2%

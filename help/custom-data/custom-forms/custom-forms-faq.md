@@ -1,14 +1,14 @@
 ---
 title: 사용자 지정 Forms에 대한 질문에 대한 답변
 description: 사용자 정의 양식에 대한 일반적인 질문에 대한 답변을 받아 보십시오.
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
 jira: KT-10058
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 1%
