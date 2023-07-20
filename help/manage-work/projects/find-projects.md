@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d66815b0b0a572113ed85dee9bdf469dac08581f
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -36,10 +36,6 @@ Use [!DNL Workfront] features when reviewing the task list to monitor project pr
 최근 프로젝트와 다른 객체를 빠르게 찾을 수 있습니다. [!UICONTROL 최근 항목] 아이콘.
 
 ![[!UICONTROL 상태] 프로젝트 헤더의 필드 확장됨](assets/recents.png)
-
->[!NOTE]
->
->다음 비디오에는 오디오가 포함되어 있지 않습니다. 이는 다음을 보여주는 것입니다. [!DNL Workfront] 언급된 기능입니다.
 
 ## 프로젝트 고정
 
