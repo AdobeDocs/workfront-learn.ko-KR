@@ -8,9 +8,9 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,9 @@ ht-degree: 0%
 
 요청 대기열에서 요청을 여는 경우 탐색 표시 영역에서 프로젝트 이름을 클릭할 수 있습니다.
 
-**요청 사용자 정의 양식의 정보를 프로젝트로 전송할 수 있습니까?**
+**요청 사용자 정의 양식의 정보를 프로젝트 사용자 정의 양식으로 전송할 수 있습니까?**
 
-예. 여기에는 사용자 정의 양식을 만들고 두 양식 모두를 선택하는 작업이 포함됩니다 [!UICONTROL 문제] 및 [!UICONTROL 프로젝트] 객체 유형.
+예. 사용자 정의 양식을 만들 때 둘 다 선택합니다. [!UICONTROL 프로젝트] 및 [!UICONTROL 문제] 를 개체 유형으로 사용하십시오. 사용자 정의 양식을 요청에 첨부합니다. 요청을 프로젝트로 전환하면 사용자 정의 양식이 자동으로 새 프로젝트에 첨부되고 필드에 포함된 값은 요청 및 프로젝트 사용자 정의 양식에 모두 표시됩니다.
 
 **프로젝트나 과제 보고서를 보고 있어요. 이 개체가 발생한 요청을 어떻게 확인할 수 있습니까?**
 

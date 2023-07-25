@@ -1,6 +1,6 @@
 ---
-title: Creative Cloud에 Adobe Workfront 플러그인 사용
-description: Photoshop, XD, InDesign, Illustrator, Premiere Pro, After Effects 등 Adobe Creative Cloud 애플리케이션을 종료하지 않고 Adobe Workfront에서 자신에게 할당된 작업을 찾아 업데이트합니다
+title: Adobe Workfront 플러그인을 사용하여 Creative Cloud과 통합
+description: Workfront을 Creative Cloud과 통합하여 Photoshop, XD, InDesign, Illustrator, Premiere Pro, After Effects 등 Creative Cloud 애플리케이션을 종료하지 않고 Workfront에서 자신에게 할당된 작업을 찾아 업데이트합니다
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,16 +10,19 @@ team: Technical Marketing
 jira: KT-8811
 doc-type: video
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+badgeIntegration: label="통합" type="positive"
+feature-set: Workfront
+topic: Integrations
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Creative Cloud에 Adobe Workfront 플러그인 사용
+# Adobe Workfront 플러그인을 사용하여 Creative Cloud과 통합
 
-다음 Adobe Creative Cloud 애플리케이션을 종료하지 않고 Adobe Workfront에서 자신에게 할당된 작업을 찾아 업데이트합니다.
+Workfront을 Creative Cloud과 통합하여 다음 Adobe Creative Cloud 애플리케이션을 종료하지 않고 Adobe Workfront에서 자신에게 할당된 작업을 찾아 업데이트합니다.
 
 * Photoshop
 * XD

@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,11 @@ ht-degree: 0%
 * 진행 상태를 사용하여 작업 진행 상황을 추적합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>비디오에서 언급했듯이, 사람들이 의 상태를 변경하는 것이 중요합니다 **[!UICONTROL 신규]** 끝 **[!UICONTROL 진행 중]** (이)가 작업을 시작하여 [!UICONTROL 실제 시작 일자] 이(가) 올바릅니다. 그러나 작업을 시작할 때 이 작업을 잊은 경우 돌아가서 를 편집할 수 있습니다. [!UICONTROL 실제 시작 일자] 언제든지.
+
 
 <!---
 Task progress status overview
