@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: b26ce60a2cac197d19b48656fedaa2eb51c33657
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->비디오에서 언급했듯이, 사람들이 의 상태를 변경하는 것이 중요합니다 **[!UICONTROL 신규]** 끝 **[!UICONTROL 진행 중]** (이)가 작업을 시작하여 [!UICONTROL 실제 시작 일자] 이(가) 올바릅니다. 그러나 작업을 시작할 때 이 작업을 잊은 경우 돌아가서 를 편집할 수 있습니다. [!UICONTROL 실제 시작 일자] 언제든지.
+>비디오에서 언급했듯이, 사람들이 의 상태를 변경하는 것이 중요합니다 **[!UICONTROL 신규]** 끝 **[!UICONTROL 진행 중]** (이)가 작업을 시작하여 [!UICONTROL 실제 시작 일자] 맞습니다. 그러나 작업을 시작할 때 이 작업을 잊은 경우 돌아가서 를 편집할 수 있습니다. [!UICONTROL 실제 시작 일자] 언제든지.
 
 
 <!---
