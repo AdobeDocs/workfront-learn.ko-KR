@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '685'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ ht-degree: 0%
 >
 >사전 요구 사항:
 >
->* 보고 요소 이해
->* 보고 구성 요소 이해
->* 기본 보기 만들기
+>* [보고 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [보고 구성 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [기본 보기 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
 
 >[!TIP]
 >
@@ -235,12 +235,19 @@ type=iterate
 
 ### 작업 필터(선택 사항)
 
-**프로젝트 간 전임 작업이 하나 이상 있는 모든 작업 표시**
+**현재 프로젝트에서 프로젝트 간 전임 작업 또는 프로젝트 간 후임 작업이 하나 이상 있는 모든 작업 표시**
 
 ```
 predecessorsMM:ID_Mod=notblank
 predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
+project:statusEquatesWith=CUR
+project:statusEquatesWith_Mod=in
+OR:1:project:statusEquatesWith=CUR
+OR:1:project:statusEquatesWith_Mod=in
+OR:1:successorsMM:ID_Mod=notblank
+OR:1:successorsMM:projectID=FIELD:projectID
+OR:1:successorsMM:projectID_Mod=ne
 ```
 
 ### 작업 - 전임 작업 이름 및 프로젝트 전임 작업이 포함된 위치 표시
