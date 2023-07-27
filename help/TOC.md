@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
 workflow-type: tm+mt
-source-wordcount: '2389'
+source-wordcount: '2392'
 ht-degree: 2%
 
 ---
@@ -190,6 +190,7 @@ ht-degree: 2%
 
    + 중간 프로젝트 {#intermediate-projects}
       + [기간 유형 및 작업 제한 이해 및 관리](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [프로젝트 간 전임 작업 이해](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
 
 
 + 보고 {#reporting}
@@ -446,7 +447,7 @@ ht-degree: 2%
       + [Workfront Fusion 시나리오 최적화](fusion/11-design-optimization-and-testing/workfront-fusion-scenario-optimization.md)
       + [접근성 및 명확성](fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
       + [시나리오 보호](fusion/11-design-optimization-and-testing/scenario-guardrails.md)
-      + [테스트 및 시작](fusion/11-design-optimization-and-testing/testing-considerations.md)
+      + [테스트 및 실행](fusion/11-design-optimization-and-testing/testing-considerations.md)
    + 연습 {#exercises}
       + [초기 시나리오 디자인](fusion/12-exercises/initial-scenario-design.md)
       + [기본 매핑 이상](fusion/12-exercises/beyond-basic-mapping.md)
