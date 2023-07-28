@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
@@ -151,3 +151,18 @@ Experience League 커뮤니티는 Workfront 및 작업과 관련된 모든 것�
 
 
 리더쉽이 그들의 지지를 표명하는 커뮤니케이션을 보내도록 하세요.
+
+</br>
+</br>
+
+
+**모범 사례**
+
+사용자가 어디에서 어려움을 겪고 있는지, 어디에서 가치를 보고 있는지 더 잘 이해할 수 있도록 사용자에 대한 채택 설문 조사를 만들고 배포합니다
+
+**그 이유는 다음과 같습니다**
+
+가장 성공한 고객은 Workfront 솔루션의 더 나은 채택을 방해하는 요소를 이해하기 위해 피드백을 수집할 수 있는 정기적인 케이던스를 개발했습니다. 피드백 데이터를 수집하면 관리자가 개선에 도움이 되는 올바른 리소스를 찾을 수 있습니다. 채택 설문 조사 안내서는 Workfront 사용자를 대상으로 설문 조사를 수행하는 실행, 측정, 계획 및 검토 단계를 안내합니다.
+
+[채택 설문 조사에 대한 Workfront 안내서 다운로드](../assets/adoption-survey.pdf)
+
