@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
+source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
 workflow-type: tm+mt
-source-wordcount: '2392'
+source-wordcount: '2401'
 ht-degree: 2%
 
 ---
@@ -28,13 +28,15 @@ ht-degree: 2%
       + [휴지통에서 개체 복원](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
    + 시스템 기본값 구성 {#configure-system-defaults}
-      + [전역 기본 프로젝트 설정 구성](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
+      + [개체 상태 만들기 및 관리](administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [기본 문제 유형 이해](administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [문제 상태 만들기](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
       + [시스템 전체 문제 상태 만들기](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
+      + [일정 만들기 및 관리](administration-and-setup/configure-system-defaults/create-and-manage-schedules.md)
       + [문제 심각도 만들기 및 관리](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [문제 유형 및 용어 맞춤화](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [글로벌 기본 문제 환경 설정 구성](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+      + [전역 기본 프로젝트 설정 구성](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
 
    + 레이아웃 템플릿 {#layout-templates}
       + [레이아웃 템플릿이란 무엇입니까?](administration-and-setup/layout-templates/what-are-layout-templates.md)
