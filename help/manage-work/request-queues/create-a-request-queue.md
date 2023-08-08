@@ -11,9 +11,9 @@ thumbnail: 335221.jpeg
 jira: KT-8958
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 09d46b1bb90b86af49bc300bba8822c93ee9e050
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -23,8 +23,8 @@ ht-degree: 0%
 이 비디오에서는 다음 방법을 알아봅니다.
 
 * 먼저 프로젝트를 만들어 요청 대기열 만들기
-* 요청 대기열 설정
 * 요청 대기열 세부 정보 설정
+* 큐를 라이브로 설정
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
@@ -40,8 +40,4 @@ ht-degree: 0%
 1. 프로젝트 상태 = 현재 또는 계획 중
 
 **답변:** 1) 프로젝트 상태 = 현재 및 3) &quot;도움말 요청 대기열로 게시&quot;가 선택됨
-
-**질문:** 요청은 이메일을 통해 할 수 있습니다. True 또는 false?
-
-**답변:** True
 
