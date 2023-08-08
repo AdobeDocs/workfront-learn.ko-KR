@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
+source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
 workflow-type: tm+mt
-source-wordcount: '2405'
+source-wordcount: '2410'
 ht-degree: 2%
 
 ---
@@ -600,6 +600,7 @@ ht-degree: 2%
       + [보드 열 관리](boards/manage-board-columns.md)
       + [보드에 카드 추가](boards/add-cards-to-a-board.md)
       + [보드에서 카드 관리](boards/manage-cards-on-a-board.md)
+      + [보드에서 카드 사용자 지정](boards/customize-cards-on-a-board.md)
       + [게시판의 팀원 추가 및 관리](boards/add-and-manage-team-members-for-a-board.md)
       + [보드에서 열 설정 추가 및 편집](boards/add-and-edit-column-settings-on-a-board.md)
       + [카드용 태그 추가 및 관리](boards/add-and-manage-tags-for-cards.md)
