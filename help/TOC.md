@@ -3,7 +3,7 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
 source-wordcount: '2410'
 ht-degree: 2%
@@ -138,18 +138,12 @@ ht-degree: 2%
       + [계획되지 않은 작업 처리](manage-work/issues-requests/handle-unplanned-work.md)
       + [요청](manage-work/issues-requests/make-a-request.md)
       + [요청 찾기](manage-work/issues-requests/find-requests.md)
-      + [요청 관리](manage-work/issues-requests/manage-incoming-requests.md)
       + [문제 할당 관리](manage-work/issues-requests/manage-issue-assignments.md)
       + [요청 업데이트](manage-work/issues-requests/update-a-request.md)
-      + [요청에서 프로젝트 만들기](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [문제를 다른 작업 항목으로 변환](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [문제/요청을 프로젝트로 전환](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [문제/요청을 작업으로 전환](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [디지털 작업 검토 및 승인](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [문제에 대한 보고서](manage-work/issues-requests/report-on-issues.md)
-
-   + 포트폴리오 {#portfolios}
-      + [포트폴리오 개요](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [비즈니스 사례 소개](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [포트폴리오 작업의 우선 순위 지정 및 관리](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 요청 대기열 {#request-queues}
       + [요청 대기열 이해](manage-work/request-queues/understand-request-queues.md)
@@ -157,6 +151,11 @@ ht-degree: 2%
       + [요청 대기열 만들기](manage-work/request-queues/create-a-request-queue.md)
       + [요청 흐름 만들기](manage-work/request-queues/create-a-request-flow.md)
       + [요청 대기열에 대한 일반적인 질문에 대한 답변](manage-work/request-queues/request-queue-faq.md)
+
+   + 포트폴리오 {#portfolios}
+      + [포트폴리오 개요](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [비즈니스 사례 소개](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [포트폴리오 작업의 우선 순위 지정 및 관리](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 승인 프로세스 및 마일스톤 경로 {#approval-processes-and-milestone-paths}
       + [일회용 승인 프로세스 만들기](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
