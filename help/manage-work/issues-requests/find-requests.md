@@ -1,5 +1,5 @@
 ---
-title: 요청 찾기
+title: 요청 찾기 및 관리
 description: 대시보드를 사용하는 방법 알아보기, [!UICONTROL 홈], [!UICONTROL 요청] 영역 및 [!UICONTROL 팀] 요청 대기열을 통해 접수되는 요청을 찾는 페이지입니다.
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ level: Beginner
 last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
+source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# 요청 찾기
+# 요청 찾기 및 관리
 
 이 비디오에서는 할당된 요청, 생성한 요청 및 관리하는 요청을 찾는 방법에 대해 알아봅니다.
 

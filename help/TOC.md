@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
 workflow-type: tm+mt
-source-wordcount: '2410'
+source-wordcount: '2414'
 ht-degree: 2%
 
 ---
@@ -137,7 +137,7 @@ ht-degree: 2%
    + 문제/요청 {#issues-requests}
       + [계획되지 않은 작업 처리](manage-work/issues-requests/handle-unplanned-work.md)
       + [요청](manage-work/issues-requests/make-a-request.md)
-      + [요청 찾기](manage-work/issues-requests/find-requests.md)
+      + [요청 찾기 및 관리](manage-work/issues-requests/find-requests.md)
       + [문제 할당 관리](manage-work/issues-requests/manage-issue-assignments.md)
       + [요청 업데이트](manage-work/issues-requests/update-a-request.md)
       + [문제/요청을 프로젝트로 전환](manage-work/issues-requests/create-a-project-from-a-request.md)
@@ -647,6 +647,7 @@ ht-degree: 2%
 + [칸반 방법론은 무엇이며 어떻게 작동합니까?](agile/what-is-the-kanban-methodology.md)
 + [애자일로 전환](agile/transitioning-to-agile.md)
 + [경영진을 위한 Workfront](workfront-for-executives/workfront-for-executives.md)
++ [요청 관리](manage-work/issues-requests/manage-incoming-requests.md)
 
 
 
