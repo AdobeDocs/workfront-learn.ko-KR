@@ -11,16 +11,16 @@ team: Technical Marketing
 jira: KT-8783
 exl-id: 7dad82df-ef20-4ed3-a52d-27f52d05f678
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d34e7acf962b6205d0912b2e40f9a4e2582772fa
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
 # 프로젝트 닫기
 
-이 비디오에서는 다음 방법을 알아봅니다.
+이 비디오에서는 다음 사항에 대해 알아봅니다.
 
 * 검토할 정보 [!DNL Workfront] 프로젝트를 닫기 전에
 * 데이터를 업데이트하는 것이 중요한 이유
