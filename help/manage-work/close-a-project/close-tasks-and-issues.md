@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a63de5541cbe92d1dbea286caf5465df0bbdce9a
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,8 @@ ht-degree: 0%
 
 를 닫는 첫 번째 단계 중 하나 [!DNL Workfront] 프로젝트는 모든 작업 및 문제가 완료 상태 또는 이와 동등한 상태를 가지도록 합니다.
 
-작업 목록으로 시작하고 다음을 선택합니다. [!UICONTROL 보기] 다음을 표시합니다. [!UICONTROL 완료율] 또는 [!UICONTROL 상태] 열 또는 둘 다. 작업 목록을 빠르게 스캔하여 상태가 변경되지 않은 작업을 정확하게 찾아낼 수 있습니다.
+다음과 같은 경우 [!UICONTROL 완료율] 프로젝트 헤더의 필드에는 모든 작업이 100% 완료된 것으로 표시된다는 것을 알 수 있는 100%가 표시됩니다. 그러나 다음과 같은 작업이 있습니다. [!UICONTROL 완료 - 승인 보류 중] 100%로 읽을 수 있으므로 잊지 말고 확인하십시오. 다음을 참조하십시오 [승인 완료](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) 승인에 대한 모든 팁입니다.
 
-![프로젝트 표시 중 [!UICONTROL 완료율] 열](assets/planner-fund-close-tasks-and-issues.png)
+승인 보류 중인 문제라도 미완료 문제가 있는 경우 문제 탭 옆에 숫자가 표시되어 몇 개나 표시되는지 확인합니다. 숫자가 0이면 미완료 문제가 없습니다.
 
-모든 조직에서 다음을 사용하지 않음 [!DNL Workfront's] 문제 는 프로젝트 중에 발생한 문제, 변경 주문 등을 기록하거나 해결하는 기능입니다. 하지만 그럴 경우 로 전환합니다. [!UICONTROL 문제] 섹션에 모든 문제가 해결되었는지 확인하십시오.
-
-<!---
-learn more
-Update task status
-Issue statuses
---->
+![프로젝트 표시 중 [!UICONTROL 완료율] 및 진행 중 문제](assets/close-tasks-and-issues.png)
