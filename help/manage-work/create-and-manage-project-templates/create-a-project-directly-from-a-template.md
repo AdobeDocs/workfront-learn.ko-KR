@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,9 @@ ht-degree: 0%
 >
 >이 방법을 사용하여 프로젝트를 만들려면 Workfront의 템플릿 영역에 액세스해야 합니다. 템플릿에 액세스할 수 없는 경우에도 템플릿을 사용하여 프로젝트 영역에서 프로젝트를 생성하거나 문제/작업을 전환할 수 있습니다.
 
-**Pro-팁**: 자주 사용하는 템플릿이 있는 경우 즐겨찾기로 설정하십시오! 탐색 막대의 즐겨찾기 및 최근 항목 메뉴 아래에 표시되는 템플릿 외에도 새 프로젝트 메뉴에 템플릿이 표시됩니다.
+>[!TIP]
+>
+>자주 사용하는 템플릿이 있으면 즐겨찾기로 설정하십시오! 탐색 막대의 즐겨찾기 메뉴 아래에 표시되는 템플릿 외에 새 프로젝트 메뉴에 템플릿이 표시됩니다.
+
 
 ![새 프로젝트 즐겨찾기 템플릿](assets/direct-template-03.png)
