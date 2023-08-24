@@ -10,9 +10,9 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,24 @@ ht-degree: 0%
 
 Workfront의 놀라운 점은 맞춤화가 가능하다는 것입니다. Workfront의 어려운 점은 맞춤화가 가능하다는 것입니다. 기존 Workfront 인스턴스를 인수하는 새 시스템 또는 그룹, 관리자의 경우, 원래 어떻게 구성되어 설정되었는지 파악하기가 매우 어려울 수 있습니다.
 
-그러나 상속된 인스턴스 확인 목록을 통해 인스턴스에 대해 알아야 하는 모든 것을 배울 수 있습니다.\
-<br>
-</br>
-<a href="assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">상속된 인스턴스 검사 목록 다운로드 </span>
-</a>
+그러나 상속된 인스턴스 확인 목록을 통해 인스턴스에 대해 알아야 하는 모든 것을 배울 수 있습니다.
 
-![상속된 인스턴스 체크리스트 이미지](assets/wf-inherited-instance-imagel.jpg)
+![상속된 인스턴스 체크리스트 이미지](assets/wf-inherited-instance-image.png)
+<br></br>
 
-이 체크리스트에서는 포괄적인 질문, 리소스 및 링크를 검토하여 구성 방법을 명확히 이해합니다.
+상속된 인스턴스 체크리스트에서 포괄적인 질문, 리소스 및 링크를 검토하여 구성 방법을 명확하게 이해할 수 있습니다.
 
-또한 검색, 감사 및 문서화 등 3가지 주요 단계를 제시되는 기간과 함께 간략히 설명했습니다. 이러한 작업은 특정 요구 사항에 맞게 조정할 수 있으며, 한 번에 모두 수행할 필요는 없습니다.
+체크리스트는 Workfront 블루프린트와 다운로드 가능한 Excel 스프레드시트로 모두 만들어졌습니다. 블루프린트를 사용하여 Workfront에서 작업을 바로 관리하고 문서화하는 것이 좋습니다.
 
-스프레드시트의 탭은 타임라인이 아닌 주제별로 구성되므로 자신과 조직에 가장 적합한 방식으로 문서를 진행할 수 있습니다.
+블루프린트와 스프레드시트는 모두 타임라인이 아닌 주제별로 구성되므로 사용자와 조직에 가장 적합한 방식으로 진행할 수 있습니다. . 제공된 기간은 단지 예시일 뿐이며 특정 요구 사항에 맞게 조정해야 합니다. 이것은 한 번에 다 할 필요는 없습니다!
 
-가능하면 조직의 다른 사용자와 협력하여 이러한 요소를 검토하고 문서화하고, 주요 변경 사항이 있는 경우 이 문서를 최신 상태로 유지하는 것이 좋습니다. 인스턴스의 향후 책임자가 감사합니다!
+가능하면 조직의 다른 사용자와 협력하여 이러한 요소를 검토하고 문서화하고, 주요 변경 사항이 있는 경우 설명서를 최신 상태로 유지하는 것이 좋습니다. 인스턴스의 향후 책임자가 감사합니다!
 
+* 블루프린트를 다운로드하려면 자체 Workfront 인스턴스의 기본 메뉴로 이동한 다음 블루프린트를 선택합니다. &quot;상속된 인스턴스 기본 사항&quot;이라는 블루프린트 찾기 | 체크리스트&quot;를 클릭하고 설치를 클릭합니다. 프로덕션 또는 샌드박스 환경을 선택하고 계속 구성합니다. 블루프린트 설치 및 구성에 대한 자세한 내용은 [여기](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+
+* Excel 검사 목록을 다운로드하려면 [여기](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+
+블루프린트 또는 Excel 체크리스트를 사용하든, 이 프로세스는 검색, 감사 및 설명서의 세 가지 주요 단계로 생각할 수 있습니다. 설명 및 이상적인 결과는 아래에 나와 있습니다.
 
 <br>
 </br>
@@ -97,6 +98,7 @@ Workfront의 놀라운 점은 맞춤화가 가능하다는 것입니다. Workfro
 </br>
 
 추가 정보는 아래에서 찾을 수 있습니다.
+* [웨비나: 상속된 인스턴스를 인수하기 위한 팁](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
 * [Workfront 구현을 위한 목표 정의](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
 * [블로그 게시물: 경영진 후원과 리더십에 대한 가치](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
 * [블로그 게시물: Adobe Workfront KPI 소개](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
