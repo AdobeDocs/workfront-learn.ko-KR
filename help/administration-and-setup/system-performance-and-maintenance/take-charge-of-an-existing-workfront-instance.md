@@ -10,7 +10,7 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
+source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -30,13 +30,13 @@ Workfront의 놀라운 점은 맞춤화가 가능하다는 것입니다. Workfro
 
 체크리스트는 Workfront 블루프린트와 다운로드 가능한 Excel 스프레드시트로 모두 만들어졌습니다. 블루프린트를 사용하여 Workfront에서 작업을 바로 관리하고 문서화하는 것이 좋습니다.
 
-블루프린트와 스프레드시트는 모두 타임라인이 아닌 주제별로 구성되므로 사용자와 조직에 가장 적합한 방식으로 진행할 수 있습니다. . 제공된 기간은 단지 예시일 뿐이며 특정 요구 사항에 맞게 조정해야 합니다. 이것은 한 번에 다 할 필요는 없습니다!
+블루프린트와 스프레드시트는 모두 타임라인이 아닌 주제별로 구성되므로 사용자와 조직에 가장 적합한 방식으로 진행할 수 있습니다. 제공된 기간은 단지 예시일 뿐이며 특정 요구 사항에 맞게 조정해야 합니다. 이것은 한 번에 다 할 필요는 없습니다!
 
 가능하면 조직의 다른 사용자와 협력하여 이러한 요소를 검토하고 문서화하고, 주요 변경 사항이 있는 경우 설명서를 최신 상태로 유지하는 것이 좋습니다. 인스턴스의 향후 책임자가 감사합니다!
 
-* 블루프린트를 다운로드하려면 자체 Workfront 인스턴스의 기본 메뉴로 이동한 다음 블루프린트를 선택합니다. &quot;상속된 인스턴스 기본 사항&quot;이라는 블루프린트 찾기 | 체크리스트&quot;를 클릭하고 설치를 클릭합니다. 프로덕션 또는 샌드박스 환경을 선택하고 계속 구성합니다. 블루프린트 설치 및 구성에 대한 자세한 내용은 [여기](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+* <b>블루프린트를 다운로드하려면</b>에서 자체 Workfront 인스턴스의 기본 메뉴로 이동하고 블루프린트를 선택합니다. &quot;상속된 인스턴스 기본 사항&quot;이라는 블루프린트 찾기 | 체크리스트&quot;를 클릭하고 설치를 클릭합니다. 프로덕션 또는 샌드박스 환경을 선택하고 계속 구성합니다. 블루프린트 설치 및 구성에 대한 자세한 내용은 [여기](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
 
-* Excel 검사 목록을 다운로드하려면 [여기](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+* <b>Excel을 다운로드하려면</b> 체크리스트, 클릭 [여기](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
 
 블루프린트 또는 Excel 체크리스트를 사용하든, 이 프로세스는 검색, 감사 및 설명서의 세 가지 주요 단계로 생각할 수 있습니다. 설명 및 이상적인 결과는 아래에 나와 있습니다.
 
