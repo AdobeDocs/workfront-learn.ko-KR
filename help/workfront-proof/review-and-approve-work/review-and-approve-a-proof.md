@@ -11,9 +11,9 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: cbeb3387107da639899ab22e4372200356551154
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 * 버전 번호를 통해 보게 될 증명의 버전을 알 수 있습니다.
 * 그리고 가장 중요한 것은 기한이 이메일에 증명 세부 정보 섹션 바로 위와 속해 있는 워크플로 단계의 회색 막대에 두 군데 표시된다는 것입니다.
 
-검토를 시작할 준비가 되면 파란색을 클릭하기만 하면 됩니다 [!UICONTROL 증명으로 이동] 버튼을 클릭하면 파일이에 자동으로 열립니다 [!DNL Workfront’s] 증명 뷰어.
+검토를 시작할 준비가 되면 파란색을 클릭하기만 하면 됩니다 [!UICONTROL 증명으로 이동] 버튼을 클릭하면 파일이 [!DNL Workfront] 증명 뷰어.
 
 ### 에서 증명 열기 [!UICONTROL 홈]
 
