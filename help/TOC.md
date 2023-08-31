@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '2416'
+source-wordcount: '2422'
 ht-degree: 2%
 
 ---
@@ -211,10 +211,6 @@ ht-degree: 2%
       + [대시보드 만들기](reporting/basic-reporting/create-dashboards.md)
       + [보고서 보내기 및 공유](reporting/basic-reporting/how-to-send-and-share-reports.md)
       + [보고서 설정 이해](reporting/basic-reporting/report-settings.md)
-      + [달력 인터페이스 이해](reporting/basic-reporting/tour-of-the-interface.md)
-      + [사용자 지정 달력 만들기](reporting/basic-reporting/creating-custom-calendars.md)
-      + [추가 캘린더 옵션 이해](reporting/basic-reporting/additional-calendar-options.md)
-      + [캘린더를 만들 차례입니다.](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + 중간 보고 {#intermediate-reporting}
       + [사용자 기반 와일드카드로 필터 만들기](reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
@@ -233,6 +229,12 @@ ht-degree: 2%
       + [고급 보고 1부](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [고급 보고 2부](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [고급 보고 3부](reporting/advanced-reporting/advanced-reporting-part-3.md)
+
+   + 캘린더 보고서 {#calendar-reports}
+      + [달력 보고서 인터페이스 이해](reporting/basic-reporting/tour-of-the-interface.md)
+      + [사용자 지정 달력 보고서 만들기](reporting/basic-reporting/creating-custom-calendars.md)
+      + [추가 캘린더 보고서 옵션 이해](reporting/basic-reporting/additional-calendar-options.md)
+      + [캘린더 보고서를 만들 차례입니다.](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + 고급 Analytics {#enhanced-analytics}
       + [제품에 대해 잠시 설명 [!UICONTROL 향상된 분석]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
@@ -562,10 +564,10 @@ ht-degree: 2%
 
    + Brand Connect 사용자 {#brand-connect}
       + [이해 [!UICONTROL Brand Connect] 사용자로서](workfront-dam/brand-connect-user/brand-connect-introduction.md)
+      + [사용자로서의 탐색 및 검색 이해](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [이해 [!UICONTROL Brand Connect] 알림](workfront-dam/brand-connect-user/brand-connect-notifications.md)
       + [사용자로서 다운로드 및 공유 이해](workfront-dam/brand-connect-user/brand-connect-downloading-and-sharing.md)
       + [라이트박스를 사용자로 이해](workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
-      + [사용자로서의 탐색 및 검색 이해](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [사용자로 에셋 작업](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + 홈 {#home}

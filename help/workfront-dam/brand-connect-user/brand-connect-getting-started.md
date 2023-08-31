@@ -1,5 +1,5 @@
 ---
-title: 에서 Brand Connect [!UICONTROL WORKFRONT DAM] 설명됨
+title: 사용자로서의 탐색 및 검색 이해
 description: Brand Connect에 대해 알아보기 [!UICONTROL WORKFRONT DAM] 은(는) 이며 탐색 방법은 입니다.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# Brand Connect: 시작하기
+# Brand Connect: 사용자로서 탐색 및 검색 이해
 
 이 비디오에서는 다음 사항에 대해 알아봅니다.
 
@@ -59,14 +59,14 @@ ht-degree: 0%
 
 ### 빈 필드 연산자
 
-특정 메타데이터 필드에 정보가 없는 에셋을 찾으려면 검색할 필드를 ? 형식으로 입력하십시오.[xxxxx]. 예를 들어 키워드가 할당되지 않은 자산을 찾으려면 를 입력합니다.[키워드] 을 클릭합니다.
+특정 메타데이터 필드에 정보가 없는 에셋을 찾으려면 검색할 필드를 ? 형식으로 입력하십시오.[xxxxx]. 예를 들어 키워드가 할당되지 않은 에셋을 찾으려면 를 입력합니다.[키워드] 을 클릭합니다.
 
 ## 브랜드 지침
 
 브랜드 지침은 조직의 브랜드 작동 방식을 설명하는 규칙 세트입니다. 브랜드 표준, 스타일 안내서, 브랜드 북 또는 브랜드 정체성 안내서라고도 하는 이 지침에는 다음이 포함될 수 있습니다.
 
-* 브랜드의 역사, 비전, 성격 및 음색에 대한 개요.
-* 할 일과 할 일은 회사 로고를 사용하는 것이 아닙니다.
+* 브랜드 역사, 비전, 성격 및 음색에 대한 개요입니다.
+* 그들은 회사 로고를 사용하지 않는다.
 * 인쇄 및 웹 사용에 승인된 글꼴의 예.
 * 회사의 기본 및 보조 색상 분류.
 * 브랜드와 잘 어울리는 이미지 스타일 및 사진 샘플입니다.
