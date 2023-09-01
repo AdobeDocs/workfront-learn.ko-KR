@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '2422'
+source-wordcount: '2426'
 ht-degree: 2%
 
 ---
@@ -165,7 +165,7 @@ ht-degree: 2%
       + [마일스톤 적용](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
 
    + 프로젝트 템플릿 만들기 및 관리 {#create-and-manage-project-templates}
-      + [프로젝트 템플릿 만들기](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [프로젝트 템플릿 만들기 및 블루프린트에 대해 알아보기](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [템플릿에서 바로 프로젝트 만들기](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [프로젝트 템플릿 공유](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [기존 프로젝트 복사](manage-work/manage-projects/copy-an-existing-project.md)
