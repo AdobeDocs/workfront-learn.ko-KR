@@ -1,5 +1,5 @@
 ---
-title: 캘린더를 만들 차례입니다.
+title: 캘린더 보고서를 만들 차례입니다.
 description: 미완료 작업 및 문제를 표시하는 고객 달력을 만드는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
@@ -10,20 +10,20 @@ level: Beginner
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '380'
 ht-degree: 1%
 
 ---
 
-# 캘린더를 만들 차례입니다.
+# 캘린더 보고서를 만들 차례입니다.
 
 이 활동에서는 나만의 캘린더를 만드는 경험을 하게 됩니다.
 
 ## 활동: 캘린더 만들기
 
-&quot;My Incomplete Work(내 미완료 작업)&quot;라는 고객 캘린더를 만듭니다.
+&quot;내 미완료 작업&quot;이라는 고객 캘린더를 만듭니다.
 
 현재 프로젝트에서 사용자에게 할당된 모든 미완료 작업을 표시하는 &quot;미완료 작업&quot;이라는 캘린더 그룹을 포함합니다.
 
@@ -36,7 +36,7 @@ ht-degree: 1%
 1. 메인 메뉴에서 캘린더 영역으로 이동합니다.
 1. 새 캘린더 버튼을 클릭하고 캘린더의 이름을 &quot;My Incomplete Work&quot;로 지정합니다.
 1. 첫 번째 그룹화에서 고급 항목 추가를 클릭합니다.
-1. 표시되는 달력에 항목 추가 창에서 그룹 이름을 &quot;미완료 작업&quot;으로 지정합니다.
+1. 표시되는 캘린더에 항목 추가 창에서 그룹 이름을 &quot;Incomplete Tasks&quot;로 지정합니다.
 1. 빨간색을 색상으로 선택합니다.
 1. 일자 필드를 계획된 일자로 변경합니다.
 1. 캘린더에서 필드를 종료 날짜로만 표시합니다.
