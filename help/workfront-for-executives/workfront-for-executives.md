@@ -1,6 +1,6 @@
 ---
 title: 경영진을 위한 Workfront
-description: 보고서 및 대시보드에 액세스하고, 요청을 만들고, 요청을 검토하는 방법을 알아봅니다.
+description: Workfront이 조직의 작업을 관리하는 데 어떻게 도움이 되는지 알아봅니다.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -10,17 +10,19 @@ team: Technical Marketing
 thumbnail: workfront-4-executives.png
 hide: true
 hidefromtoc: true
-jira: KT-null
+jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: 254a31d341f0b3b1ecf458cbbeddc0d6ad5c779a
+source-git-commit: e272158326592cdb50195a00668b9cb60e4cb659
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 1%
+source-wordcount: '510'
+ht-degree: 0%
 
 ---
 
 # 경영진을 위한 Workfront
+
+Workfront이 조직의 작업을 관리하는 데 어떻게 도움이 되는지 알아봅니다.
 
 Adobe Workfront은 경영진으로서 다음과 같은 작업을 수행할 수 있습니다.
 
