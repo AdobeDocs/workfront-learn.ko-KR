@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '978'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,12 @@ ht-degree: 0%
 # 초기 시나리오 디자인
 
 Workfront Fusion에 처음 로그인할 때와 첫 번째 시나리오 빌드에 대한 몇 가지 기본 탐색 팁에 대해 알아봅니다.
+
+## 전제 조건
+
+1. 이 연습을 수행하려면 Workfront 테스트 드라이브가 필요합니다. 작성하셔서 요청하시면 됩니다 [이 양식](https://forms.office.com/r/f1J8HRGrNY). 양식에 액세스할 수 없는 경우 이름, 이메일 주소 및 회사 이름을 wfttstdr@adobe.com으로 보내십시오.
+1. Fusion 연습에서는 연습에 해당하는 연습 비디오를 시청했다고 가정합니다. 이 경우에는 [초기 시나리오 디자인 연습](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
+
 
 ## 연습 개요
 
@@ -48,7 +54,7 @@ Workfront Fusion에 처음 로그인할 때와 첫 번째 시나리오 빌드에
 
    ![초기 시나리오 디자인 이미지 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Workfront 인스턴스의 URL을 입력한 후 다음 을 클릭합니다.
+1. URL 입력 **Workfront 인스턴스**&#x200B;을 클릭하고 다음 을 클릭합니다.
 
    ![초기 시나리오 디자인 이미지 5](../12-exercises/assets/initial-scenario-design-5.png)
 

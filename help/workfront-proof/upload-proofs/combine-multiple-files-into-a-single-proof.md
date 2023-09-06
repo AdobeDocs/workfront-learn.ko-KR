@@ -10,9 +10,9 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,18 @@ ht-degree: 0%
 
 ![다중 페이지 증명이 표시된 증명 뷰어의 이미지입니다.](assets/combine-proofs-2.png)
 
+## 비디오 파일을 결합하는 것은 어떻습니까?
+
+죄송합니다. 비디오, 애니메이션 및 대화형 URL과 같은 리치 미디어 파일이 목록에 있으면 파일을 결합할 수 없습니다.
+
+![비디오 파일을 결합할 수 없음을 설명하는 오류 메시지 이미지입니다.](assets/combine-proofs-2.png)
+
+
 ## 당신 차례입니다
 
 >[!IMPORTANT]
 >
->Workfront 교육의 일부로 증명을 보내는 동료에게 잊지 말고 상기시키십시오.
+>Workfront 교육의 일부로 동료에게 증명을 보내는 것을 잊지 말고 상기시키십시오.
 
 
 3개 또는 4개의 파일(PDF, 텍스트 파일 등) 찾기 컴퓨터에서.
