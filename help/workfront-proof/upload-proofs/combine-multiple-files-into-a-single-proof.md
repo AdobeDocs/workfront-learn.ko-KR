@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 죄송합니다. 비디오, 애니메이션 및 대화형 URL과 같은 리치 미디어 파일이 목록에 있으면 파일을 결합할 수 없습니다.
 
-![비디오 파일을 결합할 수 없음을 설명하는 오류 메시지 이미지입니다.](assets/combine-proofs-2.png)
+![비디오 파일을 결합할 수 없음을 설명하는 오류 메시지 이미지입니다.](assets/combine-proofs-error.png)
 
 
 ## 당신 차례입니다
