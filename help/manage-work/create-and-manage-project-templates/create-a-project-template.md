@@ -12,7 +12,7 @@ last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 5e13fec9021af23c1c2fb6c9126c3a28370675b4
+source-git-commit: 507f4b74d990dfe13ea2e167e90663142fa13e9d
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # 프로젝트 템플릿 만들기 및 자세히 알아보기 [!UICONTROL 블루프린트]
 
-프로젝트 템플릿을 처음부터 만들고 기존 템플릿에서 만드는 방법을 알아보고 그 방법을 이해합니다 [!UICONTROL 블루프린트] 은 Workfront 전문가가 만든 유용한 프로젝트 템플릿의 세계에 액세스할 수 있도록 해줍니다.
+처음부터 프로젝트 템플릿을 만들고 기존 프로젝트에서 프로젝트 템플릿을 만드는 방법을 알아보고 그 방법을 이해할 수 있습니다 [!UICONTROL 블루프린트] 은 Workfront 전문가가 만든 유용한 프로젝트 템플릿의 세계에 액세스할 수 있도록 해줍니다.
 
 ## 프로젝트 템플릿 만들기
 
