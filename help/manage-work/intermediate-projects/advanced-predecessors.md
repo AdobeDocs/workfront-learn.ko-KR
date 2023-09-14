@@ -11,7 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
-source-git-commit: 1c80c7f0240c7b82f0a8bdb73757ee48b11d193b
+source-git-commit: a3bb4728c12a24929bdaf2351074c1cfc08a4511
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -34,7 +34,6 @@ ht-degree: 0%
 * 강제 적용된 전임 작업
 * 종속성 루프 오류
 * 짧은 컷과 모범 사례
-
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on)
 
