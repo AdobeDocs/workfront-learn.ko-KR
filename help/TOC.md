@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
+source-git-commit: 0c1695807751540ce72fb68e0cbfc1f04a5862a9
 workflow-type: tm+mt
-source-wordcount: '2426'
+source-wordcount: '2428'
 ht-degree: 2%
 
 ---
@@ -193,6 +193,7 @@ ht-degree: 2%
    + 중간 프로젝트 {#intermediate-projects}
       + [기간 유형 및 작업 제한 이해 및 관리](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
       + [프로젝트 간 전임 작업 이해](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [고급 전임 작업](manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + 보고 {#reporting}
