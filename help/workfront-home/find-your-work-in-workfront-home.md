@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: 72d187e0d0ba2bf09af518e0977faedd0885f50f
+source-git-commit: 372e815c623a81ab155aecf2177c84c3f14041f0
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->현재 Workfront에는 두 개의 홈 경험이 있습니다. 새로운 홈 경험이 있는 경우 [홈에서 위젯 제거, 추가 및 재배열](help/workfront-home/review-work-in-my-updates-or-workfront-home.md) 튜토리얼.
+>현재 Workfront에는 두 개의 홈 경험이 있습니다. 새로운 홈 경험이 있는 경우 [홈에서 위젯 제거, 추가 및 재배열](/help/workfront-home/remove-add-and-rearrange-widgets.md) 튜토리얼.
 
 
 이 비디오에서는 다음 방법을 알아봅니다.

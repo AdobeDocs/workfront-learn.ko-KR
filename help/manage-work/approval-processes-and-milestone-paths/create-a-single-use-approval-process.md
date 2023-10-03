@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8962
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -36,5 +36,5 @@ ht-degree: 0%
 >
 >비디오에서 작업에 대해 설명한 것과 동일한 방법으로 프로젝트 및 문제에 대한 단일 사용 승인을 설정할 수 있습니다.
 >
->자동 문제 승인을 설정하려는 경우 글로벌 문제 승인 프로세스를 사용해야만 이 작업을 수행할 수 있으며 대기열 주제에 적용됩니다. 다음을 참조하십시오 [요청 대기열 만들기](https://experienceleague.corp.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) 자세한 내용은 을 참조하십시오.
+>자동 문제 승인을 설정하려는 경우 글로벌 문제 승인 프로세스를 사용해야만 이 작업을 수행할 수 있으며 대기열 주제에 적용됩니다. 다음을 참조하십시오 [요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) 자세한 내용은 을 참조하십시오.
 
