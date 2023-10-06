@@ -3,7 +3,7 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 71f4e25a5971f16801b513c70de6e46fa7d5f0b2
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '2430'
 ht-degree: 2%
@@ -160,8 +160,8 @@ ht-degree: 2%
       + [일회용 승인 프로세스 만들기](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [기존 승인 프로세스 첨부 및 편집](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [작업, 문제 및 승인 위임](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [마일스톤 보기](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
       + [마일스톤 적용](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [마일스톤 보기](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + 프로젝트 템플릿 만들기 및 관리 {#create-and-manage-project-templates}
       + [프로젝트 템플릿 만들기 및 블루프린트에 대해 알아보기](manage-work/create-and-manage-project-templates/create-a-project-template.md)

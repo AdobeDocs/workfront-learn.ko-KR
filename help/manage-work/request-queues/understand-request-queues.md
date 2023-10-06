@@ -11,7 +11,7 @@ thumbnail: 335220.jpeg
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ![요청 초안 만들기 이미지](assets/queue-mgt-make-a-request-draft-1.png)
 
-요청을 제출할 준비가 되면에서 찾으십시오. [!UICONTROL 초안] 탭. 이름을 클릭하여 열고 양식 작성을 완료합니다. 그런 다음 [!UICONTROL 요청 제출] 완료 시.
+요청을 제출할 준비가 되면 [!UICONTROL 초안] 탭. 이름을 클릭하여 열고 양식 작성을 완료합니다. 그런 다음 [!UICONTROL 요청 제출] 다 끝나면.
 
 ![요청 초안 회수 이미지](assets/queue-mgt-make-a-request-draft-2.png)
 
