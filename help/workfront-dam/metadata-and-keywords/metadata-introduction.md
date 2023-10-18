@@ -1,5 +1,5 @@
 ---
-title: 의 메타데이터 및 키워드 [!UICONTROL WORKFRONT DAM]
+title: 메타데이터 이해
 description: 에서 다뤄질 내용에 대해 알아보십시오. [!UICONTROL WORKFRONT DAM] 관리자, 2부 메타데이터 및 키워드 교육 과정.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8970
 exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-# 메타데이터 및 키워드: 과정 소개
+# 메타데이터 이해
 
 메타데이터는 에셋을 설명하는 데 사용되는 모든 데이터입니다. 메타데이터 필드에는 이름이 있으며 사용자는 이러한 여러 필드의 정보를 편집하거나 변경할 수 있습니다. 일부 메타데이터 필드는 자산을 가져온 애플리케이션이나 디바이스에 의해 채워지므로 편집할 수 없습니다.
 

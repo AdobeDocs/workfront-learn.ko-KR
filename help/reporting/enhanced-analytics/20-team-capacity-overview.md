@@ -1,6 +1,6 @@
 ---
-title: 의 팀 수용작업량 이해 [!UICONTROL 향상된 분석]
-description: 홈 팀이 초과 할당되거나 과소 할당된 경우 팀 수용작업량 차트가 어떻게 표시되는지 알아봅니다.
+title: 팀 수용작업량 이해
+description: 에서 팀 수용작업량 차트가 어떻게 되는지 알아봅니다. [!UICONTROL 향상된 분석] 홈 팀이 초과 할당되거나 과소 할당된 경우를 표시합니다.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
-# 의 팀 수용작업량 이해 [!UICONTROL 향상된 분석]
+# 팀 수용작업량 이해
 
 팀 수용작업량 차트는 홈 팀이 초과 할당되거나 과소 할당된 경우를 보여 줍니다. 차트는 지정된 날짜에 홈 팀에 할당된 작업 양을 표시하고 소진에 가까워지거나 도전을 받지 못할 때 더 진한 파란색 색상을 지정합니다. 더 밝고 투명한 색상은 작업 로드의 균형이 더 맞음을 나타냅니다.
 

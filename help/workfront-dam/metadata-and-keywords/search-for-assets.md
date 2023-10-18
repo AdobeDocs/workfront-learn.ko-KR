@@ -1,5 +1,5 @@
 ---
-title: 에서 에셋 검색 [!UICONTROL WORKFRONT DAM]
+title: 메타데이터 키워드를 사용하여 에셋 검색
 description: 메타데이터 및 키워드를 사용하여 에셋을 검색하고, 메타데이터 및 키워드 유지 관리를 계획하고, 설정하는 방법에 대해 알아봅니다 [!UICONTROL WORKFRONT DAM] 우수 사례입니다.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8976
 exl-id: fffb4ab8-acec-4d7b-a786-f6be538bc7ee
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# 메타데이터 및 키워드: 에셋 검색
+# 메타데이터 키워드를 사용하여 에셋 검색
 
 이 비디오에서는 다음 방법을 알아봅니다.
 

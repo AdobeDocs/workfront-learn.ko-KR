@@ -1,5 +1,5 @@
 ---
-title: 이해 [!UICONTROL 그래프] 섹션
+title: 그래프 섹션 이해
 description: '[!DNL Goals]의 목표 상태 차트 및 목표 진행률 차트를 읽고 해석하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8929
 exl-id: 670d1cb7-b66b-4786-8fd8-f396892a4845
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-# 이해 [!UICONTROL 그래프] 섹션
+# 그래프 섹션 이해
 
 ## 그래프 및 목표 상태
 

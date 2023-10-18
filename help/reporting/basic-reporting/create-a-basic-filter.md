@@ -11,14 +11,16 @@ team: Technical Marketing
 jira: kt-8857, kt-13080
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: 9ac8702eaab26c4efd972507097557cb6728902d
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '100'
 ht-degree: 2%
 
 ---
 
-# 기존 필터 경험에서 기본 필터 만들기
+# 기본 필터 만들기
+
+기존 필터 경험에서 기본 필터를 만듭니다.
 
 이 비디오에서는 다음 사항에 대해 알아봅니다.
 

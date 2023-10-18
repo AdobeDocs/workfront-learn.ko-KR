@@ -1,5 +1,5 @@
 ---
-title: 에서 계획된 시간 및 기간 보기 이해 [!UICONTROL 향상된 분석]
+title: 계획된 시간 및 기간 보기 이해
 description: 번다운 및 프로젝트 트리맵 차트에서 계획된 시간 또는 기간별로 정보를 볼 수 있습니다.
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# 에서 계획된 시간 및 기간 보기 이해 [!UICONTROL 향상된 분석]
+# 계획된 시간 및 기간 보기 이해
 
 번다운 및 프로젝트 트리맵 차트에서는 Workfront 환경에 더 정확하게 간주하는 항목에 따라 계획된 시간 또는 기간별로 정보를 볼 수 있습니다.
 

@@ -1,5 +1,5 @@
 ---
-title: 의 그룹 및 사용자 이해 [!UICONTROL WORKFRONT DAM]
+title: 그룹 및 사용자 설정
 description: 에서 폴더, 그룹 및 사용자를 만드는 방법에 대해 알아봅니다. [!UICONTROL WORKFRONT DAM]. 사용자 역할 유형을 이해하고 폴더에 권한을 부여합니다.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
 
-# 시스템 설정: 그룹 및 사용자
+# 그룹 및 사용자 설정
 
 이 비디오에서는 다음 방법을 알아봅니다.
 
@@ -32,11 +32,11 @@ ht-degree: 0%
 
 ## 그룹 및 사용자 검토
 
-을(를) 구성할 때 [!UICONTROL WORKFRONT DAM] 시스템, 큰 틀에서 사용자와 그룹이 수행하는 역할을 고려하는 것이 중요합니다.
+을(를) 구성할 때 [!UICONTROL WORKFRONT DAM] 시스템, 큰 그림에서 사용자와 그룹이 수행하는 역할을 고려하는 것이 중요합니다.
 
 그룹은 의 에셋 폴더에 대한 액세스를 제어합니다. [!UICONTROL WORKFRONT DAM]. 그룹 설정은 사용자가 에셋으로 수행할 수 있는 작업(보기, 다운로드, 편집 등)도 제어합니다. 액세스 권한이 있습니다.
 
-그룹을 만들 때 해당 그룹의 멤버가에서 액세스해야 하는 에셋 폴더를 염두에 두어야 합니다 [!UICONTROL WORKFRONT DAM].
+그룹을 만들 때는 해당 그룹의 구성원이 다음에 액세스해야 하는 에셋 폴더를 염두에 두어야 합니다 [!UICONTROL WORKFRONT DAM].
 
 사용자는에 로그인되어 있는 개인입니다. [!UICONTROL WORKFRONT DAM]. 사용자는 의 아무것도 액세스할 수 없습니다. [!UICONTROL WORKFRONT DAM] 그룹에 할당되지 않은 경우. 사용자는 필요에 따라 두 개 이상의 그룹에 속할 수 있습니다.
 

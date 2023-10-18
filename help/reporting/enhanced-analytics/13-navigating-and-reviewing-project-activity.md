@@ -1,6 +1,6 @@
 ---
-title: 에서 프로젝트 활동 탐색 및 검토 이해 [!UICONTROL 향상된 분석]
-description: Workfront에서 로그인한 사용자, 작업 상태 변경 및 완료된 작업을 기반으로 프로젝트를 비교하는 방법을 알아봅니다.
+title: 프로젝트 활동 탐색 및 검토 이해
+description: 로그인한 사용자, 작업 상태 변경 및 완료된 작업을 기반으로 프로젝트를 비교하는 방법에 대해 알아봅니다. [!UICONTROL 향상된 분석].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-# 에서 프로젝트 활동 탐색 및 검토 이해 [!UICONTROL 향상된 분석]
+# 프로젝트 활동 탐색 및 검토 이해
 
 이 비디오에서는 다음 사항에 대해 알아봅니다.
 

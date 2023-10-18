@@ -1,5 +1,5 @@
 ---
-title: Fusion 소개
+title: 소개 및 기술 전략
 description: 의 강력한 성능과 유연성에 대해 알아보십시오. [!DNL Adobe Workfront Fusion]및 고유한 Fusion 인스턴스를 사용하는 방법을 설명합니다.
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ last-substantial-update: 2023-06-08T00:00:00Z
 jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
-# Fusion 소개
+# 소개 및 기술 전략
 
 의 강력한 성능과 유연성에 대해 알아보십시오. [!DNL Adobe Workfront Fusion]및 고유한 Fusion 인스턴스를 사용하는 방법을 설명합니다.
 

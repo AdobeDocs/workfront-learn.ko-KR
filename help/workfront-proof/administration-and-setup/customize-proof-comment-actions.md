@@ -1,5 +1,5 @@
 ---
-title: 증명 댓글에 대한 작업 사용자 지정
+title: 증명 주석 작업 사용자 지정
 description: 증명 댓글에 작업을 사용하는 방법을 알아봅니다. 의 증명 기능에 대한 작업 레이블을 설정하고 사용자 지정하는 방법을 알아봅니다.
 activity: use
 feature: Workfront Proof
@@ -11,14 +11,14 @@ thumbnail: 335128.png
 jira: KT-8828
 exl-id: e71fcad9-bb8a-4adf-8469-51ce190d6c54
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-# 증명 댓글에 대한 작업 사용자 지정
+# 증명 주석 작업 사용자 지정
 
 이 비디오에서는 다음 사항에 대해 알아봅니다.
 
@@ -30,5 +30,5 @@ ht-degree: 0%
 
 ## 당신 차례입니다
 
-이미 만든 증명 워크플로를 보고 검토 및 승인 워크플로를 사용하여 팀과 벌인 토론을 반영합니다. 작업이 필요합니까? 이 경우 작업을 포함하도록 워크플로우를 기록한 문서를 업데이트합니다.
+이미 만든 증명 워크플로를 보고 검토 및 승인 워크플로를 사용하여 팀과 나눈 토론을 반영합니다. 작업이 필요합니까? 이 경우 작업을 포함하도록 워크플로우를 기록한 문서를 업데이트합니다.
 

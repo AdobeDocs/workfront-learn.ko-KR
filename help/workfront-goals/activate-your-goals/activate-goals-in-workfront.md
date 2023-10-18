@@ -1,5 +1,5 @@
 ---
-title: 에서 목표 활성화 [!DNL Workfront Goals]
+title: 목표 활성화
 description: 에서 목표를 활성화하는 방법 알아보기 [!DNL Workfront Goals] 만든 후에는
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
 
-# 에서 목표 활성화 [!DNL Workfront]
+# 목표 활성화
 
 목표를 만들었으므로 이제 목표를 활성화해 보겠습니다! 목표를 생성하면에 저장됩니다. [!UICONTROL 초안] 상태. [!UICONTROL 초안] 목표는 활성화하기 전까지 목표 관리의 일부가 아닙니다. 활성화되면 로 전환됩니다 [!UICONTROL 활성] 대시보드의 진행률을 확인하고 전반적인 전략에 맞춰 정렬하는 방법을 보여 줍니다. 의 목표 [!UICONTROL 활성] 상태는 진행 표시기(일반적으로 활동, 결과, 프로젝트 또는 정렬된 목표(하위-상위 목표 관계)와 연결되어 있습니다.
 

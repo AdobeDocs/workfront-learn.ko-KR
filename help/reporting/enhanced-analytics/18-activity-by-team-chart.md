@@ -1,6 +1,6 @@
 ---
-title: 에서 팀별 활동 차트 이해 [!UICONTROL 향상된 분석]
-description: 팀별 활동 차트를 통해 조직의 홈 팀이 Workfront에서 어떻게 시간을 보내는지 이해할 수 있습니다.
+title: 팀별 활동 이해 차트
+description: 의 팀별 활동 차트 [!UICONTROL 향상된 분석] 조직의 홈 팀이 Workfront에서 어떻게 시간을 보내는지 이해할 수 있습니다.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-# 에서 팀별 활동 차트 이해 [!UICONTROL 향상된 분석]
+# 팀별 활동 이해 차트
 
 팀별 활동 차트를 통해 조직의 홈 팀이 Workfront에서 어떻게 시간을 보내는지 이해할 수 있습니다. Workfront 사용자는 여러 팀에 속할 수 있지만 한 홈 팀에만 속할 수 있습니다. 인물 차트에 사용되는 팀은 해당 팀이 홈 팀으로 지정된 사용자로만 구성됩니다.
 

@@ -1,5 +1,5 @@
 ---
-title: 추가 [!UICONTROL 분석] 템플릿을 레이아웃하려면
+title: 레이아웃 템플릿에 분석 추가
 description: 시스템 및 그룹 관리자가 Analytics에 대한 액세스 권한을 부여하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8726
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# 추가 [!UICONTROL 향상된 분석] 템플릿을 레이아웃하려면
+# 레이아웃 템플릿에 분석 추가
 
 이 비디오에서는 다음 사항에 대해 알아봅니다.
 

@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# 의 날짜 범위 및 일정 이해 [!UICONTROL 향상된 분석]
+# 날짜 범위 및 일정 이해
 
 를 볼 때 [!DNL Enhanced analytics] 차트, 날짜 범위는 달력 위젯을 사용하여 지정됩니다. 특정 영역을 정의하기 위해 클릭하고 드래그하면 차트 내에 시간대가 만들어지므로 해당 시간대의 정보를 보다 자세히 살펴볼 수 있습니다.
 

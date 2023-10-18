@@ -1,6 +1,6 @@
 ---
-title: 의 자원 수용작업량 차트 이해 [!UICONTROL 향상된 분석]
-description: 리소스 용량 차트가 필터링된 기간 내에 홈 팀에 할당된 계획된 시간 수를 팀의 총 사용 가능한 시간과 비교하여 표시하는 방법에 대해 알아봅니다.
+title: 자원 수용작업량 차트 이해
+description: '다음에서 리소스 용량 차트를 사용하는 방법 알아보기: [!UICONTROL 향상된 분석] 필터링된 기간 내에 홈 팀에 할당된 계획된 시간을 팀의 총 사용 가능한 시간과 비교하여 표시합니다.'
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# 의 자원 수용작업량 차트 이해 [!UICONTROL 향상된 분석]
+# 자원 수용작업량 차트 이해
 
 리소스 수용작업량 차트는 필터링된 기간 내에 홈 팀에 할당된 계획된 시간을 팀의 총 가용 시간과 비교하여 보여줍니다.
 

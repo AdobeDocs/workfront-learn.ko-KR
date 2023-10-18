@@ -1,5 +1,5 @@
 ---
-title: 의 KPI 이해 [!UICONTROL 향상된 분석]
+title: KPI 이해
 description: 현재 발생한 사항 및 과거의 트렌드에 대한 KPI 데이터를 통해 가치를 얻는 방법에 대해 알아봅니다.
 activity: use
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 3%
 
 ---
 
-# 의 KPI 이해 [!UICONTROL 향상된 분석]
+# KPI 이해
 
 이 비디오에서는 다음 사항에 대해 알아봅니다.
 

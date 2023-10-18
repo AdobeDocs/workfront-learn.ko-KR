@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
-# 목표 정렬
+# 목표 조정
 
 ## 개인 사용자, 팀 및 회사 간의 목표 조정
 

@@ -1,5 +1,5 @@
 ---
-title: Workfront 홈을 사용하여 디지털 작업 검토 및 승인
+title: 디지털 작업 검토 및 승인
 description: 에서 프로젝트, 작업, 문제, 문서 및 증명을 찾고 승인하는 방법에 대해 알아봅니다. [!DNL Workfront Home].
 activity: use
 feature: Work Management
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-# 을 사용하여 디지털 작업 검토 및 승인 [!DNL Workfront Home]
+# 디지털 작업 검토 및 승인
 
 이 비디오에서는 다음 방법을 알아봅니다.
 

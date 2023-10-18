@@ -1,5 +1,5 @@
 ---
-title: 다음에 대한 메타데이터 매핑 설정 [!UICONTROL WORKFRONT DAM]
+title: 메타데이터 매핑 설정
 description: 다음에 대한 메타데이터 매핑을 설정하는 방법 알아보기 [!UICONTROL WORKFRONT DAM].
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: Admin
 level: Intermediate
 jira: KT-10088
 exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
 
-# 메타데이터 매핑
+# 메타데이터 매핑 설정
 
 [!DNL Workfront]-에셋에 대한 관련 정보는에서 전송할 수 있습니다. [!DNL Workfront] 대상 [!UICONTROL WORKFRONT DAM] 에셋 포함. 의 메타데이터 매핑 옵션 [!DNL Workfront] [!UICONTROL 설정] 영역을 통해 정보를 전송할 수 있습니다.
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 1. Workfront 필드에서 의 필드 소스를 입력합니다. [!DNL Workfront] 매핑할 필드.
 1. 그런 다음 해당 또는 대상을 선택합니다 **[!UICONTROL WORKFRONT DAM]** 메타데이터 필드.
 1. 다음을 클릭합니다. **[!UICONTROL 매핑 추가]** 단추를 클릭합니다.
-1. 다음을 볼 수 있습니다. [!UICONTROL Workfront 필드 소스] 및 [!UICONTROL Workfront DAM Target 필드] 을 클릭합니다.
+1. 다음을 볼 수 있습니다. [!UICONTROL Workfront 필드 소스] 및 [!UICONTROL Workfront DAM 대상 필드] 을 클릭합니다.
 1. 원하는 모든 메타데이터 필드에 대해 이 작업을 반복합니다.
 
 ![의 스크린샷 [!UICONTROL 메타데이터 매핑] 화면 위치 [!DNL Workfront]](assets/01-metadata-mapping.png)

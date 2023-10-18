@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
+source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2436'
 ht-degree: 2%
 
 ---
@@ -201,7 +201,7 @@ ht-degree: 2%
       + [보고 구성 요소 이해](reporting/basic-reporting/reporting-components.md)
       + [기본 그룹화 만들기](reporting/basic-reporting/create-a-basic-grouping.md)
       + [기본 보기 만들기](reporting/basic-reporting/create-a-basic-view.md)
-      + [기본 조건부 서식 추가](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
+      + [보기에 기본 조건부 서식 추가](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [기본 필터 만들기](reporting/basic-reporting/create-a-basic-filter.md)
       + [기본 필터 활동 만들기](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [간단한 보고서 만들기](reporting/basic-reporting/create-a-simple-report.md)
@@ -308,7 +308,7 @@ ht-degree: 2%
       + [조직에 대한 비전 및 전략 수립](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
       + [명확한 목표 명세서 작성](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
       + [엔터프라이즈 및 조직 목표를 중심으로 공동 작업](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
-      + [내 전략에 맞게 그룹 및 팀 정렬](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
+      + [그룹 및 팀을 전략에 맞게 조정](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
 
    + 목표 만들기 {#create-goals}
       + [[!UICONTROL Workfront 목표] 개요](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
@@ -340,10 +340,10 @@ ht-degree: 2%
       + [Adobe Workfront 플러그인을 사용하여 Creative Cloud과 통합](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [구성 중](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
       + [문서 전송 및 에셋 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
-      + [버전 기록](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
+      + [버전 내역 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [G Suite 통합으로 워크플로우 개선](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -465,7 +465,7 @@ ht-degree: 2%
       + [집계](fusion/12-exercises/aggregation.md)
       + [고급 집계](fusion/12-exercises/advanced-aggregation.md)
       + [실행 내역](fusion/12-exercises/execution-history.md)
-      + [실행, 주기 및 번들 살펴보기](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [실행 주기 및 번들 살펴보기](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
       + [기능 전환](fusion/12-exercises/switch-function.md)
       + [모듈 전환](fusion/12-exercises/switch-module.md)
       + [웹훅](fusion/12-exercises/webhooks.md)
@@ -493,8 +493,8 @@ ht-degree: 2%
       + [증명 사용자 설정](workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
    + 증명 업로드 {#upload-proofs}
-      + [증명 버전이란 무엇입니까?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [누가 증명 버전을 업로드합니까?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [증명 버전이란?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
+      + [증명 버전을 업로드하는 사람](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [문서를 증명으로 변환](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [증명 버전 보기 및 비교](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [증명 버전 업로드](workfront-proof/upload-proofs/upload-a-proof-version.md)
@@ -544,7 +544,7 @@ ht-degree: 2%
       + [메타데이터 설정](workfront-dam/metadata-and-keywords/metadata-setup.md)
 
    + Brand Connect 사용자 지정 {#brand-connect-customization}
-      + [이란? [!UICONTROL Brand Connect]?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
+      + [이란? [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
       + [에서 시스템 설정 설정 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
       + [에서 사용자 정의 페이지 추가 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
       + [에서 브랜드 지침 만들기 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)

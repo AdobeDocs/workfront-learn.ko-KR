@@ -1,5 +1,5 @@
 ---
-title: 소개 [!UICONTROL WORKFRONT DAM]
+title: 이해 [!UICONTROL WORKFRONT DAM]
 description: 에셋을 검색하고 보는 방법을 알아보고 폴더 구조가 에셋 구성 및 액세스에 미치는 영향을 살펴봅니다. [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
-# 시스템 설정: 소개 [!UICONTROL WORKFRONT DAM]
+# 이해 [!UICONTROL WORKFRONT DAM]
 
 [!UICONTROL WORKFRONT DAM] 는 특히 마케팅 및 크리에이티브 에셋을 관리, 제어 및 게시하기 위해 만들어진 DAM(디지털 에셋 관리) 솔루션입니다. 이미 있는 워크플로우와 함께 사용할 수 있습니다 [!DNL Workfront]프로젝트, 작업 할당 및 기타 작업을 관리하는 경우입니다. 사용 [!DNL Workfront] 에셋 요청을 만든 다음 에셋의 프로덕션 및 검토를 관리합니다. 다음을 사용하여 완료 및 승인된 에셋 조정, 저장 및 배포 [!UICONTROL WORKFRONT DAM].
 

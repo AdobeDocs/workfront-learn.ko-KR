@@ -1,5 +1,5 @@
 ---
-title: 에서 시스템 설정 이해 [!UICONTROL WORKFRONT DAM]
+title: 시스템 설정 이해
 description: 에서 전역 설정을 설정하고, 자산 옵션을 설정하고, 폴더 설정을 설정하고, 다운로드 규칙을 설정하고, 보고서 및 감사 로그를 보는 방법에 대해 알아봅니다 [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8968
 exl-id: 88b528a4-85be-44ed-b4d1-7acfdb2742d0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# 시스템 설정: 시스템 설정
+# 시스템 설정 이해
 
 이 비디오에서는 다음 방법을 알아봅니다.
 

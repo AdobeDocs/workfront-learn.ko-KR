@@ -1,5 +1,5 @@
 ---
-title: 사용자 지정 방법 [!UICONTROL WORKFRONT DAM]
+title: 사용자 지정 [!UICONTROL WORKFRONT DAM]
 description: 사용자 지정 방법 알아보기 [!UICONTROL WORKFRONT DAM] 워터마크 만들기, 맞춤화 [!UICONTROL DAM] 로그인 창, 인터페이스 브랜딩 등.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8969
 exl-id: cc7c90f8-8af0-45d8-b5d3-69d40ebacb7e
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# 시스템 설정: 사용자 지정 [!UICONTROL WORKFRONT DAM]
+# 사용자 지정 [!UICONTROL WORKFRONT DAM]
 
 이 비디오에서는 다음 방법을 알아봅니다.
 

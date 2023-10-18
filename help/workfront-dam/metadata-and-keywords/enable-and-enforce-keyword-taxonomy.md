@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8974
 exl-id: 57818b8d-46c8-476f-8f29-d4f0f4bb10e0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# 메타데이터 및 키워드: 키워드 분류법 활성화 및 시행
+# 키워드 분류 활성화 및 적용
 
 이 비디오에서는 다음 방법을 알아봅니다.
 

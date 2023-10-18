@@ -1,6 +1,6 @@
 ---
-title: 에서 탐색에 대해 자세히 알아보기 [!UICONTROL 향상된 분석]
-description: 작업자가 Workfront의 각 프로젝트에 얼마나 많은 시간을 할애하고 있는지 신속하게 확인하는 방법에 대해 알아봅니다.
+title: 탐색에 대해 자세히 알아보기
+description: 직원들이 각 프로젝트에 얼마나 많은 시간을 할애하고 있는지 신속하게 확인하는 방법에 대해 알아봅니다. [!UICONTROL 향상된 분석].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8733
 doc-type: video
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-# 에서 탐색에 대해 자세히 알아보기 [!UICONTROL 향상된 분석]
+# 탐색에 대해 자세히 알아보기
 
 이 비디오에서는 다음 사항에 대해 알아봅니다.
 

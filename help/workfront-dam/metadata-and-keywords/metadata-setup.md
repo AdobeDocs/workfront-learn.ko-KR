@@ -1,5 +1,5 @@
 ---
-title: 에서 메타데이터를 설정하는 방법 [!UICONTROL WORKFRONT DAM]
+title: 메타데이터 설정
 description: 메타데이터 스키마를 만드는 방법, 다양한 메타데이터 유형을 이해하는 방법, 기존 메타데이터 필드를 사용하는 방법 등에 대해 알아봅니다. [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
-# 메타데이터 및 키워드: 메타데이터 설정
+# 메타데이터 설정
 
 이 비디오에서는 다음 방법을 알아봅니다.
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## 메타데이터 전략 개발
 
-조직의 메타데이터 전략을 개발할 때 에셋 워크플로를 살펴보십시오. 사용자 [!DNL Workfront] 컨설턴트는 다음 주요 질문에 답변하는 데 도움을 줄 수 있습니다.
+조직의 메타데이터 전략을 개발할 때는 에셋 워크플로를 살펴보십시오. 사용자 [!DNL Workfront] 컨설턴트는 다음 주요 질문에 답변하는 데 도움을 줄 수 있습니다.
 
 * 메타데이터 추가는 누가 담당합니까?
 * 어떤 메타데이터가 필요합니까? 선택 사항이란?

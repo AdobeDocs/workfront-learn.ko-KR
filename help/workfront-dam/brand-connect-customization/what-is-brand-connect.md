@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# 이란? [!UICONTROL Brand Connect]
+# 이란? [!UICONTROL Brand Connect]?
 
 [!UICONTROL Brand Connect] 은(는) 의 일부임 [!UICONTROL WORKFRONT DAM] 최종 사용자가 승인된 회사 에셋을 찾고 다운로드할 수 있도록 합니다. 이러한 사용자는 자산을 요청하거나 회사 로고와 같은 것을 찾는 내부 사용자인 경우가 많습니다.
 

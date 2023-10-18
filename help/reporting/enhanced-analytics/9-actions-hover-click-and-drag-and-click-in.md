@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
-# 의 작업 이해 [!UICONTROL 향상된 분석] - 마우스로 가리키고, 클릭하여 드래그하여
+# 작업 이해 - 마우스 오버, 클릭 및 드래그, 클릭
 
 이 비디오에서는 다음 사항에 대해 알아봅니다.
 

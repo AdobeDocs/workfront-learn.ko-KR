@@ -1,5 +1,5 @@
 ---
-title: 메타데이터 및 키워드 용어 검토
+title: 메타데이터 용어 검토
 description: 메타데이터가 무엇인지, 메타데이터 전략을 개발할 때 어떤 질문을 해야 하는지 등에 대해 알아봅니다. [!UICONTROL WORKFRONT DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8971
 exl-id: 566415e9-f9a5-4038-aae7-6e08ae67d4b3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# 메타데이터 및 키워드: 용어 검토
+# 메타데이터 용어 검토
 
 이 비디오에서는 다음 사항에 대해 알아봅니다.
 

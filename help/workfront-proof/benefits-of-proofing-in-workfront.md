@@ -11,14 +11,14 @@ thumbnail: 336095.png
 jira: KT-8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# 에서 증명의 이점 알아보기 [!DNL Workfront]
+# 증명의 이점 알아보기
 
 이 비디오에서는 다음 사항에 대해 알아봅니다.
 

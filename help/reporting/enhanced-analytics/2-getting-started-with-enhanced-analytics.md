@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 4%
+source-wordcount: '280'
+ht-degree: 5%
 
 ---
 
-# Adobe Workfront 시작 [!UICONTROL 향상된 분석]
+# 시작 [!UICONTROL 향상된 분석]
 
 향상된 분석을 통해 Workfront에서 팀 및 프로젝트의 진행 상황과 향후 프로젝트 계획을 수립하는 데 도움이 되는 방법을 배울 수 있는 이전 프로젝트에서 발생한 사항을 보여줄 수 있습니다.
 
@@ -25,7 +25,7 @@ ht-degree: 4%
 
 Workfront의 향상된 분석을 최대한 활용하려면 팀이 데이터를 입력하고 특정 필드를 가능한 한 정확하게 업데이트하는지 확인해야 합니다.
 
-Analytics에서 &quot;팀&quot;이라는 용어를 사용할 때 &quot;홈 팀&quot;을 의미합니다. Workfront 사용자는 여러 팀에 속할 수 있지만 한 홈 팀에만 속할 수 있습니다. 인물 차트에 사용되는 팀은 해당 팀이 홈 팀으로 지정된 사용자로만 구성됩니다.
+Analytics에서 팀이라는 용어를 사용할 때 &quot;홈 팀&quot;을 의미합니다. Workfront 사용자는 여러 팀에 속할 수 있지만 한 홈 팀에만 속할 수 있습니다. 인물 차트에 사용되는 팀은 해당 팀이 홈 팀으로 지정된 사용자로만 구성됩니다.
 
 모든 프로젝트 템플릿에 모든 작업에 정확한 계획된 시간과 기간이 할당되어 있는지 확인하여 작업을 바로 시작할 수 있습니다.
 

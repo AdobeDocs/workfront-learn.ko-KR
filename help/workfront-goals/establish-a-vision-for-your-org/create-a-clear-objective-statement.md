@@ -1,5 +1,5 @@
 ---
-title: 목표 또는 최종 목표 정의 및 표현
+title: 명확한 목표 명세서 작성
 description: 명확한 목표 진술이나 지휘관의 의도를 만들고 강력한 엔터프라이즈 또는 조직 목표를 작성하는 방법에 대해 알아봅니다.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
 
-# 목표 정의 및 표현
+# 명확한 목표 명세서 작성
 
 이 비디오에서는 다음 방법을 알아봅니다.
 

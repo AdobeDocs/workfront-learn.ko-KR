@@ -8,14 +8,14 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
-# 요청 대기열에 대한 일반적인 질문
+# 요청 대기열에 대한 일반적인 질문에 대한 답변
 
 **요청 대기열은 볼 수 있지만 내 사용자는 볼 수 없는 이유는 무엇입니까?**
 

@@ -1,5 +1,5 @@
 ---
-title: 에서 목표 만들기 [!DNL Workfront Goals]
+title: 목표 만들기
 description: 에서 목표를 만드는 방법 알아보기 [!DNL Workfront Goals] 세 가지 옵션을 사용합니다.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '884'
 ht-degree: 0%
 
 ---
 
-# 에서 목표 만들기 [!DNL Workfront Goals]
+# 목표 만들기
 
 위치 [!DNL Workfront Goals], 경영진 및 기업 리더십 팀은 개인에 이르기까지 각 수준에서 조직 전체의 진행 상황을 확인할 수 있습니다. [!DNL Workfront Goals] 에서는 가시성을 제공하여 실행 가능한 주요 통찰력을 확보하여 우선 순위가 가장 높은 작업을 진행하고, 위험 상황에 처한 목표를 식별하고, 실시간으로 문제를 진단하고, 사전에 교정을 진행합니다.
 

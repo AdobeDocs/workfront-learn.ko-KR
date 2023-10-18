@@ -1,5 +1,5 @@
 ---
-title: 의 기본 탐색 이해 [!UICONTROL 향상된 분석]
+title: 기본 탐색 이해
 description: 탐색 방법 알아보기 [!UICONTROL 분석] Workfront의 작업 차트와 인물 차트에 대한 개요를 살펴보십시오.
 activity: use
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# 의 기본 탐색 이해 [!UICONTROL 향상된 분석]
+# 기본 탐색 이해
 
 다음 위치로 이동 [!UICONTROL 분석] 새 Workfront 경험에서 [!UICONTROL 메인 메뉴] 단추를 클릭합니다.
 
