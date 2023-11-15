@@ -6,12 +6,12 @@ team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10142
 exl-id: b56c49a5-bd3b-43b0-8e14-7443f5c7e4b1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 0%
 ![프로젝트 페이지](assets/project-page-graphic-for-planner.png)
 
 1. **이동 경로:** 프로젝트 뒤의 프로그램 및 포트폴리오 계층 구조를 탐색합니다.
-2. **오브젝트 유형:** 랜딩 페이지에 오브젝트 유형을 표시하면 보고 있는 항목을 식별하는 데 도움이 됩니다 [!DNL Workfront]. &quot;프로젝트&quot; 용어는 다음에 의해 사용자 정의할 수 있습니다. [!DNL Workfront] 시스템 관리자.
+2. **오브젝트 유형:** 랜딩 페이지에 오브젝트 유형을 표시하면 보고 있는 항목을 식별하는 데 도움이 됩니다 [!DNL Workfront]. 프로젝트 용어는 다음에 의해 사용자 정의할 수 있습니다. [!DNL Workfront] 시스템 관리자.
 3. **프로젝트 이름:** 보고 있는 프로젝트의 이름입니다. 이름을 클릭하여 편집합니다.
 4. **프로젝트 헤더:** 모든 프로젝트 페이지에서 사용할 수 있는 표준 정보입니다.
 5. **[!UICONTROL 완료율]:** 이렇게 하면 프로젝트에서 완료된 작업에 따라 자동으로 업데이트됩니다.
-6. **[!UICONTROL 프로젝트 소유자]:** 대부분의 조직에서 이 사람이 프로젝트 관리자입니다. 에서 프로젝트를 관리하는 책임자입니다. [!DNL Workfront] 및 가 완료되었는지 확인합니다.
+6. **[!UICONTROL 프로젝트 소유자]:** 대부분의 조직에서 이 사람이 프로젝트 관리자입니다. 에서 프로젝트를 관리하는 책임자입니다. [!DNL Workfront] 그리고 그것이 완료되었는지 확인합니다.
 7. **[!UICONTROL 계획된 완료 일자]:** 프로젝트의 계획된 완료 일자는 프로젝트 관리자가 프로젝트 타임라인을 통해 설정합니다.
 8. **[!UICONTROL 조건]:** 다음 [!UICONTROL 조건] 는 프로젝트가 진행되는 방식을 시각적으로 보여 줍니다. [!DNL Workfront] 자동으로 구성 가능 [!UICONTROL 조건] 프로젝트에서 작업의 진행 상태를 기반으로 합니다. 또는 [!UICONTROL 조건] 프로젝트 세부 정보를 통해 수동으로 설정할 수 있습니다.
 9. **[!UICONTROL 상태]:** 다음 [!UICONTROL 상태] 프로젝트의 진행 위치를 나타냅니다. 프로젝트는 아직 계획 중이거나, 프로젝트가 진행 중이거나, 프로젝트의 모든 작업이 완료되었습니까?

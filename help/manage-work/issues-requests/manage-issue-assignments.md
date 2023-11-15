@@ -7,13 +7,13 @@ feature: Work Management
 thumbnail: manage-issue-assignments.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 last-substantial-update: 2023-05-26T00:00:00Z
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

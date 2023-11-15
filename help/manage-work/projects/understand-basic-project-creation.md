@@ -6,15 +6,15 @@ feature: Work Management
 thumbnail: 335082.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 22%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -36,4 +36,4 @@ ht-degree: 22%
 1. 전임 작업
 1. 할당
 
-모든 항목이 설정되면 프로젝트 상태를 현재로 변경하여 프로젝트를 라이브로 전환합니다. 프로젝트가 진행됨에 따라 완료되는 작업, 발생하는 문제, 답변이 필요한 질문 등을 추적해야 합니다. 이 모든 정보를 찾을 수 있습니다. [!DNL Workfront]!
+모든 항목이 설정되면 프로젝트 상태를 현재로 변경하여 프로젝트를 라이브로 전환합니다. 프로젝트가 진행됨에 따라 완료되는 작업, 발생하는 문제, 답변이 필요한 질문 등을 계속 추적할 수 있습니다. 이 모든 정보를 찾을 수 있습니다. [!DNL Workfront]!

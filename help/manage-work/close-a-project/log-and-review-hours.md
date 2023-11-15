@@ -7,12 +7,12 @@ feature: Work Management
 thumbnail: log-and-review-hours.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10136
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

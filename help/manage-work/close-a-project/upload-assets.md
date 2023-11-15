@@ -7,19 +7,19 @@ feature: Work Management
 thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 에셋 업로드
 
-닫기 전에 [!DNL Workfront] 프로젝트, 모든 관련 파일이 [!UICONTROL 문서] 섹션. 조직의 지침에 따라 문서 또는 증명으로 업로드하십시오.
+닫기 전에 [!DNL Workfront] 프로젝트, 모든 관련 파일이 [!UICONTROL 문서] 섹션. 조직의 지침에 따라 문서 또는 증명으로 업로드합니다.
 
 문서 또는 증명을 기존 파일의 버전으로 업로드해야 할 수 있습니다.
 

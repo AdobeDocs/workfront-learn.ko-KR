@@ -7,22 +7,22 @@ feature: Work Management
 thumbnail: lessons-learned-from-closing-a-project.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 학습한 레슨 기록
 
-프로젝트 종료의 일환으로 일부 Workfront 고객은 &quot;학습한 교훈&quot; 작업을 포함합니다. 이 작업은 다른 방법으로 사용할 수 있습니다.
+프로젝트 종료의 일부로 일부 Workfront 고객은 &quot;학습한 교훈&quot; 작업을 포함합니다. 이 작업은 다른 방법으로 사용할 수 있습니다.
 
-* &quot;학습된 교훈&quot; 작업을 사용하여 회의를 나타냅니다. 작업 업데이트에서 모임 메모를 캡처합니다.
-* 또는 작업 또는 프로젝트에 사용자 정의 양식을 첨부하여 필요한 &quot;학습 내용&quot; 정보를 캡처할 수 있습니다.
+* &quot;학습된 단원&quot; 작업을 사용하여 모임을 나타냅니다. 작업 업데이트에서 모임 메모를 캡처합니다.
+* 또는 사용자 정의 양식을 작업 또는 프로젝트에 첨부하여 필요한 &quot;학습된 교훈&quot; 정보를 캡처할 수 있습니다.
 
 사용자 정의 양식의 장점 — 모든 필드를 보고할 수 있으므로 사용자 정의 양식을 작성할 수 있습니다. [!DNL Workfront] 여러 프로젝트 유형 또는 세트에서 배운 교훈을 식별하여 이 정보를 검토하고 관리하는 보고서입니다.
 

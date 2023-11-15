@@ -1,19 +1,19 @@
 ---
 title: 프로젝트 지표를 사용하여 작업 진행 추적
-description: 프로젝트 지표 차트를 사용하여 의 프로젝트 작업 진행 상황을 추적하는 방법에 대해 알아보기 [!DNL  Workfront].
+description: 프로젝트 메트릭 차트를 사용하여 의 프로젝트 작업 진행 상황을 추적하는 방법에 대해 알아보기 [!DNL  Workfront].
 activity: use
 feature: Work Management
 thumbnail: 336667.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

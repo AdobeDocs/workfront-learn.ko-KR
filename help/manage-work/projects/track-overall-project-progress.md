@@ -7,12 +7,12 @@ feature: Work Management
 thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >글로벌 시스템 설정은 작업의 기간 또는 계획된 시간을 기반으로 프로젝트의 완료율을 계산하는 방법에 영향을 줍니다.
 
-프로젝트 [!UICONTROL 조건] 는 &quot;프로젝트 스케줄의 상태&quot;라고 합니다. 조건이 계산되는 방식에 영향을 주는 몇 가지 사항이 있습니다. [!DNL Workfront] 을(를) 봅니다. [!UICONTROL 계획된 완료 일자] 및 [!UICONTROL 예상 완료 일자]중요 경로를 포함하여 프로젝트가 다음과 같은지 계산할 수 있습니다. [!UICONTROL 정시], [!UICONTROL 위험 상태], 또는 [!UICONTROL 문제 발생].
+프로젝트 [!UICONTROL 조건] 는 &quot;프로젝트 일정의 상태&quot;라고 합니다. 조건이 계산되는 방식에 영향을 주는 몇 가지 사항이 있습니다. [!DNL Workfront] 을(를) 봅니다. [!UICONTROL 계획된 완료 일자] 및 [!UICONTROL 예상 완료 일자]중요 경로를 포함하여 프로젝트가 다음과 같은지 계산할 수 있습니다. [!UICONTROL 정시], [!UICONTROL 위험 상태], 또는 [!UICONTROL 문제 발생].
 
 ![프로젝트 헤더 표시 [!UICONTROL 조건]](assets/planner-fund-condition.png)
 
