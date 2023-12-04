@@ -268,7 +268,7 @@ ht-degree: 2%
       + [사용자에 대한 리소스 관리 설정](manage-resources/resource-management/settings-for-users.md)
       + [리소스 관리 설정, 업무 균형자 및 활용률 보고서](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
-   + 워크로드 밸런서 {#workload-balancer}
+   + 업무 균형자 {#workload-balancer}
       + [업무 균형자 찾기](manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [업무 균형자 필터링](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [업무 균형자에서 사용자 할당 보기](manage-resources/workload-balancer/view-user-allocations.md)
@@ -639,7 +639,7 @@ ht-degree: 2%
    + [타임시트 및 로그인 시간](best-practices/timesheets-logging-time-bp.md)
    + [활용성](best-practices/utilization-bp.md)
    + [Workfront 목표](best-practices/workfront-goals-bp.md)
-   + [워크로드 밸런서](best-practices/workload-balancer-bp.md)
+   + [업무 균형자](best-practices/workload-balancer-bp.md)
 
 
 

@@ -10,7 +10,7 @@ role: User, Leader
 level: Beginner
 exl-id: 86bdeadc-ab72-4936-bc3a-45079d7a4ce1
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 새로 만들거나 기존 작업 항목에서 보드에 카드를 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346617)
+>[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on)
