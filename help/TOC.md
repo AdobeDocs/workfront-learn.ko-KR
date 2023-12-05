@@ -3,10 +3,10 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
+source-git-commit: eb1fdeaf12cec97a576802007a5e0683e50579ee
 workflow-type: tm+mt
-source-wordcount: '2436'
-ht-degree: 2%
+source-wordcount: '2375'
+ht-degree: 1%
 
 ---
 
@@ -84,11 +84,12 @@ ht-degree: 2%
 
 
 + 사용자 정의 데이터 {#custom-data}
-   + 사용자 정의 양식 {#custom-forms}
+   + 사용자 지정 Forms {#custom-forms}
       + [사용자 정의 양식 만들기 및 공유](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
       + [사용자 정의 필드 공유](custom-data/custom-forms/share-custom-fields.md)
       + [사용자 정의 양식 편집](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [오브젝트에 사용자 정의 양식 첨부](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [사용자 정의 양식에 섹션 구분 및 논리 추가](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [사용자 정의 양식을 PDF으로 내보내기](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + 계산된 표현식 {#calculated-expressions}
@@ -151,7 +152,7 @@ ht-degree: 2%
       + [요청 흐름 만들기](manage-work/request-queues/create-a-request-flow.md)
       + [요청 대기열에 대한 일반적인 질문에 대한 답변](manage-work/request-queues/request-queue-faq.md)
 
-   + 포트폴리오 {#portfolios}
+   + Portfolio {#portfolios}
       + [포트폴리오 개요](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [이해 [!UICONTROL 비즈니스 사례]](portfolios-and-programs/introduction-to-the-business-case.md)
       + [사용 [!UICONTROL Portfolio 최적화 도구] 작업의 우선 순위 지정 및 관리](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
@@ -236,7 +237,7 @@ ht-degree: 2%
       + [추가 캘린더 보고서 옵션 이해](reporting/basic-reporting/additional-calendar-options.md)
       + [캘린더 보고서를 만들 차례입니다.](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + 고급 Analytics {#enhanced-analytics}
+   + 향상된 분석 {#enhanced-analytics}
       + [제품에 대해 잠시 설명 [!UICONTROL 향상된 분석]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [시작 [!UICONTROL 향상된 분석]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [추가 [!UICONTROL analytics] 템플릿을 레이아웃하려면](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
@@ -348,7 +349,7 @@ ht-degree: 2%
    + G Suite {#g-suite-integrations}
       + [G Suite 통합으로 워크플로우 개선](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
-   + Jira {#jira}
+   + 지라 {#jira}
       + [를 사용하여 가시성 만들기 [!DNL Jira] 통합](integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
@@ -474,7 +475,7 @@ ht-degree: 2%
       + [JSON 작업](fusion/12-exercises/working-with-json.md)
       + [개발 도구](fusion/12-exercises/devtool.md)
 
-+ Workfront Proof {#workfront-proof}
++ Workfront 증명 {#workfront-proof}
    + [증명의 이점 알아보기](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [문서와 증명의 차이점 이해](workfront-proof/document-vs-proof.md)
    + [증명 뷰어 설명](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -523,7 +524,7 @@ ht-degree: 2%
       + [증명 주석 관리](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [증명 진행 추적](workfront-proof/review-and-approve-work/track-proof-progress.md)
 
-+ Workfront DAM {#workfront-dam-program}
++ WORKFRONT DAM {#workfront-dam-program}
    + 시스템 설정 {#system-setup}
       + [이해 [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [시스템 설정 이해](workfront-dam/system-setup/system-setup-system-settings.md)
@@ -531,7 +532,7 @@ ht-degree: 2%
       + [분석 및 계획 [!DNL Workfront DAM] 전략](workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [그룹 및 사용자 설정](workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront에서 통합 구성](workfront-dam/system-setup/configure-the-integration-in-workfront.md)
-      + [맞춤화 [!DNL Workfront DAM]](workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
+      + [사용자 지정 [!DNL Workfront DAM]](workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
    + 메타데이터 및 키워드 {#metadata-and-keywords}
       + [메타데이터 이해](workfront-dam/metadata-and-keywords/metadata-introduction.md)
@@ -587,17 +588,17 @@ ht-degree: 2%
 + 애자일 {#agile}
 
    + 스크럼 {#scrum}
-      + [Scum 애자일 팀 만들기](agile/create-a-scrum-agile-team.md)
+      + [스크럼 애자일 팀 만들기](agile/create-a-scrum-agile-team.md)
       + [스크럼 팀으로 작업 관리](agile/manage-work-scrum-team.md)
       + [백로그 정리](agile/gooming-the-backlog.md)
       + [반복 계획 및 만들기](agile/plan-and-create-an-iteration.md)
       + [반복 페이지 사용](agile/using-the-iteration-page.md)
 
-   + Kanban {#kanban}
+   + 칸반 {#kanban}
       + [칸반 팀 만들기](agile/create-a-kanban-team.md)
       + [칸반 팀으로 작업 관리](agile/manage-work-kanban-team.md)
 
-   + 보드  {#boards}
+   + 게시판  {#boards}
       + [기본 게시판 찾기 및 만들기](boards/find-and-create-a-basic-board.md)
       + [보드 열 관리](boards/manage-board-columns.md)
       + [보드에 카드 추가](boards/add-cards-to-a-board.md)
@@ -626,7 +627,7 @@ ht-degree: 2%
    + [샌드박스 미리 보기](best-practices/preview-sandbox-bp.md)
    + [프로젝트, 작업 및 문제 환경 설정](best-practices/project-task-issue-preferences-bp.md)
    + [프로젝트 템플릿](best-practices/project-templates-bp.md)
-   + [Workfront Proof](best-practices/proofing-bp.md)
+   + [Workfront 증명](best-practices/proofing-bp.md)
    + [요청 대기열](best-practices/request-queues-bp.md)
    + [리소스 플래너](best-practices/resource-planner-bp.md)
    + [리소스 풀](best-practices/resource-pools-bp.md)
