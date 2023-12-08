@@ -1,6 +1,6 @@
 ---
 title: 작업 이해 - 마우스 오버, 클릭 및 드래그, 클릭
-description: 차트 위로 마우스를 가져가면 추가 정보를 얻을 수 있고 차트에 시간대를 만들 수 있으며 추가 차트를 표시하는 방법을 알아봅니다. [!UICONTROL 향상된 분석].
+description: 차트 위로 마우스를 이동하고, 차트에 기간을 만들고, 추가 차트를 표시하도록 하여 추가 정보를 얻는 방법에 대해 알아봅니다. [!UICONTROL 향상된 분석].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: c1fd3897fad6e369a98c4fc904133ff99bf36925
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
