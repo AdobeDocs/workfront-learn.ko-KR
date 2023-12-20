@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 71%
+source-wordcount: '785'
+ht-degree: 70%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 71%
 
 보려는 데이터의 각 세그먼트에 대해 일회성 보고서를 만들면 시간이 많이 걸리고 Workfront 시스템을 복잡하게 만듭니다.
 
-프롬프트가 있는 보고서를 만드는 방법에 대한 지침은 의 &quot;보고서 프롬프트 설정 및 사용 방법&quot; 장을 참조하십시오. [보고서 설정 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+프롬프트가 있는 보고서를 만드는 방법에 대한 지침은 의 &quot;보고서 프롬프트 설정 및 사용 방법&quot; 장을 참조하십시오. [보고서 설정 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) 비디오입니다.
 
 사용자 지정 프롬프트로 보고서를 만드는 방법에 대한 지침은 을 참조하십시오. [사용자 지정 프롬프트 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 

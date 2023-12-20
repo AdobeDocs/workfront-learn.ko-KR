@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 33%
+ht-degree: 32%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 33%
 ![새 필터를 생성하는 화면 이미지](assets/basic-filter-activity-1.png)
 
 1. [!UICONTROL 메인 메뉴]에서 [!UICONTROL 프로젝트] 영역으로 이동합니다. 그러면 프로젝트 목록이 표시됩니다.
-1. 다음을 클릭합니다. **[!UICONTROL 필터]** 메뉴 및 선택 [!UICONTROL 레거시 필터]
+1. 다음을 클릭합니다. **[!UICONTROL 필터]** 메뉴 및 선택 [!UICONTROL 레거시 필터].
 1. 선택 **[!UICONTROL 새 필터]**.
 1. 필터 이름을 &quot;마케팅 포트폴리오의 모든 프로젝트&quot;로 지정합니다.
 1. **[!UICONTROL 필터 규칙 추가]**&#x200B;를 클릭합니다.
@@ -39,7 +39,7 @@ ht-degree: 33%
 1. [!UICONTROL 같음] 연산자를 그대로 둡니다.
 1. 유형 &quot;[!UICONTROL 마케팅]의 &quot; [!UICONTROL 이름을 입력하십시오.] 필드.
 1. 선택 [!UICONTROL 마케팅 Portfolio] 필터링할 해당 이름의 포트폴리오가 있다고 가정합니다. 그렇지 않은 경우 바로 앞에 입력 기능을 사용하여 원하는 포트폴리오를 찾을 수 있습니다.
-1. **[!UICONTROL 필터 저장]** 클릭
+1. 클릭 **[!UICONTROL 필터 저장]**.
 
 ## 활동 2 - 내가 소유한 이달 마감 프로젝트
 
@@ -54,7 +54,7 @@ ht-degree: 33%
 ![새 필터를 생성하는 화면 이미지](assets/basic-filter-activity-updated-6-15-21.png)
 
 1. [!UICONTROL 메인 메뉴]에서 [!UICONTROL 프로젝트] 영역으로 이동합니다. 그러면 프로젝트 목록이 표시됩니다.
-1. 다음을 클릭합니다. **[!UICONTROL 필터]** 메뉴 및 선택 [!UICONTROL 레거시 필터]
+1. 다음을 클릭합니다. **[!UICONTROL 필터]** 메뉴 및 선택 [!UICONTROL 레거시 필터].
 1. 선택 **[!UICONTROL 새 필터]**.
 1. 필터 이름을 &quot;이번 달에 내가 소유한 프로젝트&quot;로 지정합니다.
 1. **[!UICONTROL 필터 규칙 추가]**&#x200B;를 클릭합니다.
@@ -69,4 +69,4 @@ ht-degree: 33%
 1. 다시 [!UICONTROL 필터 규칙 추가]를 클릭합니다.
 1. 다음에서 [!UICONTROL 필드 이름을 입력하십시오.] 필드 유형 &quot;계획됨&quot;, 다음을 선택 [!UICONTROL 계획된 완료 일자] 다음 아래에 [!UICONTROL 프로젝트] 필드 소스입니다.
 1. [!UICONTROL 같음] 연산자를 [!UICONTROL 이번 달]로 변경합니다.
-1. **[!UICONTROL 필터 저장]** 클릭
+1. 클릭 **[!UICONTROL 필터 저장]**.
