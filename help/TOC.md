@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '2375'
+source-wordcount: '2374'
 ht-degree: 98%
 
 ---

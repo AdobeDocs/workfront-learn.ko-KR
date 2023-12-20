@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '620'
 ht-degree: 84%
 
 ---
@@ -35,8 +35,6 @@ ht-degree: 84%
 * 여러 개의 유사한 보고서를 작성하거나 보고서에 복잡한 필터 구조를 만드는 대신 보고서 프롬프트를 사용하여 보고서 결과의 범위를 좁히는 것이 좋습니다.
 
 * 새 보고서를 작성하기 위해 유사한 기존 보고서를 복사하여 보고서 작성 속도를 높입니다.
-
-* 가능하다면 텍스트 모드 대신 즉시 사용 가능한 보고 기능을 사용합니다.
 
 * 보고서를 보는 사용자가 보고서와 관련된 정보를 볼 수 있도록 사용자 기반의 와일드카드를 사용하여 동적 보고서를 만듭니다.
 
@@ -88,7 +86,7 @@ ht-degree: 84%
 </br>
 </br>
 
-보고서에서 사용자 기반 와일드카드를 사용하는 방법에 대한 지침은 를 참조하십시오. [사용자 기반 와일드카드로 필터 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+보고서에서 사용자 기반 와일드카드를 사용하는 방법에 대한 지침은 를 참조하십시오. [사용자 기반 와일드카드로 필터 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
 
 **모범 사례**
 

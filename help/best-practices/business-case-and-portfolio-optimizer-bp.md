@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 75%
@@ -51,7 +51,7 @@ ht-degree: 75%
 
 또한 프로젝트가 부서, 지역 및/또는 기업 목표에 기여하는 방식을 이해 당사자에게 보여 줄 기회를 제공합니다.
 
-비즈니스 사례를 사용하는 방법에 대한 지침은 다음을 참조하십시오. [비즈니스 사례 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+비즈니스 사례를 사용하는 방법에 대한 지침은 다음을 참조하십시오. [비즈니스 사례 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
 </br>
 </br>
@@ -64,7 +64,7 @@ ht-degree: 75%
 
 이 정보가 &quot;실제&quot; 프로젝트에 포함될 항목과 유사한지 확인하면 Portfolio 최적화 도구에서 점수 기능을 정확하게 사용하여 나열된 프로젝트의 우선 순위를 결정할 수 있습니다. Portfolio 최적화 도구는 프로젝트의 우선 순위를 효율적으로 지정하고 회사의 전략과 가치에 맞게 조정할 수 있는 훌륭한 도구입니다.
 
-비즈니스 사례를 사용하는 방법에 대한 지침은 다음을 참조하십시오. [비즈니스 사례 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+비즈니스 사례를 사용하는 방법에 대한 지침은 다음을 참조하십시오. [비즈니스 사례 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
-Portfolio 최적화 도구 사용 방법에 대한 지침은 다음을 참조하십시오. [Portfolio 최적화 도구를 사용하여 작업의 우선 순위 지정 및 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)
+Portfolio 최적화 도구 사용 방법에 대한 지침은 다음을 참조하십시오. [Portfolio 최적화 도구를 사용하여 작업의 우선 순위 지정 및 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
 
