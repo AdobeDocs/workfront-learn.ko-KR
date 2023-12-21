@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 97e97fa1a91e7ddae69c1e9fff162917c72b757d
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 92%
+source-wordcount: '407'
+ht-degree: 85%
 
 ---
 
@@ -48,6 +48,10 @@ ht-degree: 92%
 **이유**
 
 워크플로우를 단계별로 살펴보면 커뮤니케이션 포인트를 쉽게 확인하고 적절한 알림이 활성화되어 있는지 확인할 수 있습니다. 이렇게 하면 조직이 이미 작업하고 있는 방식에 대한 알림을 준비하여 스팸이나 커뮤니케이션 분류를 방지합니다.
+
+이벤트 알림을 설정하는 방법에 대한 지침은 다음을 참조하십시오. [이벤트 알림 설정](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)
+
+이벤트 알림을 관리하는 방법에 대한 지침은 다음을 참조하십시오. [인앱 및 이메일 이벤트 알림 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)
 
 </br>
 </br>
