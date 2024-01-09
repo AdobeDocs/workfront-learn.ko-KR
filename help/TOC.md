@@ -3,10 +3,10 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
 workflow-type: tm+mt
-source-wordcount: '2374'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -169,6 +169,8 @@ ht-degree: 98%
       + [템플릿에서 직접 프로젝트 만들기](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [프로젝트 템플릿 공유](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [기존 프로젝트 복사](manage-work/manage-projects/copy-an-existing-project.md)
+      + [프로젝트 템플릿 비활성화](manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+      + [프로젝트 템플릿에서 프로젝트 팀 편집](manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + 프로젝트 타임라인 {#project-timelines}
       + [프로젝트 타임라인 이해](manage-work/project-timelines/understand-project-timelines.md)
