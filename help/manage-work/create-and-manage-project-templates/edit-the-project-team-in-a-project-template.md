@@ -11,7 +11,7 @@ last-substantial-update: 2024-01-09T00:00:00Z
 team: Technical Marketing
 jira: KT-14755
 doc-type: video
-source-git-commit: 6800bbaa25945647522f42e774fa6e53b6f7cafd
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 9%
@@ -22,7 +22,7 @@ ht-degree: 9%
 
 이 비디오에서 배우는 내용은 다음과 같습니다.
 
-* 템플릿 프로젝트 팀에 프로젝트 팀 구성원을 실수로 포함하지 않는 방법.
+* 템플릿 프로젝트 팀에 **프로젝트** 아닌 팀 구성원을 실수로 포함하지 않는 방법.
 * 템플릿 프로젝트 팀을 편집하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)

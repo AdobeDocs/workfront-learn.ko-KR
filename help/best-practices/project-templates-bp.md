@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1743'
+ht-degree: 60%
 
 ---
 
@@ -190,6 +190,8 @@ ht-degree: 0%
 
 프로세스와 팀이 변경되면 프로젝트 템플릿을 업데이트해야 합니다. 분기별 등 정기적인 케이던스를 설정하여 활발하게 사용되지 않는 템플릿을 확인합니다. 비활성화할 수 있으므로 아직 Workfront에 있지만 템플릿 선택 목록에 표시되지 않습니다.
 
+프로젝트 템플릿을 비활성화하는 방법에 대한 지침은 [프로젝트 템플릿 비활성화](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+
 </br>
 </br>
 
@@ -245,4 +247,4 @@ ht-degree: 0%
 
 이러한 모든 사용자는 프로젝트의 ‘사용자 및 일정’ 섹션에서 프로젝트 팀의 일부로 나열됩니다. 그 결과 해당 템플릿에서 만든 모든 프로젝트에 전파됩니다. 이렇게 하면 프로젝트 팀의 일부로 프로젝트 활동에 대한 알림을 받고, 내가 진행 중인 프로젝트 목록에서 프로젝트를 확인하고, 프로젝트와 해당 작업, 문제 및 문서에 대한 권한을 얻을 수 있으므로 사용자에게 혼동을 줄 수 있습니다.
 
-
+프로젝트 템플릿에서 프로젝트 팀을 편집하는 방법에 대한 지침은 [프로젝트 템플릿에서 프로젝트 팀 편집](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).

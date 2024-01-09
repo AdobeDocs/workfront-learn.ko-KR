@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '826'
+ht-degree: 86%
 
 ---
 
@@ -134,7 +134,7 @@ ht-degree: 0%
 
 프로젝트 템플릿을 관리하는 모든 사용자는 목록에 있는 각 템플릿의 활성 상태(True 또는 False)를 볼 수 있습니다. 더욱 좋습니다. 필드는 인라인 편집 가능합니다!
 
-다음 열을 사용하여 &quot;프로젝트 템플릿 활성 상태&quot;라는 프로젝트 템플릿 보기를 만듭니다.
+다음 열을 사용하여 &quot;표준+활성 상태&quot;라는 프로젝트 템플릿 보기를 만듭니다.
 
 * [!UICONTROL 이름]
 * [!UICONTROL 소유자]
