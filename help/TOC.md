@@ -3,10 +3,10 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: 8810d3ff896060eef192c06da648a40f7a9333a0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2383'
+ht-degree: 97%
 
 ---
 
@@ -86,7 +86,6 @@ ht-degree: 0%
 + 사용자 정의 데이터 {#custom-data}
    + 사용자 정의 양식 {#custom-forms}
       + [사용자 정의 양식 만들기 및 공유](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
-      + [사용자 정의 필드 공유](custom-data/custom-forms/share-custom-fields.md)
       + [사용자 정의 양식 편집](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [개체에 사용자 정의 양식 첨부](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [사용자 정의 양식에 섹션 구분 및 논리 추가](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
