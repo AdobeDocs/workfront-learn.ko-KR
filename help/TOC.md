@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a2e3a96d6a8733f712fd69e57b7cd552a79b59c
+source-git-commit: 74af2d2eebceded98ef9c26db15e66c1ea830c55
 workflow-type: tm+mt
-source-wordcount: '2386'
+source-wordcount: '2378'
 ht-degree: 97%
 
 ---
@@ -62,8 +62,6 @@ ht-degree: 97%
 
    + 사용자 만들기 및 관리 {#create-and-manage-users}
       + [사용자 추가](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
-      + [개별 사용자 만들기](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
-      + [사용자 일괄 추가](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
       + [사용자 정보 수정](administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [사용자 비활성화 또는 삭제 시기 및 방법](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [시스템 감사 로그 이해](administration-and-setup/create-and-manage-users/system-audit-log.md)
