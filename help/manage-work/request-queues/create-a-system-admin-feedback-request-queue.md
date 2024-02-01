@@ -11,7 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: a371abf052a0ef37edc31fa1e0b02d8265567447
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 5%
@@ -37,6 +37,5 @@ ht-degree: 5%
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 을(를) 만드는 방법을 알아보려면 **관리자 팀 피드백 보고서** 비디오에 사용됩니다. [작업 보고서 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=ko-KR) 자습서를 통해 다음 작업을 수행할 활동을 찾습니다. **관리 팀 피드백 보고서 만들기** 다음 비디오입니다.
-<br>
-<br>
+
 사용자 정의 양식을 만드는 방법에 대해 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 튜토리얼.
