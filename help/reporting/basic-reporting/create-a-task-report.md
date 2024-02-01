@@ -11,9 +11,9 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '794'
 ht-degree: 47%
 
 ---
@@ -101,7 +101,7 @@ ht-degree: 47%
 
 ## 활동 2: 관리 팀 피드백 보고서 만들기
 
-시스템 관리자를 위해 만든 피드백 요청 대기열의 모든 문제를 표시하는 문제 보고서입니다. 에서 이 요청 대기열을 만드는 방법을 볼 수 있습니다. **시스템 관리자 피드백 요청 큐 만들기** 튜토리얼.
+시스템 관리자를 위해 만든 피드백 요청 대기열의 모든 문제를 표시하는 문제 보고서입니다. 에서 이 요청 대기열을 만드는 방법을 볼 수 있습니다. [시스템 관리자 피드백 요청 큐 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) 튜토리얼.
 
 이 보고서는 사용자 정의 양식도 사용합니다. 사용자 정의 양식을 만드는 방법에 대해 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 튜토리얼.
 
@@ -159,7 +159,8 @@ ht-degree: 47%
    ![문제 보고서 열을 만드는 화면 이미지](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL 문제] > [!UICONTROL 이름]
-   * [!UICONTROL 기본 담당자] > [!UICONTROL 이름] 참고: 열 레이블로 &quot;Owner:Name&quot;이 표시됩니다. 고급 옵션을 클릭하고 다음에 &quot;보고자&quot;를 입력하여 &quot;보고자&quot;로 변경할 수 있습니다. **사용자 정의 열 레이블** 필드.
+   * [!UICONTROL 기본 담당자] > [!UICONTROL 이름]
+      * 참고: 열 레이블로 &quot;Owner:Name&quot;이 표시됩니다. 고급 옵션을 클릭하고 다음에 &quot;보고자&quot;를 입력하여 &quot;보고자&quot;로 변경할 수 있습니다. **사용자 정의 열 레이블** 필드.
    * [!UICONTROL 문제] > [!UICONTROL 프로세스 유형]
    * [!UICONTROL 문제] > [!UICONTROL 프로세스 이름]
    * [!UICONTROL 문제] > [!UICONTROL 프로세스 등급]
