@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
 workflow-type: tm+mt
-source-wordcount: '2385'
+source-wordcount: '2382'
 ht-degree: 97%
 
 ---
@@ -177,7 +177,6 @@ ht-degree: 97%
       + [프로젝트 타임라인에서 진행 상황 추적](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + 프로젝트 종료 {#close-a-project}
-      + [프로젝트 종료](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [프로젝트 상태를 완료로 변경](manage-work/projects/change-the-project-status.md)
       + [작업 및 문제 종료](manage-work/close-a-project/close-tasks-and-issues.md)
       + [승인 완료](manage-work/close-a-project/complete-approvals.md)

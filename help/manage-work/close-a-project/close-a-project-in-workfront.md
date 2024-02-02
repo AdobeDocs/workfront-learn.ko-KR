@@ -1,6 +1,6 @@
 ---
-title: 프로젝트 닫기
-description: 프로젝트에서 검토할 정보와 데이터를 종료하기 전에 데이터를 업데이트하는 것이 중요한 이유를 알아봅니다. [!DNL  Workfront].
+title: 프로젝트 종료
+description: ' [!DNL  Workfront]에서 프로젝트를 종료하기 전에 검토할 정보와 업데이트된 데이터를 보유하는 것이 중요한 이유를 알아봅니다.'
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg
@@ -11,25 +11,23 @@ team: Technical Marketing
 jira: KT-8783
 exl-id: 7dad82df-ef20-4ed3-a52d-27f52d05f678
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 프로젝트 닫기
+# 프로젝트 종료
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오에서 배울 내용은 다음과 같습니다.
 
-* 검토할 정보 [!DNL Workfront] 프로젝트를 닫기 전에
-* 데이터를 업데이트하는 것이 중요한 이유
+* 프로젝트를 종료하기 전에 [!DNL Workfront]에서 검토할 정보
+* 업데이트된 데이터를 보유하는 것이 중요한 이유
 * 향후 프로젝트를 개선하는 데 도움이 되는 질문
 
 >[!VIDEO](https://video.tv.adobe.com/v/335096/?quality=12&learn=on)
 
 <!---
-learn more urls:
-Update task status
-Issue statuses
+This video is confusing. We have heard multiple complaints that it doesn't show how to actually change the project to Complete. "Change the project status to complete" covers the same material in more depth and clarity, so we've removed this tutorial from the TOC and redirected it's URL to point to "Change the project status to complete".
 --->
