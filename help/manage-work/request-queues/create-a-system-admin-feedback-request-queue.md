@@ -2,7 +2,7 @@
 title: 시스템 관리자 피드백 요청 큐 만들기
 description: 관리자가 워크플로 및 프로세스에 대한 피드백을 얻을 수 있는 유용한 요청 대기열을 만드는 방법을 알아봅니다.
 feature: Work Management
-thumbnail: create-a-system-admin-feedback-request-queue.jpg
+thumbnail: 3427124.jpg
 type: Tutorial
 role: Admin
 level: Intermediate
@@ -11,7 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: a371abf052a0ef37edc31fa1e0b02d8265567447
+source-git-commit: 104e03ccca2faeae5379698a6c7e5066d49db120
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 5%
