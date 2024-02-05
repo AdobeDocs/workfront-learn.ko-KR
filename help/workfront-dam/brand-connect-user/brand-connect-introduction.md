@@ -1,6 +1,6 @@
 ---
-title: 사용자로 Brand Connect 이해
-description: 다음에 대해 알아보기 [!UICONTROL WORKFRONT DAM] 및 Brand Connect는 및 그 사용 방법입니다.
+title: 사용자로서 Brand Connect 이해
+description: '[!UICONTROL Workfront DAM] 및 Brand Connect의 정의와 이들을 사용하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-8983
 exl-id: 444a74f4-c99e-4a68-b484-8b0245118051
 doc-type: video
 source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Brand Connect: 사용자로서의 Brand Connect 이해
+# Brand Connect: 사용자로서 Brand Connect 이해
 
-[!UICONTROL Brand Connect] 의 일부임 [!UICONTROL WORKFRONT DAM]마케팅, 크리에이티브, 전문 서비스 및 기타 에셋을 관리, 제어 및 게시하기 위해 만들어진 DAM(디지털 에셋 관리) 솔루션입니다. 사용 [!DNL Workfront] 에셋 요청을 만든 다음 에셋의 프로덕션 및 검토를 관리합니다. 다음을 사용하여 완료 및 승인된 에셋 조정, 저장 및 배포 [!UICONTROL WORKFRONT DAM]. 에셋 게시 위치 [!UICONTROL Brand Connect] 적합한 대상자가 올바른 메시지를 사용할 수 있도록, 필요한 위치와 방법을 선택할 수 있습니다.
+[!UICONTROL Brand Connect]는 [!UICONTROL Workfront DAM], 즉 마케팅, 크리에이티브, 전문 서비스 및 기타 자산을 관리하고, 제어하고, 게시하기 위해 제작된 디지털 자산 관리(DAM) 솔루션의 일부입니다. [!DNL Workfront]를 사용하여 자산 요청을 만든 다음 자산의 프로덕션 및 검토를 관리합니다. [!UICONTROL Workfront DAM]을 사용하여 완성되고 승인된 자산을 선별, 저장 및 배포합니다. [!UICONTROL Brand Connect]에 자산을 게시하여 적합한 대상자에게 필요한 위치에서 필요한 방법으로 적합한 메시지를 제공할 수 있습니다.
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 이란? [!UICONTROL WORKFRONT DAM] 및 Brand Connect
-* 방법 [!UICONTROL Brand Connect] 사용됨
+* [!UICONTROL Workfront DAM] 및 Brand Connect의 정의
+* [!UICONTROL Brand Connect]를 사용하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335245/?quality=12&learn=on)
