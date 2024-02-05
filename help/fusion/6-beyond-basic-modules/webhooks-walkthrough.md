@@ -1,6 +1,6 @@
 ---
-title: Webhooks 연습
-description: 웹후크를 사용하여 앱을 만들어 고객이 알코올을 구매할 수 있을 정도의 나이인지 여부를 판별하는 방법에 대해 알아봅니다. [!DNL Adobe Workfront Fusion].
+title: 웹후크 워크스루
+description: ' [!DNL Adobe Workfront Fusion]에서 웹 후크를 사용하여 고객이 주류를 구매할 수 있는 연령인지 판단하는 앱을 만드는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,57 +11,57 @@ jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '371'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Webhooks 연습
+# 웹후크 워크스루
 
-이 시나리오는 편의점 앱을 만들어 고객이 술을 구매할 만큼 나이가 들었는지 여부를 쉽게 판단할 수 있도록 한다. 계산원은 고객의 이름과 생년월일, 그리고 확인된 클라이언트 토큰을 제공된 URL에 게시하기만 하면 됩니다. 그러면 시나리오가 트리거되어 적절한 응답을 계산하고 요청자에게 반환됩니다.
+이 시나리오는 고객이 주류를 구매할 수 있는 나이인지 여부를 쉽게 확인할 수 있도록 스토어 앱을 만듭니다. 계산원은 제공된 URL에 고객의 이름과 생년월일 및 확인된 클라이언트 토큰을 게시하기만 하면 됩니다. 입력한 후에 시나리오가 트리거되어 적절한 응답을 계산하고 이를 요청자에게 반환합니다.
 
-![스위치 모듈을 사용하는 이미지](assets/beyond-basic-modules-5.png)
+![전환 모듈을 사용하는 이미지](assets/beyond-basic-modules-5.png)
 
-## Webhooks 연습
+## 웹후크 워크스루
 
-Workfront에서는 연습 연습 비디오를 시청한 후 자신의 환경에서 연습을 다시 만들 것을 권장합니다.
+Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on)
 
 >[!TIP]
 >
->이 연습을 완료하는 방법에 대한 단계별 지침은 [Webhooks 연습](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/webhooks.html?lang=en) 연습.
+>워크스루 완료에 대한 단계별 지침을 보려면 [웹 후크 워크스루](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/webhooks.html?lang=ko-KR) 연습을 참조하십시오.
 
 ## Postman 설정
 
-연습 연습을 따라 무료 Postman 애플리케이션을 다운로드해야 합니다. 연습을 위해 아래 단계에 따라 Postman의 오른쪽 영역으로 이동합니다.
+워크스루 연습을 따라가려면 무료 Postman 애플리케이션을 다운로드해야 합니다. 아래 단계에 따라 연습을 위해 Postman의 올바른 영역으로 이동합니다.
 
 1. 작업 영역을 만든 다음 엽니다.
-1. New 탭을 클릭하고 Drinking Age 라는 새 컬렉션을 만듭니다.
-1. 새 탭을 다시 클릭하고 GET 생년월일이라는 새 GET 요청을 만듭니다.
-1. 요청 작업을 GET에서 POST으로 변경합니다.
+1. 새로 만들기 탭을 클릭하고 음주 연령이라는 새 컬렉션을 만듭니다.
+1. 새로 만들기 탭을 다시 클릭하고 GET 생년월일이라는 새 GET 요청을 만듭니다.
+1. 요청 작업을 GET에서 POST로 변경합니다.
 1. POST URL 필드 아래의 본문 하위 탭 영역으로 이동합니다.
 1. 인증 하위 탭 아래에서 양식 데이터를 선택합니다.
 1. Name, Birthdate 및 clientToken에 대한 세 개의 키를 만듭니다.
 
-![스위치 모듈을 사용하는 이미지](assets/beyond-basic-modules-6.png)
+![전환 모듈을 사용하는 이미지](assets/beyond-basic-modules-6.png)
 
-## 당신 차례입니다
+## 사용자 차례
 
 >[!NOTE]
 >
->연습 연습과 과제는 선택 사항이며 Fusion 교육을 완료하는 데 필요하지 않습니다.
+>실습 및 과제는 옵션이며 Fusion 교육을 완료하는 데 필수는 아닙니다.
 
-이 연습 연습은 연습에서 배운 내용을 기반으로 하지만 해결 방법은 제공되지 않습니다.
+이 실습은 워크스루에서 배운 내용을 기반으로 하나, 해결 방법은 제공되지 않습니다.
 
-새 업데이트가 생성될 때까지 대기하는 Workfront 웹후크를 만든 다음 날짜, 업데이트를 수행한 사용자의 이름 및 업데이트에 포함된 내용을 기록합니다. 이 정보를 이메일로 직접 보내십시오.
+생성된 새 업데이트를 기다리는 Workfront 웹 후크를 만든 다음 일자, 업데이트한 사람의 이름 및 업데이트 내용을 기록합니다. 이 정보를 자신에게 이메일로 보냅니다.
 
-**힌트**: Workfront Watch 이벤트 트리거 모듈을 사용하여 웹후크를 만듭니다. 또한 Workfront 업데이트에서는 메모를 라고 합니다.
+**힌트**: Workfront 이벤트 보기 트리거 모듈을 사용하여 웹 후크를 만듭니다. 또한 Workfront에서는 업데이트를 메모라고 합니다.
 
-**과제**: 쉽게 액세스할 수 있도록 업데이트가 수행된 위치의 URL을 찾아 추가할 수 있습니까?
+**과제**: 쉽게 접근할 수 있도록 업데이트가 이루어진 URL을 찾아 추가할 수 있습니까?
 
 
-## 자세히 알아보시겠습니까? 다음 사항을 권장합니다.
+## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
