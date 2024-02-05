@@ -1,6 +1,6 @@
 ---
 title: 조직, 팀 및 사용자 이해
-description: 에서 조직, 팀 및 사용자 간의 사용, 생성 및 탐색 방법에 대해 알아봅니다. [!DNL Adobe Workfront Fusion].
+description: ' [!DNL Adobe Workfront Fusion]에서 조직, 팀 및 사용자 간에 사용하고, 만들고, 탐색하는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-9068
 exl-id: d7b08769-aeca-4b4e-b04c-96472c8ae476
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 조직, 팀 및 사용자 이해
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 조직, 팀 및 사용자 간의 사용, 생성 및 탐색 방법
+* 조직, 팀 및 사용자 간에 사용하고, 만들고, 탐색하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on)
