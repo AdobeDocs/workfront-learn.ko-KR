@@ -1,6 +1,6 @@
 ---
-title: 반복기 소개 연습
-description: 프로젝트에서 작업 중인 작업 수를 계산한 다음 각 작업 번들에 대한 값을 계산하는 방법(모두 [!DNL Adobe Workfront Fusion].
+title: 반복자 연습 소개
+description: ' [!DNL Adobe Workfront Fusion]에서 프로젝트에서 작업 중인 작업 수를 계산한 다음 각 작업 번들에 대한 값을 계산하는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,29 +11,29 @@ jira: KT-9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 반복기 소개 연습
+# 반복자 연습 소개
 
-Workfront의 특정 프로젝트를 확인한 다음 해당 프로젝트 내의 모든 작업을 살펴봅니다. 그런 다음 증분 도구 모듈을 사용하여 프로젝트 내의 작업 수를 계산하고, 마지막으로 변수 설정 모듈을 사용하여 미해결 문제 수에서 하위 항목 수를 빼서 각 작업 번들에 대한 숫자 값을 생성합니다.
+Workfront에서 특정 프로젝트를 살펴본 다음 해당 프로젝트 내의 모든 작업을 살펴봅니다. 그런 다음 증분 도구 모듈을 사용하여 프로젝트 내의 작업 수를 계산합니다. 마지막으로 변수 설정 모듈을 사용하여 미해결 문제의 수에서 하위 항목의 수를 빼서 각 작업 번들에 대한 숫자 값을 생성합니다.
 
 ![Fusion 시나리오의 이미지](assets/iteration-and-aggregation-1.png)
 
-## 반복기 소개 연습
+## 반복자 연습 소개
 
-Workfront에서는 연습 연습 비디오를 시청한 후 자신의 환경에서 연습을 다시 만들 것을 권장합니다.
+Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on)
 
 >[!TIP]
 >
->이 연습을 완료하는 방법에 대한 단계별 지침은 [반복기 소개 연습](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators-exercise.html?lang=en) 연습.
+>연습을 완료하는 방법에 대한 단계별 지침을 보려면 [반복자 연습 소개](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators-exercise.html?lang=ko-KR) 연습으로 이동하십시오.
 
 
-## 자세히 알아보시겠습니까? 다음 사항을 권장합니다.
+## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
