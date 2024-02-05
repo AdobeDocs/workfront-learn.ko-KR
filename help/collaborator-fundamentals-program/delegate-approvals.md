@@ -7,17 +7,17 @@ team: Technical Marketing
 jira: KT-8810
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 다음에서 승인 위임 [!DNL Home]
+# [!DNL Home]에서 승인 위임
 
-이 비디오에서는 다음 방법을 알아봅니다.
+이 비디오에서는 다음 방법을 배우게 됩니다.
 
-* 다른 사용자에게 승인 할당
+* 다른 사람에게 승인 할당
 * 위임 기간 종료
 * 위임된 승인 찾기
 
