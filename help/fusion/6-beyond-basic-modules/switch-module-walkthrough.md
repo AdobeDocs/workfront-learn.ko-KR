@@ -1,6 +1,6 @@
 ---
-title: 스위치 모듈 연습
-description: 에서 보다 복잡하거나 동적인 데이터 변환을 수행해야 하는 경우 Switch 모듈을 사용하는 방법에 대해 알아봅니다 [!DNL Adobe Workfront Fusion].
+title: 전환 모듈 워크스루
+description: ' [!DNL Adobe Workfront Fusion]에서 더 복잡하거나 동적인 데이터 변환을 수행해야 하는 경우, 전환 모듈을 사용하는 방법을 배워봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,29 +11,29 @@ jira: KT-9049
 exl-id: 1354d907-3e61-45a5-b8cf-3eee61973f8f
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 스위치 모듈 연습
+# 전환 모듈 워크스루
 
-더욱 복잡하거나 동적인 데이터 변환을 수행해야 하는 경우 스위치 모듈을 사용하는 방법을 이해합니다.
+더 복잡하거나 동적인 데이터 변환을 수행해야 하는 경우, 전환 모듈을 사용하는 방법을 이해합니다.
 
-![스위치 모듈을 사용하는 이미지](assets/beyond-basic-modules-4.png)
+![전환 모듈을 사용하는 이미지](assets/beyond-basic-modules-4.png)
 
-## 스위치 모듈 연습
+## 전환 모듈 워크스루
 
-Workfront에서는 연습 연습 비디오를 시청한 후 자신의 환경에서 연습을 다시 만들 것을 권장합니다.
+Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335290/?quality=12&learn=on)
 
 >[!TIP]
 >
->이 연습을 완료하는 방법에 대한 단계별 지침은 [스위치 모듈 연습](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-module.html?lang=en) 연습.
+>워크스루 완료에 대한 단계별 지침을 보려면 [전환 모듈 워크스루](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/switch-module.html?lang=ko-KR)를 참조하십시오.
 
 
-## 자세히 알아보시겠습니까? 다음 사항을 권장합니다.
+## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
