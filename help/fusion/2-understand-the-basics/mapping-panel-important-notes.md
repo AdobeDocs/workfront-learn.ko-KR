@@ -1,6 +1,6 @@
 ---
-title: 패널 중요 정보 매핑
-description: 의 매핑 패널에 제공된 연산자 사용의 중요성에 대해 알아봅니다. [!DNL Adobe Workfront Fusion].
+title: 매핑 패널 중요 사항
+description: ' [!DNL Adobe Workfront Fusion]의 매핑 패널에서 제공하는 연산자 사용의 중요성에 대해 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-9003
 exl-id: 2f5a2088-b32c-457f-baa1-913501d74b73
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 패널 중요 정보 매핑
+# 매핑 패널 중요 사항
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 매핑 패널에 제공된 연산자 사용의 중요성
+* 매핑 패널에서 제공하는 연산자 사용의 중요성
 
 >[!VIDEO](https://video.tv.adobe.com/v/335263/?quality=12&learn=on)
