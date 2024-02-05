@@ -1,6 +1,6 @@
 ---
-title: 에 대해 알아보기 [!UICONTROL WORKFRONT DAM] 강의
-description: 에서 다뤄질 내용에 대해 알아보십시오. [!UICONTROL WORKFRONT DAM] 관리자, 1부 시스템 설치 과정.
+title: '[!UICONTROL Workfront DAM] 과정 알아보기'
+description: '[!UICONTROL Workfront DAM] 관리자, 1부: 시스템 설정 과정에서 다룬 내용에 대해 알아봅니다.'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,17 +10,17 @@ team: Technical Marketing
 jira: KT-8964
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 시스템 설정: 소개
 
-이 비디오에서는 다음 작업을 수행합니다.
+이 비디오에서는 다음과 같은 작업을 수행합니다.
 
-* 를 소개합니다. [!UICONTROL WORKFRONT DAM] 강의
+* [!UICONTROL Workfront DAM] 과정의 소개 보기
 
 >[!VIDEO](https://video.tv.adobe.com/v/335227/?quality=12&learn=on)
 
