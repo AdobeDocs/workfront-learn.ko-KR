@@ -1,6 +1,6 @@
 ---
-title: 균형 실행, 주기 및 번들
-description: 균형 조정 실행, 주기 및 번들이 무엇인지 알아봅니다. [!DNL Adobe Workfront Fusion].
+title: 실행, 주기 및 번들의 균형 조정
+description: ' [!DNL Adobe Workfront Fusion]에서 실행, 주기 및 번들의 균형을 조절하는 것을 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-9044
 exl-id: ed502932-2e42-4bc0-aa1b-d1a83637ca97
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '35'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 균형 실행, 주기 및 번들
+# 실행, 주기 및 번들의 균형 조정
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* Workfront Fusion의 균형 조정 실행, 주기 및 번들
+* Workfront Fusion에서 실행, 주기 및 번들의 균형 조정
 
 >[!VIDEO](https://video.tv.adobe.com/v/335285/?quality=12&learn=on)
