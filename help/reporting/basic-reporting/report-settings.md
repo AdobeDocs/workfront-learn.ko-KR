@@ -1,6 +1,6 @@
 ---
 title: 보고서 설정 이해
-description: Workfront 보고서 설정에 액세스하는 방법 및 몇 가지 일반적인 보고서 설정이 사용되는 방법에 대해 알아봅니다.
+description: Workfront 보고서 설정에 액세스하는 방법 및 몇 가지 일반적인 보고서 설정이 사용되는 용도에 대해 알아보십시오.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,17 +12,17 @@ jira: KT-8871
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 보고서 설정 이해
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
 * 보고서 설정에 액세스하는 방법
-* 몇 가지 일반적인 보고서 설정을 사용하는 이유
+* 일반적인 보고서 설정의 용도
 
 >[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on)
