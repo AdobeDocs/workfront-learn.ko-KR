@@ -1,6 +1,6 @@
 ---
-title: 소개 [!DNL Scenario Planner]
-description: 다음 방법을 알아봅니다. [!DNL Scenario Planner] 은 비즈니스 결과에 따라 의사 결정을 일치시키는 데 도움이 될 수 있습니다. 탐색 방법 알아보기 [!DNL Scenario Planner].
+title: ' [!DNL Scenario Planner] 소개'
+description: ' [!DNL Scenario Planner] 로 비즈니스의 결과에 따라 결정을 조정하는 방법에 대해 배워봅니다.  [!DNL Scenario Planner]를 탐색하는 방법에 대해 알아봅니다.'
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,17 +11,17 @@ jira: KT-9074
 exl-id: 9a8bec0b-1f48-48d4-883b-2cb9cff251cf
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 제품과 함께 하는 순간: 소개 [!DNL Scenario Planner]
+# 제품과 함께 하는 순간: [!DNL Scenario Planner] 소개
 
-이 비디오에서는 다음 작업을 수행합니다.
+이 비디오에서는 다음과 같은 작업을 수행합니다.
 
-* 탐색 개요 가져오기 [!DNL Scenario Planner]
-* 다음 방법을 이해할 수 있습니다. [!DNL Scenario Planner] 은 비즈니스 결과에 따라 의사 결정을 일치시키는 데 도움이 될 수 있습니다.
+* [!DNL Scenario Planner]의 탐색 개요 보기
+* [!DNL Scenario Planner]로 비즈니스의 결과에 따라 결정을 조정하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on)
