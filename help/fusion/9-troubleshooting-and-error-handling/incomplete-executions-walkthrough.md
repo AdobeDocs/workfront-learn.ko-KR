@@ -1,6 +1,6 @@
 ---
-title: 불완전한 실행 연습
-description: 에서 오류를 평가하고 수정한 후 불완전한 실행을 저장한 다음 번들을 다시 실행하는 것의 가치를 알아봅니다. [!DNL Adobe Workfront Fusion].
+title: 불완전한 실행 워크스루
+description: ' [!DNL Adobe Workfront Fusion]에서 불완전한 실행을 저장한 다음 오류를 평가하고 수정한 후 번들을 다시 실행하는 작업의 가치를 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,24 @@ jira: KT-9067
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 불완전한 실행 연습
+# 불완전한 실행 워크스루
 
-불완전한 실행을 저장하는 유용한 습관을 알아보고 오류를 평가하고 수정한 후 번들을 다시 실행할 때 제공되는 값을 이해합니다.
+불완전한 실행을 저장하는 유용한 습관을 배우고 오류를 평가하고 수정한 후 번들을 다시 실행하는 작업의 가치를 이해합니다.
 
 ![오류 처리가 있는 시나리오 이미지](assets/troubleshooting-and-error-handling-8.png)
 
-## 불완전한 실행 연습
+## 불완전한 실행 워크스루
 
-Workfront에서는 연습 연습 비디오를 시청한 후 자신의 환경에서 연습을 다시 만들 것을 권장합니다.
+Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12&learn=on)
 
-## 자세히 알아보시겠습니까? 다음 사항을 권장합니다.
+## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
