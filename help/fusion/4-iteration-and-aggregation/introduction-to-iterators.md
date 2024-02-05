@@ -1,6 +1,6 @@
 ---
 title: 반복기 소개
-description: 반복 및 집선 사용 방법과 의 다양한 반복자 유형에 대해 알아봅니다 [!DNL Adobe Workfront Fusion].
+description: ' [!DNL Adobe Workfront Fusion]에서 반복 및 집계가 사용되는 방법과 다양한 유형의 반복기에 대해 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-9018
 exl-id: a790156d-e04e-4fd0-b4a3-9c30cfaeaac5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 반복기 소개
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 반복 및 집계 사용 방법
+* 반복 및 집계가 사용되는 방식
 * 다양한 유형의 반복기
 
 >[!VIDEO](https://video.tv.adobe.com/v/335277/?quality=12&learn=on)
