@@ -1,6 +1,6 @@
 ---
-title: 오류 처리 지침 이해
-description: 에서 실행을 계속할 수 있도록 하는 오류 처리기 지시문과 실행을 중지하는 지시문에 대해 알아봅니다. [!DNL Adobe Workfront Fusion].
+title: 오류 처리 지시문 이해
+description: ' [!DNL Adobe Workfront Fusion]에서 계속해서 실행할 수 있는 오류 핸들러 지시문과 실행을 정지하는 오류 핸들러 지시문에 대해 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,67 +11,67 @@ jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 오류 처리 지침 이해
+# 오류 처리 지시문 이해
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 실행을 계속할 수 있도록 하는 세 가지 오류 처리기 지시문입니다
-* 실행을 중지하는 두 개의 오류 처리기 지시문입니다
+* 계속해서 실행할 수 있는 세 가지 오류 핸들러 지시문
+* 실행을 중지하는 두 가지 오류 핸들러 지시문
 
 >[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on)
 
-## 지시어 — 시나리오 계속
+## 지시문 - 시나리오 계속
 
-### 다시 시작
+### Resume
 
 * 대체 출력이 지정되어 오류가 발생한 모듈에 제공됩니다.
-* 다음 모듈이 처리됩니다.
-* 시나리오 실행 상태가 &quot;성공&quot;으로 표시됩니다.
+* 후속 모듈이 처리됩니다.
+* 시나리오 실행 상태는 “성공”으로 표시됩니다.
 
-![Resume 지시문 이미지](assets/troubleshooting-and-error-handling-2.png)
+![Resume 지시문의 이미지](assets/troubleshooting-and-error-handling-2.png)
 
-### 나누기
+### Break
 
-* 시나리오 실행 상태는 오류를 수동으로 해결할 수 있는 미완료 실행 큐에 저장됩니다. 그러나 여기에 언급된 몇 가지 예외가 있습니다.
-* 후속 모듈은 처리되지 않습니다.
-* 처리되지 않은 번들이 있는 경우 시나리오 실행은 정상적으로 계속됩니다.
-* 시나리오 실행 상태가 &quot;경고&quot;로 표시됩니다.
+* 시나리오 실행 상태가 오류를 수동으로 해결할 수 있는 불완전한 실행 대기열에 저장됩니다. 그러나 여기에 언급된 바와 같이 몇 가지 예외가 있습니다.
+* 후속 모듈이 처리되지 않습니다.
+* 처리되지 않은 번들이 있으면 시나리오 실행이 정상적으로 계속됩니다.
+* 시나리오 실행 상태는 “경고”로 표시됩니다.
 
-![Break 지시문 이미지](assets/troubleshooting-and-error-handling-3.png)
+![Break 지시문의 이미지](assets/troubleshooting-and-error-handling-3.png)
 
 ### 무시
 
 * 오류가 무시되고 후속 모듈이 처리되지 않습니다.
-* 처리되지 않은 번들이 있는 경우 시나리오 실행은 정상적으로 계속됩니다.
-* 시나리오 실행 상태가 &quot;성공&quot;으로 표시됩니다.
+* 처리되지 않은 번들이 있으면 시나리오 실행이 정상적으로 계속됩니다.
+* 시나리오 실행 상태는 “성공”으로 표시됩니다.
 
-![Ignore 지시문 이미지](assets/troubleshooting-and-error-handling-4.png)
+![Ignore 지시문의 이미지](assets/troubleshooting-and-error-handling-4.png)
 
-## 지시어 — 시나리오 중지
+## 지시문 - 시나리오 정지
 
-### 롤백
+### Rollback
 
-* 시나리오 실행이 즉시 중지되고 모든 모듈을 초기 상태로 되돌리기 위해 모든 모듈에서 롤백 단계가 시작됩니다.
-* 후속 모듈은 처리되지 않습니다.
-* 몇 가지 오류 유형이 없으면 시나리오 설정에 지정된 &quot;연속 오류 수&quot; 이후에 시나리오가 비활성화됩니다.
-* 시나리오 실행 상태가 &quot;error&quot;로 표시됩니다.
+* 시나리오 실행이 즉시 중지되고, 모든 모듈을 초기 상태로 되돌리기 위해 모든 모듈에서 롤백 단계가 시작됩니다.
+* 후속 모듈이 처리되지 않습니다.
+* 몇 가지 오류 유형을 제외하고 시나리오 설정에서 지정한 “연속 오류 수” 후에 시나리오가 비활성화됩니다.
+* 시나리오 실행 상태는 “오류”로 표시됩니다.
 
 >[!NOTE]
 >
->이 동작은 모듈에 연결된 오류 처리기 경로가 없고 시나리오 설정의 &quot;불완전한 실행 저장 허용&quot; 설정이 선택되어 있지 않은 경우 기본 동작입니다.
+>오류 핸들러 경로가 모듈에 연결되어 있지 않고 시나리오 설정 아래에서 “불완전한 실행 저장 허용” 설정이 선택되지 않은 경우 이것이 기본 동작입니다.
 
-![Rollback 지시문 이미지](assets/troubleshooting-and-error-handling-5.png)
+![Rollback 지시문의 이미지](assets/troubleshooting-and-error-handling-5.png)
 
 ### 커밋
 
 * 오류가 무시되고 후속 모듈이 처리되지 않습니다.
-* 처리되지 않은 번들이 있는 경우 시나리오 실행은 정상적으로 계속됩니다.
-* 시나리오 실행 상태가 &quot;성공&quot;으로 표시됩니다.
+* 처리되지 않은 번들이 있으면 시나리오 실행이 정상적으로 계속됩니다.
+* 시나리오 실행 상태는 “성공”으로 표시됩니다.
 
-![Commit 지시문 이미지](assets/troubleshooting-and-error-handling-6.png)
+![Commit 지시문의 이미지](assets/troubleshooting-and-error-handling-6.png)
