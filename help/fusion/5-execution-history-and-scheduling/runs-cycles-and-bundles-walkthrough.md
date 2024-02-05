@@ -1,6 +1,6 @@
 ---
-title: 실행, 주기 및 번들 연습
-description: 에서 실행 및 사이클을 사용하여 탐색하기 위해 다양한 시나리오 구성을 사용하는 방법에 대해 알아봅니다. [!DNL Adobe Workfront Fusion].
+title: 실행, 주기 및 번들 워크스루
+description: ' [!DNL Adobe Workfront Fusion]에서 다양한 시나리오 구성을 사용하여 실행 및 주기로 탐색하는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,29 +11,29 @@ jira: KT-9045
 exl-id: 820f35af-a068-4a15-9322-98462964de61
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 실행, 주기 및 번들 연습
+# 실행, 주기 및 번들 워크스루
 
-실행 및 사이클을 사용하여 탐색하려면 다양한 시나리오 구성으로 연습하십시오.
+다양한 시나리오 구성으로 연습하여 실행 및 주기로 탐색합니다.
 
 ![실행 및 주기 설정 이미지](assets/execution-history-and-scheduling-6.png)
 
-## 실행, 주기 및 번들 연습
+## 실행, 주기 및 번들 워크스루
 
-Workfront에서는 연습 연습 비디오를 시청한 후 자신의 환경에서 연습을 다시 만들 것을 권장합니다.
+Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335286/?quality=12&learn=on)
 
 >[!TIP]
 >
->이 연습을 완료하는 방법에 대한 단계별 지침은 [실행, 주기 및 번들 살펴보기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/exploring-runs-cycles-and-bundles.html?lang=en) 연습.
+>워크스루를 완료하기 위한 단계별 지침을 보려면 [실행, 주기 및 번들 탐색 워크스루](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/exploring-runs-cycles-and-bundles.html?lang=ko-KR) 연습으로 이동하십시오.
 
 
-## 자세히 알아보시겠습니까? 다음 사항을 권장합니다.
+## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
