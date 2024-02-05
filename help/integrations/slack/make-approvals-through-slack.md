@@ -1,6 +1,6 @@
 ---
-title: 다음을 통해 승인 [!DNL Slack]
-description: Slack을 통해 승인을 수행하는 방법 알아보기
+title: ' [!DNL Slack]을 통한 승인'
+description: Slack을 통해 승인하는 방법 알아보기
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-8819
 exl-id: abe86ef4-8090-44ca-bf4b-115c14e95515
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '24'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 다음을 통해 승인 [!DNL Slack]
+# [!DNL Slack]을 통한 승인
 
-이 비디오에서는 다음 방법을 알아봅니다.
+이 비디오에서는 다음 방법을 배우게 됩니다.
 
-* 다음을 통해 승인 [!DNL Slack]
+* [!DNL Slack]을 통한 승인
 
 >[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12&learn=on)
