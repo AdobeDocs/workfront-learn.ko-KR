@@ -1,6 +1,6 @@
 ---
-title: 에서 플랜 액세스 [!UICONTROL 시나리오 플래너]
-description: 내용 알아보기 [!DNL  Workfront] 사용자가 의 플랜에 액세스하려면 권한이 필요합니다. [!UICONTROL 시나리오 플래너].
+title: '[!UICONTROL 시나리오 플래너]의 계획 액세스'
+description: '[!UICONTROL 시나리오 플래너]에서 사용자가 계획에 액세스하는 데 필요한 [!DNL  Workfront] 권한에 대해 알아봅니다.'
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,14 +11,14 @@ thumbnail: access-a-plan.png
 jira: KT-10190
 exl-id: e81cad9d-4699-4130-b172-a2969dce1dde
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 에서 플랜에 액세스 [!DNL Scenario Planner]
+# [!DNL Scenario Planner]의 계획 액세스
 
-에 프로젝트가 있는 과 같음 [!DNL Workfront]를 사용하는 경우 액세스 수준에서 플랜을 보거나 관리할 수 있는 권한이 사용자에게 부여됩니다. [!DNL Workfront] [!UICONTROL 시나리오 플래너]: 시스템에 빌드된 모든 플랜을 보거나 관리할 수 있는 것은 아닙니다. 해당 기능은 계획 작성자가 계획을 공유하고 특정 계획을 보거나 관리할 수 있는 권한을 부여했는지 여부에 따라 달라집니다.
+[!DNL Workfront] 프로젝트의 경우와 마찬가지로 [!DNL Workfront] [!UICONTROL 시나리오 플래너]에서 계획을 보거나 관리할 수 있는 액세스 권한을 사용자에게 부여했다고 하더라도 시스템에 구축된 모든 계획을 보거나 관리할 수 있는 것은 아닙니다. 이 기능은 계획 작성자가 계획을 공유했는지 여부와 특정 계획을 보거나 관리할 수 있는 권한을 부여했는지 여부에 따라 달라집니다.
 
-플랜의 큰 차이점은 시스템 관리자가 Workfront에서 만든 모든 플랜을 볼 수 없다는 것입니다. 그러한 파일도 다른 사용자와 공유할 필요가 있습니다.
+계획의 가장 큰 차이점은 시스템 관리자가 Workfront에서 생성된 모든 계획을 볼 수 없다는 것입니다. 이러한 계획도 마찬가지로 공유해야 합니다.
