@@ -1,6 +1,6 @@
 ---
-title: Workfront 검색 [!DNL Slack]
-description: 검색 방법 알아보기 [!DNL Workfront] Slack 통과
+title: ' [!DNL Slack]을 통해 Workfront 검색'
+description: Slack을 통한 [!DNL Workfront] 검색 방법 알아보기
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-8821
 exl-id: cb0ec783-0e2c-498d-a481-63617eddae8e
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '21'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 검색 [!DNL Workfront] 에서 [!DNL Slack]
+# [!DNL Slack]을 통해 [!DNL Workfront] 검색
 
-이 비디오에서는 다음 방법을 알아봅니다.
+이 비디오에서는 다음 방법을 배우게 됩니다.
 
-* 검색 [!DNL Workfront] 에서 [!DNL Slack]
+* [!DNL Slack]을 통해 [!DNL Workfront] 검색
 
 >[!VIDEO](https://video.tv.adobe.com/v/335121/?quality=12&learn=on)
