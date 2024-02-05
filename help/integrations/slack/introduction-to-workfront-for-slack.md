@@ -1,6 +1,6 @@
 ---
-title: Workfront 이해 [!DNL Slack]
-description: 다른 사용자에게서 배울 내용을 소개하는 방법에 대해 알아봅니다 [!DNL Workfront] Slack 비디오용.
+title: ' [!DNL Slack]용 Workfront 이해'
+description: Slack 비디오에 대해 다른  [!DNL Workfront] 에서 배울 내용에 대한 소개에 대해 알아봅니다.
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,21 +11,21 @@ jira: KT-8815
 exl-id: f1d857c3-2140-45db-8473-1183baa490d2
 doc-type: video
 source-git-commit: 01a1f3c4b41798cebe4239de69067bce437cb8a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workfront 이해 [!DNL Slack]
+# [!DNL Slack]용 Workfront 이해
 
-이 비디오에서는 다음 작업을 수행합니다.
+이 비디오에서는 다음과 같은 작업을 수행합니다.
 
-* 다른 사람에게서 배울 내용을 소개합니다 [!DNL Workfront] 대상 [!DNL Slack] 비디오.
+* [!DNL Slack] 비디오에 대해 다른 [!DNL Workfront]에서 배울 내용에 대한 소개를 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on)
 
 >[!NOTE]
 >
->를 구성하는 방법에 대한 자세한 정보 [!UICONTROL Slack을 위한 Workfront], 참조 [Slack을 위한 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=en).
+>[!UICONTROL Slack용 Workfront]를 구성하는 방법에 대한 내용은 [Slack용 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=ko-KR)를 참조하십시오.
 
