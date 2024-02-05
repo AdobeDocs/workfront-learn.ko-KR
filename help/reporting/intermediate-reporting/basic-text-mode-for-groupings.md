@@ -1,6 +1,6 @@
 ---
-title: 그룹화를 위한 기본 텍스트 모드 이해
-description: 텍스트 모드가 무엇인지, 카멜 표기법이 무엇인지, Workfront에서 그룹화할 때 사용할 수 있는 몇 가지 기본 "플러그 앤 플레이" 텍스트 모드에 대해 알아봅니다.
+title: 그룹화의 기본 텍스트 모드 이해
+description: 텍스트 모드의 정의, 카멜 표기법의 정의 및 Workfront의 그룹화에서 사용할 수 있는 몇 가지 기본 “플러그 앤 플레이” 텍스트 모드에 대해 알아봅니다.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -12,17 +12,17 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 그룹화를 위한 기본 텍스트 모드 이해
+# 그룹화의 기본 텍스트 모드 이해
 
 >[!IMPORTANT]
 >
->사전 요구 사항:
+>전제 조건:
 >
 >* 보고 요소 이해
 >* 보고 구성 요소 이해
@@ -30,20 +30,20 @@ ht-degree: 0%
 
 >[!TIP]
 >
->* 텍스트 모드를 더 깊이 있게 이해하려면 기록된 웨비나 이벤트를 시청하는 것이 좋습니다 [전문가에게 문의 - 텍스트 모드 보고 소개](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en): 1시간 길이입니다.
->* 텍스트 모드에 대해 더 자세히 알아보려면 [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 총 5시간 30분 분량의 튜토리얼.
+>* 텍스트 모드에 대해 자세히 알아보려면 한 시간 길이의 녹화된 웨비나 이벤트인 [전문가에게 질문하기 - 텍스트 모드 보고 소개](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=ko-KR)를 시청하는 것이 좋습니다.
+>* 텍스트 모드에 대해 자세히 알아보려면 총 5시간 30분 길이의 [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ko-KR) 튜토리얼을 시청하는 것이 좋습니다.
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 텍스트 모드
-* 낙타 케이스는 무엇입니까?
-* 그룹화에 사용할 수 있는 몇 가지 기본 &quot;플러그 앤 플레이&quot; 텍스트 모드
+* 텍스트 모드의 정의
+* 카멜 표기법의 정의
+* 그룹화에서 사용할 수 있는 몇 가지 기본 “플러그 앤 플레이” 텍스트 모드
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## 작업 - 상위 4개 그룹화
+## 작업 - 4개의 상위 그룹화
 
-다음 텍스트 모드에서는 최대 4단계의 상위 항목을 기준으로 작업을 그룹화하고 존재하지 않는 상위 항목은 공백으로 둡니다.
+다음 텍스트 모드는 최대 4개의 상위 수준을 기준으로 작업을 그룹화하고 존재하지 않는 상위 항목은 비워 둡니다.
 
 ```
 textmode=true
@@ -55,18 +55,18 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![상위 4명으로 그룹화된 프로젝트 작업을 보여 주는 화면 이미지](assets/4-parents-grouping.png)
+![4개의 상위 항목으로 그룹화된 프로젝트 작업을 보여 주는 화면 이미지](assets/4-parents-grouping.png)
 
 
 ## 작업 - 완료율 그룹화
 
-다음 텍스트 모드에서는 완료율을 기반으로 작업을 그룹화합니다. 작업을 그룹화할 때 다음 범주 중 하나에 속합니다.
+다음 텍스트 모드는 완료율을 기준으로 작업을 그룹화합니다. 작업은 그룹화될 때 다음 범주 중 하나에 속합니다.
 
 * 0%
-* 1%~25%
-* 26%~50%
-* 51%~75%
-* 76%~99%
+* 1~25%
+* 26~50%
+* 51~75%
+* 76~99%
 * 100%
 
 ```
@@ -77,11 +77,11 @@ group.0.valueformat=doubleAsString
 textmode=true
 ```
 
-![완료율별로 그룹화된 프로젝트 작업을 보여 주는 화면 이미지](assets/percent-complete-grouping.png)
+![완료율로 그룹화된 프로젝트 작업을 보여 주는 화면 이미지](assets/percent-complete-grouping.png)
 
-## 작업 - statusEquatesWith, status
+## 작업 - statusEquatesWith, 상태
 
-다음 텍스트 모드에서는 statusEqualsWith, status 순으로 작업을 그룹화합니다.
+다음 텍스트 모드는 statusEquatesWith와 상태별로 작업을 그룹화합니다.
 
 ```
 group.0.enumclass=com.attask.common.constants.TaskStatusEnum
@@ -101,10 +101,10 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![statusEqualsWith로 그룹화된 프로젝트 작업을 보여 주는 화면 이미지](assets/status-equates-with.png)
+![statusEquatesWith로 그룹화된 프로젝트 작업을 보여 주는 화면 이미지](assets/status-equates-with.png)
 
 
-## 증명 승인 - 프로젝트 이름별 그룹
+## 증명 승인 - 프로젝트 이름별로 그룹화
 
 ```
 group.0.valueformat=HTML
@@ -112,10 +112,10 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![프로젝트 이름별로 그룹화된 증명 승인을 보여주는 화면 이미지](assets/proof-approvals-grouped-by-project-name.png)
+![프로젝트 이름별로 그룹화된 증명 승인을 보여 주는 화면 이미지](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## 증명 승인 - 문서 이름별 그룹
+## 증명 승인 - 문서 이름별로 그룹화
 
 ```
 group.0.displayname=Document Name
@@ -123,5 +123,5 @@ group.0.valuefield=documentVersion:document:name
 group.0.valueformat=HTML
 ```
 
-![프로젝트 이름별로 그룹화된 증명 승인을 보여주는 화면 이미지](assets/proof-approvals-grouped-by-doc-name.png)
+![프로젝트 이름별로 그룹화된 증명 승인을 보여 주는 화면 이미지](assets/proof-approvals-grouped-by-doc-name.png)
 
