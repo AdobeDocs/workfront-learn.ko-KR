@@ -1,6 +1,6 @@
 ---
-title: 업무 균형자에서 일별 할당 조정
-description: 할당된 시간 또는 비율을 재배포하고 한 사용자에서 다른 사용자에게 작업을 재할당하는 방법을 알아봅니다.
+title: 워크로드 밸런서에서 일일 할당 조정
+description: 할당된 시간 또는 비율을 재배포하고 한 사용자의 작업을 다른 사용자에게 재할당하는 방법을 알아봅니다.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,17 +12,17 @@ jira: KT-8877
 exl-id: 27b9da27-d70c-45e7-a99d-d26cccc5277d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 에서 일별 할당 조정 [!DNL Workload Balancer]
+# [!DNL Workload Balancer]에서 일일 할당을 조정합니다.
 
-이 비디오에서는 다음 방법을 알아봅니다.
+이 비디오에서는 다음 방법을 배우게 됩니다.
 
-* 할당된 시간 또는 비율 재분배
+* 할당된 시간 또는 비율 재배포
 * 한 사용자의 작업을 다른 사용자에게 재할당
 
 
