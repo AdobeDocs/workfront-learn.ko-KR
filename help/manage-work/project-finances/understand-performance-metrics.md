@@ -19,11 +19,11 @@ ht-degree: 100%
 
 # 성과 지표 이해
 
-프로젝트 관리자가 사용하는 두 가지 성과 지표는 [!UICONTROL 성과 지수 방식]([!UICONTROL PIM]) 및 [!UICONTROL 완료 시 추정치]([!UICONTROL EAC])입니다. 시스템 전체 기본값은 [!DNL Workfront]에서 설정할 수 있으며 새로 만든 프로젝트에 적용됩니다. 그런 다음 개별 프로젝트에서 [!UICONTROL PIM]을 수정할 수 있습니다.
+프로젝트 관리자가 사용하는 두 가지 성과 지표는 [!UICONTROL 성과 지수 방식] ([!UICONTROL PIM]) 및 [!UICONTROL 완료 시 추정치] ([!UICONTROL EAC])입니다. 시스템 전체 기본값은 [!DNL Workfront]에서 설정할 수 있으며 새로 만든 프로젝트에 적용됩니다. 그런 다음 개별 프로젝트에서 [!UICONTROL PIM]을 수정할 수 있습니다.
 
 **[!UICONTROL PIM]**
 
-[!UICONTROL PIM]의 설정은 [!DNL Workfront]에서 [!UICONTROL 비용 성과 지수]([!UICONTROL CPI]), [!UICONTROL 비용 일정 성과 지수]([!UICONTROL CSI]), [!UICONTROL 일정 성과 지수]([!UICONTROL SPI]), [!UICONTROL 완료 시 추정치]([!UICONTROL EAC]) 등 다른 프로젝트 성과 지표를 계산하는 방법을 제어합니다.
+[!UICONTROL PIM]의 설정은 [!DNL Workfront]에서 [!UICONTROL 비용 성과 지수] ([!UICONTROL CPI]), [!UICONTROL 비용 일정 성과 지수] ([!UICONTROL CSI]), [!UICONTROL 일정 성과 지수] ([!UICONTROL SPI]), [!UICONTROL 완료 시 추정치] ([!UICONTROL EAC]) 등 다른 프로젝트 성과 지표를 계산하는 방법을 제어합니다.
 
 [!UICONTROL PIM]의 옵션은 시간 기반 및 비용 기반입니다.
 
