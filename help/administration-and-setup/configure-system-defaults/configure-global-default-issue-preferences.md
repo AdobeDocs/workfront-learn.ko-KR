@@ -89,7 +89,7 @@ Create and customize system-wide statuses
 1. **[!UICONTROL 작업 및 문제]**&#x200B;를 선택합니다.
 1. **[!UICONTROL 실제 일자]** 섹션으로 스크롤합니다.
 1. **[!UICONTROL 실제 시작 일자]**&#x200B;에 대해 [!UICONTROL 지금] (현재 일자 및 시간) 또는 [!UICONTROL 계획된 시작 일자] 중 원하는 옵션을 선택합니다([!UICONTROL 실제 시작 일자]는 문제 세부 정보에 설정된 시작 일자와 일치).
-1. 그리고 **[!UICONTROL 실제 완료 일자]**&#x200B;에 대해 [!UICONTROL 지금](현재 일자 및 시간) 또는 [!UICONTROL 계획된 완료 일자] 중 옵션을 선택합니다([!UICONTROL 실제 시작 일자]는 문제 세부 정보에 설정된 시작 일자와 일치).
+1. 그리고 **[!UICONTROL 실제 완료 일자]**&#x200B;에 대해 [!UICONTROL 지금] (현재 일자 및 시간) 또는 [!UICONTROL 계획된 완료 일자] 중 옵션을 선택합니다([!UICONTROL 실제 시작 일자]는 문제 세부 정보에 설정된 시작 일자와 일치).
 1. 완료되면 저장합니다.
 
 
