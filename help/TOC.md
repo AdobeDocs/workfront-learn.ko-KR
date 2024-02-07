@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
+source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
 workflow-type: tm+mt
-source-wordcount: '2382'
+source-wordcount: '2389'
 ht-degree: 97%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 97%
       + [휴지통에서 오브젝트 복원](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
    + 시스템 기본값 구성 {#configure-system-defaults}
-      + [개체 상태 만들기 및 관리](administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
+      + [오브젝트 상태 만들기 및 관리](administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [기본 문제 유형 이해](administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [문제 상태 만들기](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
       + [시스템 전체 문제 상태 만들기](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
@@ -86,7 +86,7 @@ ht-degree: 97%
       + [사용자 정의 양식 만들기 및 공유](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
       + [사용자 정의 필드 공유](custom-data/custom-forms/share-custom-fields.md)
       + [사용자 정의 양식 편집](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
-      + [개체에 사용자 정의 양식 첨부](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [오브젝트에 사용자 정의 양식 첨부](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [사용자 정의 양식에 섹션 구분 및 논리 추가](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [사용자 정의 양식을 PDF로 내보내기](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
@@ -115,6 +115,7 @@ ht-degree: 97%
       + [프로젝트 관리 시작하기](manage-work/projects/getting-started-manage-a-project.md)
       + [프로젝트 찾기](manage-work/projects/find-projects.md)
       + [프로젝트 공유](manage-work/projects/share-a-project.md)
+      + [프로젝트 팀 이해](manage-work/projects/understand-the-project-team.md)
       + [프로젝트 커뮤니케이션 이해](manage-work/projects/understand-project-communication.md)
       + [프로젝트 정보 보기](manage-work/projects/view-project-information.md)
       + [전체 프로젝트 진행 상황 추적](manage-work/projects/track-overall-project-progress.md)
@@ -207,6 +208,7 @@ ht-degree: 97%
       + [기본 필터 활동 만들기](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [간단한 보고서 만들기](reporting/basic-reporting/create-a-simple-report.md)
       + [작업 보고서 만들기](reporting/basic-reporting/create-a-task-report.md)
+      + [보고서 복사](reporting/basic-reporting/copy-a-report.md)
       + [차트로 보고서 만들기](reporting/basic-reporting/create-reports-with-charts.md)
       + [매트릭스 보고서 만들기](reporting/basic-reporting/create-a-matrix-report.md)
       + [대시보드 만들기](reporting/basic-reporting/create-dashboards.md)
@@ -347,7 +349,7 @@ ht-degree: 97%
       + [버전 내역 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
-      + [G Suite 통합으로 워크플로우 개선](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
+      + [G Suite 통합으로 워크플로 개선](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
       + [ [!DNL Jira] 통합 기능으로 가시성 생성](integrations/jira/jira.md)
@@ -437,7 +439,7 @@ ht-degree: 97%
    + 문제 해결 및 오류 처리 {#troubleshooting-and-error-handling}
       + [개발 도구를 사용한 고급 문제 해결](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
       + [개발 도구 워크스루](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
-      + [오류 처리 정의](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
+      + [오류 처리란 무엇입니까?](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
       + [오류 처리 지시문 이해](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
       + [오류 처리 워크스루](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
       + [불완전한 실행 이해](fusion/9-troubleshooting-and-error-handling/understand-incomplete-executions.md)
@@ -481,7 +483,7 @@ ht-degree: 97%
    + [증명 뷰어 설명](workfront-proof/two-options-for-the-proofing-viewers.md)
 
    + 관리 및 설정 {#administration-and-setup-for-proof}
-      + [자동화된 워크플로우 템플릿 정의](workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
+      + [자동화된 워크플로 템플릿 정의](workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
       + [증명 댓글 작업 사용자 정의](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [증명 결정 옵션 사용자 정의](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
       + [이메일 경고 및 증명 알림 이해](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
@@ -502,17 +504,17 @@ ht-degree: 97%
       + [증명 버전 관리](workfront-proof/upload-proofs/manage-proof-versions.md)
       + [비디오 증명 업로드](workfront-proof/upload-proofs/other-types-of-digital-assets.md)
       + [웹 사이트 증명 업로드](workfront-proof/upload-proofs/upload-a-proof-of-a-website.md)
-      + [기본 워크플로우로 증명 업로드](workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
-      + [자동화된 워크플로우로 증명 업로드](workfront-proof/upload-proofs/upload-a-proof-with-an-automated-workflow.md)
+      + [기본 워크플로로 증명 업로드](workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+      + [자동화된 워크플로로 증명 업로드](workfront-proof/upload-proofs/upload-a-proof-with-an-automated-workflow.md)
       + [드래그 앤 드롭으로 업로드](workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
       + [여러 파일을 하나의 증명으로 결합](workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
 
-   + 증명 워크플로우 {#proof-workflows}
-      + [프로젝트 타임라인의 일부로 워크플로우 증명 이해](workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
-      + [증명 워크플로우 편집](workfront-proof/proof-workflows/edit-a-proof-workflow.md)
-      + [템플릿 그룹을 생성하여 자동화된 워크플로우 템플릿 구성](workfront-proof/administration-and-setup/create-template-groups.md)
-      + [자동화된 워크플로우 템플릿 만들기](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
-      + [자동화된 워크플로우 템플릿 편집](workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
+   + 증명 워크플로 {#proof-workflows}
+      + [프로젝트 타임라인의 일부로 워크플로 증명 이해](workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
+      + [증명 워크플로 편집](workfront-proof/proof-workflows/edit-a-proof-workflow.md)
+      + [템플릿 그룹을 생성하여 자동화된 워크플로 템플릿 구성](workfront-proof/administration-and-setup/create-template-groups.md)
+      + [자동화된 워크플로 템플릿 만들기](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
+      + [자동화된 워크플로 템플릿 편집](workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
 
    + 작업 검토 및 승인 {#review-and-approve-work-for-proof}
       + [증명 뷰어 탐색](workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
@@ -624,7 +626,7 @@ ht-degree: 97%
    + [온보딩 및 채택](best-practices/onboarding-adoption-bp.md)
    + [조직 단위](best-practices/organizational-units-bp.md)
    + [포트폴리오 및 프로그램](best-practices/portfolios-programs-bp.md)
-   + [샌드박스 미리 보기](best-practices/preview-sandbox-bp.md)
+   + [샌드박스 미리보기](best-practices/preview-sandbox-bp.md)
    + [프로젝트, 작업 및 문제 환경 설정](best-practices/project-task-issue-preferences-bp.md)
    + [프로젝트 템플릿](best-practices/project-templates-bp.md)
    + [Workfront Proof](best-practices/proofing-bp.md)

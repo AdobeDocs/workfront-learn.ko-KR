@@ -11,21 +11,33 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
+source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 47%
+source-wordcount: '922'
+ht-degree: 40%
 
 ---
 
 # 작업 보고서 만들기
 
-이 비디오에서 배우는 내용은 다음과 같습니다.
+이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
 * 복잡한 필터로 작업 보고서를 만드는 방법
 * 생성한 보고서를 찾는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+
+
+
+>[!TIP]
+>
+>당신의 주걱과 그릇을 섞고 우리의 &quot;조리법&quot;을 시험해 볼 준비를 하세요 [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf). 고객사 내부에서 10개의 보고서에 대한 단계별 지침을 확인할 수 있으며, 이를 통해 고객 환경에서 신속하게 작업을 수행할 수 있습니다.
+><br><br>
+>고객들로부터 인기 있는 보고서를 수집하여 간편하게 소화할 수 있는 쿡북에 함께 담아 Workfront 주방에서 다시 가져와서 테스트해 보십시오.
+><br><br>
+>이 10개의 보고서는 당신과 같은 고객으로부터 온 것입니다. 업계, 부서, 팀, 직책 등 다양한 회사의 모든 분야에 걸쳐, 저희는 그들이 가장 좋아하는 보고서 중 하나를 공유한 놀라운 고객들에게 깊은 감사의 말씀을 드립니다. 일부 보고서는 간단하지만 매우 유용하며, 일부는 보고를 한 단계 더 높이기 위해 더 복잡합니다.
+
+
 
 ## 활동 1: 프롬프트가 있는 메모 보고서 만들기
 
