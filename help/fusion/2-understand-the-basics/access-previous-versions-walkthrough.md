@@ -1,6 +1,6 @@
 ---
 title: 이전 버전 워크스루에 액세스
-description: ' [!DNL Adobe Workfront Fusion]에서 시나리오를 변경하고 저장한 후 이전 버전을 복원하는 방법을 알아봅니다.'
+description: 시나리오를 변경하고 저장한 후에 이전 버전을 복원하는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '295'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '263'
+ht-degree: 86%
 
 ---
 
@@ -33,9 +34,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 >
 >시나리오를 저장한 후 나중에 액세스해야 할 경우를 대비하여 점 3개 메뉴 아래에서 새 버전을 사용할 수 있습니다. 이전에 저장된 시나리오 버전은 60일 동안만 사용할 수 있습니다. 60일이 지난 후 감사 목적으로 이전 버전에 액세스해야 하는 경우 Workfront에서는 시나리오 블루프린트를 저장하고 합의된 위치에 보관할 것을 권장합니다.
 
->[!TIP]
->
->워크스루 완료에 대한 단계별 지침을 보려면 [이전 버전에 액세스 워크스루](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=ko) 연습으로 이동합니다.
 
 ## 용어에 추가
 

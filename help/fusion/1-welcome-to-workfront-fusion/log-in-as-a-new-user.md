@@ -8,11 +8,12 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11036
+recommendations: noDisplay,noCatalog
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
@@ -20,7 +21,7 @@ ht-degree: 100%
 
 Workfront Fusion 인스턴스에 새 사용자로 초대되면 이메일 두 개를 받게 됩니다.
 
-한 이메일에는 Workfront Fusion 시스템 관리자가 프로필을 만들고 조직에 초대할 때 추가한 메모가 있습니다. 이메일 하단에는 [!UICONTROL 역할 수락] 버튼이 있습니다. **아직 이 버튼을 클릭해서는 안 됩니다.**
+한 이메일에는 Workfront Fusion 시스템 관리자가 프로필을 만들고 조직에 초대할 때 추가한 메모가 있습니다. 이메일 하단에는 [!UICONTROL 역할 수락] 버튼이 있습니다. **아직 이 버튼을 클릭하지 마십시오!**
 
 ![이메일 초대의 이미지](assets/new-user-1.png)
 
@@ -32,6 +33,6 @@ Workfront Fusion 사용을 시작하려면 두 번째 이메일의 [!UICONTROL �
 
 처음 로그인하면 암호를 변경하라는 메시지가 표시됩니다.
 
-로그인한 후 다른 이메일로 돌아가서 [!UICONTROL 역할 수락] 버튼을 클릭합니다.
+로그인하고 나면 다른 전자 메일로 돌아가서 [!UICONTROL 역할 수락] 단추를 클릭합니다.
 
 그런 다음 Workfront Fusion으로 돌아가서 페이지를 새로 고칩니다. 이제 왼쪽 패널에서 팀 및 개요 섹션을 볼 수 있습니다.

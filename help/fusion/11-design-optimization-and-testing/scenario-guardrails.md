@@ -1,6 +1,6 @@
 ---
-title: 시나리오 보호
-description: 시나리오 가드레일, 모듈 가드레일, 파일 가드레일 및 웹후크 가드레일에 대해 알아봅니다. [!DNL Adobe Workfront Fusion].
+title: 시나리오 가드레일
+description: ' [!DNL Adobe Workfront Fusion]에서 시나리오 가드레일, 모듈 가드레일, 파일 가드레일 및 웹후크 가드레일에 대해 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,29 +9,30 @@ role: User
 level: Beginner
 jira: KT-9072
 exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: dfe0a31f0087b7a2c925dd6c9b03fa68ef347cf2
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 94%
 
 ---
 
-# 시나리오 보호
+# 시나리오 가드레일
 
-작업 자동화에는 빠른 처리가 필요하므로 Workfront Fusion은 높은 성능을 제공하도록 설계되었습니다. 오래 실행되는 시나리오는 작업 속도를 저하시킬 수 있으므로, Workfront Fusion은 실행 시간, 데이터 크기 및 기타 시나리오 매개 변수를 제한하는 성능 보존 가드레일을 사용하여 설계되었습니다. Workfront Fusion 시나리오 디자이너는 이러한 가드레일을 인식하고 이를 디자인 사례에 통합해야 합니다.
+작업 자동화에는 빠른 처리가 필요하므로, Workfront Fusion은 고성능을 위해 설계되었습니다. 장기 실행 시나리오는 작업 속도를 늦출 수 있으므로 Workfront Fusion은 실행 시간, 데이터 크기 및 기타 시나리오 매개변수를 제한하는 성능 보장 가드레일로 설계되었습니다. Workfront Fusion 시나리오 설계자는 이러한 가드레일을 인식하고 이를 설계 실행에 포함해야 합니다.
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오에서 배울 내용은 다음과 같습니다.
 
-* 시나리오 보호
-* 모듈 보호 기능
-* 파일 보호
-* 웹후크 보호 기능
+* 시나리오 가드레일
+* 모듈 가드레일
+* 파일 가드레일
+* 웹후크 가드레일
 
 >[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on)
 
-## 자세히 알아보시겠습니까? 다음 사항을 권장합니다.
+## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
 
 [Adobe Workfront Fusion 성능 보호 기능](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)

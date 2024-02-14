@@ -1,5 +1,5 @@
 ---
-title: 라우팅 패턴
+title: 라우팅 패턴 연습
 description: 다른 API를 실제로 다루지 않고 라우팅 및 대체 경로의 개념을 강화합니다.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11044
 thumbnail: KT11044.png
+recommendations: noDisplay,noCatalog
 exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '344'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '361'
+ht-degree: 98%
 
 ---
 
-# 라우팅 패턴
+# 라우팅 패턴 연습
 
 다른 API를 실제로 다루지 않고 라우팅 및 대체 경로의 개념을 강화합니다.
 

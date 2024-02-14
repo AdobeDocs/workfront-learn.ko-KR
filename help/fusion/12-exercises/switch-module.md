@@ -1,5 +1,5 @@
 ---
-title: 전환 모듈
+title: 스위치 모듈 운동
 description: 더 복잡하거나 동적인 데이터 변환을 수행해야 하는 경우, 전환 모듈을 사용하는 방법을 이해합니다.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11052
 thumbnail: KT11052.png
+recommendations: noDisplay,noCatalog
 exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '319'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '327'
+ht-degree: 98%
 
 ---
 
-# 전환 모듈
+# 스위치 모듈 운동
 
 더 복잡하거나 동적인 데이터 변환을 수행해야 하는 경우, 전환 모듈을 사용하는 방법을 이해합니다.
 

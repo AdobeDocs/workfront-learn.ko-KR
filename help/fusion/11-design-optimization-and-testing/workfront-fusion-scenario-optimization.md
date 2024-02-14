@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '169'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 91%
 
 ---
 
 # Workfront Fusion 시나리오 최적화
 
-“시나리오 최적화”란 무엇이며 시나리오를 최적화하기 위해 어떤 작업을 수행할 수 있습니까?
+&quot;시나리오 최적화&quot;란 무엇이며 시나리오를 최적화하기 위해 수행할 수 있는 작업입니다.
 
 시나리오 최적화는 개발하는 데 시간과 노력이 필요한 숙련된 기술입니다. 비즈니스 결과에 대한 시나리오를 구축하려는 첫 번째 시도가 마지막이 되어서는 안 됩니다. 시나리오는 통합이 시작될 때까지 첫날부터 반복되어야 합니다. 시작 후에도 비즈니스 및 행동 변화를 따라잡기 위해 전체 수명 동안 시나리오를 검토 및 업데이트해야 합니다.
 

@@ -1,5 +1,5 @@
 ---
-title: 변수 설정/가져오기
+title: 변수 설정/가져오기 연습
 description: 설정 및 가져오기 변수 모듈을 사용하여 다른 경로의 한 경로에서 사용 가능한 필드를 사용하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11045
 thumbnail: KT11045.png
+recommendations: noDisplay,noCatalog
 exl-id: 225f0090-0428-40e2-8a4b-9c6b18b205d2
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '628'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '641'
+ht-degree: 98%
 
 ---
 
-# 변수 설정/가져오기
+# 변수 설정/가져오기 연습
 
 설정 및 가져오기 변수 모듈을 사용하여 다른 경로의 한 경로에서 사용 가능한 필드를 사용하는 방법을 알아봅니다.
 

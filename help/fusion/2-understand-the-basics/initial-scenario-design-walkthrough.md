@@ -11,9 +11,9 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 7cd5e383310f48660955b9e953a7baf13530b105
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
@@ -33,9 +33,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 * 기본 시나리오 만들기
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
-
-워크스루를 완료하는 방법에 대한 단계별 지침을 보려면 [ 초기 시나리오 디자인 워크스루](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=ko-KR) 연습으로 이동하십시오.
-
 
 
 ## 자세히 알아보고 싶으신가요? 다음을 권장합니다.

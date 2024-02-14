@@ -1,5 +1,5 @@
 ---
-title: 범용 커넥터 소개
+title: 유니버설 커넥터 연습 소개
 description: REST 범용 커넥터 작업 및 반환된 데이터 작업에 대한 이해를 넓히십시오.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11042
 thumbnail: KT11042.png
+recommendations: noDisplay,noCatalog
 exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '585'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '602'
+ht-degree: 98%
 
 ---
 
-# 범용 커넥터 소개
+# 유니버설 커넥터 연습 소개
 
 REST 범용 커넥터 작업 및 반환된 데이터 작업에 대한 이해를 넓히십시오.
 

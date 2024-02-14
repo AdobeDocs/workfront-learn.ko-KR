@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '140'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
@@ -36,10 +37,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 Pokemon API 웹 사이트: `https://pokeapi.co/`
 
 연습용 URL: `https://pokeapi.co/api/v2/pokemon/{Character}`
-
->[!TIP]
->
->워크스루를 완료하는 방법에 대한 단계별 지침을 보려면 [범용 커넥터 소개 워크스루](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=ko-KR) 연습으로 이동하십시오.
 
 
 ## 자세히 알아보고 싶으신가요? 다음을 권장합니다.

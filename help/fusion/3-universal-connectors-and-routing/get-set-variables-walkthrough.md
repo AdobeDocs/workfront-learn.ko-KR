@@ -1,6 +1,6 @@
 ---
-title: 변수 설정/가져오기 연습
-description: Workfront에서 프로젝트에 대한 정보를 조회하고 관련 정보가 포함된 이메일을 보내는 방법에 대해 알아봅니다. [!DNL Adobe Workfront Fusion].
+title: 변수 설정/가져오기 워크스루
+description: ' [!DNL Adobe Workfront Fusion]에서 Workfront의 프로젝트에 대한 정보를 조회하고 관련 정보가 포함된 이메일을 보내는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,42 +9,40 @@ role: User
 level: Beginner
 jira: KT-9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 100%
 
 ---
 
-# 변수 설정/가져오기 연습
+# 변수 설정/가져오기 워크스루
 
 Workfront에서 프로젝트에 대한 정보를 조회하고 관련 정보가 포함된 이메일을 보냅니다.
 
 ![Fusion 시나리오의 이미지](assets/universal-connectors-and-routing-8.png)
 
-## 변수 가져오기/설정 연습
+## 변수 가져오기/설정 워크스루
 
-Workfront에서는 연습 연습 비디오를 시청한 후 자신의 환경에서 연습을 다시 만들 것을 권장합니다.
+Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on)
 
->[!TIP]
->
->이 연습을 완료하는 방법에 대한 단계별 지침은 [변수 설정/가져오기 연습](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) 연습.
 
-## 당신 차례입니다
+## 사용자 차례
 
 >[!NOTE]
 >
->연습 연습과 과제는 선택 사항이며 Fusion 교육을 완료하는 데 필요하지 않습니다.
+>실습 및 과제는 옵션이며 Fusion 교육을 완료하는 데 필수는 아닙니다.
 
-이 연습 연습은 연습에서 배운 내용을 기반으로 하지만 해결 방법은 제공되지 않습니다.
+이 실습은 워크스루에서 배운 내용을 기반으로 하나, 해결 방법은 제공되지 않습니다.
 
-이 연습에서 만든 &quot;라우팅 경로 간 변수 공유&quot; 시나리오의 클론을 만듭니다. 작성한 메시지를 프로젝트 소유자 및 프로젝트 스폰서에게 이메일로 보냅니다. 또한 메시지에 프로젝트 조건을 포함시켜야 합니다. (지금은 조건이 두 글자 키로 표시되어도 좋습니다.)
+이 워크스루에서 만든 “라우팅 경로 간 변수 공유” 시나리오의 복제본을 만듭니다. 작성한 메시지를 프로젝트 소유자 및 프로젝트 스폰서에게 이메일로 보냅니다. 또한 메시지에 프로젝트 조건을 포함하려고 합니다. (지금은 조건이 두 글자 키로 되어도 괜찮음)
 
-**과제:** 매주 월요일 오전 8시에 이 &quot;이메일&quot;을 보내도록 시나리오를 예약하십시오.
+**과제:** 매주 월요일 오전 8시에 이 “이메일”을 보내도록 시나리오 일정을 예약합니다.
 
-## 자세히 알아보시겠습니까? 다음 사항을 권장합니다.
+## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)

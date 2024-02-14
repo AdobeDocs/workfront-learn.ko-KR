@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9045
 exl-id: 820f35af-a068-4a15-9322-98462964de61
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '112'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
@@ -29,9 +30,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335286/?quality=12&learn=on)
 
->[!TIP]
->
->워크스루를 완료하기 위한 단계별 지침을 보려면 [실행, 주기 및 번들 탐색 워크스루](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/exploring-runs-cycles-and-bundles.html?lang=ko-KR) 연습으로 이동하십시오.
 
 
 ## 자세히 알아보고 싶으신가요? 다음을 권장합니다.

@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11046
 thumbnail: KT11046.png
+recommendations: noDisplay,noCatalog
 exl-id: 8d751885-372a-4716-9542-079cc3d36caf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '382'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '388'
 ht-degree: 100%
 
 ---
 
-# 반복기 소개
+# 반복기 연습 소개
 
 반복 유형 앱을 사용하여 각 정보 번들에 대한 작업을 수행하는 방법을 알아봅니다.
 

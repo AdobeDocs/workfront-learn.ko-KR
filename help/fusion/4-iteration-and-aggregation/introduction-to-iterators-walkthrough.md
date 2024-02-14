@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '168'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '134'
 ht-degree: 100%
 
 ---
@@ -29,9 +30,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on)
 
->[!TIP]
->
->연습을 완료하는 방법에 대한 단계별 지침을 보려면 [반복자 연습 소개](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators-exercise.html?lang=ko-KR) 연습으로 이동하십시오.
 
 
 ## 자세히 알아보고 싶으신가요? 다음을 권장합니다.

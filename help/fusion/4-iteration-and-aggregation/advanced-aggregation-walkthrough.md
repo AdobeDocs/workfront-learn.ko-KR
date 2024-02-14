@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '278'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '245'
 ht-degree: 100%
 
 ---
@@ -34,9 +35,7 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 * `https://restcountries.com/v2/lang/es`
 * `https://restcountries.com/v2/name/{country name}`
 
->[!TIP]
->
->워크스루 완료에 대한 단계별 지침을 보려면 [고급 집계 워크스루](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/advanced-aggregation.html?lang=ko-KR)를 참조하십시오.
+
 
 ## 집계 원칙 강화
 

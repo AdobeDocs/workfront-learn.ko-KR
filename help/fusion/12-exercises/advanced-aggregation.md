@@ -1,5 +1,5 @@
 ---
-title: 고급 집계
+title: 고급 응집 운동
 description: 웹 서비스를 호출하여 여러 국가에 대한 세부 정보를 반환하고 하위 지역별로 그룹화된 인구를 확인합니다.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11048
 thumbnail: KT11048.png
+recommendations: noDisplay,noCatalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '481'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '493'
+ht-degree: 98%
 
 ---
 
-# 고급 집계
+# 고급 응집 운동
 
 집계할 때 그룹화를 사용하는 방법을 이해합니다.
 

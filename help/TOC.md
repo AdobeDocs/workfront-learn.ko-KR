@@ -3,10 +3,10 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '2389'
-ht-degree: 97%
+source-wordcount: '2408'
+ht-degree: 94%
 
 ---
 
@@ -384,50 +384,68 @@ ht-degree: 97%
 
    + 기본 사항 이해 {#understand-the-basics}
       + [초기 시나리오 디자인 워크스루](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
+      + [초기 시나리오 설계 연습](fusion/12-exercises/initial-scenario-design.md)
       + [매핑 패널 및 공식 편집기](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
       + [매핑 패널 중요 사항](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
       + [추가 기본 매핑 워크스루](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
+      + [기본 매핑 연습 이상](fusion/12-exercises/beyond-basic-mapping.md)
       + [필터 사용](fusion/2-understand-the-basics/use-filters.md)
       + [필터 워크스루](fusion/2-understand-the-basics/filters-walkthrough.md)
+      + [필터 연습](fusion/12-exercises/filters.md)
       + [이전 버전 워크스루에 액세스](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
+      + [이전 버전 연습 액세스](fusion/12-exercises/access-previous-versions.md)
 
    + 범용 커넥터 및 라우팅 {#universal-connectors-and-routing}
       + [범용 커넥터 연습 개요](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [범용 커넥터 소개 워크스루](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
+      + [유니버설 커넥터 연습 소개](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [라우터 이해](fusion/3-universal-connectors-and-routing/understand-routers.md)
       + [라우터 워크스루](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
+      + [라우터 연습](fusion/12-exercises/routers.md)
       + [일반적인 라우팅 패턴](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [라우팅 패턴 워크스루](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
+      + [라우팅 패턴 연습](fusion/12-exercises/routing-patterns.md)
       + [설정하고 가져오기](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [변수 가져오기/설정 워크스루](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+      + [변수 설정/가져오기 연습](fusion/12-exercises/set-get-variables.md)
 
    + 반복 및 집계 {#iteration-and-aggregation}
       + [반복기 소개](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
       + [반복자 연습 소개](fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
+      + [반복기 연습 소개](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [집계 소개](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
       + [집계 워크스루](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
+      + [응집 운동](fusion/12-exercises/aggregation.md)
       + [고급 집계 워크스루](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
+      + [고급 응집 운동](fusion/12-exercises/advanced-aggregation.md)
 
    + 실행 기록 및 일정 {#execution-history-and-scheduling}
       + [실행 기록 소개](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
       + [실행 기록 워크스루](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
+      + [실행 기록 연습](fusion/12-exercises/execution-history.md)
       + [시나리오 일정 이해](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
       + [실행, 주기 및 번들의 균형 조정](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [실행, 주기 및 번들 워크스루](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
+      + [달리기, 주기 및 다발 운동 탐색](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
    + 추가 기본 모듈 {#beyond-basic-modules}
       + [추가 앱 및 일반 모듈에 대해 숙지하기](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [전환해 보기](fusion/6-beyond-basic-modules/switch-it-up.md)
       + [전환 함수 워크스루](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
+      + [스위치 기능 연습](fusion/12-exercises/switch-function.md)
       + [전환 모듈 워크스루](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
+      + [스위치 모듈 운동](fusion/12-exercises/switch-module.md)
       + [웹후크 환경 이해](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [웹후크 워크스루](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
+      + [웹후크 운동](fusion/12-exercises/webhooks.md)
 
    + 데이터 구조 및 데이터 저장소 {#data-structures-and-data-stores}
       + [데이터 구조 이해](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
       + [데이터 구조 워크스루](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
+      + [데이터 구조 연습](fusion/12-exercises/data-structures.md)
       + [데이터 저장소 이해](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
       + [데이터 저장소 워크스루](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
+      + [데이터 저장소 운동](fusion/12-exercises/data-stores.md)
 
    + 최종 기능 비트 및 Bob {#final-functional-bits-and-bobs}
       + [Workfront 앱 워크스루](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
@@ -435,10 +453,12 @@ ht-degree: 97%
       + [배열 워크스루](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
       + [시나리오의 JSON 이해](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
       + [JSON 작업 워크스루](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
+      + [JSON 연습을 사용하여 작업](fusion/12-exercises/working-with-json.md)
 
    + 문제 해결 및 오류 처리 {#troubleshooting-and-error-handling}
       + [개발 도구를 사용한 고급 문제 해결](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
       + [개발 도구 워크스루](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
+      + [개발 도구 연습](fusion/12-exercises/devtool.md)
       + [오류 처리란 무엇입니까?](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
       + [오류 처리 지시문 이해](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
       + [오류 처리 워크스루](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
@@ -455,27 +475,6 @@ ht-degree: 97%
       + [접근성 및 명확성](fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
       + [시나리오 가드레일](fusion/11-design-optimization-and-testing/scenario-guardrails.md)
       + [테스트 및 실행](fusion/11-design-optimization-and-testing/testing-considerations.md)
-   + 연습 {#exercises}
-      + [초기 시나리오 디자인](fusion/12-exercises/initial-scenario-design.md)
-      + [추가 기본 매핑](fusion/12-exercises/beyond-basic-mapping.md)
-      + [필터](fusion/12-exercises/filters.md)
-      + [이전 버전 액세스](fusion/12-exercises/access-previous-versions.md)
-      + [범용 커넥터 소개](fusion/12-exercises/introduction-to-universal-connectors.md)
-      + [라우터](fusion/12-exercises/routers.md)
-      + [라우팅 패턴](fusion/12-exercises/routing-patterns.md)
-      + [변수 설정/가져오기](fusion/12-exercises/set-get-variables.md)
-      + [반복기 소개](fusion/12-exercises/introduction-to-iterators-exercise.md)
-      + [집계](fusion/12-exercises/aggregation.md)
-      + [고급 집계](fusion/12-exercises/advanced-aggregation.md)
-      + [실행 기록](fusion/12-exercises/execution-history.md)
-      + [실행 주기 및 번들 살펴보기](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
-      + [전환 함수](fusion/12-exercises/switch-function.md)
-      + [전환 모듈](fusion/12-exercises/switch-module.md)
-      + [웹후크](fusion/12-exercises/webhooks.md)
-      + [데이터 구조](fusion/12-exercises/data-structures.md)
-      + [데이터 저장소](fusion/12-exercises/data-stores.md)
-      + [JSON 작업](fusion/12-exercises/working-with-json.md)
-      + [개발 도구](fusion/12-exercises/devtool.md)
 
 + Workfront Proof {#workfront-proof}
    + [증명의 이점 알아보기](workfront-proof/benefits-of-proofing-in-workfront.md)

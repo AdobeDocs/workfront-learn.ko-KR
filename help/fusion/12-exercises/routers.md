@@ -1,5 +1,5 @@
 ---
-title: 라우터
+title: 라우터 연습
 description: 라우터의 중요성과 다양한 모듈을 조건부로 처리하는 데 라우터를 사용하는 방법을 이해합니다.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
+recommendations: noDisplay,noCatalog
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '732'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '755'
+ht-degree: 99%
 
 ---
 
-# 라우터
+# 라우터 연습
 
 라우터의 중요성과 다양한 모듈을 조건부로 처리하는 데 라우터를 사용하는 방법을 이해합니다.
 

@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '295'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '262'
 ht-degree: 100%
 
 ---
@@ -29,9 +30,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on)
 
->[!TIP]
->
->워크스루 연습에 대한 단계별 지침을 보려면 [실행 기록 워크스루](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/execution-history.html?lang=ko) 연습을 참조하십시오.
 
 ## 기록 탭에서 전체 텍스트 검색
 
