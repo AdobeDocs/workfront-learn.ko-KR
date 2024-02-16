@@ -1,6 +1,6 @@
 ---
-title: 날짜 유형 및 진행 상태 이해
-description: 에서 다양한 날짜 유형을 보는 방법 알아보기 [!DNL  Workfront] 진행 상태를 사용하여 작업 진행 상황을 추적할 수 있습니다.
+title: 일자 유형 및 진행 상태 이해
+description: ' [!DNL  Workfront] 에서 다양한 일자 유형을 보고 진행 상태를 사용하여 작업 진행률을 추적하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -12,24 +12,24 @@ jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 날짜 유형 및 진행 상태 이해
+# 일자 유형 및 진행 상태 이해
 
-이 비디오에서는 다음 방법을 알아봅니다.
+이 비디오에서는 다음 방법을 배우게 됩니다.
 
-* 비교할 보기 선택 [!DNL Workfront's] 다른 날짜 유형
-* 진행 상태를 사용하여 작업 진행 상황을 추적합니다.
+* 보기를 선택하여 다양한 [!DNL Workfront's] 일자 유형을 비교합니다.
+* 진행 상태를 사용하여 작업 진행 상황 추적
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 
 >[!NOTE]
 >
->비디오에서 언급했듯이, 사람들이 의 상태를 변경하는 것이 중요합니다 **[!UICONTROL 신규]** 끝 **[!UICONTROL 진행 중]** (이)가 작업을 시작하여 [!UICONTROL 실제 시작 일자] 맞습니다. 그러나 작업을 시작할 때 이 작업을 잊은 경우 돌아가서 를 편집할 수 있습니다. [!UICONTROL 실제 시작 일자] 언제든지.
+>비디오에 나와 있는 것처럼 작업을 시작할 때 [!UICONTROL 실제 시작 일자]가 정확하도록 상태를 **[!UICONTROL 새로 만들기]**&#x200B;에서 **[!UICONTROL 진행 중]**&#x200B;으로 변경하는 것이 중요합니다. 그러나 작업을 시작할 때 이 작업을 잊어버린 경우, 언제든지 다시 돌아가서 [!UICONTROL 실제 시작 일자]를 편집할 수 있습니다.
 
 
 <!---
