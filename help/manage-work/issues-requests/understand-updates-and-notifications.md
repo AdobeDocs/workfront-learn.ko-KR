@@ -12,17 +12,17 @@ jira: KT-8809
 exl-id: 40296ba0-32c1-4fe7-8060-f71991872c37
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 업데이트 및 알림 이해
 
-이 비디오에서는 다음 방법을 알아봅니다.
+이 비디오에서는 다음 방법을 배우게 됩니다.
 
-* 승인 요청에 대한 자체 업데이트 만들기
+* 승인 요청에 대한 업데이트 만들기
 * Workfront 알림 찾기
 
 >[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on)
