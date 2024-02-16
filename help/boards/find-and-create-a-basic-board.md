@@ -1,6 +1,6 @@
 ---
-title: 기본 게시판 찾기 및 만들기
-description: 게시판이 무엇이며 어떻게 팀에게 도움이 되는지, 게시판을 찾는 방법과 직접 만드는 방법을 알아봅니다.
+title: 기본 보드 찾기 및 만들기
+description: 보드의 정의, 팀에 주는 이점, 보드를 찾는 방법 및 직접 만드는 방법에 대해 알아봅니다.
 feature: Agile
 activity: deploy
 type: Tutorial
@@ -11,14 +11,14 @@ level: Beginner
 exl-id: 2744efec-9194-4bd9-8bc4-391cc796c5a4
 doc-type: video
 source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 기본 게시판 찾기 및 만들기
+# 기본 보드 찾기 및 만들기
 
-게시판이 무엇인지, 그리고 귀하 및/또는 귀하의 팀이 작업 관리에 어떻게 도움이 될 수 있는지에 대해 더 잘 이해하십시오. 보드에 액세스하는 위치와 기본 보드를 만드는 방법을 알아봅니다.
+보드의 정의, 귀하 및/또는 귀하의 팀이 작업을 관리하는 데 도움이 되는 방식을 파악합니다. 보드에 액세스할 수 있는 위치와 기본 보드를 만드는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on)
