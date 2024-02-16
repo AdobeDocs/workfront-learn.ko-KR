@@ -1,6 +1,6 @@
 ---
-title: 작업 시퀀스 지정 방법 알아보기
-description: 전임 작업이 무엇이며 프로젝트에서 작업 순서를 어떻게 지정하는지 알아봅니다. 그런 다음 지속 시간 및 전임 작업을 사용하여 타임라인을 만드는 방법을 알아봅니다.
+title: 작업 시퀀스 알아보기
+description: 전임 작업의 정의 및 프로젝트에서 작업 순서를 지정하는 방법에 대해 알아봅니다. 그런 다음 기간 및 전임 작업을 사용하여 타임라인을 만드는 방법을 배웁니다.
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -12,18 +12,18 @@ jira: KT-8778
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 작업 시퀀스 지정 방법 알아보기
+# 작업 시퀀스 알아보기
 
-이 비디오에서는 다음 사항에 대해 알아봅니다.
+이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 전임 작업 [!DNL  Workfront]
-* 전임 작업이 프로젝트에서 작업 순서를 지정하는 방법
+* [!DNL  Workfront]에서 전임 작업의 정의
+* 프로젝트에서 전임 작업으로 작업 순서를 지정하는 방법
 * 기간 및 전임 작업을 사용하여 타임라인을 만드는 방법
 * 전임 작업을 변경하거나 입력하는 방법
 
