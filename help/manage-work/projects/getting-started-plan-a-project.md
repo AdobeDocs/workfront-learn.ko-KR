@@ -2,7 +2,7 @@
 title: 프로젝트 계획 시작하기
 description: 프로젝트의 다섯 가지 주요 구성 요소, 상태가 의미하는 바, [!UICONTROL 보기]를 통해 관련 정보를 조회할 수 있는 방법, 시작 일자 또는 마감 일자를 설정하는 방법에 대해 알아봅니다.
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: 335086.jpeg
 type: Tutorial
 role: User
@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 

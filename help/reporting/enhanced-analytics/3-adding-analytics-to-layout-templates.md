@@ -2,7 +2,7 @@
 title: 레이아웃 템플릿에 분석 추가
 description: 시스템 및 그룹 관리자가 Analytics에 대한 액세스 권한을 부여하는 방법에 대해 알아봅니다.
 activity: use
-feature: Reports and Dashboards
+feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
 type: Tutorial
 role: Admin
@@ -12,7 +12,7 @@ jira: KT-8726
 recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 11%

@@ -2,7 +2,7 @@
 title: 프로젝트를 생성하는 네 가지 방법에 대해 알아보기
 description: 템플릿에서 프로젝트를 생성하거나, 처음부터 프로젝트를 생성하거나, 기존 프로젝트를 복사하거나, [!DNL Microsoft Project] 파일을 가져오는 방법에 대해 알아봅니다.
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: 335084.jpeg
 type: Tutorial
 role: User
@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 100%
 
