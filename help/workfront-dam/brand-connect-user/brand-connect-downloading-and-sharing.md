@@ -1,5 +1,5 @@
 ---
-title: 라이트박스를 다운로드하고 공유하는 방법 알아보기
+title: 사용자로서 다운로드 및 공유 이해
 description: '[!UICONTROL Workfront DAM]의 Brand Connect에서 라이트박스 및 자산을 다운로드하고 공유하는 방법을 알아봅니다.'
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8987
 exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '53'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '52'
 ht-degree: 100%
 
 ---
 
-# Brand Connect: 라이트박스를 다운로드하고 공유하는 방법
+# 사용자로서 다운로드 및 공유 이해
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
 

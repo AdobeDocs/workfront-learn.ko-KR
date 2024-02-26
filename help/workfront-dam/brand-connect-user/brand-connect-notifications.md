@@ -1,5 +1,5 @@
 ---
-title: Brand Connect에서 알림 설정 수정
+title: Brand Connect 알림 이해
 description: '[!UICONTROL Workfront DAM]의 Brand Connect에서 인앱 알림을 보고, 알림 설정을 수정하고, 주소록을 만드는 방법을 알아봅니다.'
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8988
 exl-id: a7f79d27-c9e1-4a27-9757-a3bf6299b794
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '49'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '48'
+ht-degree: 83%
 
 ---
 
-# Brand Connect: 알림
+# Brand Connect 알림 이해
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
 

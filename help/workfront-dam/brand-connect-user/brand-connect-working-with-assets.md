@@ -1,5 +1,5 @@
 ---
-title: Brand Connect에서 자산으로 작업하는 방법
+title: 사용자로서 자산 작업
 description: '[!UICONTROL Workfront DAM]에서 Brand Connect의 자산을 보고 메타데이터 및 키워드 등의 자산에 대한 데이터를 보는 방법을 알아봅니다.'
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8985
 exl-id: 67bc9228-f16e-4cba-bae2-d223e9d79d39
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '56'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '55'
 ht-degree: 100%
 
 ---
 
-# Brand Connect: 자산으로 작업
+# 사용자로서 자산 작업
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
 

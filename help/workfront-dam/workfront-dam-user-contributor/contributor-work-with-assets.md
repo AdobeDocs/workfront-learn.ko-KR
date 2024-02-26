@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Workfront DAM]에서 자산 작업'
+title: 참여자로서 자산 작업
 description: '[!UICONTROL Workfront DAM]에서 자산을 작업하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8995
 doc-type: video
 exl-id: ae0f3a7f-ca79-451f-851c-6792f44d218f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '50'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '52'
 ht-degree: 100%
 
 ---
 
-# 참여자: 자산 작업
+# 참여자로서 자산 작업
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
 

@@ -3,10 +3,10 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '2408'
-ht-degree: 94%
+source-wordcount: '2405'
+ht-degree: 99%
 
 ---
 
@@ -149,7 +149,7 @@ ht-degree: 94%
       + [흐름 요청에 대한 설정 이해](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [요청 대기열 만들기](manage-work/request-queues/create-a-request-queue.md)
       + [요청 흐름 만들기](manage-work/request-queues/create-a-request-flow.md)
-      + [시스템 관리자 피드백 요청 큐 만들기](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
+      + [시스템 관리자 피드백 요청 대기열 만들기](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [요청 대기열에 대한 일반적인 질문에 대한 답변](manage-work/request-queues/request-queue-faq.md)
 
    + 포트폴리오 {#portfolios}
@@ -269,7 +269,7 @@ ht-degree: 94%
       + [리소스 관리 성숙도](manage-resources/resource-management/resource-management-maturity.md)
       + [프로젝트를 위한 리소스 관리 설정](manage-resources/resource-management/settings-for-projects.md)
       + [사용자를 위한 리소스 관리 설정](manage-resources/resource-management/settings-for-users.md)
-      + [리소스 관리 설정, 워크로드 밸런서 및 활용성 보고서](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+      + [리소스 관리 설정, 업무 균형자 및 활용도 rpt](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
    + 워크로드 밸런서 {#workload-balancer}
       + [Workload Balancer 찾기](manage-resources/workload-balancer/find-the-workload-balancer.md)
@@ -346,7 +346,7 @@ ht-degree: 94%
       + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
       + [문서 전송 및 자산 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
-      + [버전 내역 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
+      + [버전 기록 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [G Suite 통합으로 워크플로 개선](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -384,21 +384,21 @@ ht-degree: 94%
 
    + 기본 사항 이해 {#understand-the-basics}
       + [초기 시나리오 디자인 워크스루](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
-      + [초기 시나리오 설계 연습](fusion/12-exercises/initial-scenario-design.md)
+      + [초기 시나리오 디자인 연습](fusion/12-exercises/initial-scenario-design.md)
       + [매핑 패널 및 공식 편집기](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
       + [매핑 패널 중요 사항](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
       + [추가 기본 매핑 워크스루](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
-      + [기본 매핑 연습 이상](fusion/12-exercises/beyond-basic-mapping.md)
+      + [추가 기본 매핑 연습](fusion/12-exercises/beyond-basic-mapping.md)
       + [필터 사용](fusion/2-understand-the-basics/use-filters.md)
       + [필터 워크스루](fusion/2-understand-the-basics/filters-walkthrough.md)
       + [필터 연습](fusion/12-exercises/filters.md)
       + [이전 버전 워크스루에 액세스](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
-      + [이전 버전 연습 액세스](fusion/12-exercises/access-previous-versions.md)
+      + [이전 버전 연습에 액세스](fusion/12-exercises/access-previous-versions.md)
 
    + 범용 커넥터 및 라우팅 {#universal-connectors-and-routing}
       + [범용 커넥터 연습 개요](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [범용 커넥터 소개 워크스루](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
-      + [유니버설 커넥터 연습 소개](fusion/12-exercises/introduction-to-universal-connectors.md)
+      + [범용 커넥터 연습 소개](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [라우터 이해](fusion/3-universal-connectors-and-routing/understand-routers.md)
       + [라우터 워크스루](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
       + [라우터 연습](fusion/12-exercises/routers.md)
@@ -415,9 +415,9 @@ ht-degree: 94%
       + [반복기 연습 소개](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [집계 소개](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
       + [집계 워크스루](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
-      + [응집 운동](fusion/12-exercises/aggregation.md)
+      + [집계 연습](fusion/12-exercises/aggregation.md)
       + [고급 집계 워크스루](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
-      + [고급 응집 운동](fusion/12-exercises/advanced-aggregation.md)
+      + [고급 집계 연습](fusion/12-exercises/advanced-aggregation.md)
 
    + 실행 기록 및 일정 {#execution-history-and-scheduling}
       + [실행 기록 소개](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
@@ -426,18 +426,18 @@ ht-degree: 94%
       + [시나리오 일정 이해](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
       + [실행, 주기 및 번들의 균형 조정](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [실행, 주기 및 번들 워크스루](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
-      + [달리기, 주기 및 다발 운동 탐색](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [실행, 주기 및 번들 연습 탐색](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
    + 추가 기본 모듈 {#beyond-basic-modules}
       + [추가 앱 및 일반 모듈에 대해 숙지하기](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [전환해 보기](fusion/6-beyond-basic-modules/switch-it-up.md)
       + [전환 함수 워크스루](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
-      + [스위치 기능 연습](fusion/12-exercises/switch-function.md)
+      + [전환 함수 연습](fusion/12-exercises/switch-function.md)
       + [전환 모듈 워크스루](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
-      + [스위치 모듈 운동](fusion/12-exercises/switch-module.md)
+      + [전환 모듈 연습](fusion/12-exercises/switch-module.md)
       + [웹후크 환경 이해](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [웹후크 워크스루](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
-      + [웹후크 운동](fusion/12-exercises/webhooks.md)
+      + [웹 후크 연습](fusion/12-exercises/webhooks.md)
 
    + 데이터 구조 및 데이터 저장소 {#data-structures-and-data-stores}
       + [데이터 구조 이해](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
@@ -445,7 +445,7 @@ ht-degree: 94%
       + [데이터 구조 연습](fusion/12-exercises/data-structures.md)
       + [데이터 저장소 이해](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
       + [데이터 저장소 워크스루](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
-      + [데이터 저장소 운동](fusion/12-exercises/data-stores.md)
+      + [데이터 저장소 연습](fusion/12-exercises/data-stores.md)
 
    + 최종 기능 비트 및 Bob {#final-functional-bits-and-bobs}
       + [Workfront 앱 워크스루](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
@@ -453,7 +453,7 @@ ht-degree: 94%
       + [배열 워크스루](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
       + [시나리오의 JSON 이해](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
       + [JSON 작업 워크스루](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
-      + [JSON 연습을 사용하여 작업](fusion/12-exercises/working-with-json.md)
+      + [JSON 작업 연습](fusion/12-exercises/working-with-json.md)
 
    + 문제 해결 및 오류 처리 {#troubleshooting-and-error-handling}
       + [개발 도구를 사용한 고급 문제 해결](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
@@ -495,8 +495,8 @@ ht-degree: 94%
       + [증명 사용자 설정](workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
    + 증명 업로드 {#upload-proofs}
-      + [증명 버전이란?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [증명 버전을 업로드하는 사람](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [증명 버전 정의](workfront-proof/upload-proofs/what-is-a-proof-version.md)
+      + [증명 버전 업로드 책임자](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [문서를 증명으로 전환](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [증명 버전 보기 및 비교](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [증명 버전 업로드](workfront-proof/upload-proofs/upload-a-proof-version.md)
@@ -546,7 +546,7 @@ ht-degree: 94%
       + [메타데이터 설정](workfront-dam/metadata-and-keywords/metadata-setup.md)
 
    + Brand Connect 사용자 정의 {#brand-connect-customization}
-      + [[!UICONTROL Brand Connect]란 무엇입니까?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
+      + [[!UICONTROL Brand Connect] 정의](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
       + [[!UICONTROL Brand Connect] 시스템 설정 구성](workfront-dam/brand-connect-customization/establish-system-settings.md)
       + [[!UICONTROL Brand Connect]의 사용자 정의 페이지 추가](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
       + [[!UICONTROL Brand Connect]에서 브랜드 지침 만들기](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)
@@ -558,7 +558,7 @@ ht-degree: 94%
       + [참여자로서의 자산 관리 이해](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [참여자로서의 자산 찾기 이해](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [참여자로서 라이트박스 이해](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-      + [참여자로서 메타데이터 및 키워드 모범 사례 이해](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+      + [메타데이터 및 키워드 모범 사례 이해](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [참여자로서 자산 작업](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [참여자로 파일 보내기](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [참여자로 자산 게시](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -638,7 +638,7 @@ ht-degree: 94%
    + [시스템 성능 및 유지 관리](best-practices/system-performance-maintenance-bp.md)
    + [텍스트 모드 보고](best-practices/test-mode-reporting-bp.md)
    + [타임라인 계획 및 관리](best-practices/timeline-planning-management-bp.md)
-   + [타임시트 및 로그인 시간](best-practices/timesheets-logging-time-bp.md)
+   + [타임시트 및 로깅 시간](best-practices/timesheets-logging-time-bp.md)
    + [활용성](best-practices/utilization-bp.md)
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [워크로드 밸런서](best-practices/workload-balancer-bp.md)

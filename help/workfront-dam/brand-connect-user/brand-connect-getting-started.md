@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
-workflow-type: ht
-source-wordcount: '496'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '494'
 ht-degree: 100%
 
 ---
 
-# Brand Connect: 사용자로서 탐색 및 검색 이해
+# 사용자로서 탐색 및 검색 이해
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
