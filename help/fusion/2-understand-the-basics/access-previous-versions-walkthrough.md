@@ -1,6 +1,6 @@
 ---
 title: 이전 버전 워크스루에 액세스
-description: 시나리오를 변경하고 저장한 후에 이전 버전을 복원하는 방법을 알아봅니다. [!DNL Adobe Workfront Fusion].
+description: ' [!DNL Adobe Workfront Fusion]에서 시나리오를 변경하고 저장한 후 이전 버전을 복원하는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,9 +12,9 @@ exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -55,6 +55,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 **검색**—0개 또는 1개 이상의 레코드를 검색하고, 집계되지 않는 한 후속 모듈에서 개별적으로 처리되는 번들로 반환하는 데 사용됩니다.
 
-## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
+## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
