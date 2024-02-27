@@ -12,7 +12,7 @@ exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
 ht-degree: 100%
 
@@ -43,6 +43,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 **과제:** 매주 월요일 오전 8시에 이 “이메일”을 보내도록 시나리오 일정을 예약합니다.
 
-## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
+## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
