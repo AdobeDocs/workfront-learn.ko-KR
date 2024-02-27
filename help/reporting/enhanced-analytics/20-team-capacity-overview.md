@@ -1,6 +1,6 @@
 ---
 title: 팀 역량 이해
-description: 에서 팀 수용작업량 차트가 어떻게 되는지 알아봅니다. [!UICONTROL 향상된 분석] 홈 팀이 초과 할당되거나 과소 할당된 경우를 표시합니다.
+description: 홈 팀 할당이 초과 또는 미달되었을 경우 [!UICONTROL 고급 Analytics]의 팀 역량 차트가 어떻게 표시되는지 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '390'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 95%
 
 홈 팀 할당이 초과 또는 미달되었을 경우 팀 역량 차트에 표시됩니다. 차트는 지정된 일자에 홈 팀에 할당된 볼륨을 표시하며, 번아웃에 가까워지거나 상태가 도전적이지 않은 경우 더 진한 파란색이 지정됩니다. 색상이 더 밝고 투명하면 워크로드가 더 균형을 이루고 있음을 나타냅니다.
 
-이 정보를 보면 다음을 확인할 수 있습니다.
+이 정보를 보면 다음과 같은 사항을 확인할 수 있습니다.
 
 * 홈 팀의 할당이 초과 또는 미달되었을 때.
 * 홈 팀의 할당이 매일 초과되거나 미달되는 경우.
