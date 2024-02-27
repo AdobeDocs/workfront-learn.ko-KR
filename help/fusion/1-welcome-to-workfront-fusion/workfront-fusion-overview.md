@@ -1,6 +1,6 @@
 ---
 title: Workfront Fusion 교육 개요
-description: Adobe Workfront Fusion 활동 책자와 Workfront 테스트 드라이브 계정을 얻는 방법에 대해 알아봅니다.
+description: Adobe Workfront Fusion 활동 책자와 Workfront 테스트 드라이브 계정을 얻는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,19 +11,19 @@ jira: KT-11035
 recommendations: noDisplay,noCatalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '404'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
 # Workfront Fusion 교육 개요
 
-각 Workfront Fusion 섹션에는 여러 자습서가 포함되어 있으며 각 자습서에서는 다음 자습서로 진행하기 전에 이해해야 하는 개념을 제공합니다. 워크스루 연습을 통해 대부분의 개념을 숙지할 수 있습니다.
+각 Workfront Fusion 섹션에는 다음 튜토리얼로 진행되기 전에 이해해야 할 개념을 제공하는 여러 튜토리얼이 있습니다. 워크스루 연습을 통해 대부분의 개념을 숙지할 수 있습니다.
 
 비디오는 일반적으로 새 Workfront Fusion 시나리오를 생성하는 각 워크스루 연습을 완료하는 방법을 보여 줍니다. 그런 다음 자신의 Workfront Fusion 환경에서 연습을 완료하고 자신의 시나리오 모음에 추가할 수 있습니다.
 
-일부 튜토리얼에서는 새 시나리오를 처음부터 만듭니다. 다른 튜토리얼에서는 이전에 만든 시나리오의 사본을 만드는 것으로 시작합니다.
+일부 튜토리얼에서는 처음부터 새 시나리오를 만듭니다. 다른 튜토리얼에서는 이전에 만든 시나리오의 사본을 만드는 것으로 시작합니다.
 
 >[!IMPORTANT]
 >
@@ -39,7 +39,7 @@ Workfront Fusion 학습 경로에서 연습을 완료하려면 Workfront 테스�
 
 ### 연습용 Workfront Fusion 액세스
 
-Workfront는 Workfront Fusion 테스트 드라이브를 제공하지 않습니다. 자습서를 완료하면서 연습하려면 조직의 Workfront Fusion 관리자에게 Workfront Fusion에 대한 액세스 권한을 요청하십시오.
+Workfront는 Workfront Fusion 테스트 드라이브를 제공하지 않습니다. 튜토리얼을 완료하면서 연습하려면 조직의 Workfront Fusion 관리자에게 Workfront Fusion에 대한 액세스 권한을 요청하십시오.
 
 ### 워크스루 연습을 완료하기 위한 단계별 지침
 
@@ -49,11 +49,11 @@ Workfront는 Workfront Fusion 테스트 드라이브를 제공하지 않습니�
 
 실습 문제와 과제는 일부 워크스루 연습 후에 제공됩니다.
 
-실습 문제를 푸는 방법에는 여러 가지가 있습니다. 이는 회사에서 시나리오를 작성할 때 수행해야 하는 작업이기 때문에 따라야 할 단계나 &quot;정답&quot;을 수행하지 않고도 시나리오 목표를 달성하도록 유도하는 것입니다.
+실습 문제를 푸는 방법에는 여러 가지가 있습니다. 회사에서 시나리오를 빌드할 때 해야 할 일이기 때문에 의도는 따라야 할 단계나 “정답” 없이 시나리오 목표를 달성하도록 도전하는 것입니다.
 
 실습 문제는 워크스루 활동과 관련이 있습니다.
 
-도전은 그들이 배운 다른 개념들을 포함하는 어떤 것을 시도하려는 사람들을 위한 것입니다.
+과제는 배웠던 다른 개념과 관련된 것을 시도하려는 사람들을 위한 것입니다.
 
 ### 도움을 받는 방법
 
