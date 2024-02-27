@@ -1,6 +1,6 @@
 ---
-title: 이전 버전 연습 액세스
-description: 이전 버전의 로 되돌리는 방법 알아보기 [!UICONTROL Fusion] 시나리오.
+title: 이전 버전 연습에 액세스
+description: '[!UICONTROL Fusion] 시나리오의 이전 버전으로 돌아가는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,13 +12,13 @@ thumbnail: KT1101.png
 recommendations: noDisplay,noCatalog
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# 이전 버전 연습 액세스
+# 이전 버전 연습에 액세스
 
 시나리오의 이전 버전으로 돌아가는 방법을 알아봅니다.
 
