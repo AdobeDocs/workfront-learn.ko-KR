@@ -1,5 +1,5 @@
 ---
-title: 웹후크 운동
+title: 웹 후크 연습
 description: 웹 후크 시작 시나리오를 생성, 트리거 및 관리하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11053.png
 recommendations: noDisplay,noCatalog
 exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '654'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# 웹후크 운동
+# 웹 후크 연습
 
 웹 후크 시작 시나리오를 생성, 트리거 및 관리하는 방법을 알아봅니다.
 
@@ -50,7 +50,7 @@ ht-degree: 99%
 1. 웹 후크 매핑 패널에서 특정 웹 후크에 대한 URL이 생성되었습니다. “클립보드에 주소 복사”를 클릭하여 해당 URL을 복사합니다.
 1. 확인을 클릭합니다.
 1. 한 번 실행을 클릭합니다.
-1. Postman의 URL을 사용하여 사용자 정의 웹 후크에 이름 및 생년월일을 보냅니다. Postman 설정에 대한 지침은 [웹 후크 워크스루](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=ko) 튜토리얼을 참조하십시오.
+1. Postman의 URL을 사용하여 사용자 정의 웹 후크에 이름 및 생년월일을 보냅니다. Postman 설정에 대한 지침은 [웹 후크 워크스루](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=ko-KR) 튜토리얼을 참조하십시오.
 
    **웹 후크 모듈 패널은 다음과 같아야 합니다.**
 
@@ -74,7 +74,7 @@ ht-degree: 99%
 1. 트리거 모듈에 라우터를 추가합니다.
 1. 상위 경로에 웹 후크 응답 모듈을 추가합니다. 클라이언트 토큰이 일치하지 않을 때의 경로입니다.
 1. 상태를 401로 설정합니다.
-1. 본문을 {&quot;오류&quot;: &quot;요청을 인증하지 못했습니다. clientToken을 확인하십시오.&quot;}로 설정합니다.
+1. 본문을 {“오류”: “요청을 인증하지 못했습니다. clientToken을 확인하십시오.”}로 설정합니다.
 
    ![웹 후크 이미지 6](../12-exercises/assets/webhooks-walkthrough-6.png)
 
