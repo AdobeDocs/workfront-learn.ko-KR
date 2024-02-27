@@ -12,9 +12,9 @@ jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 94%
 
 ![캘린더 위젯을 이용하여 일자를 선택하는 이미지](assets/section-1-3.png)
 
-기본적으로 [!DNL Analytics]의 차트는 지난 60일 및 다음 15일 동안의 데이터를 표시합니다. 사용하는 동안 새 날짜 범위를 선택하여 모든 차트에 적용할 수 있습니다 [!DNL Analytics].
+기본적으로 [!DNL Analytics]의 차트는 지난 60일 및 다음 15일 동안의 데이터를 표시합니다. [!DNL Analytics]를 사용하는 동안 새 날짜 범위를 선택하고 모든 차트에 이를 적용할 수 있습니다.
 
 페이지를 새로 고치거나 다른 곳으로 이동하거나 Workfront에서 로그아웃/로그인하면 날짜 범위가 기본값으로 재설정됩니다.
 
