@@ -1,5 +1,5 @@
 ---
-title: JSON 연습을 사용하여 작업
+title: JSON 작업 연습
 description: 디자인 요구 사항을 지원하도록 시나리오 내에서 JSON을 만들고 구문 분석하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11056.png
 recommendations: noDisplay,noCatalog
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '496'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# JSON 연습을 사용하여 작업
+# JSON 작업 연습
 
 디자인 요구 사항을 지원하도록 시나리오 내에서 JSON을 만들고 구문 분석하는 방법을 알아봅니다.
 
