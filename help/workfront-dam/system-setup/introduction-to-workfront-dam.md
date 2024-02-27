@@ -1,6 +1,6 @@
 ---
-title: 이해 [!UICONTROL WORKFRONT DAM]
-description: 에셋을 검색하고 보는 방법을 알아보고 폴더 구조가 에셋 구성 및 액세스에 미치는 영향을 살펴봅니다. [!UICONTROL WORKFRONT DAM].
+title: '[!UICONTROL Workfront DAM] 이해'
+description: '[!UICONTROL Workfront DAM]에서 자산을 검색하고 보는 방법을 알아보고, 폴더 구조가 자산 구성 및 액세스에 미치는 영향을 살펴봅니다.'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,28 +11,28 @@ jira: KT-8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '183'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 이해 [!UICONTROL WORKFRONT DAM]
+# [!UICONTROL Workfront DAM] 이해
 
-[!UICONTROL WORKFRONT DAM] 는 특히 마케팅 및 크리에이티브 에셋을 관리, 제어 및 게시하기 위해 만들어진 DAM(디지털 에셋 관리) 솔루션입니다. 이미 있는 워크플로우와 함께 사용할 수 있습니다 [!DNL Workfront]프로젝트, 작업 할당 및 기타 작업을 관리하는 경우입니다. 사용 [!DNL Workfront] 에셋 요청을 만든 다음 에셋의 프로덕션 및 검토를 관리합니다. 다음을 사용하여 완료 및 승인된 에셋 조정, 저장 및 배포 [!UICONTROL WORKFRONT DAM].
+[!UICONTROL Workfront DAM]은 마케팅 및 크리에이티브 자산을 관리, 제어 및 게시하기 위해 특별히 제작된 디지털 자산 관리(DAM) 솔루션입니다. [!DNL Workfront]에 이미 있는 워크플로와 함께 사용할 수 있으며 여기에서 프로젝트, 작업 할당 및 기타 작업을 관리할 수 있습니다. [!DNL Workfront]를 사용하여 자산 요청을 만든 다음 자산의 프로덕션 및 검토를 관리합니다. [!UICONTROL Workfront DAM]을 사용하여 완성되고 승인된 자산을 선별, 저장 및 배포합니다.
 
 
-시스템 관리자는 를 설정할 책임이 있습니다 [!UICONTROL WORKFRONT DAM] 유지 관리 이해 당사자는 자신의 요구 사항에 맞는 시스템을 제공할 수 있도록 프로세스에 대한 통찰력을 제공해야 합니다. 이러한 이해 당사자는 다음과 같습니다.
+시스템 관리자는 [!UICONTROL Workfront DAM] 설정 및 유지 관리를 담당합니다. 관련자의 요구 사항을 충족하는 시스템을 제공할 수 있도록 관련자 본인이 프로세스에 대한 인사이트를 제공해야 합니다. 이러한 관련자에는 다음이 포함될 수 있습니다.
 
-* Sales Manager, Advertising Rep 또는 마케팅 전문가 등 내부 고객
+* 영업 관리자, 광고 담당자 또는 마케팅 전문가와 같은 내부 고객
 * 프로덕션 관리자
 * 크리에이티브 디렉터
 * 크리에이티브 팀원
 
-이 비디오에서는 다음 작업을 수행합니다.
+이 비디오에서는 다음과 같은 작업을 수행합니다.
 
-* 다음에 대한 높은 수준의 개요 가져오기 [!UICONTROL WORKFRONT DAM]
-* 에셋 검색 및 보기
-* 폴더 구조가 자산 구성 및 액세스에 미치는 영향 탐색
+* [!UICONTROL Workfront DAM]에 대한 높은 수준의 개요 보기
+* 자산 검색 및 보기
+* 폴더 구조가 자산 구성 및 액세스에 미치는 영향 살펴보기
 
 >[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on)
