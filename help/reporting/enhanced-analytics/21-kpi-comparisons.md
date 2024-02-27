@@ -1,6 +1,6 @@
 ---
 title: KPI 비교 사용 사례 이해
-description: 에서 KPI를 비교하는 방법 알아보기 [!UICONTROL 향상된 분석] 현재 날짜 범위에서 이전 날짜 범위까지 및 두 개의 서로 다른 필터로 KPI를 비교하는 방법을 참조하십시오.
+description: '[!UICONTROL 고급 Analytics]에서 현재 날짜 범위의 KPI를 이전 날짜 범위와 비교하는 방법 및 KPI와 두 가지 다른 필터를 비교하는 방법을 알아봅니다.'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
