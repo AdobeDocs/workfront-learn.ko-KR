@@ -1,5 +1,5 @@
 ---
-title: 고급 응집 운동
+title: 고급 집계 연습
 description: 웹 서비스를 호출하여 여러 국가에 대한 세부 정보를 반환하고 하위 지역별로 그룹화된 인구를 확인합니다.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11048.png
 recommendations: noDisplay,noCatalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '493'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# 고급 응집 운동
+# 고급 집계 연습
 
 집계할 때 그룹화를 사용하는 방법을 이해합니다.
 
@@ -46,7 +46,7 @@ ht-degree: 98%
 
    ![고급 집계 이미지 3](../12-exercises/assets/advanced-aggregation-walkthrough-3.png)
 
-   **각 국가에 대한 하위 지역 정보를 수집해야 하므로, 추가 HTTP 요청을 수행해야 합니다.**
+   **각 국가에 대한 하위 지역 정보를 수집해야 하므로 추가 HTTP 요청을 수행해야 합니다.**
 
 1. 하위 지역 정보를 얻으려면 다른 요청을 추가합니다. 첫 번째 국가만 반환하지만 지금은 괜찮습니다. 다른 HTTP 추가 요청 모듈을 만들고 해당 URL(`https://restcountries.com/v2/name/{country name}`)을 사용합니다.
 1. 첫 번째 국가의 이름을 얻으려면 매핑 패널로 이동하고 데이터를 클릭한 다음 배열에서 이름을 클릭합니다. 데이터 필드의 [1]은 배열의 첫 번째 항목을 반환한다는 의미입니다.
