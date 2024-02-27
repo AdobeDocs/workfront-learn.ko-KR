@@ -12,9 +12,9 @@ thumbnail: KT11043.png
 recommendations: noDisplay,noCatalog
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '755'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -104,7 +104,7 @@ ht-degree: 99%
 1. Pokemon 정보 가져오기 모듈 왼쪽에 있는 점선을 클릭하여 첫 번째 필터를 만듭니다. 이름을 “Pokemon 캐릭터”로 지정합니다.
 1. 조건의 경우, 프랜차이즈(열 2)가 “Pokemon”과 동일한 레코드만 허용합니다. 텍스트 “같음” 연산자를 선택합니다.
 1. 슈퍼히어로 모양 가져오기 모듈의 왼쪽에 있는 점선을 클릭하여 다음 필터를 만듭니다. 이름을 “슈퍼히어로 캐릭터”로 지정합니다.
-1. 슈퍼히어로는 다양한 프랜차이즈에서 나올 수 있으므로, 슈퍼히어로 ID 필드(열 4)를 사용하여 캐릭터가 슈퍼히어로인지 여부를 확인합니다.
+1. 슈퍼히어로는 다양한 프랜차이즈에서 나올 수 있으므로 슈퍼히어로 ID 필드(열 4)를 사용하여 캐릭터가 슈퍼히어로인지 여부를 확인합니다.
 
    **필터는 다음과 같아야 합니다.**
 
