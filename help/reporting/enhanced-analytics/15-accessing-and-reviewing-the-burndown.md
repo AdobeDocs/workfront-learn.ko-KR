@@ -1,6 +1,6 @@
 ---
 title: 번다운 차트 액세스 및 검토 이해
-description: 번다운 차트에 액세스하고 의 남은 시간, 프로젝트 상태 및 프로젝트 속도 간의 관계를 이해하는 방법에 대해 알아봅니다. [!UICONTROL 향상된 분석].
+description: '[!UICONTROL 고급 Analytics]에서 번다운 차트에 액세스하고 Workfront에서 남은 시간, 프로젝트 상태 및 프로젝트 속도 간의 관계를 이해하는 방법을 알아봅니다.'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '293'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 90%
 
 번다운 차트를 사용하면 남은 시간, 프로젝트 상태 및 속도 간의 관계를 이해할 수 있습니다. 실선은 시간 경과에 따라 프로젝트에 소요된 시간과 매일 프로젝트 상태를 보여 줍니다. 파선은 시작 일자부터 계획된 완료 일자까지의 계획된 속도를 보여 주며 작업 일자가 변경됨에 따라 조정됩니다.
 
-이 정보를 보면 다음을 확인할 수 있습니다.
+이 정보를 보면 다음과 같은 사항을 확인할 수 있습니다.
 
 * 들어오는 문제(계획되지 않은 작업)가 계획된 작업에 미친 영향.
 * 프로젝트가 계획된 완료 일자를 초과하도록 유발한 이벤트.
