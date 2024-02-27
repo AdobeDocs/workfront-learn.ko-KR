@@ -1,6 +1,6 @@
 ---
-title: 스위치 기능 연습
-description: 전환 함수를 사용하여 전환 기능을 사용하는 방법에 대해 알아봅니다.
+title: 전환 함수 연습
+description: 전환 함수를 사용하여 전환 기능을 사용하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ thumbnail: KT1101.png
 recommendations: noDisplay,noCatalog
 exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# 스위치 기능 연습
+# 전환 함수 연습
 
-전환 함수를 사용하여 전환 기능을 사용하는 방법에 대해 알아봅니다.
+전환 함수를 사용하여 전환 기능을 사용하는 방법을 알아봅니다.
 
 ## 연습 개요
 
