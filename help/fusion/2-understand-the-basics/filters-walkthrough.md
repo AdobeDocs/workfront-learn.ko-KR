@@ -1,6 +1,6 @@
 ---
 title: 필터 워크스루
-description: ' [!DNL Adobe Workfront Fusion] 모듈의 두 모듈 사이에 필터를 추가하는 방법에 대해 알아봅니다.'
+description: ' [!DNL Adobe Workfront Fusion] 모듈의 두 모듈 사이에 필터를 추가하는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,7 +12,7 @@ exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
 ht-degree: 100%
 
@@ -47,6 +47,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 **과제:** 신뢰도 등급이 짝수인 프로젝트만 통과하도록 필터를 만들어 보십시오. 힌트가 필요하십니까? 수학 공식을 살펴보십시오.
 
-## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
+## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
