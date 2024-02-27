@@ -1,6 +1,6 @@
 ---
-title: 응집 운동
-description: 여러 정보 번들을 단일 값으로 집계하는 방법을 배웁니다.
+title: 집계 연습
+description: 여러 정보 번들을 단일 값으로 집계하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ thumbnail: KT11047.png
 recommendations: noDisplay,noCatalog
 exl-id: 4626b623-8b05-41be-9cfc-917e28222855
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '302'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# 응집 운동
+# 집계 연습
 
-여러 정보 번들을 단일 값으로 집계하는 방법을 배웁니다.
+여러 정보 번들을 단일 값으로 집계하는 방법을 알아봅니다.
 
 ## 연습 개요
 
