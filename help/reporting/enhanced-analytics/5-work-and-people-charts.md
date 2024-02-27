@@ -12,9 +12,9 @@ jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '190'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 94%
 
 ![[!DNL Workfront Classic]](assets/section-1-1.png)의 [!UICONTROL Analytics] 기능을 찾는 이미지
 
-작업 차트로 이동하면 기본적으로 다음과 같이 표시됩니다.
+‘작업’ 차트로 이동하면 기본적으로 다음이 표시됩니다.
 
 1. KPI 통계
 1. 플라이트 플랜
