@@ -1,6 +1,6 @@
 ---
 title: 작업(가리키기, 클릭하고 드래그, 클릭) 이해
-description: 차트 위로 마우스를 이동하고, 차트에 기간을 만들고, 추가 차트를 표시하도록 하여 추가 정보를 얻는 방법에 대해 알아봅니다. [!UICONTROL 향상된 분석].
+description: '[!UICONTROL 고급 Analytics]에서 차트 위에 마우스를 올려놓고, 일정을 만들고, 추가 차트를 표시하여 추가 정보를 얻을 수 있는 방법을 알아봅니다.'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '307'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
