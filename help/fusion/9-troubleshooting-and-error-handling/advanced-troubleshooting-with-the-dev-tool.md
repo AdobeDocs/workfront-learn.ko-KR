@@ -12,9 +12,9 @@ exl-id: 4b2bf553-547d-4fc5-afbe-367e680b26b8
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 81%
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* Workfront Fusion 개발 도구 설치 및 사용 방법
+* Workfront Fusion 개발 도구를 설치하고 사용하는 방법
 * 다양한 고급 시나리오 디자인 도구를 검토하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12&learn=on)
