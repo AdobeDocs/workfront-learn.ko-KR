@@ -1,6 +1,6 @@
 ---
 title: 기본 보기 만들기
-description: Workfront에서 보기란 무엇인지와 보기를 만드는 방법, 다른 사용자와 보기를 공유하는 방법에 대해 알아봅니다.
+description: Workfront에서 보기란 무엇인지와 보기를 만드는 방법, 다른 사용자와 보기를 공유하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -13,15 +13,15 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: d39151288d8b749940c5183063392ee471769445
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '826'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 # 기본 보기 만들기
 
-이 비디오에서 배우는 내용은 다음과 같습니다.
+이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
 * Workfront에서 보기란
 * 보기를 만들고 수정하는 방법
@@ -132,9 +132,9 @@ ht-degree: 86%
 
 ## 활동 4: 프로젝트 템플릿 활성 상태 보기 만들기
 
-프로젝트 템플릿을 관리하는 모든 사용자는 목록에 있는 각 템플릿의 활성 상태(True 또는 False)를 볼 수 있습니다. 더욱 좋습니다. 필드는 인라인 편집 가능합니다!
+프로젝트 템플릿 관리자는 목록에 있는 각 템플릿의 활성 상태(True 또는 False)를 확인할 수 있습니다. 심지어 필드를 인라인 편집할 수도 있습니다.
 
-다음 열을 사용하여 &quot;표준+활성 상태&quot;라는 프로젝트 템플릿 보기를 만듭니다.
+다음 열이 포함된 “표준+활성 상태”라는 이름의 프로젝트 템플릿 보기를 만듭니다.
 
 * [!UICONTROL 이름]
 * [!UICONTROL 소유자]
@@ -148,10 +148,10 @@ ht-degree: 86%
 
 ## 활동 4 답변
 
-![프로젝트 템플릿 활성 상태 보기를 표시하는 화면 이미지](assets/view-activity-4.png)
+![프로젝트 템플릿 활성 상태 보기를 보여 주는 화면의 이미지](assets/view-activity-4.png)
 
-1. 프로젝트 템플릿 목록에서 **[!UICONTROL 보기]** 드롭다운 메뉴 및 선택 **[!UICONTROL 새 보기]**.
-1. 보기의 이름을 &quot;표준+활성 상태&quot;로 지정합니다.
+1. 프로젝트 템플릿 목록에서 **[!UICONTROL 보기]** 드롭다운 메뉴로 이동하고 **[!UICONTROL 새 보기]**&#x200B;를 선택합니다.
+1. 보기 이름을 “표준+활성 상태”로 지정합니다.
 1. **[!UICONTROL 열 추가]**&#x200B;를 클릭합니다.
-1. 다음에서 [!UICONTROL 이 열에 표시] 필드에 &quot;is &quot;를 입력한 다음 아래에서 &quot;Is Active&quot; 를 선택합니다. [!UICONTROL 템플릿] 필드 소스입니다.
-1. 클릭 **[!UICONTROL 보기 저장]**.
+1. [!UICONTROL 이 열에 표시] 필드에 “is”를 입력한 다음 [!UICONTROL 템플릿] 필드 소스 아래에서 “활성화됨”를 선택합니다.
+1. **[!UICONTROL 보기 저장]**&#x200B;을 클릭합니다.
