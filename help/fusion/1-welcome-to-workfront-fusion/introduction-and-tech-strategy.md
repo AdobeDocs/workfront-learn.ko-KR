@@ -1,6 +1,6 @@
 ---
 title: 소개 및 기술 전략
-description: ' [!DNL Adobe Workfront Fusion]의 강력함과 유연성 및 Fusion 인스턴스를 사용하여 시작하는 방법에 대해 알아봅니다.'
+description: ' [!DNL Adobe Workfront Fusion]의 강력함과 유연성 및 Fusion 인스턴스를 사용하여 시작하는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '268'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 # 소개 및 기술 전략
 
-[!DNL Adobe Workfront Fusion]의 강력함과 유연성 및 Fusion 인스턴스를 사용하여 시작하는 방법에 대해 알아봅니다.
+[!DNL Adobe Workfront Fusion]의 강력함과 유연성 및 Fusion 인스턴스를 사용하여 시작하는 방법을 알아봅니다.
 
 ## Adobe Workfront Fusion이란 무엇입니까?
 
@@ -44,7 +44,7 @@ Fusion 시스템 관리자인 경우, 다음 튜토리얼을 참조하여 팀을
 
 ## 소개 및 기술 전략
 
-이 비디오에서는 다음을 확인할 수 있습니다.
+이 비디오에서는 다음과 같은 사항을 확인할 수 있습니다.
 
 * Fusion의 강력함과 유연성
 * Fusion 핵심 및 디자이너 기능
