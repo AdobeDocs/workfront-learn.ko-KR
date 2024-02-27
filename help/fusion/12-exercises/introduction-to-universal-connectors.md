@@ -1,5 +1,5 @@
 ---
-title: 유니버설 커넥터 연습 소개
+title: 범용 커넥터 연습 소개
 description: REST 범용 커넥터 작업 및 반환된 데이터 작업에 대한 이해를 넓히십시오.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11042.png
 recommendations: noDisplay,noCatalog
 exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '602'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# 유니버설 커넥터 연습 소개
+# 범용 커넥터 연습 소개
 
 REST 범용 커넥터 작업 및 반환된 데이터 작업에 대한 이해를 넓히십시오.
 
@@ -86,7 +86,7 @@ REST 범용 커넥터 작업 및 반환된 데이터 작업에 대한 이해를 
    **여러 변수 설정 모듈을 사용하여 API에서 정보를 다시 매핑합니다.**
 
 1. Pokemon 정보 가져오기 다음에 여러 변수 설정 모듈을 추가합니다. 이름, 높이, 두께 및 기능을 매핑합니다.
-1. 기능 필드는 배열이므로, 매핑 함수를 사용하여 배열의 각 기능 이름에 액세스해야 합니다.
+1. 기능 필드는 배열이므로 매핑 함수를 사용하여 배열의 각 기능 이름에 액세스해야 합니다.
 
    ![범용 커넥터 소개 이미지 7](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-7.png)
 
