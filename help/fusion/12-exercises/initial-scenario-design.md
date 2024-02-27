@@ -1,5 +1,5 @@
 ---
-title: 초기 시나리오 설계 연습
+title: 초기 시나리오 디자인 연습
 description: Workfront Fusion에 처음 로그인하고 첫 번째 시나리오를 빌드할 때 필요한 몇 가지 기본 탐색 팁을 알아봅니다.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11038.png
 recommendations: noDisplay,noCatalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '983'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# 초기 시나리오 설계 연습
+# 초기 시나리오 디자인 연습
 
 Workfront Fusion에 처음 로그인하고 첫 번째 시나리오를 빌드할 때 필요한 몇 가지 기본 탐색 팁을 알아봅니다.
 
