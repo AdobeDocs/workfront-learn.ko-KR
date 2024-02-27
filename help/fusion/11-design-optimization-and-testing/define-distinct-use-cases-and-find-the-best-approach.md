@@ -12,9 +12,9 @@ exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 74%
 
 빌드하기 전에 자동화를 고려할 때, 필요한 재작업 또는 거쳐야 하는 반복 횟수를 최소화하기 위해 배포할 수 있는 전략이 있습니다.
 
-특정 이벤트에 의해 트리거된 명확한 사용 사례를 정의하여 가장 많은 시간을 절약할 수 있습니다. 여러분이 올바른 방향으로 가고 있는지 확인하기 위해 일찍 시간을 내지 않으면 여러분은 복잡하거나 비효율적인 시나리오로 끝나게 될 거예요.
+특정 이벤트에 의해 트리거되는 명확한 사용 사례를 정의하면 대부분의 시간을 절약할 수 있습니다. 초기에 시간을 들여 올바른 방향으로 가고 있는지 확인하지 않으면 복잡하거나 비효율적인 시나리오가 되고 말 것입니다.
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
 
@@ -33,6 +33,6 @@ ht-degree: 74%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on)
 
-## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
+## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
