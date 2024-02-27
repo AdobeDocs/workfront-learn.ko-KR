@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 탐색 및 검토 이해
-description: 에서 플라이트 플랜 차트를 읽는 방법 알아보기 [!UICONTROL 향상된 분석].
+description: '[!UICONTROL 고급 Analytics]에서 플라이트 플랜 차트를 읽는 방법을 알아봅니다.'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '459'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -72,4 +72,4 @@ Workfront에서는 상태 유형을 ‘진행 상태’로 설정하여 작업 �
 
 >[!NOTE]
 >
->환경에 맞게 상태를 사용자 정의할 수 있으므로 옵션이 세 가지 이상이거나 옵션의 이름이 위와 다를 수 있습니다. 상태 사용자 정의에 대한 자세한 내용은 [사용자 정의 상태 만들기 또는 편집](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=ko) 문서를 참조하십시오.
+>환경에 맞게 상태를 사용자 정의할 수 있으므로 옵션이 세 가지 이상이거나 옵션의 이름이 위와 다를 수 있습니다. 상태 사용자 정의에 대한 자세한 내용은 [사용자 정의 상태 만들기 또는 편집](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=ko-KR) 문서를 참조하십시오.
