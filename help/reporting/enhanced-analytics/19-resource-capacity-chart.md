@@ -1,6 +1,6 @@
 ---
 title: 리소스 용량 차트 이해
-description: '다음에서 리소스 용량 차트를 사용하는 방법 알아보기: [!UICONTROL 향상된 분석] 필터링된 기간 내에 홈 팀에 할당된 계획된 시간을 팀의 총 사용 가능한 시간과 비교하여 표시합니다.'
+description: 팀에서 사용 가능한 총 시간과 비교하여 [!UICONTROL 고급 Analytics]의 리소스 용량 차트에서 필터링된 기간에 홈 팀에 할당된 예상 시간 수를 표시하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10046
 recommendations: noDisplay,noCatalog
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '406'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 92%
 
 이 비교를 통해 팀에 충분한 작업을 할당하지 않았는지 또는 과도한 작업 부하로 인해 번아웃이 발생했는지 확인할 수 있습니다. 팀 이름을 클릭하면 팀 역량 차트가 나타나 필터링된 기간 동안 팀의 역량에 대한 세부 정보를 보여 줍니다.
 
-이 정보를 보면 다음을 확인할 수 있습니다.
+이 정보를 보면 다음과 같은 사항을 확인할 수 있습니다.
 
 * 홈 팀이 초과 할당되거나 미달되어 할당된 경우
 * 작업할 수 있는 홈 팀
