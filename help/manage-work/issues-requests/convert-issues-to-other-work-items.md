@@ -1,46 +1,28 @@
 ---
 title: 문제/요청을 작업으로 전환
-description: 문제를 다른 작업 항목으로 전환하는 방법을 알아봅니다.
+description: 문제 또는 요청을 작업으로 변환하는 방법에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
-thumbnail: convert-issues-to-other-work-items.jpeg
+thumbnail: 3427605.jpg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2024-02-28T00:00:00Z
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
-workflow-type: ht
-source-wordcount: '485'
-ht-degree: 100%
+source-git-commit: b97e182e50aa2ed6e447ad11d0c86449d5b5da7c
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 57%
 
 ---
 
 # 문제/요청을 작업으로 전환
 
-문제는 해결하기 위한 시간과 노력이 프로젝트 타임라인에서 고려되고 적절한 리소스를 할당해야 할 만큼 충분히 중요할 수 있습니다. 이 경우 문제를 작업으로 전환할 수 있습니다.
+이 비디오에서는 문제 또는 요청을 작업으로 변환하는 방법에 대해 알아봅니다.
 
-![[!UICONTROL Workfront]의 [!UICONTROL 작업으로 전환] 옵션 이미지](assets/15-convert-issue-to-task-menu-option.png)
-
-1. 문제에 기록된 프로젝트 또는 작업의 [!UICONTROL 문제] 섹션으로 이동합니다. 또는 액세스 권한이 있는 보고서에서 문제를 찾습니다.
-1. 문제 이름을 클릭하여 엽니다.
-1. 문제 이름의 오른쪽에 있는 점 3개로 된 메뉴에서 **[!UICONTROL 작업으로 전환]**&#x200B;을 선택합니다.
-1. [!UICONTROL 작업으로 전환] 양식을 작성합니다. 새 작업에 이름 및 설명을 지정하여 시작합니다.
-1. 새 작업이 다른 프로젝트의 일부여야 하는 경우, [!UICONTROL 대상 프로젝트] 이름을 변경합니다.
-1. [!UICONTROL 옵션] 섹션에서 확인란을 선택하여 원래 문제를 유지하고 새 작업에 대한 액세스를 허용하며 완료 일자를 유지 관리합니다. 선택 시 조직의 워크플로를 따릅니다.
-1. 문제에서 작업으로 사용자 정의 양식 데이터를 전송하려면 사용자 정의 양식을 첨부합니다. (문제 양식과 작업 양식에 존재하는 모든 필드는 작업 양식으로 자동 전송됨)
-1. 완료하려면 **[!UICONTROL 작업으로 전환]**&#x200B;을 클릭합니다.
-
-![[!UICONTROL Workfront]의 [!UICONTROL 작업으로 전환] 양식 이미지](assets/16-convert-to-task-options.png)
-
-조직의 [!DNL Workfront] 시스템 설정에 따라 작업을 전환할 때 옵션 섹션에서 설정을 변경하거나 변경하지 못할 수 있습니다. 이러한 옵션은 원래 문제와 새 작업 모두에 영향을 줍니다.
-
-* **원래 문제를 유지하고 해결 방법을 작업에 연결**&#x200B;는 원래 문제 및 관련 정보(시간, 문서 등)를 유지합니다. 이 옵션을 선택하게 되면 작업이 완료될 때 문제가 해결된 것으로 표시됩니다. 이 옵션을 선택하지 **않으면** 작업 생성 시 원래 문제가 삭제됩니다. 이는 조직에서 문제를 추적하고 보고하는 방법에 영향을 줄 수 있습니다.
-* **이 작업에 대한 액세스 허용(사용자 이름)** 옵션을 사용하면 문제를 만든 사용자가 이 새 작업에 액세스할 수 있습니다.
-* **문제의 계획된 완료 일자 유지** 옵션을 사용하면 문제에 이미 설정된 계획된 완료 일자를 유지할 수 있습니다. 이렇게 하면 작업 제한 사항이 [!UICONTROL 다음 기한 내에 완료]로 설정됩니다. 확인란을 선택하지 않으면 프로젝트 내에서 새 작업이 생성된 것처럼 작업 일자가 설정됩니다.
-
-새 작업은 프로젝트의 작업 목록 하단에 배치됩니다. 작업을 원하는 위치로 이동하거나 사용자 또는 팀을 작업에 할당하거나 계획된 시간 및 기간을 추가하는 등의 작업이 있습니다.
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on)
 
 >[!NOTE]
 >
