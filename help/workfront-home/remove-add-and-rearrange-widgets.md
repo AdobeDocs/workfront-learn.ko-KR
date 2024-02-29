@@ -11,9 +11,9 @@ jira: KT-14017
 thumbnail: 3424529.jpeg
 exl-id: c4e26745-7fdb-4ca2-a968-b1f062afb514
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -26,5 +26,5 @@ Home 페이지에서 위젯을 제거, 추가 및 재배치하는 방법을 알�
 
 >[!NOTE]
 >
-> 각 위젯에 대한 자세한 내용을 보려면 [Adobe Workfront의 새 홈 시작](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=en) 기사.
+> 각 위젯에 대한 자세한 내용을 보려면 [Adobe Workfront에서 새로운 홈 시작하기](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=ko-KR) 문서로 이동합니다.
 

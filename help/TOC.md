@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2405'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -269,7 +269,7 @@ ht-degree: 99%
       + [리소스 관리 성숙도](manage-resources/resource-management/resource-management-maturity.md)
       + [프로젝트를 위한 리소스 관리 설정](manage-resources/resource-management/settings-for-projects.md)
       + [사용자를 위한 리소스 관리 설정](manage-resources/resource-management/settings-for-users.md)
-      + [리소스 관리 설정, 업무 균형자 및 활용도 rpt](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+      + [리소스 관리 설정, 워크로드 밸런서 및 활용성 보고서](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
    + 워크로드 밸런서 {#workload-balancer}
       + [Workload Balancer 찾기](manage-resources/workload-balancer/find-the-workload-balancer.md)
@@ -558,7 +558,7 @@ ht-degree: 99%
       + [참여자로서의 자산 관리 이해](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [참여자로서의 자산 찾기 이해](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [참여자로서 라이트박스 이해](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-      + [메타데이터 및 키워드 모범 사례 이해](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+      + [메타데이터 및 키워드 모범 사례 이해하기](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [참여자로서 자산 작업](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [참여자로 파일 보내기](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [참여자로 자산 게시](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -635,7 +635,7 @@ ht-degree: 99%
    + [시나리오 플래너](best-practices/scenario-planner-bp.md)
    + [일정](best-practices/schedules-bp.md)
    + [상태](best-practices/statuses-bp.md)
-   + [시스템 성능 및 유지 관리](best-practices/system-performance-maintenance-bp.md)
+   + [시스템 성능 및 유지 관리 ](best-practices/system-performance-maintenance-bp.md)
    + [텍스트 모드 보고](best-practices/test-mode-reporting-bp.md)
    + [타임라인 계획 및 관리](best-practices/timeline-planning-management-bp.md)
    + [타임시트 및 로깅 시간](best-practices/timesheets-logging-time-bp.md)

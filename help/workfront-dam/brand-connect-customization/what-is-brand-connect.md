@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL Brand Connect]란 무엇입니까?'
-description: 에 대한 소개 받기 [!UICONTROL Brand Connect].
+description: '[!UICONTROL Brand Connect] 개요를 살펴보십시오.'
 activity: use
 feature: Digital Content and Documents,Get Started with Workfront
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 73%
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
-조직의 모양 사용자 지정 [!UICONTROL Brand Portal] 사용자가 필요한 것을 신속하게 찾을 수 있도록 지원하고 최신 자산을 쉽게 사용할 수 있도록 합니다.
+조직의 [!UICONTROL Brand Portal] 모양을 사용자 정의하여 사용자가 필요한 것을 빠르게 찾을 수 있도록 돕고 최신 자산을 쉽게 사용할 수 있도록 하십시오.
 
-이 비디오에서는 다음과 같은 작업을 수행합니다.
+이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 에 대한 소개 받기 [!UICONTROL Brand Connect]
+* [!UICONTROL Brand Connect] 개요를 살펴보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
 

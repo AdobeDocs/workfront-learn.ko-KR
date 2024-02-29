@@ -1,6 +1,6 @@
 ---
 title: 기본 프로젝트 생성 이해하기
-description: 프로젝트를 시작하고 실행하기 위한 네 가지 단계, 프로젝트의 정의 및 프로젝트를 만드는 가장 일반적인 세 가지 방법에 대해 알아봅니다.
+description: 프로젝트를 시작하고 실행하기 위한 네 가지 단계, 프로젝트의 정의 및 프로젝트를 만드는 가장 일반적인 세 가지 방법을 알아봅니다.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -12,9 +12,9 @@ jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -36,4 +36,4 @@ ht-degree: 83%
 1. 전임 작업
 1. 할당
 
-모든 것이 설정되면 프로젝트 상태를 현재로 변경하여 프로젝트를 활성화합니다. 프로젝트가 진행됨에 따라 완료되는 작업, 발생하는 문제, 답변이 필요한 질문 등을 계속 추적할 수 있습니다. [!DNL Workfront]에서 모든 해당 정보를 찾고 관리할 수 있습니다!
+모든 것이 설정되면 프로젝트 상태를 현재로 변경하여 프로젝트를 활성화합니다. 프로젝트가 진행됨에 따라 수행 중인 작업, 발생하는 문제, 답변이 필요한 질문 등을 추적하고 싶을 것입니다. [!DNL Workfront]에서 모든 해당 정보를 찾고 관리할 수 있습니다!

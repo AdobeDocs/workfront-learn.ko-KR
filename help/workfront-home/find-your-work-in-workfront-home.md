@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL 홈]에서 작업 할당을 찾는 방법'
-description: '[!UICONTROL ]에서 귀하에게 할당된 수신 작업 및 기존 작업을 찾는 방법에 대해 알아봅니다. 그런 다음 할당 정보를 검토합니다.'
+description: '[!UICONTROL ]에서 귀하에게 할당된 수신 작업 및 기존 작업을 찾는 방법을 알아봅니다. 그런 다음 할당 정보를 검토합니다.'
 feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
@@ -11,9 +11,9 @@ jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 63%
 
 >[!NOTE]
 >
->현재 Workfront에는 두 개의 홈 경험이 있습니다. 새로운 홈 경험이 있는 경우 [홈에서 위젯 제거, 추가 및 재배열](/help/workfront-home/remove-add-and-rearrange-widgets.md) 튜토리얼.
+>현재 Workfront에서 사용 가능한 두 가지 Home 환경이 있습니다. 새 Home 환경이 있는 경우 [Home에서 위젯 제거, 추가 및 재배열](/help/workfront-home/remove-add-and-rearrange-widgets.md) 튜토리얼을 참조하십시오.
 
 
 이 비디오에서는 다음 방법을 배우게 됩니다.

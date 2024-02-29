@@ -1,6 +1,6 @@
 ---
 title: 요청 대기열 이해
-description: ' [!DNL  Workfront] 에서 요청 대기열이 구성되는 방식 및 요청 제출 방법에 대해 알아봅니다.'
+description: ' [!DNL  Workfront] 에서 요청 대기열이 구성되는 방식 및 요청 제출 방법을 알아봅니다.'
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -12,9 +12,9 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '262'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -22,20 +22,20 @@ ht-degree: 63%
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 다음을 통해 요청을 제출하는 방법 [!DNL  Workfront] 요청 대기열
+* [!DNL  Workfront] 요청 대기열을 통해 요청을 제출하는 방법
 * 요청 대기열이 구성되는 방식
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## 초안 요청 자동 저장
 
-요청 양식을 작성하기 시작하면 [!UICONTROL 제목] 필드를 입력한 후 [!DNL Workfront]에서 초안을 자동으로 저장합니다. 즉, 에서 멀리 이동해야 하는 경우 데이터가 손실되지 않습니다. [!UICONTROL 요청] 다른 작업을 수행하거나 요청 중간에 일시 중지해야 추가 정보가 수집되는 영역입니다.
+요청 양식을 작성하기 시작하면 [!UICONTROL 제목] 필드를 입력한 후 [!DNL Workfront]에서 초안을 자동으로 저장합니다. 이는 다른 작업을 수행하기 위해 [!UICONTROL 요청] 영역에서 다른 곳으로 이동하거나 더 많은 정보를 수집하기 위해 요청 도중 일시 중지해야 할 경우 데이터가 손실되지 않음을 의미합니다.
 
-창의 맨 위에 초안이 저장되었다는 표시가 나타납니다. [!DNL Workfront] 필수 필드가 아직 채워지지 않았더라도 요청 초안이 저장됩니다.
+창 상단에 초안이 저장되었다는 표시가 나타납니다. [!DNL Workfront]는 필수 필드가 아직 채워지지 않은 경우에도 요청 초안을 저장합니다.
 
 ![요청 초안의 생성 이미지](assets/queue-mgt-make-a-request-draft-1.png)
 
-요청을 제출할 준비가 되면 [!UICONTROL 초안] 탭. 이름을 클릭하여 열고 양식 작성을 마칩니다. 그런 다음 [!UICONTROL 요청 제출] 다 끝나면.
+요청을 제출할 준비가 되면 [!UICONTROL 초안] 탭에서 찾습니다. 이름을 클릭하여 열고 양식 작성을 마칩니다. 그런 다음 완료되면 [!UICONTROL 요청 제출]을 클릭합니다.
 
 ![요청 초안의 회수 이미지](assets/queue-mgt-make-a-request-draft-2.png)
 

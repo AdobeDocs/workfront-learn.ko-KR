@@ -12,9 +12,9 @@ jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 85%
 
 ## Analytics 전제 조건
 
-Workfront의 향상된 분석을 최대한 활용하려면 팀이 데이터를 입력하고 특정 필드를 가능한 한 정확하게 업데이트하는지 확인해야 합니다.
+Workfront의 고급 분석 기능을 최대한 활용하려면 팀이 최대한 정확하게 데이터를 입력하고 특정 필드를 업데이트하는지 확인해야 합니다.
 
-Analytics에서 팀이라는 용어를 사용할 때 &quot;홈 팀&quot;을 의미합니다. Workfront 사용자는 여러 팀에 속할 수 있으나, 하나의 홈 팀에만 속할 수 있습니다. 구성원 차트에 사용되는 팀은 해당 팀을 홈 팀으로 지정한 사용자로만 구성됩니다.
+Analytics에서 “팀”이라는 용어는 “홈 팀”을 의미합니다. Workfront 사용자는 여러 팀에 속할 수 있으나, 하나의 홈 팀에만 속할 수 있습니다. 구성원 차트에 사용되는 팀은 해당 팀을 홈 팀으로 지정한 사용자로만 구성됩니다.
 
 프로젝트 템플릿의 모든 작업에 정확한 계획 시간과 기간이 할당되어 있는지 확인하여 작업을 제대로 시작하십시오.
 

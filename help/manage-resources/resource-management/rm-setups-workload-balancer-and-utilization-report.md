@@ -1,5 +1,5 @@
 ---
-title: 리소스 관리 설정, 업무 균형자 및 활용도 rpt
+title: 리소스 관리 설정, 워크로드 밸런서 및 활용성 보고서
 description: 올바른 액세스 권한으로 리소스 관리자를 설정하는 방법과 워크로드 밸런서 및 활용성 보고서를 보는 방법을 알아봅니다.
 feature: Resource Management
 type: Tutorial
@@ -11,15 +11,15 @@ thumbnail: setups-utillization-report.png
 jira: KT-10179
 exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
-# 리소스 관리 설정, 업무 균형자 및 활용률 보고서
+# 리소스 관리 설정, 워크로드 밸런서 및 활용성 보고서
 
-[!DNL Workfront]는 [!DNL Workfront]의 여러 도구에 데이터를 제공하여 리소스 결정을 보다 쉽고 원활하게 수행할 수 있습니다. 리소스의 상태를 보려면 관리자, 사용자 및 프로젝트가 제대로 구성되어 있는지 확인해야 합니다. 이러한 구성은 다음을 모두 사용할 계획이 없는 경우에도 유용합니다. [!DNL Workfront's] 리소스 관리 도구.
+[!DNL Workfront]는 [!DNL Workfront]의 여러 도구에 데이터를 제공하여 리소스 결정을 보다 쉽고 원활하게 수행할 수 있습니다. 리소스의 진행 상황을 확인하려면 관리자, 사용자 및 프로젝트가 올바르게 구성되었는지 확인해야 합니다. 이러한 구성은 모든 [!DNL Workfront's] 리소스 관리 도구를 사용할 계획이 없는 경우에도 유용합니다.
 
 이 섹션에서는 다음을 배웁니다.
 
@@ -28,7 +28,7 @@ ht-degree: 65%
 
 ## 리소스 관리 설정
 
-먼저 적절한 사람이 조직의 리소스에 액세스할 수 있고 이를 관리할 수 있는지 확인하겠습니다.
+적절한 사용자가 조직 리소스에 액세스하고 관리할 수 있는지 확인하는 것부터 시작하겠습니다.
 
 &lt;!단계별 지침 안내서를 다운로드합니다.&gt;
 

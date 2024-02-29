@@ -1,6 +1,6 @@
 ---
 title: 참여자로서의 자산 찾기 이해
-description: 에서 에셋을 검색하고, 폴더 내에서 검색하고, 검색 결과를 간소화하고, 메타데이터 및 키워드를 검색 필터로 사용하는 방법을 알아봅니다 [!UICONTROL WORKFRONT DAM].
+description: '[!UICONTROL Workfront DAM]에서 자산 찾기, 폴더 내 검색, 검색 결과 간소화, 메타데이터 및 키워드를 검색 필터로 사용하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 90%
 
 기본 검색은 파일 이름, 메타데이터 필드, 키워드 및 자산 콘텐츠(자산 유형에 따라 다름)를 찾습니다. 폴더 이름은 포함되지 않습니다.
 
-대부분의 검색 결과는 정확히 일치합니다. 이 &quot;정확한 일치&quot; 규칙의 예외는 [!UICONTROL WORKFRONT DAM] 파일 이름 필드를 검색합니다. [!UICONTROL Workfront DAM]은 단순히 정확한 파일 이름 일치가 아니라 부분적인 파일 이름 일치를 반환합니다.
+대부분의 검색 결과는 정확히 일치합니다. 이러한 “정확한 일치” 규칙의 예외는 [!UICONTROL Workfront DAM]에서 파일 이름 필드를 검색하는 경우입니다. [!UICONTROL Workfront DAM]은 단순히 정확한 파일 이름 일치가 아니라 부분적인 파일 이름 일치를 반환합니다.
 
 ## 검색 중 사용자 연산자
 

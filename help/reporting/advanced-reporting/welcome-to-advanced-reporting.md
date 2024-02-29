@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '446'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -39,13 +39,13 @@ ht-degree: 91%
 * 보고서에 포함하려는 오브젝트에 대해 숙지합니다.
 * 사용자 정의 양식, 특히 계산된 사용자 정의 필드 사용에 대해 숙지합니다.
 * 보고서 및 필터를 활성화하는 권한이 있는 [!UICONTROL 플랜] 라이선스 유형입니다.
-* 다음 과정을 수강했어야 합니다.
+* 지금까지 다음과 같은 과정을 수료하셨습니다.
    * [[!UICONTROL 기본 보고 요소]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
    * [[!UICONTROL 사용자 정의 보고서 및 대시보드 만들기]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
    * [[!UICONTROL 중간 필터 만들기]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
-* 다음 튜토리얼도 수행해야 합니다.
+* 다음 튜토리얼도 살펴보셨습니다.
    * [[!UICONTROL 보기의 기본 텍스트 모드 이해]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ko-KR)
-   * [[!UICONTROL 그룹화를 위한 기본 텍스트 모드 이해]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=ko-KR)
+   * [[!UICONTROL 그룹화의 기본 텍스트 모드 이해]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=ko-KR)
 
 ## 타깃 대상자
 
