@@ -1,6 +1,6 @@
 ---
 title: 문제/요청을 작업으로 전환
-description: 문제 또는 요청을 작업으로 변환하는 방법에 대해 알아봅니다.
+description: 문제 또는 요청을 작업으로 전환하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,15 +11,15 @@ last-substantial-update: 2024-02-28T00:00:00Z
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
 source-git-commit: 7eb3c1265368a349e9483bc3aa00831068300b2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
 # 문제/요청을 작업으로 전환
 
-이 비디오에서는 문제 또는 요청을 작업으로 변환하는 방법에 대해 알아봅니다.
+이 비디오에서는 문제 또는 요청을 작업으로 전환하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on)
 
