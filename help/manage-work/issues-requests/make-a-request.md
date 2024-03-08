@@ -13,9 +13,9 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 doc-type: video
 source-git-commit: 5358a1e6f3c2cddfb2066954a922d8804e0b0a14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 91%
 * 요청 작성
 * 제출된 요청 보기
 * 요청 초안 찾기
-* 마지막 3개의 요청 경로 보기
+* 마지막 세 개의 요청 경로 보기
 * 요청 복사
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)

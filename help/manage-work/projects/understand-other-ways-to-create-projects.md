@@ -13,9 +13,9 @@ last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
 source-git-commit: 5358a1e6f3c2cddfb2066954a922d8804e0b0a14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 70%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 
-## 작업 작업에 대한 자세한 정보
+## 작업에 대해 자세히 알아보기
 
 * [작업 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html)
 * [작업](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html)
