@@ -5,16 +5,16 @@ activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
-role: User
+role: Admin
 level: Beginner
 jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 77%
 
 ---
 
@@ -34,6 +34,11 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 
-## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
+>[!NOTE]
+>
+>조직이 Adobe Admin Console에 온보딩된 경우 다음을 참조하십시오. [Adobe Admin Console을 통해 Adobe Workfront Fusion에 사용자 추가](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html).
+
+
+## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
