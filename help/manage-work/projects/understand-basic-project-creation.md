@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '143'
-ht-degree: 100%
+source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
+workflow-type: tm+mt
+source-wordcount: '150'
+ht-degree: 71%
 
 ---
 
@@ -22,13 +23,14 @@ ht-degree: 100%
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 프로젝트를 시작하고 실행하기 위한 네 가지 단계
-* [!DNL Workfront]의 프로젝트 정의
-* 프로젝트를 생성하는 가장 일반적인 세 가지 방법
+* Workfront의 프로젝트 정의
+* 프로젝트를 시작하고 실행하는 기본 단계
+* 작업 및 문제에 대한 간단한 정보
+* 프로젝트 만들기로 시작하는 모범 사례
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-프로젝트 템플릿을 사용하여 [!DNL  Workfront] 프로젝트를 신속하게 시작하고 실행할 수 있습니다. 다음과 같은 다섯 분야에 먼저 중점을 두어 프로젝트를 계획합니다.
+프로젝트 템플릿을 사용하여 Workfront 프로젝트를 빠르게 시작하고 실행할 수 있습니다. 다음과 같은 다섯 분야에 먼저 중점을 두어 프로젝트를 계획합니다.
 
 1. 작업
 1. 기간
