@@ -13,9 +13,9 @@ jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
 source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '150'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 71%
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* Workfront의 프로젝트 정의
-* 프로젝트를 시작하고 실행하는 기본 단계
-* 작업 및 문제에 대한 간단한 정보
-* 프로젝트 만들기로 시작하는 모범 사례
+* Workfront에서의 프로젝트 정의
+* 프로젝트를 시작하고 실행하기 위한 기본 단계
+* 작업 및 문제에 대한 약간의 정보
+* 프로젝트 생성을 시작하기 위한 모범 사례
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
