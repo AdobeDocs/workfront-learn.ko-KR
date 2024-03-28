@@ -4,7 +4,7 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '2405'
 ht-degree: 100%
 
@@ -599,7 +599,7 @@ ht-degree: 100%
       + [Kanban 팀 만들기](agile/create-a-kanban-team.md)
       + [Kanban 팀으로 작업 관리](agile/manage-work-kanban-team.md)
 
-   + 보드  {#boards}
+   + 보드 {#boards}
       + [기본 보드 찾기 및 만들기](boards/find-and-create-a-basic-board.md)
       + [보드 열 관리](boards/manage-board-columns.md)
       + [보드에 카드 추가](boards/add-cards-to-a-board.md)
