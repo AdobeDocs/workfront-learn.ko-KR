@@ -1,5 +1,5 @@
 ---
-title: 포트폴리오 개요
+title: 포트폴리오 이해
 description: Workfront의 포트폴리오와 프로젝트의 우선 순위를 정하고 프로젝트를 서로 비교하는 데 도움이 되는 방식을 알아봅니다.
 activity: use
 team: Technical Marketing
@@ -7,18 +7,18 @@ feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '442'
-ht-degree: 100%
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+workflow-type: tm+mt
+source-wordcount: '585'
+ht-degree: 74%
 
 ---
 
-# 포트폴리오 개요
+# 포트폴리오 이해
 
 관리자는 종종 회사가 목표와 목적을 달성하는 데 가장 도움이 되는 프로젝트를 파악하는 까다로운 작업을 수행합니다. 해당 목표에 중요한 기준에 따라 현재 또는 잠재적인 프로젝트를 판단하는 것을 의미합니다. 이 기준에는 필요한 리소스의 수, 프로젝트에 드는 비용 대비 이익, 수반되는 위험 이해 등이 포함될 수 있습니다. 이 정보를 통해 관리자는 어떤 프로젝트를 언제 수행해야 할지 결정할 수 있습니다.
 
@@ -51,6 +51,26 @@ ht-degree: 100%
 포트폴리오를 열고 점 3개로 된 메뉴를 클릭한 다음 **[!UICONTROL 공유]**&#x200B;를 선택합니다. 액세스 권한이 있어야 하는 개인 사용자, 팀, 작업 역할, 그룹 또는 회사를 추가합니다. 그런 다음 각 사용자가 가져야 할 액세스 유형(관리 또는 보기)을 결정합니다.
 
 ![[!DNL Workfront] 포트폴리오의 [!UICONTROL 공유] 옵션 이미지](assets/04-portfolio-management11.png)
+
+## 포트폴리오 만들기
+
+포트폴리오를 만들려면 다음을 클릭하십시오. **[!UICONTROL Portfolio]** 기본 메뉴 아래의 제품에서 사용할 수 있습니다.
+
+![메인 메뉴의 이미지 ](assets/create-portfolio-1.png)
+
+Portfolio 영역에서 을 클릭합니다. **[!UICONTROL 새 Portfolio]**.
+
+![Portfolio 영역의 이미지 ](assets/create-portfolio-2.png)
+
+포트폴리오 이름을 지정한 다음 을 클릭합니다. **[!UICONTROL 새 프로젝트]** 포트폴리오에 프로젝트를 추가합니다. 다음과 같이 다양한 방법으로 새 프로젝트를 만들 수 있습니다. **[!UICONTROL 프로젝트]** 영역입니다. 여기서 만드는 모든 새 프로젝트는 이 포트폴리오에 속하게 됩니다. 을(를) 클릭할 수도 있습니다 **[!UICONTROL 기존 프로젝트]** 목록에서 기존 프로젝트를 선택합니다.
+
+![새 프로젝트 메뉴의 이미지 ](assets/create-portfolio-3.png)
+
+## 포트폴리오 내에서 프로그램 만들기
+
+다음 항목 선택 **[!UICONTROL 프로그램]** 탭을 클릭한 다음 을 클릭합니다. **[!UICONTROL 새 프로그램]** 이 포트폴리오 내에서 새 프로그램을 만들려면 다음을 클릭하십시오. **[!UICONTROL 기존 프로그램]** 다른 포트폴리오에서 기존 프로그램을 훔칩니다.
+
+![새 프로그램 메뉴의 이미지 ](assets/create-portfolio-4.png)
 
 <!--
 Pro-tips graphic

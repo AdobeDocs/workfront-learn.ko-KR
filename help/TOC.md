@@ -3,10 +3,10 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
-source-wordcount: '2405'
-ht-degree: 100%
+source-wordcount: '2404'
+ht-degree: 99%
 
 ---
 
@@ -153,7 +153,7 @@ ht-degree: 100%
       + [요청 대기열에 대한 일반적인 질문에 대한 답변](manage-work/request-queues/request-queue-faq.md)
 
    + 포트폴리오 {#portfolios}
-      + [포트폴리오 개요](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [포트폴리오 이해](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [[!UICONTROL 비즈니스 사례] 이해](portfolios-and-programs/introduction-to-the-business-case.md)
       + [[!UICONTROL 포트폴리오 최적화 도구]를 사용하여 업무 우선 순위 지정 및 업무 관리](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
@@ -242,7 +242,7 @@ ht-degree: 100%
    + 고급 Analytics {#enhanced-analytics}
       + [[!UICONTROL 고급 Analytics]에 대한 제품과 함께 하는 순간](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [[!UICONTROL 고급 Analytics] 시작하기](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [레이아웃 템플릿에 [!UICONTROL analytics] 추가](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [액세스 방법 [!UICONTROL 향상된 분석]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [기본 탐색 이해](reporting/enhanced-analytics/4-basic-navigation.md)
       + [작업 및 사용자 차트 이해](reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [필터 이해](reporting/enhanced-analytics/6-filters-overview.md)
