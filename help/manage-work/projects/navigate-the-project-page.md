@@ -7,14 +7,15 @@ thumbnail: 335085.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-04-05T00:00:00Z
 team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '453'
-ht-degree: 100%
+source-git-commit: 1506ba1d0209de4834a150536d9a530609413800
+workflow-type: tm+mt
+source-wordcount: '454'
+ht-degree: 91%
 
 ---
 
@@ -45,10 +46,10 @@ ht-degree: 100%
 8. **[!UICONTROL 조건]:** [!UICONTROL 조건]은 프로젝트 진행 방식을 시각적으로 표시한 것입니다. [!DNL Workfront]는 프로젝트에서 작업의 진행 상태를 기반으로 [!UICONTROL 상태]를 자동 구성할 수 있습니다. 또는 [!UICONTROL 조건]은 프로젝트 세부 정보를 통해 수동 설정할 수 있습니다.
 9. **[!UICONTROL 상태]:** [!UICONTROL 상태]는 프로젝트가 아직 계획 중인지, 진행 중인지, 프로젝트의 모든 작업이 완료되었는지와 같은 프로젝트의 진행 상황을 나타냅니다.
 10. **[!UICONTROL 새 작업]:** 프로젝트에서 새 작업을 만들려면 클릭합니다. 작업은 목록 하단에 생성됩니다.
-11. **[!UICONTROL 내보내기]:** 프로젝트 계획을 PDF, 스프레드시트 또는 탭으로 구분된 파일로 내보냅니다.
+11. **[!UICONTROL 내보내기]:** 작업 목록 또는 선택한 작업을 PDF, 스프레드시트 또는 탭으로 구분된 파일로 내보냅니다.
 12. **왼쪽 패널 메뉴:** 왼쪽 패널에서 프로젝트에 대한 다른 정보로 이동합니다. 화면에 공간이 조금 더 필요한 경우, 아이콘을 클릭하여 패널을 축소합니다. 순서가 효율적인 작업에 도움이 되도록 아이콘을 끌어서 놓습니다. 표시되는 옵션은 [!DNL Workfront] 시스템 관리자가 설정한 것입니다.
 13. **작업 목록:** 작업 목록에는 프로젝트 계획을 구성하는 모든 작업이 표시됩니다. 각 작업에 대해 표시되는 정보는 선택한 보기에 따라 결정됩니다.
-14. **요약 패널:** 아이콘을 클릭하면 선택한 작업에 대한 빠른 조사 정보를 제공하는 요약 패널을 열거나 닫을 수 있습니다.
+14. **요약 패널:** 요약 패널에서는 선택한 작업에 대한 정보를 간단히 살펴볼 수 있습니다. 아이콘을 클릭하여 열거나 닫습니다.
 
 <!---
 learn more:
