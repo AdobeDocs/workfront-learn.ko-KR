@@ -12,7 +12,7 @@ team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 109e024dd64ea1b53bffd4b3e1f7971ae0abb070
+source-git-commit: adb114409c60ee4d52a7477116e2acef62ce30df
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 87%
@@ -51,4 +51,5 @@ ht-degree: 87%
 13. **작업 목록:** 작업 목록에는 프로젝트 계획을 구성하는 모든 작업이 표시됩니다. 각 작업에 대해 표시되는 정보는 선택한 보기에 따라 결정됩니다.
 14. **요약 패널:** 요약 패널에서는 선택한 작업에 대한 정보를 간단히 살펴볼 수 있습니다. 아이콘을 클릭하여 열거나 닫습니다.
 15. **더 많은 작업 추가** 인라인 편집을 사용하여 작업 목록 맨 아래에 다른 작업을 추가하려면 여기를 클릭하십시오.
+
 
