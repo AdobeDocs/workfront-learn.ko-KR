@@ -9,13 +9,14 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2024-03-25T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 74%
 
 ---
 
@@ -30,12 +31,10 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-프로젝트 템플릿을 사용하여 Workfront 프로젝트를 빠르게 시작하고 실행할 수 있습니다. 다음과 같은 다섯 분야에 먼저 중점을 두어 프로젝트를 계획합니다.
+## 이 항목에 대한 권장 튜토리얼
 
-1. 작업
-1. 기간
-1. 계획된 시간
-1. 전임 작업
-1. 할당
+* [프로젝트 페이지 탐색](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [프로젝트를 만드는 4가지 방법 알아보기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [프로젝트 세부 정보 입력](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
 
-모든 것이 설정되면 프로젝트 상태를 현재로 변경하여 프로젝트를 활성화합니다. 프로젝트가 진행됨에 따라 수행 중인 작업, 발생하는 문제, 답변이 필요한 질문 등을 추적하고 싶을 것입니다. [!DNL Workfront]에서 모든 해당 정보를 찾고 관리할 수 있습니다!
+

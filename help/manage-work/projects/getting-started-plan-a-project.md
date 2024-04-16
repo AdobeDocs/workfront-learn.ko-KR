@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+recommendations: noDisplay,noCatalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '77'
-ht-degree: 100%
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+workflow-type: tm+mt
+source-wordcount: '109'
+ht-degree: 95%
 
 ---
 
@@ -28,3 +29,12 @@ ht-degree: 100%
 * 시작 일자 또는 완료 일자를 설정하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)
+
+## 이 항목에 대한 권장 튜토리얼
+
+* [작업 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html)
+* [작업](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html)
+* [프로젝트 계획에서 작업 할당](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html)
+* [작업 기간 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html)
+* [작업 시퀀스 알아보기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html)
+* [계획된 시간 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html)

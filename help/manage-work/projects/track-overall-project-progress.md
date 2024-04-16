@@ -8,12 +8,13 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
-source-wordcount: '203'
-ht-degree: 100%
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+workflow-type: tm+mt
+source-wordcount: '231'
+ht-degree: 87%
 
 ---
 
@@ -38,7 +39,13 @@ ht-degree: 100%
 >프로젝트 조건이 [!DNL Workfront]에 의해 자동으로 설정되는지 또는 프로젝트에 대한 관리 권한을 가진 사용자에 의해 수동으로 설정되는지는 [!UICONTROL 프로젝트 세부 정보] 페이지의 [!UICONTROL 개요] 섹션에 있는 [!UICONTROL 조건 유형] 설정에 의해 제어됩니다.
 
 <!---
-learn more urls
 Project percent complete overview
 Overview of project condition and condition type
 --->
+
+## 이 항목에 대한 권장 튜토리얼
+
+* [프로젝트 관리 시작](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [프로젝트 지표를 사용하여 작업 진행 추적](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [이해 [!UICONTROL 간트] 보기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [이해 [!UICONTROL 보드] 보기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)

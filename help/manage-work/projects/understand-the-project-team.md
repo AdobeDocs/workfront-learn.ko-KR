@@ -9,12 +9,14 @@ level: Beginner
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-02-07T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-14781
 doc-type: video
-source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
-workflow-type: ht
-source-wordcount: '41'
-ht-degree: 100%
+exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 65%
 
 ---
 
@@ -26,3 +28,9 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on)
 
+## 이 항목에 대한 권장 튜토리얼
+
+* [프로젝트 관리 시작](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [프로젝트 찾기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [프로젝트 공유](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [프로젝트 커뮤니케이션 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)

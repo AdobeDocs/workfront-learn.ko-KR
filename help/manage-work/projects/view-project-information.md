@@ -8,12 +8,13 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
-source-wordcount: '205'
-ht-degree: 100%
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+workflow-type: tm+mt
+source-wordcount: '201'
+ht-degree: 97%
 
 ---
 
@@ -33,10 +34,9 @@ ht-degree: 100%
 
 여러 [!DNL Workfront] 고객은 실행 중인 작업과 관련된 사용자 정의 양식 정보 및 기타 필드를 노출하는 사용자 정의 보기를 만듭니다.
 
-## 사용자 정의 필터, 보기 및 그룹화를 만드는 방법 알아보기
+## 이 항목에 대한 권장 튜토리얼
 
-[기본 필터 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=ko-KR)
+* [기본 필터 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=ko-KR)
+* [기본 보기 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ko-KR)
+* [기본 그룹화 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=ko-KR)
 
-[기본 보기 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ko-KR)
-
-[기본 그룹화 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=ko-KR)

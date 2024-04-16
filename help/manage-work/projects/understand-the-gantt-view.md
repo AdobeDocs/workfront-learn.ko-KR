@@ -9,12 +9,13 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-05-11T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '64'
-ht-degree: 100%
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 69%
 
 ---
 
@@ -28,3 +29,10 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on)
 
 온라인에서 [간트 차트 시작하기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=ko-KR) 문서를 통해 자세히 알아볼 수 있습니다.
+
+## 이 항목에 대한 권장 튜토리얼
+
+* [프로젝트 관리 시작](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [전체 프로젝트 진행 상황 추적](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
+* [프로젝트 지표를 사용하여 작업 진행 추적](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [이해 [!UICONTROL 보드] 보기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)

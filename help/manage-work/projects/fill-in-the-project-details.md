@@ -8,12 +8,13 @@ thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '1223'
-ht-degree: 100%
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+workflow-type: tm+mt
+source-wordcount: '1252'
+ht-degree: 97%
 
 ---
 
@@ -127,3 +128,10 @@ ht-degree: 100%
    예를 들어 프로젝트에 액세스할 수 있지만 재무 정보를 조회할 수 없는 사람이 있습니다. 따라서 재무 보기 옵션을 끌 수 있습니다.
 
    액세스 설정은 템플릿에서 설정할 수 있습니다.
+
+## 이 항목에 대한 권장 튜토리얼
+
+* [기본 프로젝트 생성 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
+* [프로젝트 페이지 탐색](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [프로젝트를 만드는 4가지 방법 알아보기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [프로젝트 계획 시작](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project)

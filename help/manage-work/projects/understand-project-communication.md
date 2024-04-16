@@ -9,12 +9,13 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-05-05T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+workflow-type: tm+mt
+source-wordcount: '113'
+ht-degree: 79%
 
 ---
 
@@ -35,3 +36,10 @@ ht-degree: 100%
 >비디오에 나와 있는 메모 검색 보고서를 만들려면 [작업 보고서 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=ko-KR) 튜토리얼의 활동을 참조하십시오.
 >
 >프로젝트 패널에 메모 검색 보고서를 추가하려면 [대시보드 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=ko-KR) 튜토리얼의 활동을 참조하십시오.
+
+## 이 항목에 대한 권장 튜토리얼
+
+* [프로젝트 관리 시작](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [프로젝트 찾기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [프로젝트 공유](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [프로젝트 팀 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/anage-work/projects/understand-the-project-team.md)

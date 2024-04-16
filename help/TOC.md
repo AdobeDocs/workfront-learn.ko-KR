@@ -3,10 +3,10 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
 source-wordcount: '2404'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -107,9 +107,9 @@ ht-degree: 99%
 + 작업 관리 {#manage-work}
    + 프로젝트 {#projects}
       + [기본 프로젝트 생성 이해하기](manage-work/projects/understand-basic-project-creation.md)
+      + [프로젝트 페이지 탐색](manage-work/projects/navigate-the-project-page.md)
       + [프로젝트를 생성하는 네 가지 방법에 대해 알아보기](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [프로젝트 세부 정보 입력](manage-work/projects/fill-in-the-project-details.md)
-      + [프로젝트 페이지 탐색](manage-work/projects/navigate-the-project-page.md)
       + [프로젝트 계획 시작하기](manage-work/projects/getting-started-plan-a-project.md)
       + [실제로 프로젝트 실행](manage-work/projects/take-a-project-live.md)
       + [프로젝트 관리 시작하기](manage-work/projects/getting-started-manage-a-project.md)
@@ -242,7 +242,7 @@ ht-degree: 99%
    + 고급 Analytics {#enhanced-analytics}
       + [[!UICONTROL 고급 Analytics]에 대한 제품과 함께 하는 순간](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [[!UICONTROL 고급 Analytics] 시작하기](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [액세스 방법 [!UICONTROL 향상된 분석]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [[!UICONTROL 고급 Analytics] 액세스 방법](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [기본 탐색 이해](reporting/enhanced-analytics/4-basic-navigation.md)
       + [작업 및 사용자 차트 이해](reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [필터 이해](reporting/enhanced-analytics/6-filters-overview.md)
