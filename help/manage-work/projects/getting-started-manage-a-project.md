@@ -13,9 +13,9 @@ jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -52,9 +52,9 @@ Project management knowledge areas
 10 work management problems and how to solve them
 --->
 
-## 이 항목에 대한 권장 튜토리얼
+## 이 주제와 관련된 추천 튜토리얼
 
-* [프로젝트 실행](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
+* [실제로 프로젝트 실행](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
 * [프로젝트 찾기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
 * [프로젝트 공유](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
 * [프로젝트 팀 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
