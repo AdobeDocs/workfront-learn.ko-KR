@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-04-22T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '209'
-ht-degree: 100%
+source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
+workflow-type: tm+mt
+source-wordcount: '211'
+ht-degree: 89%
 
 ---
 
@@ -41,7 +42,7 @@ ht-degree: 100%
 * 관련자와 소통합니다.
 * 이 과정을 통해 성공을 축하합니다.
 
-궁극적으로 귀하의 주된 임무는 프로젝트를 성공적으로 완료하는 것입니다. [!DNL Workfront]를 사용하여 프로젝트 타임라인을 통해 수행 중인 작업을 모니터링할 수 있습니다(필터, 보기 및 그룹화, 업데이트, 보고서 등).
+궁극적으로 귀하의 주된 임무는 프로젝트를 성공적으로 완료하는 것입니다. Adobe Workfront은 프로젝트 타임라인, 필터, 보기 및 그룹화, 업데이트, 보고서 등을 통해 수행되는 작업을 모니터링하는 데 도움이 됩니다.
 
 <!---
 learn more urls
