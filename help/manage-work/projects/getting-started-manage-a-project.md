@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 72%
+ht-degree: 83%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 72%
 * 관련자와 소통합니다.
 * 이 과정을 통해 성공을 축하합니다.
 
-궁극적으로 귀하의 주된 임무는 프로젝트를 성공적으로 완료하는 것입니다. Adobe Workfront은 프로젝트 타임라인, 필터, 보기 및 그룹화, 업데이트, 보고서 등을 통해 수행되는 작업을 모니터링하는 데 도움이 됩니다.
+궁극적으로 귀하의 주된 임무는 프로젝트를 성공적으로 완료하는 것입니다. Adobe Workfront를 사용하여 프로젝트 타임라인을 통해 수행 중인 작업을 모니터링할 수 있습니다(필터, 보기 및 그룹화, 업데이트, 보고서 등).
 
 <!---
 learn more urls
