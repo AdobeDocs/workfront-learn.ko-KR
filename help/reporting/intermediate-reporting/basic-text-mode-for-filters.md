@@ -11,22 +11,21 @@ team: Technical Marketing
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
-source-wordcount: '409'
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+workflow-type: tm+mt
+source-wordcount: '408'
 ht-degree: 100%
 
 ---
 
 # 필터의 기본 텍스트 모드 이해
 
->[!IMPORTANT]
->
->전제 조건:
+>[!PREREQUISITES]
 >
 >* [보고 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=ko-KR)
 >* [보고 구성 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=ko-KR)
 >* [기본 필터 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=ko-KR)
+
 
 >[!TIP]
 >

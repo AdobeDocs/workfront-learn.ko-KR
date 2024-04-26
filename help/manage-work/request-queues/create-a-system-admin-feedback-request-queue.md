@@ -11,22 +11,22 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: 104e03ccca2faeae5379698a6c7e5066d49db120
-workflow-type: ht
-source-wordcount: '152'
+exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+workflow-type: tm+mt
+source-wordcount: '151'
 ht-degree: 100%
 
 ---
 
 # 시스템 관리자 피드백 요청 대기열 만들기
 
->[!IMPORTANT]
->
->전제 조건:
+>[!PREREQUISITES]
 >
 >* [요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
 >* [요청 흐름 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* 또는 라우팅 규칙 및 사용자 정의 양식을 사용하는 요청 대기열을 만드는 것이 익숙합니다.
+
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 

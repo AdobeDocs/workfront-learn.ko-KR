@@ -11,22 +11,21 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
-source-wordcount: '286'
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+workflow-type: tm+mt
+source-wordcount: '285'
 ht-degree: 100%
 
 ---
 
 # 그룹화의 기본 텍스트 모드 이해
 
->[!IMPORTANT]
->
->전제 조건:
+>[!PREREQUISITES]
 >
 >* [보고 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=ko-KR)
 >* [보고 구성 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=ko-KR)
 >* [기본 그룹화 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=ko-KR)
+
 
 >[!TIP]
 >
