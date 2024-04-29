@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 관리 시작하기
-description: 프로젝트 진행 상황을 모니터링하고, 드릴다운하여 작업 세부 정보를 확인하고, 관련자와 소통하는 방법을 알아봅니다.
+description: 프로젝트 진행 상황을 모니터링하고, 드릴다운하여 작업 세부 정보를 확인하고, 관련자들과 소통하는 방법을 알아봅니다.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -14,9 +14,9 @@ jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '213'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 83%
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
 * 프로젝트 진행 상황을 모니터링하는 방법
-* 드릴다운하여 작업 세부 정보를 보는 방법
-* 이해 당사자와 의사 소통하는 방법
+* 드릴다운하여 작업 세부 정보를 확인하는 방법
+* 관련자들과 소통하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
@@ -56,8 +56,8 @@ Project management knowledge areas
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [실제로 프로젝트 실행](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
-* [프로젝트 찾기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [프로젝트 공유](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [프로젝트 팀 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [프로젝트 커뮤니케이션 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [실제로 프로젝트 실행](https://experienceleague.adobe.com/kr/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
+* [프로젝트 찾기](https://experienceleague.adobe.com/kr/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [프로젝트 공유](https://experienceleague.adobe.com/kr/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [프로젝트 팀 이해](https://experienceleague.adobe.com/kr/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
+* [프로젝트 커뮤니케이션 이해](https://experienceleague.adobe.com/kr/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
