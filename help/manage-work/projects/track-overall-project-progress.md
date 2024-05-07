@@ -1,6 +1,6 @@
 ---
 title: 전체 프로젝트 진행 상황 추적
-description: 전반적인 프로젝트 진행 상황을 추적하는 5가지 빠른 방법에 대해 알아봅니다.
+description: 전체 프로젝트 진행 상황을 추적하기 위한 5가지 빠른 방법에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
 source-git-commit: 99dfdc38fd2192da6a5ef46663634bd6070ee488
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
@@ -25,15 +25,15 @@ ht-degree: 56%
 
 * 완료율
 * 예상 일자
-* 상태 및 진행 상태
-* 진행 중 문제
+* 조건 및 진행 상태
+* 진행 중인 문제
 * 조건 업데이트 열
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on)
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [프로젝트 관리 시작하기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [프로젝트 지표로 작업 진행 상황 추적](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [[!UICONTROL 간트] 보기 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
-* [[!UICONTROL 보드] 보기 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [프로젝트 관리 시작하기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [프로젝트 지표로 작업 진행 상황 추적](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [[!UICONTROL 간트] 보기 이해](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [[!UICONTROL 보드] 보기 이해](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
