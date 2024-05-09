@@ -1,6 +1,6 @@
 ---
 title: 실제로 프로젝트 실행
-description: 프로젝트 상태를 사용하여 실제로 [!DNL  Workfront] 프로젝트를 실행하는 방법을 알아봅니다.
+description: 프로젝트 상태를 사용하여 Adobe Workfront 프로젝트를 라이브로 전환하는 방법에 대해 알아봅니다.
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
@@ -12,10 +12,10 @@ recommendations: noDisplay,noCatalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '53'
-ht-degree: 100%
+source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
+workflow-type: tm+mt
+source-wordcount: '55'
+ht-degree: 76%
 
 ---
 
