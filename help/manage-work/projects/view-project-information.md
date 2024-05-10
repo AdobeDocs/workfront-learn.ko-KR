@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
 source-git-commit: 0d591bb306efde6a5cd1606d42b058309d8494b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
 # 프로젝트 정보 보기
 
-이 비디오에서는 필터, 보기 및 그룹화를 사용하여 보는 방법에 대해 알아봅니다.
+이 비디오에서는 필터, 보기 및 그룹화를 사용하여 다음과 같은 항목을 조회하는 방법에 대해 알아봅니다.
 
 * 프로젝트 수준 정보
 * 작업 수준 정보
