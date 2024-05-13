@@ -9,12 +9,13 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8776
+recommendations: noDisplay,noCatalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '64'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 92%
 
 ---
 
@@ -28,3 +29,10 @@ ht-degree: 100%
 * 작업 기간 사용에 대한 모범 사례 권장 사항
 
 >[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on)
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [작업 시퀀스 알아보기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
+* [계획된 시간 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
+* [작업 노력 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+

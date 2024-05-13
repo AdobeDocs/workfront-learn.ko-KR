@@ -12,10 +12,10 @@ jira: KT-8721
 recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '267'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '264'
+ht-degree: 94%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 ## ‘사용자’ 차트 필터
 
-‘사용자’ 차트는 홈 팀을 기반으로 합니다. 필터에서 선택한 수에 해당하는 팀의 활동 및 리소스 용량이 표시됩니다.
+‘사용자’ 차트는 홈 팀을 기반으로 합니다. 필터에서 선택한 수만큼 팀의 활동이 표시됩니다.
 
 ## 추가 고려 사항
 

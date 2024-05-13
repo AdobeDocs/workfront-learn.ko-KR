@@ -12,9 +12,9 @@ jira: KT-8722
 recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '307'
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '295'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 100%
 * **프로젝트 활동**- 프로젝트 이름을 클릭하여 차트를 확장하고 사용자별 프로젝트 활동을 봅니다.
 * **프로젝트 트리맵**- 프로젝트 상자를 클릭하여 번다운 및 전송 중인 작업 차트를 엽니다.
 * **팀별 활동**- 팀 이름을 클릭하여 차트를 확장하면 사용자별 활동을 봅니다.
-* **리소스 용량**- 팀 이름을 클릭하여 팀 역량 차트를 봅니다.
 
 ## 팀 활동에서 어둡고 밝은 음영은 무엇을 의미합니까?
 

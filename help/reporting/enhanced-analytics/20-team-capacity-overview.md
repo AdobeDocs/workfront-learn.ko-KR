@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '390'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '385'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 100%
 
 1. 왼쪽 패널의 [!UICONTROL 사용자] 탭을 클릭합니다.
 1. [!UICONTROL 필터]를 사용하여 살펴볼 하나 이상의 홈 팀을 선택합니다.
-1. [!UICONTROL 리소스 용량] 차트 아래에 팀 용량 차트가 표시됩니다.
+1. 팀 수용작업량 차트가 표시됩니다.
 
 ## 차트를 사용하는 방법
 

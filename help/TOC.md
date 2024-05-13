@@ -3,9 +3,9 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '2404'
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '2399'
 ht-degree: 100%
 
 ---
@@ -258,7 +258,6 @@ ht-degree: 100%
       + [전송 중인 작업 검토](reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
       + [업데이트를 통한 조치](reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
       + [팀 차트별 활동 이해](reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [리소스 용량 차트 이해](reporting/enhanced-analytics/19-resource-capacity-chart.md)
       + [팀 역량 이해](reporting/enhanced-analytics/20-team-capacity-overview.md)
       + [KPI 비교 사용 사례 이해](reporting/enhanced-analytics/21-kpi-comparisons.md)
       + [최종 사용자 사용 사례 이해](reporting/enhanced-analytics/22-end-user-use.md)
