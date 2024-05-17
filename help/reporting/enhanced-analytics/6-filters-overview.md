@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
 source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '264'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 94%
 
 ## ‘사용자’ 차트 필터
 
-‘사용자’ 차트는 홈 팀을 기반으로 합니다. 필터에서 선택한 수만큼 팀의 활동이 표시됩니다.
+‘사용자’ 차트는 홈 팀을 기반으로 합니다. 필터에서 선택한 수에 해당하는 만큼의 팀 활동이 표시됩니다.
 
 ## 추가 고려 사항
 

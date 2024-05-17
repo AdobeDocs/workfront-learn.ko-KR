@@ -12,9 +12,9 @@ jira: KT-10153
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '188'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -34,5 +34,5 @@ Workfront는 두 가지 개념을 모두 염두에 두고 [!UICONTROL 작업 노
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [작업 기간 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [계획된 시간 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
+* [작업 기간 이해](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [계획된 시간 이해](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)

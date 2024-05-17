@@ -1,6 +1,6 @@
 ---
 title: 리소스 용량 차트 이해
-description: 이 기능은에서 제거되었습니다. [!UICONTROL 향상된 분석] 2024년 4월 11일 현재.
+description: 이 기능은 2024년 4월 11일부로 [!UICONTROL 향상된 분석]에서 제거되었습니다.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -13,13 +13,13 @@ hidefromtoc: true
 recommendations: noDisplay,noCatalog
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
 source-git-commit: 20d5b2a226651ae8c4dd24da76e3cda53cd647d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 # 리소스 용량 차트 이해
 
-이 기능은에서 제거되었습니다. [!UICONTROL 향상된 분석] 2024년 4월 11일 현재.
+이 기능은 2024년 4월 11일부로 [!UICONTROL 향상된 분석]에서 제거되었습니다.
 
