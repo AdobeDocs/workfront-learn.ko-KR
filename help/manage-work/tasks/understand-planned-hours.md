@@ -12,9 +12,9 @@ jira: KT-8777
 recommendations: noDisplay,noCatalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,7 @@ Planned hours overview
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [작업 시퀀스 알아보기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [작업 기간 이해](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [작업 노력 이해](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+* [작업 기간 이해](/help/manage-work/tasks/understand-task-durations.md)
+* [작업 시퀀스 알아보기](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [[!UICONTROL 작업 노력] 이해](/help/manage-work/tasks/understand-work-effort.md)
 

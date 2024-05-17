@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '109'
+source-git-commit: ab2b4848acc69b0c6f6cd89ec0c9bf4203c2d297
+workflow-type: tm+mt
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -32,9 +32,10 @@ ht-degree: 100%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [작업 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html)
-* [작업](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html)
-* [프로젝트 계획에서 작업 할당](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html)
-* [작업 기간 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html)
-* [작업 시퀀스 알아보기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html)
-* [계획된 시간 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html)
+* [작업 만들기](/help/manage-work/tasks/how-to-create-tasks.md)
+* [작업](/help/manage-work/tasks/work-with-tasks.md)
+* [프로젝트 계획에서 작업 할당](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+* [작업 기간 이해](/help/manage-work/tasks/understand-task-durations.md)
+* [작업 시퀀스 알아보기](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [계획된 시간 이해](/help/manage-work/tasks/understand-planned-hours.md)
+* [[!UICONTROL 작업 노력] 이해](/help/manage-work/tasks/understand-work-effort.md)

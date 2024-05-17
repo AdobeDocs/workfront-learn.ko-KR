@@ -10,9 +10,9 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
-workflow-type: ht
-source-wordcount: '61'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '58'
 ht-degree: 100%
 
 ---
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [상위-하위 작업 이해](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
-* [작업](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
-* [프로젝트 계획에서 작업 할당](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
+* [상위-하위 작업 이해](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [작업](/help/manage-work/tasks/work-with-tasks.md)
+* [프로젝트 계획에서 작업 할당](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

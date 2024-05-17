@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
@@ -31,6 +31,6 @@ ht-degree: 100%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [상위-하위 작업 이해](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
-* [프로젝트 계획에서 작업 할당](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
-* [작업 기간 이해](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [상위-하위 작업 이해](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [프로젝트 계획에서 작업 할당](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+* [작업 기간 이해](/help/manage-work/tasks/understand-task-durations.md)

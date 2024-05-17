@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
-workflow-type: ht
-source-wordcount: '213'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '208'
 ht-degree: 100%
 
 ---
@@ -56,8 +56,8 @@ Project management knowledge areas
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [실제로 프로젝트 실행](https://experienceleague.adobe.com/kr/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
-* [프로젝트 찾기](https://experienceleague.adobe.com/kr/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [프로젝트 공유](https://experienceleague.adobe.com/kr/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [프로젝트 팀 이해](https://experienceleague.adobe.com/kr/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [프로젝트 커뮤니케이션 이해](https://experienceleague.adobe.com/kr/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [실제로 프로젝트 실행](/help/manage-work/projects/take-a-project-live.md)
+* [프로젝트 찾기](/help/manage-work/projects/find-projects.md)
+* [프로젝트 공유](/help/manage-work/projects/share-a-project.md)
+* [프로젝트 팀 이해](/help/manage-work/projects/understand-the-project-team.md)
+* [프로젝트 커뮤니케이션 이해](/help/manage-work/projects/understand-project-communication.md)

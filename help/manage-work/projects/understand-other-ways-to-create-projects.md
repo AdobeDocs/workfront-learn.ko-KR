@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '83'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [기본 프로젝트 생성 이해하기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [프로젝트 페이지 탐색](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
-* [프로젝트 세부 정보 입력](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
+* [기본 프로젝트 생성 이해하기](/help/manage-work/projects/understand-basic-project-creation.md)
+* [프로젝트 페이지 탐색](/help/manage-work/projects/navigate-the-project-page.md)
+* [프로젝트 세부 정보 입력](/help/manage-work/projects/fill-in-the-project-details.md)
 
