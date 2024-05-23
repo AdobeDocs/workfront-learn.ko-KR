@@ -13,10 +13,10 @@ jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
+source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 36%
+source-wordcount: '99'
+ht-degree: 35%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 36%
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 인라인 편집을 사용하여 작업을 할당하는 방법
-* 동일한 사람에게 여러 작업을 할당하는 방법
+* 인라인 편집을 사용하여 작업을 할당하는 방법을 알아봅니다
+* 동일한 사람에게 여러 작업을 할당하는 방법을 알아봅니다
 * 작업 할당 시 작업 역할의 가치 이해
 * 작업 할당 시 프로젝트 템플릿의 가치 이해
 * 팀에 작업을 할당함으로써 얻을 수 있는 가치 이해
