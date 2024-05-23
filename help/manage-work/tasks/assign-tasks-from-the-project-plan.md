@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 계획에서 작업 할당
-description: ' [!DNL  Workfront] 프로젝트에서 인라인 편집을 사용하여 작업에 사용자를 할당하는 방법을 알아봅니다.'
+description: 인라인 편집, 벌크 편집, 작업 역할 및 팀을 사용하여 Adobe Workfront 프로젝트에서 작업을 할당하는 방법을 알아봅니다.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -8,22 +8,27 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
-source-wordcount: '62'
-ht-degree: 100%
+source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
+workflow-type: tm+mt
+source-wordcount: '98'
+ht-degree: 36%
 
 ---
 
 # 프로젝트 계획에서 작업 할당
 
-이 비디오에서는 다음 방법을 배우게 됩니다.
+이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 인라인 편집을 사용하여 사용자를 작업에 할당
+* 인라인 편집을 사용하여 작업을 할당하는 방법
+* 동일한 사람에게 여러 작업을 할당하는 방법
+* 작업 할당 시 작업 역할의 가치 이해
+* 작업 할당 시 프로젝트 템플릿의 가치 이해
+* 팀에 작업을 할당함으로써 얻을 수 있는 가치 이해
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
