@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL 작업 노력] 이해'
-description: 을(를) 사용하는 방법 알아보기 [!UICONTROL 작업 노력] 프로젝트 타임라인에서 계획된 시간에 대한 대략적인 견적을 얻습니다.
+description: '[!UICONTROL 작업 노력]을 사용하여 프로젝트 타임라인에서 대략적으로 예측된 시간을 파악할 수 있는 방법에 대해 알아봅니다.'
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,9 +13,9 @@ last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 source-git-commit: 8a0c7dd171659460233379fb5f986d7b8341c6d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 47%
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 작업 노력이란 무엇이며 프로젝트를 관리하는 데 어떻게 도움이 될 수 있습니까?
-* 작업 노력 사용 방법
+* 작업 노력이란 무엇이며 프로젝트 관리에 어떻게 도움이 되는가
+* 작업 노력을 사용하는 방법
 * 작업 노력 작업 보기를 만드는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on)
