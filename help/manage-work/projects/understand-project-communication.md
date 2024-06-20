@@ -12,16 +12,16 @@ last-substantial-update: 2023-05-05T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
 # 프로젝트 커뮤니케이션 이해
 
-이 비디오에서는 다음을 사용하여 모든 프로젝트 관련자와 소통하는 방법을 배웁니다.
+이 비디오에서는 다음을 사용하여 모든 프로젝트 이해 당사자와 통신하는 방법에 대해 알아봅니다.
 
 * 우수한 프로젝트 계획 수립
 * 업데이트
