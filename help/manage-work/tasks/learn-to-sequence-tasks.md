@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-8778
 recommendations: noDisplay,noCatalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 76%
 
 ---
 
@@ -23,10 +24,11 @@ ht-degree: 100%
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* [!DNL  Workfront]에서 전임 작업의 정의
-* 프로젝트에서 전임 작업으로 작업 순서를 지정하는 방법
+* Workfront의 전임 작업
 * 기간 및 전임 작업을 사용하여 타임라인을 만드는 방법
-* 전임 작업을 변경하거나 입력하는 방법
+* 프로젝트에서 전임 작업으로 작업 순서를 지정하는 방법
+* 작업 시작 일자를 설정하는 것이 작업 제한에 어떤 영향을 줍니까?
+* 전임 작업을 입력하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 
