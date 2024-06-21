@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 # [!UICONTROL 간트] 보기 이해
 
-이 비디오에서는 다음 사용 방법을 알아봅니다.
+이 비디오에서는 다음 항목을 사용하는 방법을 알아봅니다.
 
 * 프로젝트 간트 차트
 * 작업 간트 차트
