@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 76%
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* Workfront의 전임 작업
+* Workfront 전임 작업 정의
 * 기간 및 전임 작업을 사용하여 타임라인을 만드는 방법
 * 프로젝트에서 전임 작업으로 작업 순서를 지정하는 방법
-* 작업 시작 일자를 설정하는 것이 작업 제한에 어떤 영향을 줍니까?
-* 전임 작업을 입력하는 방법
+* 작업 시작 일자 설정이 작업 제한 사항에 미치는 영향
+* 전임 작업 진입 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 

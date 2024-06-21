@@ -1,6 +1,6 @@
 ---
 title: 계획된 시간 이해
-description: 계획된 시간이 무엇인지, 계획된 시간이 프로젝트에 중요한 이유는 무엇인지, 계획된 시간을 작업에 추가하는 방법을 알아봅니다.
+description: 계획된 시간의 정의, 계획된 시간이 프로젝트에 중요한 이유, 계획된 시간을 작업에 추가하는 방법에 대해 알아봅니다.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 45%
+ht-degree: 70%
 
 ---
 
