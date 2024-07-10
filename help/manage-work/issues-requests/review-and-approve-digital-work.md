@@ -9,11 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8808
+recommendations: noDisplay,noCatalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
@@ -34,6 +35,11 @@ ht-degree: 100%
 >
 >승인이 필요한 문서, 증명 및 작업 항목(프로젝트, 작업 및 문제)은 [!DNL Workfront Home] 외에도 프로젝트 및 사용자 정의 보고서에서 찾을 수 있습니다.
 
+## 이 주제와 관련된 추천 튜토리얼
+
+* [일회용 승인 프로세스 만들기](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [기존 승인 프로세스 첨부 및 편집](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+* [작업, 문제 및 승인 위임](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!---

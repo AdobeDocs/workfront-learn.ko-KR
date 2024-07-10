@@ -9,11 +9,12 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
-workflow-type: ht
-source-wordcount: '416'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '431'
 ht-degree: 100%
 
 ---
@@ -58,3 +59,9 @@ ht-degree: 100%
 작업의 효율성을 높이고 급변하는 환경에서 문제를 보다 쉽게 전환할 수 있도록 프로젝트, 보고서 또는 대시보드의 모든 문제 목록에서 문제를 작업 또는 프로젝트로 전환할 수 있습니다. 문제를 선택한 다음 표시되는 점 3개로 된 메뉴를 클릭하기만 하면 됩니다.
 
 ![문제 전환 옵션을 보여 주는 프로젝트 화면의 이미지](assets/convert-from-a-list.png)
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [문제/요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [계획되지 않은 작업 처리](/help/manage-work/issues-requests/handle-unplanned-work.md)
+

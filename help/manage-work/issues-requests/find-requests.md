@@ -9,11 +9,12 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-08-10T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
@@ -33,3 +34,12 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
 
 사용자 정의 보고서를 만들어 대시보드에 넣는 방법을 알아보려면 [기본 보고서 생성 과정](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html)을 참조하십시오.
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [요청 대기열 이해](/help/manage-work/request-queues/understand-request-queues.md)
+* [요청 작성](/help/manage-work/issues-requests/make-a-request.md)
+* [요청 업데이트](/help/manage-work/issues-requests/update-a-request.md)
+* [문제/요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [문제/요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+

@@ -8,11 +8,12 @@ thumbnail: report-on-issues.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '283'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '286'
 ht-degree: 100%
 
 ---
@@ -43,7 +44,10 @@ ht-degree: 100%
 
 ![문제 보고 정보의 이미지](assets/19-text-mode-reporting-for-issues.png)
 
->[!NOTE]
->
->보기를 만드는 방법에 대한 지침은 [기본 보기 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ko-KR)를 참조하십시오.
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [기본 보기 만들기](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [간단한 보고서 만들기](/help/reporting/basic-reporting/create-a-simple-report.md)
+* [요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
 

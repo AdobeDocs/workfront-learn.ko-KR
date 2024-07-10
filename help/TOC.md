@@ -3,8 +3,8 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 20d5b2a226651ae8c4dd24da76e3cda53cd647d1
-workflow-type: ht
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
 source-wordcount: '2404'
 ht-degree: 100%
 
@@ -141,7 +141,6 @@ ht-degree: 100%
       + [요청 업데이트](manage-work/issues-requests/update-a-request.md)
       + [문제/요청을 프로젝트로 전환](manage-work/issues-requests/create-a-project-from-a-request.md)
       + [문제/요청을 작업으로 전환](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [디지털 작업 검토 및 승인](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [문제 보고](manage-work/issues-requests/report-on-issues.md)
 
    + 요청 대기열 {#request-queues}
@@ -160,6 +159,7 @@ ht-degree: 100%
    + 승인 프로세스 및 마일스톤 경로 {#approval-processes-and-milestone-paths}
       + [일회용 승인 프로세스 만들기](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [기존 승인 프로세스 첨부 및 편집](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+      + [디지털 작업 검토 및 승인](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [작업, 문제 및 승인 위임](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [마일스톤 적용](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
       + [마일스톤 보기](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
