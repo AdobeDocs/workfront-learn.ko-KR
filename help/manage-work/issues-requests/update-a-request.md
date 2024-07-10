@@ -7,14 +7,16 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-07-10T00:00:00Z
 thumbnail: 336091.png
 jira: KT-8807
+recommendations: noDisplay,noCatalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '37'
-ht-degree: 100%
+source-git-commit: e2a8ab1d8139008c145f584c8c2181a082d1923b
+workflow-type: tm+mt
+source-wordcount: '64'
+ht-degree: 71%
 
 ---
 
@@ -23,6 +25,13 @@ ht-degree: 100%
 이 비디오에서는 다음 방법을 배우게 됩니다.
 
 * 제출한 요청 찾기
-* 요청 업데이트
+* 요약 패널에서 업데이트
+* 요청 페이지를 엽니다.
+* 에서 요청 업데이트 [!UICONTROL 업데이트] 패널
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [요청 작성](/help/manage-work/issues-requests/make-a-request.md)
+* [요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
