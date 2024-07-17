@@ -47,7 +47,7 @@ paragraph below needs URL to article
 
 자세한 내용은 ‘빠른 시작을 통해 Workfront로 데이터 가져오기’를 참조하십시오.
 
-[!UICONTROL 설정] 영역의 ![[!UICONTROL 데이터 가져오기]([!UICONTROL  빠른 시작]) 창](assets/admin-fund-adding-users-8.png)
+[!UICONTROL 설정] 영역의 ![[!UICONTROL 데이터 가져오기] ([!UICONTROL  빠른 시작]) 창](assets/admin-fund-adding-users-8.png)
 
 <!--
 Learn more URLs
