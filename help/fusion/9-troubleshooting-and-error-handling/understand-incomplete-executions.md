@@ -12,7 +12,7 @@ exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 100%
 
@@ -43,6 +43,6 @@ ht-degree: 100%
 * 오류 유형이 DataError, InvalidConfigurationError, InvalidAccessTokenError, UnexpectedError, MaxFileSizeExceededError 또는 MaxResultsExceededError인 경우, 자동 재시도 없이 불완전한 실행 레코드가 저장됩니다.
 * 오류 유형이 위와 다른 경우 실행이 실패합니다.
 
-## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
+## 자세히 알아보고 싶으신가요? 다음 자료를 참조하십시오.
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)

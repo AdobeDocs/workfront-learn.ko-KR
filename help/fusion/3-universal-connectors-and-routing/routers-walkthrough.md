@@ -12,7 +12,7 @@ exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '853'
 ht-degree: 100%
 
@@ -103,6 +103,6 @@ Pokemon 캐릭터에 대한 여러 변수 설정 모듈에서 “Stat(Level)”�
 
 ![배열 이름 이미지](assets/universal-connectors-and-routing-6.png)
 
-## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
+## 자세히 알아보고 싶으신가요? 다음 자료를 참조하십시오.
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)

@@ -12,7 +12,7 @@ exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 100%
 
@@ -58,6 +58,6 @@ D - 실행 ID를 복사합니다.
 ![실행 기록 링크 이미지](assets/execution-history-and-scheduling-5.png)
 
 
-## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
+## 자세히 알아보고 싶으신가요? 다음 자료를 참조하십시오.
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)

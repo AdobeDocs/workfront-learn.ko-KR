@@ -14,7 +14,7 @@ exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
 source-wordcount: '585'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -54,23 +54,23 @@ ht-degree: 74%
 
 ## 포트폴리오 만들기
 
-포트폴리오를 만들려면 다음을 클릭하십시오. **[!UICONTROL Portfolio]** 기본 메뉴 아래의 제품에서 사용할 수 있습니다.
+포트폴리오를 만들려면 메인 메뉴에서 **[!UICONTROL 포트폴리오]**&#x200B;를 클릭합니다.
 
-![메인 메뉴의 이미지 ](assets/create-portfolio-1.png)
+![메인 메뉴 이미지 ](assets/create-portfolio-1.png)
 
-Portfolio 영역에서 을 클릭합니다. **[!UICONTROL 새 Portfolio]**.
+포트폴리오 영역에서 **[!UICONTROL 새 포트폴리오]**&#x200B;를 클릭합니다.
 
-![Portfolio 영역의 이미지 ](assets/create-portfolio-2.png)
+![포트폴리오 영역 이미지 ](assets/create-portfolio-2.png)
 
-포트폴리오 이름을 지정한 다음 을 클릭합니다. **[!UICONTROL 새 프로젝트]** 포트폴리오에 프로젝트를 추가합니다. 다음과 같이 다양한 방법으로 새 프로젝트를 만들 수 있습니다. **[!UICONTROL 프로젝트]** 영역입니다. 여기서 만드는 모든 새 프로젝트는 이 포트폴리오에 속하게 됩니다. 을(를) 클릭할 수도 있습니다 **[!UICONTROL 기존 프로젝트]** 목록에서 기존 프로젝트를 선택합니다.
+포트폴리오 이름을 지정한 다음 **[!UICONTROL 새 프로젝트]**&#x200B;를 클릭하여 포트폴리오에 프로젝트를 추가합니다. **[!UICONTROL 프로젝트]** 영역에서와 마찬가지로 다양한 방법으로 새 &#x200B;&#x200B;프로젝트를 만들 수 있습니다. 여기에서 생성하는 모든 새 프로젝트는 이 포트폴리오에 속하게 됩니다. **[!UICONTROL 기존 프로젝트]**&#x200B;를 클릭하여 목록에서 기존 프로젝트를 선택할 수도 있습니다.
 
-![새 프로젝트 메뉴의 이미지 ](assets/create-portfolio-3.png)
+![새 프로젝트 메뉴 이미지 ](assets/create-portfolio-3.png)
 
 ## 포트폴리오 내에서 프로그램 만들기
 
-다음 항목 선택 **[!UICONTROL 프로그램]** 탭을 클릭한 다음 을 클릭합니다. **[!UICONTROL 새 프로그램]** 이 포트폴리오 내에서 새 프로그램을 만들려면 다음을 클릭하십시오. **[!UICONTROL 기존 프로그램]** 다른 포트폴리오에서 기존 프로그램을 훔칩니다.
+**[!UICONTROL 프로그램]** 탭을 선택한 다음 **[!UICONTROL 새 프로그램]**&#x200B;을 클릭하여 이 포트폴리오 내에 새 프로그램을 만들거나 **[!UICONTROL 기존 프로그램]**&#x200B;을 클릭하여 다른 포트폴리오에서 기존 프로그램을 가져옵니다.
 
-![새 프로그램 메뉴의 이미지 ](assets/create-portfolio-4.png)
+![새 프로그램 메뉴 이미지 ](assets/create-portfolio-4.png)
 
 <!--
 Pro-tips graphic

@@ -12,7 +12,7 @@ level: Beginner
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 100%
 
@@ -53,6 +53,6 @@ ht-degree: 100%
 
 ![작업 제한 사항 열을 보여 주는 프로젝트 작업 목록](assets/planner-fund-task-constraint.png)
 
-[!UICONTROL 작업 제한 사항] 열이 포함된 사용자 정의 보기를 만들어 작업 목록에서 이 정보를 조회할 수 있습니다. 시작 일자부터 프로젝트를 계획한 경우, 작업에 [!UICONTROL 최대한 빨리] ([!UICONTROL ASAP]) 제한 사항이 적용되도록 합니다.
+[!UICONTROL 작업 제한 사항] 열이 포함된 사용자 정의 보기를 만들어 작업 목록에서 이 정보를 조회할 수 있습니다. 시작 일자부터 프로젝트를 계획한 경우, 작업에 [!UICONTROL 최대한 빨리]([!UICONTROL ASAP]) 제한 사항이 적용되도록 합니다.
 
 작업 제한 사항에 대한 자세한 내용은 [기간 유형 및 작업 제한 사항 이해 및 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)를 참조하십시오.

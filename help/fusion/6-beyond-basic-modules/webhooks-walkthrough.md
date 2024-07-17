@@ -12,7 +12,7 @@ exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 100%
 
@@ -60,6 +60,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 **과제**: 쉽게 접근할 수 있도록 업데이트가 이루어진 URL을 찾아 추가할 수 있습니까?
 
 
-## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
+## 자세히 알아보고 싶으신가요? 다음 자료를 참조하십시오.
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)

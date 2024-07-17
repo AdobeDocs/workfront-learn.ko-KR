@@ -12,7 +12,7 @@ exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
 
@@ -32,6 +32,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 
 
-## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
+## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)

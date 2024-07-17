@@ -12,7 +12,7 @@ exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 100%
 
@@ -44,6 +44,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 데이터 저장소는 데이터 웨어하우스 또는 로깅 용도로 설계되지 않았습니다. 데이터 저장소는 Workfront Fusion 외부에서 액세스할 수 없으며 데이터 저장소와의 상호 작용 중 대부분은 Workfront Fusion 시나리오를 통해 이루어집니다. 결과적으로 데이터 웨어하우스 및 로깅 사용 사례에 대해 예상되는 분석 또는 보고 도구에 데이터 저장소를 연결할 수 없습니다. 이와 같은 사용 사례에서 Workfront Fusion의 역할은 데이터(예: SQL, MariaDB)를 구성하고 저장하는 데 적합한 시스템을 채우는 것입니다.
 
-## 자세히 알아보고 싶으신가요? 다음을 권장합니다.
+## 자세히 알아보고 싶으신가요? 다음 자료를 참조하십시오.
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)

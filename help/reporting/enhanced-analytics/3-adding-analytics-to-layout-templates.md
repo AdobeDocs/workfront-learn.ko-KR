@@ -1,6 +1,6 @@
 ---
-title: 액세스 방법 [!UICONTROL 향상된 분석]
-description: 시스템 및 그룹 관리자가 액세스 권한을 부여하는 방법 알아보기 [!UICONTROL 향상된 분석] 레이아웃 템플릿을 통해.
+title: '[!UICONTROL 고급 Analytics] 액세스 방법'
+description: 시스템 및 그룹 관리자가 레이아웃 템플릿을 통해 [!UICONTROL 고급 Analytics]에 대한 액세스 권한을 부여하는 방법에 대해 알아봅니다.
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -16,18 +16,18 @@ doc-type: video
 source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
 
-# 향상된 Analytics 액세스 방법
+# 고급 Analytics 액세스 방법
 
-Workfront의 다른 기능과 마찬가지로 [!UICONTROL 향상된 분석] 기본 메뉴에서. 그러나 [!UICONTROL 분석] 기본적으로 기본 메뉴에 없습니다.
+대부분의 다른 Workfront 기능과 마찬가지로, 메인 메뉴에서 [!UICONTROL 고급 Analytics]에 액세스하려고 할 수 있습니다. 하지만 [!UICONTROL Analytics]는 기본적으로 메인 메뉴에서 제공되지 않습니다.
 
-![메인 메뉴의 이미지 ](assets/analytics-on-main-menu.png)
+![메인 메뉴 이미지 ](assets/analytics-on-main-menu.png)
 
-표시되지 않으면 시스템 또는 그룹 관리자가 추가해야 합니다. 레이아웃 템플릿에서 이 작업을 수행합니다. 아래 비디오에서는 방법을 설명합니다.
+여기에 표시되지 않으면 시스템 또는 그룹 관리자가 추가해야 합니다. 레이아웃 템플릿에서 Analytics를 추가하게 됩니다. 아래 비디오에서 그 방법을 설명합니다.
 
 
 ## 레이아웃 템플릿에 analytics 추가

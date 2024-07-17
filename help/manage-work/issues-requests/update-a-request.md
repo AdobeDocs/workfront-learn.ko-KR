@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: e2a8ab1d8139008c145f584c8c2181a082d1923b
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 71%
 이 비디오에서는 다음 방법을 배우게 됩니다.
 
 * 제출한 요청 찾기
-* 요약 패널에서 업데이트
-* 요청 페이지를 엽니다.
-* 에서 요청 업데이트 [!UICONTROL 업데이트] 패널
+* 요약 패널에서 업데이트 수행하기
+* 요청 페이지 열기
+* [!UICONTROL 업데이트] 패널에서 요청 업데이트하기
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
 
