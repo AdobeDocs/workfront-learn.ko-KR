@@ -11,9 +11,9 @@ last-substantial-update: 2024-02-28T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
-workflow-type: ht
-source-wordcount: '78'
+source-git-commit: 51d394ab53e2f704ccbcd088d688123fbc46fc13
+workflow-type: tm+mt
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -30,6 +30,7 @@ ht-degree: 100%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
+* [요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
 * [문제/요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [계획되지 않은 작업 처리](/help/manage-work/issues-requests/handle-unplanned-work.md)
 
