@@ -1,6 +1,6 @@
 ---
 title: 문제/요청을 프로젝트로 전환
-description: 요청에서 프로젝트로 전환을 시작하고, 적절한 프로젝트 템플릿을 선택하고, 전환을 완료하는 방법을 알아봅니다.
+description: 요청에서 프로젝트로의 전환을 시작하고, 적절한 프로젝트 템플릿을 선택하고, 전환을 완료하는 방법에 대해 알아봅니다.
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
 source-git-commit: 51d394ab53e2f704ccbcd088d688123fbc46fc13
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
