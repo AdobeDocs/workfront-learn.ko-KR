@@ -4,7 +4,7 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: 7f08765083adcc636f4f0241a5856b15fb9e92cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2404'
 ht-degree: 100%
 
@@ -141,7 +141,7 @@ ht-degree: 100%
       + [요청 업데이트](manage-work/issues-requests/update-a-request.md)
       + [문제/요청을 프로젝트로 전환](manage-work/issues-requests/create-a-project-from-a-request.md)
       + [문제/요청을 작업으로 전환](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [문제 보고](manage-work/issues-requests/report-on-issues.md)
+      + [문제 보고서](manage-work/issues-requests/report-on-issues.md)
 
    + 요청 대기열 {#request-queues}
       + [요청 대기열 이해](manage-work/request-queues/understand-request-queues.md)

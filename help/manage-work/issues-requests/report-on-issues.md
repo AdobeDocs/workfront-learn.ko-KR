@@ -1,6 +1,6 @@
 ---
-title: 문제 보고
-description: 진행 중 문제 및 전환 정보를 표시하는 보고서를 만드는 방법을 알아봅니다.
+title: 문제 보고서
+description: 미해결 문제와 전환 정보를 보여 주는 보고서를 만드는 방법에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,18 +13,18 @@ recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
 source-git-commit: 36b7f0a72be280fd46603443491ab8d83e4e41c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
-# 문제 보고
+# 문제 보고서
 
-이 비디오에서는 다음을 만드는 방법을 알아봅니다.
+이 비디오에서는 다음과 같은 항목을 만드는 방법을 알아봅니다.
 
-* 해결 중 오브젝트를 표시하는 문제 보고서
-* 전환된 문제 정보를 표시하는 프로젝트 보고서
+* 오브젝트 해결을 보여 주는 문제 보고서
+* 전환된 문제 정보를 보여 주는 프로젝트 보고서
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on)
