@@ -1,6 +1,6 @@
 ---
 title: 요청 대기열 이해
-description: 요청 대기열이 무엇인지, 요청 대기열을 통해 요청을 제출하는 방법 및 요청 대기열이 구성되는 방식에 대해 알아봅니다.
+description: 요청 대기열의 개요, 요청 대기열을 통해 요청을 제출하는 방법 및 요청 대기열이 구성되는 방식에 대해 알아봅니다.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -14,9 +14,9 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: 79365fbcd031ca3d65100574c8bef27929c8ffe6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 50%
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 요청 대기열이란
+* 요청 대기열 개요
 * 요청 대기열을 통해 요청을 제출하는 방법
 * 요청 대기열이 구성되는 방식
 
