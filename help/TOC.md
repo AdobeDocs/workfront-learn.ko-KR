@@ -3,10 +3,10 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 7f08765083adcc636f4f0241a5856b15fb9e92cf
-workflow-type: ht
-source-wordcount: '2404'
-ht-degree: 100%
+source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
+workflow-type: tm+mt
+source-wordcount: '2407'
+ht-degree: 99%
 
 ---
 
@@ -642,7 +642,8 @@ ht-degree: 100%
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [워크로드 밸런서](best-practices/workload-balancer-bp.md)
 
-
++ 경영진 {#workfront-for-executives}용 Workfront
+   + [경영진용 Workfront](workfront-for-executives/workfront-for-executives.md)
 
 
 
@@ -650,7 +651,6 @@ ht-degree: 100%
 + [스크럼 방법론은 무엇이며 어떤 방식입니까?](agile/what-is-the-scrum-methodology.md)
 + [Kanban 방법론은 무엇이며 어떤 방식입니까?](agile/what-is-the-kanban-methodology.md)
 + [애자일로 전환](agile/transitioning-to-agile.md)
-+ [경영진용 Workfront](workfront-for-executives/workfront-for-executives.md)
 + [요청 관리](manage-work/issues-requests/manage-incoming-requests.md)
 + [리소스 용량 차트 이해](reporting/enhanced-analytics/19-resource-capacity-chart.md)
 

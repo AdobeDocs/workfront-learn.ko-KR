@@ -2,9 +2,9 @@
 title: Workfront 튜토리얼
 description: Workfront 기능 및 설정을 더 잘 이해할 수 있도록 설계된 교육 비디오 및 문서 라이브러리입니다.  사용자와 사용자 조직이 Workfront를 성공적으로 사용하도록 도움이 되는 모범 사례, 선별된 연습 및 기타 리소스 컬렉션이 포함되어 있습니다.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
@@ -22,17 +22,6 @@ See other user landing pages to get ideas.
 
 -->
 
-<div id="whats-new-section">
-
-## 새로운 기능
-
-각 Workfront 제품 릴리스에 대한 튜토리얼의 최신 업데이트를 살펴보십시오. 최신 릴리스로 업데이트된 내용은 다음과 같습니다.
-
-* Workfront의 상단 탐색에서 즐겨찾기 및 최근 항목 아이콘이 분리되었습니다. <a href="/help/manage-work/projects/find-projects.md">프로젝트 찾기</a> 튜토리얼에서 간략한 요약을 확인할 수 있습니다.
-
-* 여러 오브젝트 유형과 함께 작동하도록 사용자 정의 양식을 구성합니다. <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">사용자 정의 만들기 및 공유</a> 튜토리얼에서 방법을 확인하십시오.
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
