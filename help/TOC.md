@@ -3,7 +3,7 @@ user-guide-description: Workfront 튜토리얼
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
+source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
 workflow-type: tm+mt
 source-wordcount: '2407'
 ht-degree: 99%
@@ -146,7 +146,7 @@ ht-degree: 99%
    + 요청 대기열 {#request-queues}
       + [요청 대기열 이해](manage-work/request-queues/understand-request-queues.md)
       + [요청 대기열 만들기](manage-work/request-queues/create-a-request-queue.md)
-      + [흐름 요청에 대한 설정 이해](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [요청 흐름에 대한 설정 이해](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [요청 흐름 만들기](manage-work/request-queues/create-a-request-flow.md)
       + [시스템 관리자 피드백 요청 대기열 만들기](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [요청 대기열에 대한 일반적인 질문에 대한 답변](manage-work/request-queues/request-queue-faq.md)

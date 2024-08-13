@@ -13,10 +13,10 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: e43f7f6a9c95f02b69104ef62337efa6bbc10b14
+source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 84%
+ht-degree: 76%
 
 ---
 
@@ -33,6 +33,6 @@ ht-degree: 84%
 ## 이 주제와 관련된 추천 튜토리얼
 
 * [요청 대기열 이해](/help/manage-work/request-queues/understand-request-queues.md)
-* [흐름 요청에 대한 설정 이해](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [요청 흐름에 대한 설정 이해](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [요청 흐름 만들기](/help/manage-work/request-queues/create-a-request-flow.md)
 
