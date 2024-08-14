@@ -1,6 +1,6 @@
 ---
 title: 요청 대기열 만들기
-description: 요청 대기열을 설정하고 대기열 세부 정보를 설정하는 방법에 대해 알아봅니다. 다음 단계에 따라 조직에서 작업 접수를 관리할 수 있습니다.
+description: 요청 대기열을 설정하고 대기열 세부 정보를 구성하는 방법에 대해 알아봅니다. 다음 단계에 따라 조직에서 작업 접수를 관리할 수 있습니다.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 76%
+ht-degree: 92%
 
 ---
 
