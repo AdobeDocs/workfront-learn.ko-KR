@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2407'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -634,7 +634,7 @@ ht-degree: 99%
    + [시나리오 플래너](best-practices/scenario-planner-bp.md)
    + [일정](best-practices/schedules-bp.md)
    + [상태](best-practices/statuses-bp.md)
-   + [시스템 성능 및 유지 관리 ](best-practices/system-performance-maintenance-bp.md)
+   + [시스템 성능 및 유지 관리](best-practices/system-performance-maintenance-bp.md)
    + [텍스트 모드 보고](best-practices/test-mode-reporting-bp.md)
    + [타임라인 계획 및 관리](best-practices/timeline-planning-management-bp.md)
    + [타임시트 및 로깅 시간](best-practices/timesheets-logging-time-bp.md)
@@ -642,7 +642,7 @@ ht-degree: 99%
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [워크로드 밸런서](best-practices/workload-balancer-bp.md)
 
-+ 경영진 {#workfront-for-executives}용 Workfront
++ 경영진용 Workfront {#workfront-for-executives}
    + [경영진용 Workfront](workfront-for-executives/workfront-for-executives.md)
 
 

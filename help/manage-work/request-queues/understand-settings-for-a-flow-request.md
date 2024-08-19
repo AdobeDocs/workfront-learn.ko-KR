@@ -1,6 +1,6 @@
 ---
 title: 요청 흐름에 대한 설정 이해
-description: 요청 흐름과 라우팅 규칙, 주제 그룹 및 대기열 주제를 사용하여 요청 흐름을 만드는 방법에 대해 알아봅니다.
+description: 요청 흐름에 대해 알아보고 라우팅 규칙, 주제 그룹, 대기열 주제를 사용하여 요청 흐름을 만드는 방법에 대해 알아봅니다.
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -14,9 +14,9 @@ last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
 source-git-commit: 0a0af5e441a09c20eb27e2cd31c7e2586403c984
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
