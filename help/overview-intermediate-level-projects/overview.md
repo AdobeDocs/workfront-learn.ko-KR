@@ -12,7 +12,7 @@ jira: KT-14120
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 15%
@@ -38,6 +38,6 @@ ht-degree: 15%
 
 ## 튜토리얼
 
-* [기간 유형 및 작업 제한 사항의 이해 및 관리](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-* [프로젝트 간 전임 작업 이해](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-* [고급 전임 작업](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+* [기간 유형 및 작업 제한 사항의 이해 및 관리](understand-and-manage-duration-types-and-task-constraints.md)
+* [프로젝트 간 전임 작업 이해](understand-cross-project-predecessors.md)
+* [고급 전임 작업](advanced-predecessors.md)
