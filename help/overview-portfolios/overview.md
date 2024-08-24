@@ -12,7 +12,7 @@ jira: KT-14120
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 19%
@@ -36,6 +36,6 @@ ht-degree: 19%
 
 ## 튜토리얼
 
-* [포트폴리오 이해](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-* [[!UICONTROL 비즈니스 사례] 이해](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-* [[!UICONTROL 포트폴리오 최적화 도구]를 사용하여 업무 우선 순위 지정 및 업무 관리](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+* [포트폴리오 이해](overview-of-adobe-workfront-portfolios.md)
+* [[!UICONTROL 비즈니스 사례] 이해](introduction-to-the-business-case.md)
+* [[!UICONTROL 포트폴리오 최적화 도구]를 사용하여 업무 우선 순위 지정 및 업무 관리](prioritize-and-manage-work-with-portfolios.md)

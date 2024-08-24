@@ -5,10 +5,10 @@ breadcrumb-title: Portfolio 개요
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 6ebba027798650f74c0abe3a7498c65c0a55dd68
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 32%
 
 ---
 
@@ -17,10 +17,11 @@ ht-degree: 0%
 # 관리자를 위한 프로젝트 재무 개요 {#project-finances-for-administrators}
 
 + [관리자를 위한 프로젝트 재무 개요](overview.md)
-+ [성능 지표 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics)
-+ [작업 매출 및 비용 기본값 설정](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults)
-+ [환율 설정](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates)
-+ [경비 유형 설정](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-expense-types)
-+ [재무 액세스 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access)
++ 관리자 {#project-finances-for-administrators}의 프로젝트 재무
+   + [성과 지표 이해](understand-performance-metrics.md)
+   + [작업 매출 및 비용 기본값 설정](set-up-task-revenue-and-cost-defaults.md)
+   + [환율 설정](set-up-exchange-rates.md)
+   + [경비 유형 설정](set-up-expense-types.md)
+   + [재무 액세스 이해](understand-financial-access.md)
 
 

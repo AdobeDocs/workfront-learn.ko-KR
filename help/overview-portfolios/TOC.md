@@ -5,10 +5,10 @@ breadcrumb-title: Portfolio 개요
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 6ebba027798650f74c0abe3a7498c65c0a55dd68
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 33%
 
 ---
 
@@ -17,7 +17,8 @@ ht-degree: 0%
 # Portfolio 개요 {#portfolios}
 
 + [Portfolio 개요](overview.md)
-+ [포트폴리오 이해](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/overview-of-adobe-workfront-portfolios)
-+ [비즈니스 사례 이해[!UICONTROL 2}](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case)]
-+ [작업의 우선 순위를 지정하고 관리하려면 [!UICONTROL Portfolio 최적화 도구]를 사용합니다](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios)
++ Portfolio 개요 {#portfolios}
+   + [포트폴리오 이해](overview-of-adobe-workfront-portfolios.md)
+   + [[!UICONTROL 비즈니스 사례] 이해](introduction-to-the-business-case.md)
+   + [[!UICONTROL 포트폴리오 최적화 도구]를 사용하여 업무 우선 순위 지정 및 업무 관리](prioritize-and-manage-work-with-portfolios.md)
 

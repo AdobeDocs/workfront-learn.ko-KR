@@ -12,7 +12,7 @@ jira: KT-13491
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 23%
@@ -37,8 +37,8 @@ Workfront에서 재무 설정을 원하는 시스템 또는 그룹 관리자.
 
 ## 튜토리얼
 
-* [성과 지표 이해](/help/manage-work/project-finances/understand-performance-metrics.md)
-* [작업 매출 및 비용 기본값 설정](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-* [환율 설정](/help/manage-work/project-finances/set-up-exchange-rates.md)
-* [경비 유형 설정](/help/manage-work/project-finances/set-up-expense-types.md)
-* [재무 액세스 이해](/help/manage-work/project-finances/understand-financial-access.md)
+* [성과 지표 이해](understand-performance-metrics.md)
+* [작업 매출 및 비용 기본값 설정](set-up-task-revenue-and-cost-defaults.md)
+* [환율 설정](set-up-exchange-rates.md)
+* [경비 유형 설정](set-up-expense-types.md)
+* [재무 액세스 이해](understand-financial-access.md)

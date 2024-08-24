@@ -12,7 +12,7 @@ jira: KT-13492
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 13%
@@ -38,6 +38,6 @@ Workfront에서 재무 정보를 추적하려는 사용자.
 
 ## 튜토리얼
 
-* [재무 업데이트 및 검토](/help/manage-work/project-finances/update-and-review-finances.md)
-* [재무 정보 찾기](/help/manage-work/project-finances/find-financial-information.md)
-* [여러 과금 요율 이해](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [재무 업데이트 및 검토](update-and-review-finances.md)
+* [재무 정보 찾기](find-financial-information.md)
+* [여러 과금 요율 이해](multiple-billing-rates.md)
