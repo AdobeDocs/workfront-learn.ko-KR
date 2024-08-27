@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: 2fba61a64bbf18a485a4cda08102cdb9da9a5d1b
+source-git-commit: dc444153581cf435917c6bc32e2272c60f3b3aea
 workflow-type: tm+mt
-source-wordcount: '2407'
-ht-degree: 100%
+source-wordcount: '2412'
+ht-degree: 99%
 
 ---
 
@@ -33,6 +33,7 @@ ht-degree: 100%
       + [문제 심각도 만들기 및 관리](/help/administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [문제 유형 및 용어 사용자 정의](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [전역 기본 문제의 환경 설정 구성](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+      + [비즈니스 규칙 만들기 및 관리](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
 
    + 레이아웃 템플릿 {#layout-templates}
       + [레이아웃 템플릿이란 무엇입니까?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
