@@ -2,14 +2,14 @@
 user-guide-title: 작업 관리 - 중간
 user-guide-description: 프로젝트 생성, 계획 및 관리에 대한 기본 사항을 학습한 후에는 Workfront을 최대한 활용하기 위해 알아야 할 몇 가지 사항이 더 있습니다.
 feature: Work Management
-breadcrumb-title: 프로젝트 관리자로서 작업 관리에 대한 이해 향상 개요
+breadcrumb-title: 작업 관리 - 중간
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 64%
 
 ---
 
@@ -49,11 +49,6 @@ ht-degree: 0%
       + [문제/요청을 프로젝트로 전환](create-a-project-from-a-request.md)
       + [문제/요청을 작업으로 전환](convert-issues-to-other-work-items.md)
       + [문제 보고서](report-on-issues.md)
-
-   + 프로젝트 타임라인 {#project-timelines}
-      + [프로젝트 타임라인 이해](understand-project-timelines.md)
-      + [일자 유형 및 진행 상태 이해](understand-task-dates-and-progress-status.md)
-      + [프로젝트 타임라인에서 진행 상황 추적](track-work-progress-from-the-project-timeline.md)
 
    + {#digging-deeper}을(를) 더 깊이 분석 중
       + [기간 유형 및 작업 제한 사항의 이해 및 관리](understand-and-manage-duration-types-and-task-constraints.md)

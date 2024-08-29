@@ -12,9 +12,9 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,7 @@ Workfront을 최대한 활용하는 방법에 대해 자세히 알아보십시�
 * [마일스톤 적용](apply-milestones.md) - 프로젝트에 마일스톤 경로를 적용하고 프로젝트 내의 마일스톤 단계로 주요 작업을 연결하는 방법에 대해 알아봅니다.
 * [마일스톤 보기](view-milestones.md) - Adobe Workfront 프로젝트에서 마일스톤을 보고 프로젝트 영역에서 마일스톤 보기를 사용하는 방법에 대해 알아봅니다.
 
+
 ## 문제 작업 방법
 
 문제가 있는 계획되지 않은 작업을 처리하고, 문제를 다른 작업 항목으로 전환하고, 문제 할당을 관리하고, 문제에 대해 보고하는 방법을 알아봅니다.
@@ -86,13 +87,6 @@ Workfront을 최대한 활용하는 방법에 대해 자세히 알아보십시�
 * [문제/요청을 작업으로 변환](convert-issues-to-other-work-items.md) - 문제를 작업으로 변환하는 방법에 대해 알아봅니다.
 * [문제에 대한 보고서](report-on-issues.md) - 해결 중인 개체를 표시하는 문제 보고서와 전환된 문제 정보를 표시하는 프로젝트 보고서를 만드는 방법에 대해 알아봅니다.
 
-## 프로젝트 타임라인
-
-프로젝트를 예약하고 진행 상황을 추적하는 방법에 대해 알아봅니다.
-
-* [프로젝트 타임라인 이해](understand-project-timelines.md) - 시작 또는 완료 날짜부터 프로젝트를 예약하는 방법을 알아봅니다. 그런 다음 기간, 전임 작업 및 작업 제한 사항이 프로젝트 계획에 어떤 영향을 미치는지 알아봅니다.
-* [날짜 유형 및 진행 상태 이해](understand-task-dates-and-progress-status.md) - 보기를 선택하여 Workfront의 다양한 날짜 유형을 비교하고 진행 상태 필드를 사용하는 방법을 알아봅니다.
-* [프로젝트 타임라인에서 진행 상황 추적](track-work-progress-from-the-project-timeline.md) - 완료율, 상태, 할당 및 작업 제한을 사용하여 프로젝트 타임라인에서 작업 진행 상황을 추적하는 방법에 대해 알아봅니다.
 
 ## 더 깊이 파고들기
 
