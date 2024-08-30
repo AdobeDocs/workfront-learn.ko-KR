@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 94%
 
 복사하려는 프로젝트로 이동하고 프로젝트 이름 옆에 있는 점 3개 메뉴를 클릭합니다. 그런 다음 ‘복사’를 선택합니다.
 
-![프로젝트 복사 메뉴 옵션](assets/copy-existing-01.png)
+![프로젝트 메뉴 옵션 복사](assets/copy-existing-01.png)
 
 ‘프로젝트 복사’ 창에서 제목과 상태를 변경할 수 있을 뿐만 아니라 할당, 문서 및 사용자 정의 데이터와 같이 프로젝트와 관련된 다양한 데이터 옵션을 지울 수 있습니다.
 
-![프로젝트 복사 옵션](assets/copy-existing-02.png)
+![프로젝트 옵션 복사](assets/copy-existing-02.png)
 
 ‘할당 지우기’를 선택하거나 상태를 ‘계획’으로 설정하면 프로젝트를 복사하더라도 복사 직후 작업 할당 알림을 보내지 않습니다.
