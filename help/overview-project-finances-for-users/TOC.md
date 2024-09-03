@@ -1,22 +1,22 @@
 ---
-user-guide-title: 사용자를 위한 프로젝트 재무 개요
-user-guide-description: 비용, 가치, 위험 및 조직 목표 정렬을 기준으로 현재 및 제안된 프로젝트의 우선 순위를 정하는 방법에 대해 알아봅니다.
-breadcrumb-title: 사용자를 위한 프로젝트 재무 개요
+user-guide-title: 사용자를 위한 프로젝트 재무
+user-guide-description: 프로젝트에 대한 재무 정보를 추적하고, 비용 및 수익 유형을 설정하고, 청구 요금을 재정의하는 방법을 알아봅니다. 이 튜토리얼은 프로젝트와 관련된 재무 데이터를 추적하는 사용자를 위해 설계되었습니다.
+breadcrumb-title: 사용자를 위한 프로젝트 재무
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 27%
+source-wordcount: '65'
+ht-degree: 47%
 
 ---
 
 
 
-# 사용자를 위한 프로젝트 재무 개요 {#project-finances-for-users}
+# 사용자를 위한 프로젝트 재무 {#project-finances-for-users}
 
-+ [사용자를 위한 프로젝트 재무 개요](overview.md)
++ [사용자를 위한 프로젝트 재무](overview.md)
 + 사용자를 위한 프로젝트 재무 {#project-finances-for-users}
    + [재무 업데이트 및 검토](update-and-review-finances.md)
    + [재무 정보 찾기](find-financial-information.md)

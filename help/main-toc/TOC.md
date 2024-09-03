@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: dc444153581cf435917c6bc32e2272c60f3b3aea
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '2412'
+source-wordcount: '2417'
 ht-degree: 99%
 
 ---
@@ -585,6 +585,12 @@ ht-degree: 99%
 
 + 애자일 {#agile}
 
+   + 애자일 작업 관리 소개 {#intro-to-agile}
+      + [애자일 사용의 이점](/help/agile/benefits-of-using-agile.md)
+      + [스크럼 방법론은 무엇이며 어떤 방식입니까?](/help/agile/what-is-the-scrum-methodology.md)
+      + [Kanban 방법론은 무엇이며 어떤 방식입니까?](/help/agile/what-is-the-kanban-methodology.md)
+      + [애자일로 전환](/help/agile/transitioning-to-agile.md)
+
    + 스크럼 {#scrum}
       + [스크럼 애자일 팀 만들기](/help/agile/create-a-scrum-agile-team.md)
       + [스크럼 팀으로 작업 관리](/help/agile/manage-work-scrum-team.md)
@@ -645,10 +651,7 @@ ht-degree: 99%
 
 
 
-+ [애자일 사용의 이점](/help/agile/benefits-of-using-agile.md)
-+ [스크럼 방법론은 무엇이며 어떤 방식입니까?](/help/agile/what-is-the-scrum-methodology.md)
-+ [Kanban 방법론은 무엇이며 어떤 방식입니까?](/help/agile/what-is-the-kanban-methodology.md)
-+ [애자일로 전환](/help/agile/transitioning-to-agile.md)
+
 + [요청 관리](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [리소스 용량 차트 이해](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
