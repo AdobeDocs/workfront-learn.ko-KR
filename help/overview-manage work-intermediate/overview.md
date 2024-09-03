@@ -12,7 +12,7 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%
@@ -52,7 +52,6 @@ Workfront을 최대한 활용하는 방법에 대해 자세히 알아보십시�
 * [프로젝트 템플릿 비활성화](deactivate-a-project-template.md) - 프로젝트 템플릿을 활성화하고 비활성화하는 방법에 대해 알아봅니다.
 * [프로젝트 템플릿에서 프로젝트 팀 편집](edit-the-project-team-in-a-project-template.md) - 템플릿 프로젝트 팀에 **비**&#x200B;명의 프로젝트 팀 구성원을 실수로 포함하지 않는 방법과 템플릿 프로젝트 팀을 편집하는 방법에 대해 알아봅니다.
 
-
 ## 승인 프로세스를 만들고 사용하는 방법
 
 승인 프로세스를 만들고 워크플로우에 첨부하고 디지털 작업을 검토하고 승인을 위임하는 방법을 알아봅니다.
@@ -64,7 +63,6 @@ Workfront을 최대한 활용하는 방법에 대해 자세히 알아보십시�
 * [업데이트 및 알림 이해](understand-updates-and-notifications.md) - 승인 요청에 대해 업데이트하고 알림을 찾는 방법에 대해 알아봅니다.
 * [작업, 문제 및 승인 위임](delegate-approvals.md) - 프로젝트, 작업, 문제 및 타임카드에 대한 승인을 다른 Adobe Workfront 사용자에게 위임하는 방법에 대해 알아봅니다.
 
-
 ## 이정표를 만들고 사용하는 방법
 
 마일스톤 경로를 만들고 작업에 마일스톤을 적용하고 마일스톤 보고서를 보는 방법에 대해 알아봅니다.
@@ -72,7 +70,6 @@ Workfront을 최대한 활용하는 방법에 대해 자세히 알아보십시�
 * [마일스톤 만들기](creating-milestones.md) - 마일스톤 경로가 무엇인지, 마일스톤 경로를 만드는 방법 및 프로젝트에 마일스톤 단계를 추가하는 방법에 대해 알아봅니다.
 * [마일스톤 적용](apply-milestones.md) - 프로젝트에 마일스톤 경로를 적용하고 프로젝트 내의 마일스톤 단계로 주요 작업을 연결하는 방법에 대해 알아봅니다.
 * [마일스톤 보기](view-milestones.md) - Adobe Workfront 프로젝트에서 마일스톤을 보고 프로젝트 영역에서 마일스톤 보기를 사용하는 방법에 대해 알아봅니다.
-
 
 ## 문제 작업 방법
 
@@ -86,7 +83,6 @@ Workfront을 최대한 활용하는 방법에 대해 자세히 알아보십시�
 * [문제/요청을 프로젝트로 전환](create-a-project-from-a-request.md) - 요청에서 프로젝트로 전환을 시작하고 적절한 프로젝트 템플릿을 선택하는 방법에 대해 알아봅니다.
 * [문제/요청을 작업으로 변환](convert-issues-to-other-work-items.md) - 문제를 작업으로 변환하는 방법에 대해 알아봅니다.
 * [문제에 대한 보고서](report-on-issues.md) - 해결 중인 개체를 표시하는 문제 보고서와 전환된 문제 정보를 표시하는 프로젝트 보고서를 만드는 방법에 대해 알아봅니다.
-
 
 ## 더 깊이 파고들기
 

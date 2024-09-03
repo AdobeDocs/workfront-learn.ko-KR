@@ -12,7 +12,7 @@ jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 4%
@@ -42,7 +42,6 @@ Adobe Workfront에서 프로젝트가 무엇인지, 프로젝트를 시작하고
 * [프로젝트를 만드는 네 가지 방법 알아보기](understand-other-ways-to-create-projects.md) - 템플릿에서 프로젝트를 만들거나, 처음부터 프로젝트를 만들거나, 기존 프로젝트를 복사하거나, [!DNL Microsoft Project] 파일을 가져오는 방법을 알아봅니다.
 * [프로젝트 세부 정보 채우기](fill-in-the-project-details.md) - Adobe Workfront에서 프로젝트를 만들 때 채우는 것이 권장되는 프로젝트 세부 정보 필드를 알아봅니다.
 * [프로젝트 페이지로 이동](navigate-the-project-page.md) - 프로젝트 세부 정보를 보는 방법, 작업 목록에 표시되는 정보, 문서를 업로드할 위치 및 업데이트 내역을 보는 방법에 대해 알아봅니다.
-
 
 ## 프로젝트 계획
 
@@ -76,7 +75,6 @@ Adobe Workfront에서 프로젝트가 무엇인지, 프로젝트를 시작하고
 * [프로젝트 타임라인에서 진행 상황 추적](track-work-progress-from-the-project-timeline.md) - 완료율, 상태, 할당 및 작업 제한을 사용하여 프로젝트 타임라인에서 작업 진행 상황을 추적하는 방법에 대해 알아봅니다.
 * [[!UICONTROL 간트] 보기](understand-the-gantt-view.md) 이해 - 프로젝트 [!UICONTROL 간트] 차트와 작업 [!UICONTROL 간트] 차트를 사용하는 방법을 알아봅니다.
 * [[!UICONTROL 보드] 보기 이해](understand-the-board-view.md) - 보드 보기를 찾을 위치와 사용 방법을 알아봅니다.
-
 
 ## 프로젝트 종료
 

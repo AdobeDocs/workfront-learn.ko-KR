@@ -1,23 +1,24 @@
 ---
-user-guide-title: 작업 관리 - 중간
+user-guide-title: 프로젝트 관리자로서 작업 관리에 대한 이해 향상 개요
 user-guide-description: 프로젝트 생성, 계획 및 관리에 대한 기본 사항을 학습한 후에는 Workfront을 최대한 활용하기 위해 알아야 할 몇 가지 사항이 더 있습니다.
 feature: Work Management
-breadcrumb-title: 작업 관리 - 중간
+breadcrumb-title: 프로젝트 관리자로서 작업 관리에 대한 이해 향상 개요
 solution: Workfront
 sub-product: Work Management
 index: y
 source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 64%
+source-wordcount: '216'
+ht-degree: 55%
 
 ---
 
 
-# 작업 관리 - 중간 {#manage-work-intermediate}
 
-+ [작업 관리 - 중간](overview.md)
-+ 작업 관리 - {#manage-work-intermediate} 중간
+# 프로젝트 관리자로서 작업 관리에 대한 이해 향상 개요 {#further-understanding-of-managing-work-as-a-project-manager}
+
++ [프로젝트 관리자로서 작업 관리에 대한 이해 향상 개요](overview.md)
++ 프로젝트 관리자 {#further-understanding-of-managing-work-as-a-project-manager}(으)로 작업 관리에 대한 자세한 이해
    + 프로젝트 템플릿 {#project-templates}
       + [프로젝트 템플릿 만들기 및 블루프린트에 대해 알아보기](create-a-project-template.md)
       + [템플릿에서 직접 프로젝트 만들기](create-a-project-directly-from-a-template.md)
@@ -49,7 +50,9 @@ ht-degree: 64%
       + [문제/요청을 작업으로 전환](convert-issues-to-other-work-items.md)
       + [문제 보고서](report-on-issues.md)
 
-   + {#digging-deeper}을(를) 더 깊이 분석 중
-      + [기간 유형 및 작업 제한 사항의 이해 및 관리](understand-and-manage-duration-types-and-task-constraints.md)
-      + [프로젝트 간 전임 작업 이해](understand-cross-project-predecessors.md)
-      + [고급 전임 작업](advanced-predecessors.md)
+   + 프로젝트 타임라인 {#project-timelines}
+      + [프로젝트 타임라인 이해](understand-project-timelines.md)
+      + [일자 유형 및 진행 상태 이해](understand-task-dates-and-progress-status.md)
+      + [프로젝트 타임라인에서 진행 상황 추적](track-work-progress-from-the-project-timeline.md)
+
+
