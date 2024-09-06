@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10913
 exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 1275ca2f30453df06cfcf9944798a1c89111a6de
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 100%
@@ -111,3 +111,4 @@ ht-degree: 100%
 **이유**
 
 레이아웃 템플릿을 만들 때 가급적 팀, 그룹, 동일한 작업 역할을 할당받은 사람들 등 중에서 대부분의 요구를 충족시키는 방식으로 템플릿을 만드십시오. 레이아웃 템플릿이 적으면 시스템 및 그룹 관리자가 수행해야 하는 유지 관리도 적습니다.
+
