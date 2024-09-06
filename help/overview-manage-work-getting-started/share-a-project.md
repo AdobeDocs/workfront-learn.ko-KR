@@ -12,12 +12,14 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10148
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: ce6c65d1-d017-4b0e-b4b5-1a0fa40cfec5
+source-git-commit: 42a643d6d4c27d3207bc66681454dff420546715
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 100%
 
 ---
+
 
 # 프로젝트 공유
 
@@ -37,4 +39,3 @@ ht-degree: 0%
 * [프로젝트 찾기](/help/manage-work/projects/find-projects.md)
 * [프로젝트 팀 이해](/help/manage-work/projects/understand-the-project-team.md)
 * [프로젝트 커뮤니케이션 이해](/help/manage-work/projects/understand-project-communication.md)
-
