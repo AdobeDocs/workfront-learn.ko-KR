@@ -14,7 +14,7 @@ jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
 source-git-commit: bb8afb53feb6dadcb5c561df5dbcbdd113669165
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
 ht-degree: 100%
 
@@ -37,7 +37,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
-비디오에 사용되는 **관리팀 피드백 보고서**&#x200B;를 만드는 방법을 알아보려면 [작업 보고서 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=ko-KR) 튜토리얼을 참조하고 해당 비디오에 따라 **관리팀 피드백 보고서 만들기** 활동을 찾습니다.
+비디오에 사용되는 **관리팀 피드백 보고서**&#x200B;를 만드는 방법을 알아보려면 [작업 보고서 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=ko) 튜토리얼을 참조하고 해당 비디오에 따라 **관리팀 피드백 보고서 만들기** 활동을 찾습니다.
 
 사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 튜토리얼을 참조하십시오.
 
