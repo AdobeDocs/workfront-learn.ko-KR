@@ -9,10 +9,10 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: e9a4f2bcd39e2598ff540bb4f300e891e817e939
+source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
 workflow-type: tm+mt
-source-wordcount: '683'
-ht-degree: 50%
+source-wordcount: '709'
+ht-degree: 48%
 
 ---
 
@@ -49,6 +49,10 @@ ht-degree: 50%
 **요청 사용자 정의 양식에서 프로젝트 사용자 정의 양식으로 정보를 전송할 수 있습니까?**
 
 예. 사용자 정의 양식을 만들 때 [!UICONTROL 프로젝트]와 [!UICONTROL 문제] 모두 오브젝트 유형으로 선택하십시오. 문제 오브젝트 유형을 포함하도록 프로젝트 사용자 정의 양식을 편집하거나 그 반대로 편집할 수도 있습니다.
+
+![사용자 정의 양식을 만들 때 2개의 개체 형식을 선택하는 방법을 보여 주는 이미지](assets/faq-image-1.png)
+
+![사용자 정의 양식을 편집할 때 2개의 개체 유형을 선택하는 방법을 보여 주는 이미지](assets/faq-image-2.png)
 
 요청에 사용자 정의 양식을 첨부하십시오. 요청을 프로젝트로 전환하면 사용자 정의 양식이 새 프로젝트에 자동으로 첨부되고, 모든 필드에 포함된 값이 요청 및 프로젝트 사용자 정의 양식 모두에 나타납니다.
 
