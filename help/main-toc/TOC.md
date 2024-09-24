@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
+source-git-commit: b0114985964736fb7bb234c581cb56930714915c
 workflow-type: tm+mt
-source-wordcount: '2417'
+source-wordcount: '2420'
 ht-degree: 99%
 
 ---
@@ -155,7 +155,7 @@ ht-degree: 99%
       + [[!UICONTROL 포트폴리오 최적화 도구]를 사용하여 업무 우선 순위 지정 및 업무 관리](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 승인 프로세스 및 마일스톤 경로 {#approval-processes-and-milestone-paths}
-      + [일회용 승인 프로세스 만들기](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [글로벌 및 일회용 승인 프로세스 만들기](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [기존 승인 프로세스 첨부 및 편집](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [디지털 작업 검토 및 승인](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [작업, 문제 및 승인 위임](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
