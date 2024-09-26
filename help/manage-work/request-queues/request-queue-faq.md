@@ -10,9 +10,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '709'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -50,9 +50,9 @@ ht-degree: 96%
 
 예. 사용자 정의 양식을 만들 때 [!UICONTROL 프로젝트]와 [!UICONTROL 문제] 모두 오브젝트 유형으로 선택하십시오. 프로젝트 사용자 정의 양식을 편집하여 문제 오브젝트 유형을 포함시킬 수 있으며, 그 반대의 경우도 가능합니다.
 
-![사용자 정의 양식을 만들 때 2개의 개체 형식을 선택하는 방법을 보여 주는 이미지](assets/faq-image-1.png)
+![사용자 정의 양식을 만들 때 2개의 오브젝트 유형을 선택하는 방법을 보여 주는 이미지](assets/faq-image-1.png)
 
-![사용자 정의 양식을 편집할 때 2개의 개체 유형을 선택하는 방법을 보여 주는 이미지](assets/faq-image-2.png)
+![사용자 정의 양식을 편집할 때 2개의 오브젝트 유형을 선택하는 방법을 보여 주는 이미지](assets/faq-image-2.png)
 
 요청에 사용자 정의 양식을 첨부하십시오. 요청을 프로젝트로 전환하면 사용자 정의 양식이 새 프로젝트에 자동으로 첨부되고, 모든 필드에 포함된 값이 요청 및 프로젝트 사용자 정의 양식 모두에 나타납니다.
 
