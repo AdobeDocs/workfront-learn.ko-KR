@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 95%
 
 ---
 
@@ -46,6 +47,11 @@ ht-degree: 100%
 ## 작업 - “내 부분 완료”로 표시한 작업 필터링
 
 다음 텍스트 모드는 사용자가 “내 부분 완료”라고 표시한 작업을 제외합니다. 작업 필터를 만들고 원하는 필터 규칙을 추가한 다음, 텍스트 모드로 전환하고 필터에 표시되는 텍스트 모드 뒤에 아래 코드를 붙여넣기만 하면 됩니다.
+
+
+>[!WARNING]
+>
+> 이는 캘린더 필터에서 사용하기 위한 것이 아닙니다.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -85,6 +91,10 @@ predecessorsMM:projectID_Mod=ne
 ## 작업 - 다른 사람에게 할당한 모든 작업 표시
 
 원하는 필터로 작업 보고서를 만든 다음, 필터 탭으로 이동하여 텍스트 모드로 전환을 클릭합니다. 이미 있는 코드에 다음 코드를 추가합니다.
+
+>[!WARNING]
+> 
+> 이는 캘린더 필터에서 사용하기 위한 것이 아닙니다.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN

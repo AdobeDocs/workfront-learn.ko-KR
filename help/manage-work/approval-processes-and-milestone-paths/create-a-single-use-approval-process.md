@@ -13,9 +13,9 @@ last-substantial-update: 2024-09-24T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: b0114985964736fb7bb234c581cb56930714915c
-workflow-type: ht
-source-wordcount: '447'
+source-git-commit: bd743add8bad572a638d4cd0999aeefe1fb3bfc8
+workflow-type: tm+mt
+source-wordcount: '441'
 ht-degree: 100%
 
 ---
@@ -54,7 +54,6 @@ ht-degree: 100%
 ## 이 주제와 관련된 추천 튜토리얼
 
 * [작업, 문제 및 승인 위임](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [기존 승인 프로세스 첨부 및 편집](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
 * [그룹별 승인 프로세스 이해](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [요청 흐름 만들기](/help/manage-work/request-queues/create-a-request-flow.md)
 
