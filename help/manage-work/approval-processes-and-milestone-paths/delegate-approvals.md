@@ -1,6 +1,6 @@
 ---
 title: 작업, 문제 및 승인 위임
-description: 작업 및 문제 할당, 프로젝트, 작업 및 문제에 대한 승인을 다른 Workfront 사용자에게 위임하는 방법에 대해 알아봅니다.
+description: 다른 Workfront 사용자에게 작업을 위임하고 문제를 할당하며 프로젝트, 작업 및 문제 대한 승인을 위임하는 방법에 대해 알아봅니다.
 activity: use
 feature: Approvals
 type: Tutorial
@@ -14,15 +14,15 @@ jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
 source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 46%
+ht-degree: 100%
 
 ---
 
 # 작업, 문제 및 승인 위임
 
-작업 및 문제 할당, 프로젝트, 작업 및 문제에 대한 승인을 다른 Workfront 사용자에게 위임하는 방법에 대해 알아봅니다.
+다른 Workfront 사용자에게 작업을 위임하고 문제를 할당하며 프로젝트, 작업 및 문제 대한 승인을 위임하는 방법에 대해 알아봅니다.
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
 
