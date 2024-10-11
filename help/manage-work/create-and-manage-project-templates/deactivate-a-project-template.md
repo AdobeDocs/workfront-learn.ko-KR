@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2024-01-09T00:00:00Z
+recommendations: noDisplay,noCatalog
 team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
@@ -31,3 +32,9 @@ ht-degree: 100%
 ## 프로젝트 템플릿의 활성 상태를 확인 및 편집하기 위해 사용자 정의 보기를 만드는 방법을 알아봅니다.
 
 활성 상태 열이 있는 프로젝트 템플릿 보기를 만들려면 [기본 보기 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ko-KR)에서 **프로젝트 템플릿 활성 상태 보기 활동**&#x200B;을 참조하십시오.
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [프로젝트 템플릿 만들기 및 블루프린트에 대해 알아보기](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [프로젝트 템플릿 공유](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [프로젝트 템플릿에서 프로젝트 팀 편집](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

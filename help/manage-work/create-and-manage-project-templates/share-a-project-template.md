@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 템플릿 공유
-description: 프로젝트 템플릿과 템플릿에서 만든 프로젝트를 공유하는 방법을 알아봅니다.
+description: 프로젝트 템플릿을 공유하는 방법 및 템플릿에서 만든 프로젝트를 공유하는 방법에 대해 알아봅니다.
 activity: use
 feature: Work Management
 thumbnail: 335211.jpeg
@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+recommendations: noDisplay,noCatalog
 jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 100%
+source-wordcount: '77'
+ht-degree: 79%
 
 ---
 
@@ -26,3 +27,11 @@ ht-degree: 100%
 * 템플릿을 사용하여 만든 프로젝트 공유
 
 >[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on)
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [프로젝트 템플릿 만들기 및 블루프린트에 대해 알아보기](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [템플릿에서 직접 프로젝트 만들기](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [기존 프로젝트 복사](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [프로젝트 템플릿 비활성화](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [프로젝트 템플릿에서 프로젝트 팀 편집](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
