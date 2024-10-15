@@ -1,6 +1,6 @@
 ---
 title: 마일스톤 보기
-description: 프로젝트에서 마일스톤을 보는 방법과 [!UICONTROL 프로젝트] 영역에서 마일스톤 보기를 사용하는 방법에 대해 알아봅니다.
+description: 프로젝트에서 마일스톤을 보고 [!UICONTROL 프로젝트] 영역에서 마일스톤 보기를 사용하는 방법에 대해 알아봅니다.
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg
@@ -14,9 +14,9 @@ jira: KT-8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
 source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 63%
 이 비디오에서는 다음 방법을 배우게 됩니다.
 
 * 특정 프로젝트의 마일스톤 보기
-* 프로젝트 목록에서 마일스톤 보기 읽기
+* 프로젝트 목록에서 마일스톤 보기에 대해 알아보기
 
 >[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on)
 

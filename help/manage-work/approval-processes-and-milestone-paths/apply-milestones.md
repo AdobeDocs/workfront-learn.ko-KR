@@ -1,6 +1,6 @@
 ---
 title: 마일스톤 적용
-description: 프로젝트에 마일스톤 경로를 적용하고 프로젝트 내의 마일스톤 단계로 주요 작업을 연결하는 방법에 대해 알아봅니다.
+description: 프로젝트에 마일스톤 경로를 적용하고 주요 작업을 프로젝트 내의 마일스톤 단계로 연결하는 방법에 대해 알아봅니다.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -14,9 +14,9 @@ jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
 source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -38,4 +38,4 @@ ht-degree: 68%
 
 * [마일스톤 보기](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [마일스톤 만들기](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [기본 보기 만들기의 마일스톤 보기 활동](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [기본 보기 만들기에서 마일스톤 보기 활동](/help/reporting/basic-reporting/create-a-basic-view.md)
