@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
+source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
 workflow-type: tm+mt
-source-wordcount: '2414'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -301,7 +301,6 @@ ht-degree: 99%
 
 + Workfront Goals {#workfront-goals}
    + 조직의 비전 수립 {#establish-a-vision-and-strategy}
-      + [Workfront Goals의 비전 이해](/help/workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
       + [Workfront Goals의 방식 이해](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
       + [Workfront Goals가 근무 주기에 어떻게 적합한지 이해](/help/workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
       + [조직의 비전 및 전략 수립](/help/workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
