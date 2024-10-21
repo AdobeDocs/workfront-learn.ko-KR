@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 템플릿 공유
-description: 프로젝트 템플릿을 공유하는 방법 및 템플릿에서 만든 프로젝트를 공유하는 방법에 대해 알아봅니다.
+description: 프로젝트 템플릿을 공유하는 방법과 템플릿에서 만든 프로젝트를 공유하는 방법에 대해 알아봅니다.
 activity: use
 feature: Work Management
 thumbnail: 335211.jpeg
@@ -13,9 +13,9 @@ jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
 source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
