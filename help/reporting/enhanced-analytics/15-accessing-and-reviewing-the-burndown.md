@@ -1,6 +1,6 @@
 ---
 title: 번다운 차트 액세스 및 검토 이해
-description: '[!UICONTROL 고급 Analytics]에서 번다운 차트에 액세스하고 Workfront에서 남은 시간, 프로젝트 상태 및 프로젝트 속도 간의 관계를 이해하는 방법을 알아봅니다.'
+description: 번다운 차트에 액세스하고 [!UICONTROL 향상된 분석]에서 남은 시간, 프로젝트 상태 및 프로젝트 속도 간의 관계를 이해하는 방법에 대해 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -12,10 +12,10 @@ jira: KT-8734
 recommendations: noDisplay,noCatalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 

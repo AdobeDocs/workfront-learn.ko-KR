@@ -1,6 +1,6 @@
 ---
 title: 팀 차트별 활동 이해
-description: Workfront에서 [!UICONTROL 고급 Analytics]의 팀별 활동 차트를 통해 조직의 홈 팀이 시간을 보내는 방법을 이해할 수 있습니다.
+description: '[!UICONTROL 향상된 분석]의 팀별 활동 차트를 통해 조직의 홈 팀이 Workfront에서 어떻게 시간을 보내는지 이해할 수 있습니다.'
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10045
 recommendations: noDisplay,noCatalog
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '314'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 탐색 및 검토 이해
-description: '[!UICONTROL 고급 Analytics]에서 플라이트 플랜 차트를 읽는 방법을 알아봅니다.'
+description: '[!UICONTROL 향상된 분석]에서 비행 계획 차트를 읽는 방법을 알아봅니다.'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -12,10 +12,10 @@ jira: KT-8729
 recommendations: noDisplay,noCatalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '459'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 

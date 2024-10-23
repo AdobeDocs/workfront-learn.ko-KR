@@ -1,6 +1,6 @@
 ---
 title: 날짜 범위 및 일정 이해
-description: '[!UICONTROL 고급 Analytics]에서 캘린더 위젯을 사용하여 날짜 범위를 지정합니다. 일정은 차트 내에 생성됩니다.'
+description: '[!UICONTROL 향상된 분석]에서 날짜 범위는 달력 위젯을 사용하여 지정됩니다. 일정은 차트 내에 생성됩니다.'
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '315'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 팀 역량 이해
-description: 홈 팀 할당이 초과 또는 미달되었을 경우 [!UICONTROL 고급 Analytics]의 팀 역량 차트가 어떻게 표시되는지 알아봅니다.
+description: 홈 팀이 초과 할당되거나 과소 할당된 경우 [!UICONTROL 향상된 분석]의 팀 용량 차트가 어떻게 표시되는지 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 

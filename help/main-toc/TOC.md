@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2408'
+ht-degree: 99%
 
 ---
 
@@ -236,10 +236,10 @@ ht-degree: 0%
       + [추가 캘린더 보고서 옵션 이해](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [캘린더 보고서를 만들 차례](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + 고급 Analytics {#enhanced-analytics}
-      + [[!UICONTROL 고급 Analytics]에 대한 제품과 함께 하는 순간](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-      + [[!UICONTROL 고급 Analytics] 시작하기](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [[!UICONTROL 고급 Analytics] 액세스 방법](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+   + 향상된 분석 {#enhanced-analytics}
+      + [[!UICONTROL 향상된 분석]에 대한 제품 관련 잠시](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
+      + [[!UICONTROL 향상된 분석] 시작](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
+      + [[!UICONTROL 향상된 분석]에 액세스하는 방법](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [기본 탐색 이해](/help/reporting/enhanced-analytics/4-basic-navigation.md)
       + [작업 및 사용자 차트 이해](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [필터 이해](/help/reporting/enhanced-analytics/6-filters-overview.md)

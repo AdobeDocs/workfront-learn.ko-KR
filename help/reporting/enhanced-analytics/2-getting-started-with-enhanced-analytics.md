@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL 고급 Analytics] 시작하기'
+title: '[!UICONTROL 향상된 분석] 시작'
 description: 고급 분석을 통해 Workfront에서 팀과 프로젝트의 진행 사항을 표시하도록 Workfront에서 업데이트해야 할 가장 중요한 필드에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ level: Beginner
 jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
-# [!UICONTROL 고급 Analytics] 시작하기
+# [!UICONTROL 향상된 분석] 시작
 
 고급 분석을 통해 Workfront에서 팀과 프로젝트의 진행 사항을 표시하고, 향후 프로젝트를 계획하는 데 도움이 될 수 있는 이전 프로젝트에 발생한 상황을 보여 줄 수 있습니다.
 

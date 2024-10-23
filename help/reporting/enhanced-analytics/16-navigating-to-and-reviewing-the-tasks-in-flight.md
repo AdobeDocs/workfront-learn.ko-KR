@@ -1,6 +1,6 @@
 ---
 title: 전송 중인 작업 검토
-description: '[!UICONTROL 고급 Analytics]에서 전송 중인 작업 차트에 액세스하는 방법과 프로젝트에서 완료되지 않은 작업을 빠르게 확인하는 방법을 알아봅니다.'
+description: 진행 중인 작업 차트에 액세스하는 방법과 프로젝트에서 완료되지 않은 작업을 빠르게 확인하는 방법을 알아봅니다. 모든 작업은 [!UICONTROL 향상된 분석]에서 수행됩니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -12,10 +12,10 @@ jira: KT-8735
 recommendations: noDisplay,noCatalog
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 필터 이해
-description: '[!UICONTROL 고급 Analytics]에서 일반 프로젝트 필드를 기반으로 필터를 추가하는 방법과 사용자 정의 양식을 사용하여 필터를 추가하는 방법을 알아봅니다.'
+description: '[!UICONTROL 향상된 분석]에서 일반 프로젝트 필드를 기반으로 필터를 추가하는 방법과 사용자 정의 양식을 사용하여 필터를 추가하는 방법을 알아봅니다.'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png
@@ -12,10 +12,10 @@ jira: KT-8721
 recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '264'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
