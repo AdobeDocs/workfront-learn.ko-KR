@@ -11,12 +11,12 @@ jira: KT-8887
 exl-id: 42327448-227b-428f-93aa-6039db1291e5
 doc-type: video
 source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '34'
+ht-degree: 100%
 
 ---
 
 # Workfront Goals의 비전 이해
 
-이 비디오는 제거되었습니다. 시작하려면 [Workfront 목표 작동 방식 이해](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)(으)로 이동하십시오.
+이 비디오는 제거되었습니다. 시작하려면 [Workfront Goals의 작동 방식 이해하기](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)로 이동하십시오.
