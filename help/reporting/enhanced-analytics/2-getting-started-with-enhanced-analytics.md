@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL 향상된 분석] 시작'
-description: 고급 분석을 통해 Workfront에서 팀과 프로젝트의 진행 사항을 표시하도록 Workfront에서 업데이트해야 할 가장 중요한 필드에 대해 알아봅니다.
+title: '[!UICONTROL 향상된 분석] 시작하기'
+description: 향상된 분석을 통해 Workfront에서 팀과 프로젝트의 진행 사항을 표시하도록 Workfront에서 업데이트해야 할 가장 중요한 필드에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards,Get Started with Workfront
@@ -12,19 +12,19 @@ jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL 향상된 분석] 시작
+# [!UICONTROL 향상된 분석] 시작하기
 
-고급 분석을 통해 Workfront에서 팀과 프로젝트의 진행 사항을 표시하고, 향후 프로젝트를 계획하는 데 도움이 될 수 있는 이전 프로젝트에 발생한 상황을 보여 줄 수 있습니다.
+향상된 분석을 통해 Workfront에서 팀과 프로젝트의 진행 사항을 표시하고, 향후 프로젝트를 계획하는 데 도움이 될 수 있는 이전 프로젝트에 발생한 상황을 보여 줄 수 있습니다.
 
 ## Analytics 전제 조건
 
-Workfront의 고급 분석 기능을 최대한 활용하려면 팀이 최대한 정확하게 데이터를 입력하고 특정 필드를 업데이트하는지 확인해야 합니다.
+Workfront의 향상된 분석 기능을 최대한 활용하려면 팀이 최대한 정확하게 데이터를 입력하고 특정 필드를 업데이트하는지 확인해야 합니다.
 
 Analytics에서 “팀”이라는 용어는 “홈 팀”을 의미합니다. Workfront 사용자는 여러 팀에 속할 수 있으나, 하나의 홈 팀에만 속할 수 있습니다. 구성원 차트에 사용되는 팀은 해당 팀을 홈 팀으로 지정한 사용자로만 구성됩니다.
 

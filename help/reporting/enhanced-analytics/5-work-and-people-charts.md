@@ -1,6 +1,6 @@
 ---
 title: 작업 및 사용자 차트 이해
-description: '[!UICONTROL 향상된 분석]에서 작업 차트는 프로젝트 및 작업 관점의 활동을 보여 주고 사람 차트는 홈 팀의 관점에서 활동을 보여 줍니다.'
+description: '[!UICONTROL 향상된 분석]에서 “작업” 차트는 프로젝트 및 작업 관점에서 활동을 보여 주고 “사용자” 차트는 홈 팀의 관점에서 활동을 보여 줍니다.'
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '188'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 

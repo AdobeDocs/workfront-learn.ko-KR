@@ -1,6 +1,6 @@
 ---
 title: 전송 중인 작업 검토
-description: 진행 중인 작업 차트에 액세스하는 방법과 프로젝트에서 완료되지 않은 작업을 빠르게 확인하는 방법을 알아봅니다. 모든 작업은 [!UICONTROL 향상된 분석]에서 수행됩니다.
+description: '[!UICONTROL 향상된 분석]에서 전송 중인 작업 차트에 액세스하는 방법과 프로젝트에서 완료되지 않은 작업을 빠르게 확인하는 방법을 알아봅니다.'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '246'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 89%
 * 작업 완료에 대한 근접치.
 * 특정 작업에 대해 이야기해야 하는 사람.
 
-![아래 글머리 기호에 설명된 영역에 숫자가 있는 전송 중인 작업 차트를 보여 주는 이미지](assets/section-2-11.png)
+![An image showing a tasks in flight chart with numbers on areas described in the bullets below](assets/section-2-11.png)
 
 차트에서 다음과 같은 사항을 조회할 수 있습니다.
 

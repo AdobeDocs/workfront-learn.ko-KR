@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 탐색 및 검토 이해
-description: '[!UICONTROL 향상된 분석]에서 비행 계획 차트를 읽는 방법을 알아봅니다.'
+description: '[!UICONTROL 향상된 분석]에서 플라이트 플랜 차트를 읽는 방법을 알아봅니다.'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '459'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 97%
 
 ## 플라이트 플랜 차트
 
-![플라이트 플랜 차트와 그 아래에 글머리 기호와 일치하는 숫자가 있는 이미지](assets/section-2-1.png)
+![An image of a flight plan chart with numbers matching bullets below](assets/section-2-1.png)
 
 차트에는 다음이 표시됩니다.
 
@@ -41,7 +41,7 @@ ht-degree: 97%
 1. 주황색 선은 프로젝트가 ‘위험 상태’ 상태임을 나타냅니다.
 1. 빨간색 선은 프로젝트가 ‘문제 발생’ 상태임을 나타냅니다.
 
-프로젝트에 대한 이 정보를 보면 다음을 결정하는 데 도움이 됩니다.
+프로젝트에 대한 이 정보를 확인하면 다음과 같은 사항을 결정하는 데 도움이 됩니다.
 
 * 계획된 완료 일자를 초과하여 프로젝트가 연장되도록 하는 이벤트.
 * 프로젝트에 문제가 발생하기 시작하는 시점.
@@ -53,7 +53,7 @@ ht-degree: 97%
 
 프로젝트 상태는 프로젝트 진행 현황을 시각적으로 표시한 것입니다. Workfront에서는 프로젝트 내 작업의 진행 상태에 따라 상태를 결정합니다.
 
-![가능한 진행 상태의 이미지](assets/section-2-2.png)
+![An image of possible progress statuses](assets/section-2-2.png)
 
 프로젝트 상태는 다음과 같이 설정될 수 있습니다.
 
@@ -62,7 +62,7 @@ ht-degree: 97%
 
 Workfront에서는 상태 유형을 ‘진행 상태’로 설정하여 작업 진행 상황을 기반으로 프로젝트의 실제 진행 상황을 명확하게 표시할 것을 권장합니다.
 
-![가능한 진행 상태의 이미지](assets/section-2-3.png)
+![An image of possible progress statuses](assets/section-2-3.png)
 
 ‘진행 상태’로 설정하면 프로젝트 상태는 다음과 같을 수 있습니다.
 
@@ -72,4 +72,4 @@ Workfront에서는 상태 유형을 ‘진행 상태’로 설정하여 작업 �
 
 >[!NOTE]
 >
->환경에 맞게 상태를 사용자 정의할 수 있으므로 옵션이 세 가지 이상이거나 옵션의 이름이 위와 다를 수 있습니다. 상태 사용자 정의에 대한 자세한 내용은 [사용자 정의 상태 만들기 또는 편집](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=ko-KR) 문서를 참조하십시오.
+>환경에 맞게 상태를 사용자 정의할 수 있으므로 옵션이 세 가지 이상이거나 옵션의 이름이 위와 다를 수 있습니다. 상태 사용자 정의에 대한 자세한 내용은 [사용자 정의 상태 만들기 또는 편집](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=ko) 문서를 참조하십시오.

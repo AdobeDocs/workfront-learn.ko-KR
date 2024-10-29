@@ -1,6 +1,6 @@
 ---
 title: 번다운 차트 액세스 및 검토 이해
-description: 번다운 차트에 액세스하고 [!UICONTROL 향상된 분석]에서 남은 시간, 프로젝트 상태 및 프로젝트 속도 간의 관계를 이해하는 방법에 대해 알아봅니다.
+description: '[!UICONTROL 향상된 분석]에서 번다운 차트에 액세스하고 Workfront에서 남은 시간, 프로젝트 상태 및 프로젝트 속도 간의 관계를 이해하는 방법을 알아봅니다.'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '293'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 92%
 * 들어오는 문제(계획되지 않은 작업)가 계획된 작업에 미친 영향.
 * 프로젝트가 계획된 완료 일자를 초과하도록 유발한 이벤트.
 
-![아래 글머리 기호에 설명된 영역에 숫자가 있는 번다운 차트를 보여 주는 이미지](assets/section-2-9.png)
+![An image showing a burndown chart with numbers on areas described in the bullets below](assets/section-2-9.png)
 
 차트에서 다음과 같은 사항을 조회할 수 있습니다.
 

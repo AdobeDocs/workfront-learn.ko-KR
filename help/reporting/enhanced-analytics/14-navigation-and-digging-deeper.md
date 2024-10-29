@@ -1,6 +1,6 @@
 ---
 title: 탐색에 대해 자세히 알아보기
-description: 작업자가 [!UICONTROL 향상된 분석]에서 각 프로젝트에 얼마나 많은 시간을 할애하고 있는지 빠르게 확인하는 방법에 대해 알아봅니다.
+description: '[!UICONTROL 향상된 분석]에서 작업자가 각 프로젝트에 할애하는 시간을 빠르게 확인하는 방법을 알아봅니다.'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -13,9 +13,9 @@ doc-type: video
 recommendations: noDisplay,noCatalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '224'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 92%
 * 사용자가 올바른 항목에 집중하는지 여부
 * 특정 프로젝트를 선택한 경우 해당 기간 동안 프로젝트 범위가 변경된 정도
 
-![아래 글머리 기호에 설명된 영역에 숫자가 있는 프로젝트 트리맵을 보여 주는 이미지](assets/section-2-7.png)
+![An image showing a project treemap with numbers on areas described in the bullets below](assets/section-2-7.png)
 
 차트에서 다음과 같은 사항을 조회할 수 있습니다.
 

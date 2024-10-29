@@ -1,6 +1,6 @@
 ---
 title: 업데이트를 통한 조치
-description: '[!UICONTROL 향상된 분석]의 진행 중인 작업 차트에서 업데이트하는 방법을 알아봅니다.'
+description: '[!UICONTROL 향상된 분석]에서 전송 중인 작업 차트 내에서 업데이트하는 방법을 알아봅니다.'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 

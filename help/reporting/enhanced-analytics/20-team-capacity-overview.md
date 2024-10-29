@@ -1,6 +1,6 @@
 ---
 title: 팀 역량 이해
-description: 홈 팀이 초과 할당되거나 과소 할당된 경우 [!UICONTROL 향상된 분석]의 팀 용량 차트가 어떻게 표시되는지 알아봅니다.
+description: 홈 팀 할당이 초과 또는 미달되었을 경우 [!UICONTROL 향상된 분석]의 팀 역량 차트가 어떻게 표시되는지 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '385'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 95%
 * 매일 홈 팀 워크로드의 일관도.
 * 새 작업으로 용량 문제를 만드는 경우.
 
-![아래 글머리 기호에 설명된 영역에 숫자가 있는 팀 용량 차트를 보여 주는 이미지](assets/section-3-4.png)
+![An image showing a team capacity chart with numbers on areas described in the bullets below](assets/section-3-4.png)
 
 차트에서 다음과 같은 사항을 조회할 수 있습니다.
 
@@ -48,7 +48,7 @@ ht-degree: 95%
 
 Analytics 영역의 ‘사용자’ 섹션에 있는 차트에 데이터를 표시하려면 필터를 추가하고 날짜 범위를 선택해야 합니다. 이전에 필터를 추가한 경우 필터는 제거할 때까지 활성 상태를 유지합니다.
 
-![팀 용량 차트를 보여 주는 이미지](assets/section-3-5.png)
+![An image showing a team capacity chart](assets/section-3-5.png)
 
 ‘팀 용량’ 차트에서 다음과 같은 작업을 수행할 수 있습니다.
 

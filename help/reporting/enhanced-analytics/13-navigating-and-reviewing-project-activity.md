@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 활동 탐색 및 검토 이해
-description: '[!UICONTROL 향상된 분석]에서 로그인한 사용자, 작업 상태 변경 및 완료된 작업을 기준으로 프로젝트를 비교하는 방법에 대해 알아봅니다.'
+description: '[!UICONTROL 향상된 분석]에서 로그인한 사용자, 작업 상태 변경 및 완료된 작업을 기반으로 프로젝트를 비교하는 방법을 알아봅니다.'
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '235'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 91%
 * 다른 프로젝트와 비교한 하나의 프로젝트 활동.
 * 프로젝트 작업을 하는 사용자 및 빈도
 
-![아래 글머리 기호에 설명된 영역에 숫자가 있는 프로젝트 활동을 보여 주는 이미지](assets/section-2-5.png)
+![An image showing project activity with numbers on areas described in the bullets below](assets/section-2-5.png)
 
 차트에서 다음과 같은 사항을 조회할 수 있습니다.
 

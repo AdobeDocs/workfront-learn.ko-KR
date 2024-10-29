@@ -1,6 +1,6 @@
 ---
 title: 팀 차트별 활동 이해
-description: '[!UICONTROL 향상된 분석]의 팀별 활동 차트를 통해 조직의 홈 팀이 Workfront에서 어떻게 시간을 보내는지 이해할 수 있습니다.'
+description: Workfront에서 [!UICONTROL 향상된 분석]의 팀별 활동 차트를 통해 조직의 홈 팀이 시간을 보내는 방법을 이해할 수 있습니다.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10045
 recommendations: noDisplay,noCatalog
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ Workfront에서 팀별 활동 차트를 통해 조직의 홈 팀이 시간을 �
 * 업무가 과도하거나 시스템을 더 많이 사용하고 있는 홈 팀.
 * 업무 배분이 홈 팀에 적합한지 여부.
 
-![아래 글머리 기호에 설명된 영역에 숫자가 있는 팀별 활동 차트를 보여 주는 이미지](assets/section-3-1.png)
+![An image showing an activity by team chart with numbers on areas described in the bullets below](assets/section-3-1.png)
 
 차트에서 다음과 같은 사항을 조회할 수 있습니다.
 
