@@ -8,13 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-11-01T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: c874b2d05b0d95194ce15266592d473e6f18ce79
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 87%
 
 ---
 
@@ -23,11 +25,18 @@ ht-degree: 100%
 이 비디오에서 배울 내용은 다음과 같습니다.
 
 * 기본 프로젝트 타임라인 관리
-* 시작 또는 완료 일자부터 프로젝트 일정 예약
-* 작업 제한 사항
+* 예약 모드를 이해하는 방법
+* 작업 제한 사항 보기를 만드는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
 
 >[!IMPORTANT]
 >
->기간 유형 및 작업 제한 사항에 대한 자세한 설명은 [기간 유형 및 작업 제한 사항의 이해 및 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ko-KR)를 참조하십시오.
+>기간 유형 및 작업 제한 사항에 대한 자세한 설명은 [기간 유형 및 작업 제한 사항의 이해 및 관리](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)를 참조하십시오.
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [프로젝트 타임라인에서 진행 상황 추적](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [일자 유형 및 진행 상태 이해](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
+* [기간 유형 및 작업 제한 사항의 이해 및 관리](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
