@@ -14,9 +14,9 @@ jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
 source-git-commit: c874b2d05b0d95194ce15266592d473e6f18ce79
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 87%
 이 비디오에서 배울 내용은 다음과 같습니다.
 
 * 기본 프로젝트 타임라인 관리
-* 예약 모드를 이해하는 방법
+* 일정 모드를 이해하는 방법
 * 작업 제한 사항 보기를 만드는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
