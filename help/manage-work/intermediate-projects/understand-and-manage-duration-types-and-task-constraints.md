@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
 exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
-source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on)
 
 
-기간 유형 및 작업 제한 사항 보기를 만드는 방법에 대한 자세한 내용은 [기본 보기 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ko-KR)의 기간 유형 및 작업 제한 사항 보기 활동을 참조하십시오.
+기간 형식 및 작업 제한 보기를 만드는 방법에 대한 자세한 내용은 [기본 보기 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ko-KR)에서 **기간 형식 및 작업 제한 보기** 활동을 참조하십시오.
 
 기간 유형에 대한 자세한 내용은 [작업 기간 및 기간 유형](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=ko)을 참조하십시오.
 

@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
 workflow-type: tm+mt
-source-wordcount: '1179'
-ht-degree: 100%
+source-wordcount: '1182'
+ht-degree: 91%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 
 * 증명 워크플로 템플릿을 만드는 데 시간을 할애합니다.
 
-* Workfront 설정에서 “증명에 대한 댓글이 제시되면 Workfront에서 이메일 보내기” 설정을 비활성화합니다.
+* Workfront 설정에서 &quot;증명에 댓글이 달리면 Workfront에서 이메일 보내기&quot; 설정을 비활성화합니다.
 
 * Workfront에서 “문서 증명을 여는 수신자가 아닌 사람의 역할” 설정에 대해 읽기 전용 또는 검토자만 사용합니다.
 
@@ -72,7 +72,7 @@ ht-degree: 100%
 
 **모범 사례**
 
-Workfront 설정에서 “증명에 대한 댓글이 제시되면 Workfront에서 이메일 보내기” 설정을 비활성화합니다.
+Workfront 설정에서 &quot;증명에 댓글이 달리면 Workfront에서 이메일 보내기&quot; 설정을 비활성화합니다.
 
 
 
@@ -112,11 +112,7 @@ Workfront에서 “문서 증명을 여는 수신자가 아닌 사람의 역할�
 
 **이유**
 
-증명 기한/시간을 AM/PM 형식으로 확인하려는 사용자를 위해 증명 설정에서 F j, Y, gi:a 옵션을 선택합니다. 12시간 시계를 사용하는 영역의 경우, 기한을 명확히 정할 수 있습니다.
-
-
-
-**메모**: 이 설정은 Workfront 메인 메뉴 > 증명 > 계정 설정 > 사용자 > 각 사용자에 대한 일자 형식 필드를 편집하여 찾을 수 있습니다.
+기본값은 24시간 시계 형식이므로 이 형식을 잘 모르는 사람에게는 혼란스러울 수 있습니다. 형식을 변경하려면 Workfront 주 메뉴 > 교정 > 계정 설정 > 사용자로 이동합니다. 사용자를 두 번 클릭하여 선택한 다음 개인 설정 섹션에서 날짜 형식 필드를 편집합니다. 변경하려면 각 사용자를 한 번에 하나씩 선택해야 합니다.
 
 </br>
 </br>
