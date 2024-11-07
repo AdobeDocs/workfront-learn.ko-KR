@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
+source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
 workflow-type: tm+mt
-source-wordcount: '2408'
+source-wordcount: '2407'
 ht-degree: 99%
 
 ---
@@ -238,8 +238,8 @@ ht-degree: 99%
 
    + 향상된 분석 {#enhanced-analytics}
       + [[!UICONTROL 향상된 분석]에 대한 제품 관련 잠시](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-      + [[!UICONTROL 향상된 분석] 시작](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [[!UICONTROL 향상된 분석]에 액세스하는 방법](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [[!UICONTROL 향상된 분석] 시작하기](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
+      + [[!UICONTROL 향상된 분석] 액세스 방법](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [기본 탐색 이해](/help/reporting/enhanced-analytics/4-basic-navigation.md)
       + [작업 및 사용자 차트 이해](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [필터 이해](/help/reporting/enhanced-analytics/6-filters-overview.md)
@@ -629,7 +629,7 @@ ht-degree: 99%
    + [샌드박스 미리보기](/help/best-practices/preview-sandbox-bp.md)
    + [프로젝트, 작업 및 문제 환경 설정](/help/best-practices/project-task-issue-preferences-bp.md)
    + [프로젝트 템플릿](/help/best-practices/project-templates-bp.md)
-   + [Workfront Proof](/help/best-practices/proofing-bp.md)
+   + [교정](/help/best-practices/proofing-bp.md)
    + [요청 대기열](/help/best-practices/request-queues-bp.md)
    + [리소스 플래너](/help/best-practices/resource-planner-bp.md)
    + [리소스 풀](/help/best-practices/resource-pools-bp.md)
