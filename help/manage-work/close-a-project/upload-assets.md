@@ -9,24 +9,30 @@ type: Tutorial
 role: User
 level: Beginner
 recommendations: noDisplay,noCatalog
-last-substantial-update: 2024-11-22T00:00:00Z
+last-substantial-update: 2024-12-02T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: 50ac05e44459c89d615bc6aaa0c109a2d21e0734
+source-git-commit: b983732e7796c718bd14fd58ad57a3311829a2ef
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 41%
+source-wordcount: '75'
+ht-degree: 52%
 
 ---
 
 # 자산 업로드
 
-이 비디오에서는 문서 및 증명에서 승인을 확인하는 방법에 대해 알아봅니다.
+이 비디오에서는 다음 방법을 배우게 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on)
+* 증명에서 승인 확인
+* 문서에서 승인 확인
+* 문서 업로드
+* 증명 업로드에 대한 교육 찾기
+
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
 ## 이 주제와 관련된 추천 튜토리얼
 
+* [기본 워크플로로 교정쇄 업로드](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
 * [프로젝트 상태를 완료로 변경](/help/manage-work/projects/change-the-project-status.md)
 * [승인 완료](/help/manage-work/close-a-project/complete-approvals.md)
 * [배운 내용 기록](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
