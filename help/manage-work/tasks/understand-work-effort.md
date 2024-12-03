@@ -10,12 +10,12 @@ role: User
 level: Beginner
 jira: KT-10153
 last-substantial-update: 2024-05-29T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 8a0c7dd171659460233379fb5f986d7b8341c6d7
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

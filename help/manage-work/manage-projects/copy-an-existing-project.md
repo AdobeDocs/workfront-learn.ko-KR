@@ -8,13 +8,13 @@ thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
-source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
-workflow-type: ht
-source-wordcount: '155'
-ht-degree: 100%
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

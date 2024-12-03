@@ -9,12 +9,12 @@ role: User
 level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
-source-wordcount: '853'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -56,7 +56,7 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 Workfront 및 많은 소프트웨어 시스템은 오늘날 가장 쉬운 표준 API 유형인 REST(Representational State Transfer) API를 사용하여 빌드됩니다. 그러나 다음과 같은 몇 가지 다른 사항이 있습니다.
 
-* SOAP(Simple Object Access Protocol)(Workfront의 증명 API는 SOAP 기반임)
+* SOAP(Simple Object Access Protocol)(Workfront의 교정쇄 API는 SOAP 기반임)
 * FTP(File Transfer Protocol)
 * SFTP(Secure File Transfer Protocol)
 * 자세히 알아보려면 API 유형 및 관심 키워드에 대한 웹 검색을 수행합니다.

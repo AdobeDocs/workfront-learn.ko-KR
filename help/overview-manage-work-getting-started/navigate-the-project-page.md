@@ -9,11 +9,12 @@ role: User
 level: Beginner
 last-substantial-update: 2024-04-05T00:00:00Z
 team: Technical Marketing
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-8771
 hide: true
 doc-type: video
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 100%
@@ -58,4 +59,3 @@ ht-degree: 100%
 * [기본 프로젝트 생성 이해하기](/help/manage-work/projects/understand-basic-project-creation.md)
 * [프로젝트를 생성하는 네 가지 방법에 대해 알아보기](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [프로젝트 세부 정보 입력](/help/manage-work/projects/fill-in-the-project-details.md)
-

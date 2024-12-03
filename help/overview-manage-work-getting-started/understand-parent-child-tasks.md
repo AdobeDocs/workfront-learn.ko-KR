@@ -8,11 +8,12 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-8774
 hide: true
 doc-type: video
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: d4e4a273-f712-4104-8c6b-ab7d29175451
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -32,4 +33,3 @@ ht-degree: 0%
 * [작업 만들기](/help/manage-work/tasks/how-to-create-tasks.md)
 * [작업](/help/manage-work/tasks/work-with-tasks.md)
 * [프로젝트 계획에서 작업 할당](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-

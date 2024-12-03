@@ -1,6 +1,6 @@
 ---
 title: 디지털 작업 검토 및 승인
-description: ' [!DNL Workfront Home]에서 프로젝트, 작업, 문제, 문서 및 증명을 찾고 승인하는 방법을 알아봅니다.'
+description: ' [!DNL Workfront Home]에서 프로젝트, 작업, 문제, 문서 및 교정쇄를 찾고 승인하는 방법을 알아봅니다.'
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -9,13 +9,13 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8808
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: bd743add8bad572a638d4cd0999aeefe1fb3bfc8
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,14 +26,14 @@ ht-degree: 100%
 * [!DNL Workfront Home]에서 승인 찾기
 * 프로젝트, 작업 및 문제에 대한 승인
 * 문서 승인
-* 증명 승인
+* 교정쇄 승인
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
 
 
 >[!NOTE]
 >
->승인이 필요한 문서, 증명 및 작업 항목(프로젝트, 작업 및 문제)은 [!DNL Workfront Home] 외에도 프로젝트 및 사용자 정의 보고서에서 찾을 수 있습니다.
+>승인이 필요한 문서, 교정쇄 및 작업 항목(프로젝트, 작업 및 문제)은 [!DNL Workfront Home] 외에도 프로젝트 및 사용자 정의 보고서에서 찾을 수 있습니다.
 
 ## 이 주제와 관련된 추천 튜토리얼
 

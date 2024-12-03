@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2024-02-28T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-10069
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: db8bce2e-86fc-49b7-b3fd-8d2d431cfaa7
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -33,4 +34,3 @@ ht-degree: 100%
 * [요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
 * [문제/요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [계획되지 않은 작업 처리](/help/manage-work/issues-requests/handle-unplanned-work.md)
-
