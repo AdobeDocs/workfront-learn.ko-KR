@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '2407'
+source-wordcount: '2404'
 ht-degree: 99%
 
 ---
@@ -255,7 +255,6 @@ ht-degree: 99%
       + [전송 중인 작업 검토](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
       + [업데이트를 통한 조치](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
       + [팀 차트별 활동 이해](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [팀 역량 이해](/help/reporting/enhanced-analytics/20-team-capacity-overview.md)
       + [KPI 비교 사용 사례 이해](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
       + [최종 사용자 사용 사례 이해](/help/reporting/enhanced-analytics/22-end-user-use.md)
       + [컨설팅 지침 이해](/help/reporting/enhanced-analytics/23-consulting-guidance.md)
@@ -472,53 +471,53 @@ ht-degree: 99%
       + [테스트 및 실행](/help/fusion/11-design-optimization-and-testing/testing-considerations.md)
 
 + Workfront Proof {#workfront-proof}
-   + [증명의 이점 알아보기](/help/workfront-proof/benefits-of-proofing-in-workfront.md)
-   + [문서와 증명의 차이점 이해](/help/workfront-proof/document-vs-proof.md)
-   + [증명 뷰어 설명](/help/workfront-proof/two-options-for-the-proofing-viewers.md)
+   + [교정의 이점 알아보기](/help/workfront-proof/benefits-of-proofing-in-workfront.md)
+   + [문서와 교정쇄의 차이점 이해](/help/workfront-proof/document-vs-proof.md)
+   + [교정쇄 뷰어 설명](/help/workfront-proof/two-options-for-the-proofing-viewers.md)
 
    + 관리 및 설정 {#administration-and-setup-for-proof}
       + [자동화된 워크플로 템플릿 정의](/help/workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
-      + [증명 댓글 작업 사용자 정의](/help/workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
-      + [증명 결정 옵션 사용자 정의](/help/workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-      + [이메일 경고 및 증명 알림 이해](/help/workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
-      + [증명 역할 및 이메일 경고](/help/workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
-      + [증명 보고](/help/workfront-proof/administration-and-setup/report-on-proofs.md)
-      + [위험 시 증명 기본 설정](/help/workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
-      + [전역 증명 설정 지정](/help/workfront-proof/administration-and-setup/setup-global-proof-settings.md)
-      + [기본 증명 역할 설정](/help/workfront-proof/administration-and-setup/set-default-proof-roles.md)
-      + [증명 계정 기본 설정 지정](/help/workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
-      + [증명 사용자 설정](/help/workfront-proof/administration-and-setup/settings-for-proof-users.md)
+      + [교정쇄 댓글 작업 사용자 정의](/help/workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
+      + [교정쇄 결정 옵션 사용자 정의](/help/workfront-proof/administration-and-setup/customize-proof-decision-options.md)
+      + [이메일 경고 및 교정쇄 알림 이해](/help/workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+      + [교정 역할 및 이메일 경고](/help/workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
+      + [교정쇄 보고서](/help/workfront-proof/administration-and-setup/report-on-proofs.md)
+      + [기본 마감 임박 교정쇄 설정 지정](/help/workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
+      + [전역 교정쇄 설정 지정](/help/workfront-proof/administration-and-setup/setup-global-proof-settings.md)
+      + [기본 교정 역할 설정](/help/workfront-proof/administration-and-setup/set-default-proof-roles.md)
+      + [교정 계정 기본 설정 지정](/help/workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
+      + [교정쇄 사용자 설정](/help/workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
-   + 증명 업로드 {#upload-proofs}
-      + [증명 버전 정의](/help/workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [증명 버전 업로드 책임자](/help/workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
-      + [문서를 증명으로 전환](/help/workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
-      + [증명 버전 보기 및 비교](/help/workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
-      + [증명 버전 업로드](/help/workfront-proof/upload-proofs/upload-a-proof-version.md)
-      + [증명 버전 관리](/help/workfront-proof/upload-proofs/manage-proof-versions.md)
-      + [비디오 증명 업로드](/help/workfront-proof/upload-proofs/other-types-of-digital-assets.md)
-      + [웹 사이트 증명 업로드](/help/workfront-proof/upload-proofs/upload-a-proof-of-a-website.md)
-      + [기본 워크플로로 증명 업로드](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
-      + [자동화된 워크플로로 증명 업로드](/help/workfront-proof/upload-proofs/upload-a-proof-with-an-automated-workflow.md)
+   + 교정쇄 업로드 {#upload-proofs}
+      + [교정쇄 버전 정의](/help/workfront-proof/upload-proofs/what-is-a-proof-version.md)
+      + [교정쇄 버전 업로드 책임자](/help/workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [문서를 교정쇄로 전환](/help/workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
+      + [교정쇄 버전 보기 및 비교](/help/workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
+      + [교정쇄 버전 업로드](/help/workfront-proof/upload-proofs/upload-a-proof-version.md)
+      + [교정쇄 버전 관리](/help/workfront-proof/upload-proofs/manage-proof-versions.md)
+      + [비디오 교정쇄 업로드](/help/workfront-proof/upload-proofs/other-types-of-digital-assets.md)
+      + [웹 사이트 교정쇄 업로드](/help/workfront-proof/upload-proofs/upload-a-proof-of-a-website.md)
+      + [기본 워크플로로 교정쇄 업로드](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+      + [자동화된 워크플로로 교정쇄 업로드](/help/workfront-proof/upload-proofs/upload-a-proof-with-an-automated-workflow.md)
       + [드래그 앤 드롭으로 업로드](/help/workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
-      + [여러 파일을 하나의 증명으로 결합](/help/workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
+      + [여러 파일을 하나의 교정쇄로 결합](/help/workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
 
-   + 증명 워크플로 {#proof-workflows}
-      + [프로젝트 타임라인의 일부로 워크플로 증명 이해](/help/workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
-      + [증명 워크플로 편집](/help/workfront-proof/proof-workflows/edit-a-proof-workflow.md)
+   + 교정 워크플로 {#proof-workflows}
+      + [프로젝트 타임라인의 일부로 교정 워크플로 이해하기](/help/workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
+      + [교정 워크플로 편집](/help/workfront-proof/proof-workflows/edit-a-proof-workflow.md)
       + [템플릿 그룹을 생성하여 자동화된 워크플로 템플릿 구성](/help/workfront-proof/administration-and-setup/create-template-groups.md)
       + [자동화된 워크플로 템플릿 만들기](/help/workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
       + [자동화된 워크플로 템플릿 편집](/help/workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
 
    + 작업 검토 및 승인 {#review-and-approve-work-for-proof}
-      + [증명 뷰어 탐색](/help/workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
-      + [증명 검토 및 승인](/help/workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
-      + [증명 댓글 검토 및 응답](/help/workfront-proof/review-and-approve-work/review-and-respond-to-proof-comments.md)
-      + [증명으로 비디오 검토](/help/workfront-proof/review-and-approve-work/review-a-video-with-proof.md)
-      + [증명이 포함된 웹 사이트 검토](/help/workfront-proof/review-and-approve-work/review-a-website-with-proof.md)
-      + [증명 세부 정보 이해](/help/workfront-proof/review-and-approve-work/proof-details-overview.md)
-      + [증명 댓글 관리](/help/workfront-proof/review-and-approve-work/manage-proof-comments.md)
-      + [증명 진행 상황 추적](/help/workfront-proof/review-and-approve-work/track-proof-progress.md)
+      + [교정쇄 뷰어 탐색](/help/workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
+      + [교정쇄 검토 및 승인](/help/workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
+      + [교정쇄 댓글 검토 및 응답](/help/workfront-proof/review-and-approve-work/review-and-respond-to-proof-comments.md)
+      + [교정쇄로 비디오 검토](/help/workfront-proof/review-and-approve-work/review-a-video-with-proof.md)
+      + [교정쇄가 포함된 웹 사이트 검토](/help/workfront-proof/review-and-approve-work/review-a-website-with-proof.md)
+      + [교정쇄 세부 정보 이해](/help/workfront-proof/review-and-approve-work/proof-details-overview.md)
+      + [교정쇄 댓글 관리](/help/workfront-proof/review-and-approve-work/manage-proof-comments.md)
+      + [교정 진행 상황 추적](/help/workfront-proof/review-and-approve-work/track-proof-progress.md)
 
 + Workfront DAM {#workfront-dam-program}
    + 시스템 설정 {#system-setup}

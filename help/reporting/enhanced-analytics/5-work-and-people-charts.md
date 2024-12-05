@@ -11,16 +11,16 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 85%
 
 ---
 
 # 작업 및 사용자 차트 이해
 
-‘작업’ 차트는 프로젝트 및 작업 관점에서 활동을 보여 주고 ‘사용자’ 차트는 홈 팀의 관점에서 활동을 보여 줍니다.
+작업 차트는 프로젝트 및 작업 관점의 활동을 보여 주고, 사람 차트는 홈 팀의 관점의 활동을 보여 줍니다.
 
 왼쪽 패널 메뉴에서 보려는 Analytics 차트 유형(‘작업’ 또는 ‘사용자’)을 선택합니다.
 
@@ -40,11 +40,8 @@ ht-degree: 0%
 * ‘플라이트 플랜’ 보기에서 프로젝트를 클릭하면 해당 프로젝트의 ‘번다운’ 보기가 그 아래에 표시됩니다.
 * ‘트리맵’ 보기에서 프로젝트를 클릭하면 ‘번다운’과 ‘작업’이 플라이트 보기로 그 아래에 표시됩니다.
 
-## 사용자 차트
+## 인물 차트
 
 ![[!DNL Workfront Classic]](assets/section-1-2.png)의 [!UICONTROL Analytics] 기능을 찾는 이미지
 
-‘사용자’ 차트는 다음으로 구성됩니다.
 
-1. 팀별 활동
-1. 팀 활동
