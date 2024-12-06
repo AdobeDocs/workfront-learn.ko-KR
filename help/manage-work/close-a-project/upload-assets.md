@@ -1,6 +1,6 @@
 ---
 title: 자산 업로드
-description: 닫기 전에 문서 및 증명을 프로젝트에 업로드하여 모든 관련 데이터가 프로젝트와 연계되도록 합니다.
+description: 모든 관련 데이터가 프로젝트와 연결되도록 프로젝트를 닫기 전에 문서 및 교정쇄를 프로젝트에 업로드하십시오.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,8 +14,8 @@ jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 78%
 
 ---
 
