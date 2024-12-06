@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
+source-git-commit: a15b9b2cdd16f661d855806d801ab1f90a0276b4
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 85%
+source-wordcount: '291'
+ht-degree: 89%
 
 ---
 
@@ -40,8 +40,15 @@ ht-degree: 85%
 * ‘플라이트 플랜’ 보기에서 프로젝트를 클릭하면 해당 프로젝트의 ‘번다운’ 보기가 그 아래에 표시됩니다.
 * ‘트리맵’ 보기에서 프로젝트를 클릭하면 ‘번다운’과 ‘작업’이 플라이트 보기로 그 아래에 표시됩니다.
 
-## 인물 차트
+## 인물 차트 - 팀별 활동
 
-![[!DNL Workfront Classic]](assets/section-1-2.png)의 [!UICONTROL Analytics] 기능을 찾는 이미지
+![An image showing an activity by team chart with numbers on areas described in the bullets below](assets/section-3-1.png)
 
+차트에서 다음과 같은 사항을 조회할 수 있습니다.
+
+1. 왼쪽의 홈 팀 이름.
+1. 하단의 일자는 선택한 날짜 범위의 일자를 사용합니다.
+1. 보라색 상자는 해당 일자에 로그인한 프로젝트에 할당된 사용자를 나타내며, 어두운 음영은 더 많은 수의 로그인 사용자를 나타냅니다.
+1. 분홍색 상자는 사용자가 해당 일자에 프로젝트의 작업 상태를 변경했음을 보여 주며, 음영이 짙을수록 더 많은 수의 작업 상태가 변경되었음을 나타냅니다.
+1. 파란색 상자는 사용자가 프로젝트에 대한 작업을 완료했음을 나타내며 어두운 음영은 더 많은 작업이 완료되었음을 나타냅니다.
 
