@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
+source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
 workflow-type: tm+mt
-source-wordcount: '2404'
+source-wordcount: '2396'
 ht-degree: 99%
 
 ---
@@ -176,12 +176,10 @@ ht-degree: 99%
 
    + 프로젝트 종료 {#close-a-project}
       + [프로젝트 상태를 완료로 변경](/help/manage-work/projects/change-the-project-status.md)
-      + [작업 및 문제 종료](/help/manage-work/close-a-project/close-tasks-and-issues.md)
       + [승인 완료](/help/manage-work/close-a-project/complete-approvals.md)
       + [자산 업로드](/help/manage-work/close-a-project/upload-assets.md)
       + [배운 내용 기록](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
-      + [프로젝트 활동 종료](/help/manage-work/close-a-project/close-a-project-activity.md)
 
    + 사용자를 위한 프로젝트 재무 {#project-finances-users}
       + [재무 업데이트 및 검토](/help/manage-work/project-finances/update-and-review-finances.md)

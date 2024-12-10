@@ -11,19 +11,13 @@ level: Beginner
 last-substantial-update: 2023-08-16T00:00:00Z
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 100%
+source-wordcount: '50'
+ht-degree: 50%
 
 ---
 
 # 작업 및 문제 종료
 
-[!DNL Workfront] 프로젝트 종료의 첫 단계 중 하나는 모든 작업 및 문제가 ‘완료’ 상태 또는 이에 상응하는 상태인지 확인하는 것입니다.
-
-프로젝트 헤더의 [!UICONTROL 완료율] 필드에 100%라고 표시되어 있으면 모든 작업이 100% 완료로 표시된 것입니다. 그러나 [!UICONTROL 완료 - 승인 보류 중]인 작업 또한 100%로 표시되므로 해당 작업을 확인해야 합니다. 승인에 대한 모든 팁은 [승인 완료](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html)를 참조하십시오.
-
-완료되지 않은 문제가 있는 경우 승인 보류 중인 문제라도 ‘문제’ 탭 옆에 숫자가 표시되어 개수를 확인할 수 있습니다. 숫자가 0이면 완료되지 않은 문제가 없는 것입니다.
-
-![[!UICONTROL 완료율] 및 미해결 문제가 표시된 프로젝트](assets/close-tasks-and-issues.png)
+콘텐츠가 이미 &quot;프로젝트 상태를 완료로 변경&quot;과 &quot;승인 완료&quot; 사이에 포함되어 있으므로 &quot;작업 및 문제 닫기&quot; 자습서가 제거되었습니다.
