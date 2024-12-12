@@ -1,6 +1,6 @@
 ---
 title: 배운 내용 기록
-description: 무엇이 잘 되었고 다음에 개선할 수 있는지 식별하기 위해 “배운 내용” 작업을 포함하는 방법을 알아봅니다.
+description: 프로젝트를 닫을 때 "배운 내용"을 활용하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,26 +8,32 @@ thumbnail: lessons-learned-from-closing-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 36%
 
 ---
 
 # 배운 내용 기록
 
-프로젝트 종료의 일환으로 일부 Workfront 고객은 “배운 내용” 작업을 포함시킵니다. 이 작업은 다양한 방식으로 사용할 수 있습니다.
+이 비디오에서는 다음과 같은 이점을 제공합니다.
 
-* “배운 내용” 작업을 사용하여 회의 내용을 대표합니다. 작업 업데이트에서 회의 메모를 캡처합니다.
-* 또는 작업 이나 프로젝트에 사용자 정의 양식을 첨부하여 필요한 “배운 내용” 정보를 캡처합니다.
+* &quot;학습된 교훈&quot; 작업 만들기
+* &quot;학습된 단원&quot; 사용자 정의 양식을 프로젝트에 첨부
+* &quot;학습된 교훈&quot; 사용자 정의 보고서 만들기
+* &quot;학습된 교훈&quot; 프로젝트 만들기
 
-사용자 정의 양식의 장점은 모든 필드가 보고 가능하므로 사용자 정의 [!DNL Workfront] 보고서를 작성해 이 정보를 검토하고 관리하여 많은 프로젝트 유형 또는 세트에서 배운 내용을 식별할 수 있다는 것입니다.
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
-조직에 보다 복잡한 프로젝트 후 프로세스(프로젝트 자체로 자격을 갖추기에 충분한 단계가 있는 프로세스)가 있는 경우 [!DNL Workfront]에서 별도의 프로젝트를 만드는 것이 가장 좋습니다.
+## 이 주제와 관련된 추천 튜토리얼
 
-이 방법을 사용하면 실제 결과물에 사용된 프로젝트를 종료할 수 있으므로 완료된 프로젝트 보고 내용을 더 정확하게 유지할 수 있습니다. 그런 다음 별도의 프로젝트 후 프로젝트를 사용하여 후속 단계를 추적합니다.
-
-내부 [!DNL Workfront] 팀에 문의하여 조직의 프로젝트 후 프로세스에 대해 자세히 알아보십시오.
+* [프로젝트 상태를 완료로 변경](/help/manage-work/projects/change-the-project-status.md)
+* [승인 완료](/help/manage-work/close-a-project/complete-approvals.md)
+* [자산 업로드](/help/manage-work/close-a-project/upload-assets.md)
+* [시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
