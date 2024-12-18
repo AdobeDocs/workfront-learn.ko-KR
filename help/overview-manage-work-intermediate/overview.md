@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -56,11 +56,9 @@ Workfront을 최대한 활용하는 방법에 대해 자세히 알아보십시�
 
 승인 프로세스를 만들고 워크플로우에 첨부하고 디지털 작업을 검토하고 승인을 위임하는 방법을 알아봅니다.
 
-* [일회용 승인 프로세스 만들기](create-a-single-use-approval-process.md) - 프로젝트, 작업 또는 문제에 대해 일회용 승인 프로세스를 만드는 방법에 대해 알아봅니다.
+* [전역 및 일회용 승인 프로세스 만들기](create-a-single-use-approval-process.md) - 프로젝트, 작업 또는 문제에 대한 전역 및 일회용 승인 프로세스를 만드는 방법에 대해 알아봅니다.
 * [그룹별 승인 프로세스 이해](group-specific-approval-processes.md) - 그룹 관리자가 관리하는 그룹의 승인 프로세스를 만들거나 편집하는 방법에 대해 알아봅니다.
-* [기존 승인 프로세스 첨부 및 편집](attach-and-edit-existing-approval-processes.md) - 프로젝트, 작업 또는 문제에 대한 기존 승인 프로세스를 사용하고 편집하는 방법에 대해 알아봅니다.
 * [디지털 작업 검토 및 승인](review-and-approve-digital-work.md) - 프로젝트, 작업, 문제, 문서 및 증명에 대한 검색, 검토 및 승인 방법을 알아봅니다.
-* [업데이트 및 알림 이해](understand-updates-and-notifications.md) - 승인 요청에 대해 업데이트하고 알림을 찾는 방법에 대해 알아봅니다.
 * [작업, 문제 및 승인 위임](delegate-approvals.md) - 프로젝트, 작업, 문제 및 타임카드에 대한 승인을 다른 Adobe Workfront 사용자에게 위임하는 방법에 대해 알아봅니다.
 
 ## 이정표를 만들고 사용하는 방법

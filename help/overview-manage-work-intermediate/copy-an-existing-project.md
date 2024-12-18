@@ -9,17 +9,19 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10155
+recommendations: noDisplay,catalog
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: c2031f6c-e32c-4ea3-a4ae-0780ebd2a530
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '155'
 ht-degree: 100%
 
 ---
 
 # 기존 프로젝트 복사
 
-때로는 템플릿을 사용하여 프로젝트를 만드는 대신 다른 일회성 사용을 위해 프로젝트를 복사하기만 하면 됩니다. 이렇게 하려면 프로젝트에 대한 ‘편집’ 및 ‘만들기’ 액세스 권한이 있는 플랜 라이선스가 있어야 합니다.
+때로는 템플릿을 사용하여 프로젝트를 만드는 대신 다른 일회성 사용을 위해 프로젝트를 복사하기만 하면 됩니다. 이렇게 하려면 프로젝트에 대한 ‘편집’ 및 ‘만들기’ 액세스 권한이 있는 표준 라이선스가 있어야 합니다.
 
 복사하려는 프로젝트로 이동하고 프로젝트 이름 옆에 있는 점 3개 메뉴를 클릭합니다. 그런 다음 ‘복사’를 선택합니다.
 
@@ -29,5 +31,10 @@ ht-degree: 100%
 
 ![프로젝트 옵션 복사](assets/copy-existing-02.png)
 
-
 ‘할당 지우기’를 선택하거나 상태를 ‘계획’으로 설정하면 프로젝트를 복사하더라도 복사 직후 작업 할당 알림을 보내지 않습니다.
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [템플릿에서 직접 프로젝트 만들기](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [작업](/help/manage-work/tasks/work-with-tasks.md)
+* [프로젝트 계획에서 작업 할당](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

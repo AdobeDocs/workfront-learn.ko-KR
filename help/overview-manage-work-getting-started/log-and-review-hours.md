@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+doc-type: video
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 5104c034-82cf-4993-9016-53802d562d14
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '57'
+ht-degree: 80%
 
 ---
 
 # 시간 기록 및 검토
 
-실제 작업 시간 기록이 조직 워크플로의 일부인 경우, 프로젝트의 [!UICONTROL 시간] 섹션(왼쪽 패널 메뉴에서 선택)에서 해당 시간을 검토할 수 있습니다. 여기에는 개별 작업과 프로젝트 자체에 기록된 모든 시간이 표시됩니다. 이 페이지에서 시간을 기록할 수도 있습니다.
+이 비디오에서는 다음 방법을 배우게 됩니다.
 
-![시간 항목을 보여 주는 시간 페이지](assets/planner-fund-log-and-review-hours.png)
+* 프로젝트에 기록된 시간 검토
+* 필요한 경우 프로젝트 시간 승인
 
->[!NOTE]
->
->조직에서 [!DNL Workfront] 타임시트를 통해 몇 시간 동안 승인을 요청할 수도 있습니다. 사용해야 하는 프로세스에 대해 내부 [!DNL Workfront] 팀과 확인해 보십시오.
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## 이 주제와 관련된 추천 튜토리얼
+
+* [프로젝트 상태를 완료로 변경](/help/manage-work/projects/change-the-project-status.md)
+* [승인 완료](/help/manage-work/close-a-project/complete-approvals.md)
+* [자산 업로드](/help/manage-work/close-a-project/upload-assets.md)
+* [배운 내용 기록](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)

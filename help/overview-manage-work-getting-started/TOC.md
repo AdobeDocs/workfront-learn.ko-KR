@@ -6,10 +6,10 @@ breadcrumb-title: 작업 관리 - 시작
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 69%
+source-wordcount: '196'
+ht-degree: 68%
 
 ---
 
@@ -54,11 +54,9 @@ ht-degree: 69%
 
    + 프로젝트 종료 {#close-a-project}
       + [프로젝트 상태를 완료로 변경](change-the-project-status.md)
-      + [작업 및 문제 종료](close-tasks-and-issues.md)
       + [승인 완료](complete-approvals.md)
       + [자산 업로드](upload-assets.md)
       + [배운 내용 기록](lessons-learned-from-closing-a-project.md)
       + [시간 기록 및 검토](log-and-review-hours.md)
       + [재무 업데이트 및 검토](update-and-review-finances.md)
-      + [프로젝트 활동 종료](close-a-project-activity.md)
 

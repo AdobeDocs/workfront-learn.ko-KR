@@ -1,6 +1,6 @@
 ---
 title: 글로벌 승인 프로세스 및 일회용 승인 프로세스 만들기
-description: Workfront에서 프로젝트, 작업 또는 문제에 대한 일회용 승인 프로세스를 만드는 방법을 알아봅니다.
+description: 프로젝트, 작업 또는 문제에 대해 전역 및 일회용 승인 프로세스를 만드는 방법을 알아봅니다.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -13,10 +13,10 @@ last-substantial-update: 2024-09-24T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '442'
+ht-degree: 96%
 
 ---
 

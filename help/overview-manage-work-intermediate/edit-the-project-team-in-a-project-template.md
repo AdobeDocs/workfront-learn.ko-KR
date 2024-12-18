@@ -11,10 +11,12 @@ last-substantial-update: 2024-01-09T00:00:00Z
 team: Technical Marketing
 jira: KT-14755
 doc-type: video
+recommendations: noDisplay,catalog
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: c2f06ee1-efbd-4c65-aca7-d844cb08f52f
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -27,3 +29,9 @@ ht-degree: 100%
 * 템플릿 프로젝트 팀을 편집하는 방법.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [프로젝트 템플릿 만들기 및 블루프린트에 대해 알아보기](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [프로젝트 템플릿 공유](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [프로젝트 템플릿 비활성화](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)

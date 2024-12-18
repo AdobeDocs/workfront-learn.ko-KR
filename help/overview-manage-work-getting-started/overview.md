@@ -13,10 +13,10 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '943'
+ht-degree: 4%
 
 ---
 
@@ -81,10 +81,8 @@ Adobe Workfront에서 프로젝트가 무엇인지, 프로젝트를 시작하고
 작업 및 문제를 마감하고 승인을 완료하며 학습한 내용을 기록하고 프로젝트를 마감하는 방법에 대해 알아봅니다.
 
 * [프로젝트 상태를 완료로 변경](change-the-project-status.md) - 프로젝트 상태를 완료로 변경하는 방법, 프로젝트 상태를 변경하는 이유와 완료로 변경할 수 없는 경우 수행할 작업에 대해 알아봅니다.
-* [작업 및 문제 닫기](close-tasks-and-issues.md) - 프로젝트를 종료하기 전에 작업 및 문제가 종료되었는지 확인하는 방법에 대해 알아봅니다.
 * [승인 완료](complete-approvals.md) - 프로젝트를 닫을 수 있도록 미완료 승인을 식별하고 해결하는 방법에 대해 알아봅니다.
 * [에셋 업로드](upload-assets.md) - 에셋을 닫기 전에 프로젝트에 문서, 증명 및 기타 에셋을 업로드하여 모든 관련 데이터가 프로젝트와 연결되어 있는지 확인합니다.
 * [학습된 단원 기록](lessons-learned-from-closing-a-project.md) - &quot;학습된 단원&quot; 작업을 포함하여 무엇이 잘 진행되었고 다음 번에 어떤 점이 개선되었는지 확인하는 방법을 알아봅니다.
 * [로그 및 검토 시간](log-and-review-hours.md) - 프로젝트를 닫기 전에 미해결 시간을 기록하고 기록된 시간을 검토합니다.
 * [재무 업데이트 및 검토](update-and-review-finances.md) - 조직에서 Workfront을 사용하여 프로젝트 관련 재무 정보를 추적하는 경우 경비 검토 및 청구 기록 만들기가 프로젝트 종료 프로세스의 일부일 수 있습니다.
-* [프로젝트 활동 닫기](close-a-project-activity.md) - 프로젝트를 닫는 방법에 대해 학습한 내용을 연습합니다.

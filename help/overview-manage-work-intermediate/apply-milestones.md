@@ -12,9 +12,11 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8933
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: ae199222-6f1e-4d01-9ef9-16892edfdde7
+recommendations: noDisplay,catalog
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -31,5 +33,10 @@ ht-degree: 100%
 
 >[!TIP]
 >
->마일스톤 보기를 만드는 방법에 대한 자세한 내용은 [기본 보기 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ko-KR)의 마일스톤 보기 활동을 참조하십시오.
+>마일스톤 보기를 만드는 방법에 대한 자세한 내용은 [기본 보기 만들기](/help/reporting/basic-reporting/create-a-basic-view.md)의 마일스톤 보기 활동을 참조하십시오.
 
+## 이 주제와 관련된 추천 튜토리얼
+
+* [마일스톤 보기](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [마일스톤 만들기](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [기본 보기 만들기에서 마일스톤 보기 활동](/help/reporting/basic-reporting/create-a-basic-view.md)

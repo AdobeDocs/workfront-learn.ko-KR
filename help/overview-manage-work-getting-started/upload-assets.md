@@ -1,6 +1,6 @@
 ---
 title: 자산 업로드
-description: 모든 관련 데이터가 프로젝트와 연결되도록 프로젝트를 닫기 전에 문서, 증명 및 기타 자산을 프로젝트에 업로드합니다.
+description: 모든 관련 데이터가 프로젝트와 연결되도록 프로젝트를 닫기 전에 문서, 교정쇄 및 기타 자산을 프로젝트에 업로드합니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,29 +10,32 @@ role: User
 level: Beginner
 jira: KT-10138
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 # 자산 업로드
 
-[!DNL Workfront] 프로젝트를 종료하기 전에 모든 관련 파일이 [!UICONTROL 문서] 섹션에 첨부되어 있는지 확인합니다. 조직 지침에 따라 이를 문서 또는 증명으로 업로드합니다.
+이 비디오에서는 다음 방법을 배우게 됩니다.
 
-문서 또는 증명을 기존 파일 버전으로 업로드해야 할 수도 있습니다.
+* 교정쇄에 대한 승인 확인
+* 문서 승인 확인
+* 문서 업로드
+* 교정쇄 업로드 관련 교육 과정 찾기
 
-조직에서 증명 승인을 사용하는 경우, 진행률 아이콘을 한 눈에 확인하여 모든 승인이 완료되었는지 확인합니다.
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
-![증명 진행률 아이콘을 보여 주는 문서 페이지](assets/planner-fund-proof-progress-icons.png)
+## 이 주제와 관련된 추천 튜토리얼
 
-조직에서 문서 승인을 사용하는 경우, 목록에서 각 항목을 선택하고 문서 세부 정보를 확인하여 승인이 완료되었는지 확인합니다.
+* [기본 워크플로로 교정쇄 업로드](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+* [프로젝트 상태를 완료로 변경](/help/manage-work/projects/change-the-project-status.md)
+* [승인 완료](/help/manage-work/close-a-project/complete-approvals.md)
+* [배운 내용 기록](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-![문서 승인을 보여 주는 문서 페이지의 측면 요약](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->

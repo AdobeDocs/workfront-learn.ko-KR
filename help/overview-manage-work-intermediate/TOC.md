@@ -6,10 +6,10 @@ breadcrumb-title: 작업 관리 - 중간
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 64%
+source-wordcount: '173'
+ht-degree: 63%
 
 ---
 
@@ -27,11 +27,9 @@ ht-degree: 64%
       + [프로젝트 템플릿에서 프로젝트 팀 편집](edit-the-project-team-in-a-project-template.md)
 
    + 승인 프로세스 {#how-to-create-and-use-approval-processes}을(를) 만들고 사용하는 방법
-      + [일회용 승인 프로세스 만들기](create-a-single-use-approval-process.md)
+      + [글로벌 승인 프로세스 및 일회용 승인 프로세스 만들기](create-a-single-use-approval-process.md)
       + [그룹별 승인 프로세스 이해](group-specific-approval-processes.md)
-      + [기존 승인 프로세스 첨부 및 편집](attach-and-edit-existing-approval-processes.md)
       + [디지털 작업 검토 및 승인](review-and-approve-digital-work.md)
-      + [업데이트 및 알림 이해](understand-updates-and-notifications.md)
       + [작업, 문제 및 승인 위임](delegate-approvals.md)
 
    + 마일스톤 {#how-to-create-and-use-milestones}을(를) 만들고 사용하는 방법

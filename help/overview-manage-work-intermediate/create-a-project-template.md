@@ -10,11 +10,13 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 8b373be7-df75-4929-9027-d95947c42f94
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '377'
 ht-degree: 100%
 
 ---
@@ -53,3 +55,11 @@ Workfront 사용자는 [!UICONTROL 블루프린트]를 사용하여 프로젝트
 ![블루프린트 설치에 대한 세부 사항](assets/pt-blueprints-04.png)
 
 블루프린트가 아직 설치되지 않은 경우 시스템 관리자에게 요청할 수 있습니다.
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [템플릿에서 직접 프로젝트 만들기](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [프로젝트 템플릿 공유](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [기존 프로젝트 복사](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [프로젝트 템플릿 비활성화](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [프로젝트 템플릿에서 프로젝트 팀 편집](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

@@ -9,11 +9,13 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10156
+recommendations: noDisplay,catalog
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 310d499f-d48e-42ff-92bf-a398594e44f7
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 100%
+source-wordcount: '197'
+ht-degree: 93%
 
 ---
 
@@ -37,3 +39,12 @@ ht-degree: 100%
 
 
 ![새 프로젝트 즐겨찾기 템플릿](assets/direct-template-03.png)
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [프로젝트 템플릿 만들기 및 블루프린트에 대해 알아보기](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [프로젝트 템플릿 공유](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [기존 프로젝트 복사](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [프로젝트 템플릿 비활성화](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [프로젝트 템플릿에서 프로젝트 팀 편집](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

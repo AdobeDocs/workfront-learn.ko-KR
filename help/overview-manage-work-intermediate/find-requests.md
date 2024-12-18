@@ -10,12 +10,13 @@ role: User
 level: Beginner
 last-substantial-update: 2023-08-10T00:00:00Z
 recommendations: noDisplay,catalog
+doc-type: video
 jira: KT-10143
 hide: true
 exl-id: 7655ce23-ee3a-4c66-b8fd-98c2c7a8517b
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -32,9 +33,8 @@ ht-degree: 100%
 * 사용자 정의 대시보드
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
 
-사용자 정의 보고서를 만들어 대시보드에 넣는 방법을 알아보려면 [기본 보고서 생성 과정](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html)을 참조하십시오.
 
 ## 이 주제와 관련된 추천 튜토리얼
 

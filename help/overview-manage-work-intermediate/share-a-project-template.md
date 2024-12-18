@@ -11,9 +11,11 @@ team: Technical Marketing
 jira: KT-8951
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+recommendations: noDisplay,catalog
+exl-id: d154cbc5-f52a-45aa-a236-8c3bf5e712fa
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
@@ -26,3 +28,11 @@ ht-degree: 100%
 * 템플릿을 사용하여 만든 프로젝트 공유
 
 >[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on)
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [프로젝트 템플릿 만들기 및 블루프린트에 대해 알아보기](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [템플릿에서 직접 프로젝트 만들기](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [기존 프로젝트 복사](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [프로젝트 템플릿 비활성화](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [프로젝트 템플릿에서 프로젝트 팀 편집](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
