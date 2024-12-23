@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 78%
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
 
-* 증명에서 승인 확인
-* 문서에서 승인 확인
+* 교정쇄에 대한 승인 확인
+* 문서 승인 확인
 * 문서 업로드
-* 증명 업로드에 대한 교육 찾기
+* 교정쇄 업로드 관련 교육 과정 찾기
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
