@@ -1,6 +1,6 @@
 ---
 title: 글로벌 승인 프로세스 및 일회용 승인 프로세스 만들기
-description: 프로젝트, 작업 또는 문제에 대해 전역 및 일회용 승인 프로세스를 만드는 방법을 알아봅니다.
+description: 프로젝트, 작업 또는 문제에 대한 글로벌 및 일회용 승인 프로세스를 만드는 방법에 대해 알아봅니다.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -14,9 +14,9 @@ recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
 source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '442'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ ht-degree: 96%
 
 ![대기열 주제에서 기본 승인 프로세스를 선택하는 방법을 보여주는 이미지](assets/automatic-issue-approval-1.png)
 
-**[!UICONTROL 이전 상태]**&#x200B;가 승인이 거부될 때 문제가 설정된 상태가 아닌지 확인하려면 문제 승인 프로세스를 편집해야 할 수도 있습니다. 이전 상태가 **[!UICONTROL 신규]**&#x200B;였고 이 상태가 승인 프로세스를 트리거하는 상태이므로, 승인되면 이 상태로 설정됩니다. 문제 승인이 거부될 때 혼란을 피하려면 상태를 **[!UICONTROL 해결되지 않음]**&#x200B;과 같이 설정하거나 이 목적에 맞는 사용자 정의 상태를 만드는 것이 좋습니다.
+**[!UICONTROL 이전 상태]**&#x200B;가 승인이 거부될 때 문제가 설정된 상태가 아닌지 확인하려면 문제 승인 프로세스를 편집해야 할 수도 있습니다. 이전 상태가 **[!UICONTROL 신규]**&#x200B;였고 이 상태가 승인 프로세스를 트리거하는 상태이므로 승인되면 이 상태로 설정됩니다. 문제 승인이 거부될 때 혼란을 피하려면 상태를 **[!UICONTROL 해결되지 않음]**&#x200B;과 같이 설정하거나 이 목적에 맞는 사용자 정의 상태를 만드는 것이 좋습니다.
 
 ![문제가 거부되었을 때 사용할 상태를 변경하는 것을 보여주는 이미지](assets/automatic-issue-approval-2.png)
 

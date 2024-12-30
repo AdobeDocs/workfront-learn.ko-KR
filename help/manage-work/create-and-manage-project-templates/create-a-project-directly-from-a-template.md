@@ -1,6 +1,6 @@
 ---
 title: 템플릿에서 직접 프로젝트 만들기
-description: 이미 빌드된 템플릿으로 시작하여 프로젝트를 만드는 방법을 알아봅니다.
+description: 이미 빌드된 템플릿으로 시작하여 프로젝트를 만드는 방법에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,9 +12,9 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 

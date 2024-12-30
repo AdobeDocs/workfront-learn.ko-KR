@@ -1,6 +1,6 @@
 ---
 title: 배운 내용 기록
-description: 프로젝트를 닫을 때 "배운 내용"을 활용하는 방법을 알아봅니다.
+description: 프로젝트 종료 시 “배운 내용”을 통해 이점을 얻을 수 있는 방법에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,20 +14,20 @@ jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
 source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 36%
+ht-degree: 100%
 
 ---
 
 # 배운 내용 기록
 
-이 비디오에서는 다음과 같은 이점을 제공합니다.
+이 비디오에서 다음과 같은 이점을 확인하실 수 있습니다.
 
-* &quot;학습된 교훈&quot; 작업 만들기
-* &quot;학습된 단원&quot; 사용자 정의 양식을 프로젝트에 첨부
-* &quot;학습된 교훈&quot; 사용자 정의 보고서 만들기
-* &quot;학습된 교훈&quot; 프로젝트 만들기
+* “배운 내용” 작업 만들기
+* 프로젝트에 “배운 내용” 사용자 정의 양식 첨부
+* “배운 내용” 사용자 정의 보고서 만들기
+* “배운 내용” 프로젝트 만들기
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 

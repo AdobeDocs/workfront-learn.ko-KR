@@ -1,6 +1,6 @@
 ---
 title: 시간 기록 및 검토
-description: 미해결 시간을 기록하고 프로젝트를 종료하기 전에 기록된 시간을 검토하십시오.
+description: 프로젝트를 종료하기 전에 미해결 시간을 기록하고 기록된 시간을 검토합니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,9 +14,9 @@ last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
 source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
