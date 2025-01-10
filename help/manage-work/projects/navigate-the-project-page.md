@@ -14,9 +14,9 @@ jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
 source-git-commit: 0e5d5b5aea9d6242134c3640805231773c8b5159
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '504'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 98%
 
 ## 프로젝트 페이지의 주요 부분
 
-이 페이지의 PDF을 다운로드하려면 [여기를 클릭](/help/assets/key-parts-of-the-project-page.pdf)하세요.
+이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/key-parts-of-the-project-page.pdf)하십시오.
 
 프로젝트 페이지는 작업 관리에 도움이 되는 여러 기능으로 채워져 있습니다. [!DNL Workfront] 인스턴스에 표시되지 않는 필수 옵션이 있는 경우, 시스템 관리자와 함께 작업합니다. 다음은 주목해야 할 몇 가지 주요 프로젝트 페이지 기능입니다.
 
