@@ -1,6 +1,7 @@
 ---
 title: 추가 기본 매핑 워크스루
 description: ' [!DNL Adobe Workfront Fusion]에서 매핑 패널 수식을 사용하여 이전에 만든 시나리오에서 일부 프로젝트 필드를 변경합니다.'
+short-description: 이 비디오 연습에서는 매핑 패널 수식을 사용하여 첫 번째 연습에서 만든 "초기 시나리오 디자인"에서 프로젝트 이름, 계획된 시작 날짜 및 우선 순위를 변경할 수 있습니다.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +12,10 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+workflow-type: tm+mt
+source-wordcount: '295'
+ht-degree: 89%
 
 ---
 

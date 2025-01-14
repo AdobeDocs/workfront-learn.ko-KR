@@ -1,6 +1,7 @@
 ---
 title: Workfront Fusion 교육 개요
 description: Adobe Workfront Fusion 활동 책자와 Workfront 테스트 드라이브 계정을 얻는 방법을 알아봅니다.
+short-description: 각 Workfront Fusion 섹션에는 여러 자습서가 포함되어 있으며 각 자습서에서는 다음 자습서로 진행하기 전에 이해해야 하는 개념을 제공합니다.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,10 +11,10 @@ level: Beginner
 jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+workflow-type: tm+mt
+source-wordcount: '426'
+ht-degree: 94%
 
 ---
 

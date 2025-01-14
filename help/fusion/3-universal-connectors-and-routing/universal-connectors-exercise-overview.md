@@ -1,6 +1,7 @@
 ---
 title: 범용 커넥터 연습 개요
 description: ' [!DNL Adobe Workfront Fusion]에서 범용 커넥터의 성능을 활용하고, 외부 API에 연결하고 배열에서 정보를 추출하는 방법을 배워봅니다.'
+short-description: 이 비디오에서는 범용 커넥터의 기능을 탭하고 외부 API에 연결하고 공식 편집기를 사용하여 배열에서 정보를 추출하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +12,10 @@ jira: KT-9010
 exl-id: a44d93cb-6572-497e-b24c-5cacc9d79391
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 66%
 
 ---
 
