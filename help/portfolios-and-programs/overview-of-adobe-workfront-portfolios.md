@@ -1,6 +1,6 @@
 ---
 title: 포트폴리오 이해
-description: 포트폴리오가 무엇인지, 그리고 포트폴리오가 프로젝트를 비교하고 우선 순위를 지정하는 데 어떻게 도움이 되는지 알아봅니다.
+description: 포트폴리오와 프로젝트의 우선순위를 정하고 프로젝트를 서로 비교하는 데 도움이 되는 방식을 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -13,9 +13,9 @@ jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 source-git-commit: 14e43ba0c7f04e26db0b3b6d306d48e170c6bbeb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 45%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 45%
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 포트폴리오란?
-* 프로젝트를 비교하고 우선 순위를 지정하는 데 도움이 되는 방법입니다.
-* 포트폴리오를 만드는 방법.
+* 포트폴리오 소개
+* 프로젝트를 비교하고 우선 순위를 지정하는 데 도움이 되는 방식
+* 포트폴리오를 만드는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops)
 
