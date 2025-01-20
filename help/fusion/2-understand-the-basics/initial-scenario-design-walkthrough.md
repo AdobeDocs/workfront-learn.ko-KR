@@ -1,7 +1,7 @@
 ---
 title: 초기 시나리오 디자인 워크스루
 description: ' [!DNL Adobe Workfront Fusion]에서 폴더 및 새 시나리오를 만들고, 시나리오 디자이너를 사용하고, 기본 시나리오를 만드는 방법을 알아봅니다.'
-short-description: 여기서는 시나리오 만들기에 대한 연습 비디오를 볼 수 있습니다.
+short-description: 여기에서 시나리오를 만드는 방법에 대한 연습 워크스루 비디오를 시청할 수 있습니다.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,9 +13,9 @@ exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -38,4 +38,4 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 ## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-kr)

@@ -13,9 +13,9 @@ role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
 source-git-commit: 8ba1b014f981b2a438e7c8754ad8c681f710d4e9
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '66'
+ht-degree: 100%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
-* 비즈니스 사례를 작성하는 이유
-* 비즈니스 사례 작성 방법
+* 비즈니스 사례를 작성해야 하는 이유
+* 비즈니스 사례를 작성하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on)
 

@@ -1,7 +1,7 @@
 ---
 title: 시나리오 가드레일
 description: ' [!DNL Adobe Workfront Fusion]에서 시나리오 가드레일, 모듈 가드레일, 파일 가드레일 및 웹후크 가드레일에 대해 알아봅니다.'
-short-description: 오래 실행되는 시나리오는 작업 속도를 저하시킬 수 있으므로, Workfront Fusion은 실행 시간, 데이터 크기 및 기타 시나리오 매개 변수를 제한하는 성능 보존 가드레일을 사용하여 디자인되었습니다
+short-description: 장기 실행 시나리오는 작업 속도를 늦출 수 있으므로 Workfront Fusion은 실행 시간, 데이터 크기 및 기타 시나리오 매개변수를 제한하는 성능 보장 가드레일로 설계되었습니다.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,9 +13,9 @@ exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -34,6 +34,6 @@ ht-degree: 79%
 
 ## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-kr)
 
 [Adobe Workfront Fusion 성능 가드레일](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)
