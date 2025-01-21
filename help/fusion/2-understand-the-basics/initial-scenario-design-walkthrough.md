@@ -13,7 +13,7 @@ exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 
@@ -36,6 +36,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
 
 
-## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
+## 자세히 알아보시겠습니까? 다음 자료를 참조하십시오.
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-kr)
