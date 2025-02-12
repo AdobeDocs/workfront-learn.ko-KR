@@ -1,6 +1,6 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
 workflow-type: tm+mt
 source-wordcount: '2405'
 ht-degree: 99%
@@ -647,7 +647,9 @@ ht-degree: 99%
 
 
 
-
+<!---
+The following tutorials are hidden from the TOC but need to be here so their links can be referenced.
+--->
 + [요청 관리](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [리소스 용량 차트 이해](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
 + [기본 그룹화 활동 만들기](/help/reporting/basic-reporting/create-basic-grouping-activities.md)

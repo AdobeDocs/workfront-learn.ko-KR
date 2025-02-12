@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: kt-8857
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: e0ae6eaacc03980ad53c0471681211f76dfaff26
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 77%
+source-wordcount: '66'
+ht-degree: 68%
 
 ---
 
@@ -29,13 +29,3 @@ ht-degree: 77%
 * 다른 Workfront 사용자와 필터를 공유하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
-
-## 새 필터 환경 이해
-
-이 비디오에서는 다음 방법을 배우게 됩니다.
-
-* 새 필터 환경 활성화 및 비활성화
-* 필터 만들기 및 편집
-* 스택 필터
-
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)
