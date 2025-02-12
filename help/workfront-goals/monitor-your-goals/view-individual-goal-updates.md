@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * [!UICONTROL 펄스] 업데이트 스트림의 개인 목표 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on&enablevpops)
 
 ## 펄스 스트림의 정보 필터링
 

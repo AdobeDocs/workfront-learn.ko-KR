@@ -6,7 +6,7 @@ type: Tutorial
 team: Technical Marketing
 jira: KT-8806
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 * 제출된 요청 보기
 * 요청 초안 찾기
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
 
 ## 요청 대기열 경로에 빠르고 쉽게 액세스
 

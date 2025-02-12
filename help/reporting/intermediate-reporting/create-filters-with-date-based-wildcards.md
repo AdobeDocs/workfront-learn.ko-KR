@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 와일드카드, 속성, 연산자 및 수정자를 사용하여 사용자 정의 일자 만들기
 * 와일드카드를 사용하여 사용자 정의 날짜 범위 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops)
 
 ## 활동 질문
 

@@ -14,10 +14,10 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: d9beede9-fe6d-4d2b-be1b-ee41d3130b43
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 * 작업 시작 일자 설정이 작업 제한 사항에 미치는 영향
 * 전임 작업 진입 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
 
 <!---
 Learn more urls

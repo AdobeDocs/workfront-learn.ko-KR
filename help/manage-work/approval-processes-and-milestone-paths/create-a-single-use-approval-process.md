@@ -13,8 +13,8 @@ last-substantial-update: 2024-09-24T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 이 비디오에서는 프로젝트, 작업 또는 문제에 대한 글로벌 승인 프로세스와 일회용 승인 프로세스를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
 
 >[!TIP]
 >

@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8976
 exl-id: fffb4ab8-acec-4d7b-a786-f6be538bc7ee
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 메타데이터 및 키워드의 유지 관리 계획
 * [!UICONTROL Workfront DAM] 모범 사례 설정
 
->[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on&enablevpops)

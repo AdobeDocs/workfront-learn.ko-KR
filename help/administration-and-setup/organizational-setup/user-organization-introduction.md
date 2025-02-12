@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-8756
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
@@ -24,7 +24,7 @@ ht-degree: 100%
 * 그룹
 * 팀
 
->[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on&enablevpops)
 
 시작하기 전에 [!DNL Workfront]에서 사용자 조직을 탐색할 때 익숙해져야 할 몇 가지 주요 용어는 다음과 같습니다.
 

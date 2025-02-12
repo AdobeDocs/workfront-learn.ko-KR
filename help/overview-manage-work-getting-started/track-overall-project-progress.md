@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-10149
 hide: true
 exl-id: 64fc1556-7711-4429-9f48-7ed3136e3d98
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '67'
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 * 진행 중인 문제
 * 조건 업데이트 열
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

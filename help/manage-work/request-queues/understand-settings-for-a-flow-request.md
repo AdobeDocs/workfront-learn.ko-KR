@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '75'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 대기열 관리와 관련된 요청 흐름 프로세스
 * 라우팅 규칙, 주제 그룹 및 대기열 주제 작성 및 사용 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

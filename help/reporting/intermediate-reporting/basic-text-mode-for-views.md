@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '649'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [보고 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=ko-KR)
+>* [보고 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=ko)
 >* [보고 구성 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=ko-KR)
 >* [기본 보기 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ko-KR)
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 >[!TIP]
 >
 >* 텍스트 모드에 대해 자세히 알아보려면 한 시간 길이의 녹화된 웨비나 이벤트인 [전문가에게 질문하기 - 텍스트 모드 보고 소개](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=ko-KR)를 시청하는 것이 좋습니다.
->* 텍스트 모드에 대해 자세히 알아보려면 총 5시간 30분 길이의 [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ko-KR) 튜토리얼을 시청하는 것이 좋습니다.
+>* 텍스트 모드에 대해 자세히 알아보려면 총 5시간 30분 길이의 [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ko) 튜토리얼을 시청하는 것이 좋습니다.
 >* [[!UICONTROL API 탐색기]](https://developer.adobe.com/workfront/api-explorer/)에 액세스하려면 여기를 클릭하십시오.
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
@@ -40,7 +40,7 @@ ht-degree: 100%
 * 카멜 표기법의 정의
 * 보기에서 사용할 수 있는 몇 가지 기본 “플러그 앤 플레이” 텍스트 모드
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops)
 
 ## 과제 - 상위 항목 4개 보기
 
@@ -513,9 +513,9 @@ section=0
 
 ![문서 승인 일자 보기를 보여 주는 화면 이미지](assets/document-approval-dates.png)
 
-## 증명 승인
+## 교정쇄 승인
 
-### 증명 승인 - 프로젝트 이름 표시
+### 교정쇄 승인 - 프로젝트 이름 표시
 
 ```
 displayname=Project Name
@@ -524,7 +524,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-### 증명 승인 - 작업 이름 표시
+### 교정쇄 승인 - 작업 이름 표시
 
 ```
 displayname=Task Name
@@ -533,4 +533,4 @@ valuefield=documentVersion:document:task:name
 valueformat=HTML
 ```
 
-![증명 승인의 프로젝트 및 작업을 보여 주는 화면 이미지](assets/proof-approval-project-and-task.png)
+![교정쇄 승인의 프로젝트 및 작업을 보여 주는 화면 이미지](assets/proof-approval-project-and-task.png)

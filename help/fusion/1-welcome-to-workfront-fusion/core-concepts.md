@@ -11,9 +11,9 @@ jira: KT-9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '283'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 * Workfront Fusion을 구성하는 세 가지 핵심 개념인 시나리오, 앱 및 모듈
 
->[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on&enablevpops)
 
 ## 핵심 개념 용어
 

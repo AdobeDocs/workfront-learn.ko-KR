@@ -10,10 +10,10 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 100%
 * 그룹 만들기 및 편집
 * 사용자 추가 및 편집
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops)
 
 ## 그룹 및 사용자 검토
 
 [!UICONTROL Workfront DAM] 시스템을 구성할 때는 전체적으로 사용자 및 그룹이 수행하는 역할을 고려하는 것이 중요합니다.
 
-그룹은 [!UICONTROL Workfront DAM]의 자산 폴더에 대한 액세스를 제어합니다. 그룹 설정은 또한 사용자가 액세스 권한이 있는 자산으로 수행할 수 있는 작업(보기, 다운로드, 편집 등)을 제어합니다.
+그룹은 [!UICONTROL Workfront DAM]의 자산 폴더에 대한 액세스를 제어합니다. 그룹 설정은 또한 액세스 권한이 있는 에셋(보기, 다운로드, 편집 등)으로 사용자가 수행할 수 있는 작업을 제어합니다.
 
 그룹을 만들 때 [!UICONTROL Workfront DAM]에서 해당 그룹의 멤버가 액세스해야 하는 자산 폴더를 유념해야 합니다.
 

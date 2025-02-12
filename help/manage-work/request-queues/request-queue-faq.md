@@ -9,9 +9,9 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '709'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 다음 비디오를 통해 자세한 내용을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops)
 
 **사용자에게 대기열에 대한 액세스 권한을 부여했지만 사용자가 요청 대기열 프로젝트도 볼 수 있는 상태입니다. 이유가 무엇입니까?**
 
@@ -62,7 +62,7 @@ ht-degree: 100%
 
 다음 비디오를 통해 자세한 내용을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops)
 
 
 **보고서에서 요청 대기열을 필터링하는 가장 좋은 방법은 무엇입니까?**
@@ -73,7 +73,7 @@ ht-degree: 100%
 
 다음 비디오를 통해 자세한 내용을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops)
 
 **요청 대기열에 사용자 정의 상태를 만드는 것이 좋은 방법입니까?**
 

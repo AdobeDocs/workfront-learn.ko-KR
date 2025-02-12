@@ -11,7 +11,7 @@ thumbnail: 335153.png
 jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 차트로 데이터 시각화를 향상하는 방법
 * Workfront의 차트 도구를 사용하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops)
 
 ## 활동: 보고서에 차트 추가
 

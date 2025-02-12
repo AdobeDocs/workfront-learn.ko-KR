@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 100%
 * 프로젝트, 작업, 문제에 대한 승인 위임
 * 위임된 승인 식별
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

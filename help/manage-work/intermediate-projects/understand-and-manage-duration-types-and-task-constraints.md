@@ -12,8 +12,8 @@ last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
 exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
-source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 * 사용에 대한 모범 사례
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops)
 
 
 **기간 유형 및 작업 제한 사항 보기**&#x200B;를 만드는 방법에 대한 자세한 내용은 [기본 보기 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ko)의 기간 유형 및 작업 제한 사항 보기 활동을 참조하십시오.

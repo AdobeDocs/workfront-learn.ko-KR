@@ -13,23 +13,23 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
 # 배운 내용 기록
 
-이 비디오에서는 다음과 같은 이점을 제공합니다.
+이 비디오에서 다음과 같은 이점을 확인하실 수 있습니다.
 
-* &quot;학습된 교훈&quot; 작업 만들기
-* &quot;학습된 단원&quot; 사용자 정의 양식을 프로젝트에 첨부
-* &quot;학습된 교훈&quot; 사용자 정의 보고서 만들기
-* &quot;학습된 교훈&quot; 프로젝트 만들기
+* “배운 내용” 작업 만들기
+* 프로젝트에 “배운 내용” 사용자 정의 양식 첨부
+* “배운 내용” 사용자 정의 보고서 만들기
+* “배운 내용” 프로젝트 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

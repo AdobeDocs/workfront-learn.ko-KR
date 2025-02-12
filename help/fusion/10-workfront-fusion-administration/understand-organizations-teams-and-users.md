@@ -11,8 +11,8 @@ jira: KT-9068
 exl-id: d7b08769-aeca-4b4e-b04c-96472c8ae476
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * 조직, 팀 및 사용자 간에 사용하고, 만들고, 탐색하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on&enablevpops)

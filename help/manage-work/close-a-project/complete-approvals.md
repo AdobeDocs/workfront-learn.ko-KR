@@ -13,8 +13,8 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 해결되지 않은 작업 승인을 찾고 처리하는 방법
 * 해결되지 않은 문제 승인을 찾고 처리하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

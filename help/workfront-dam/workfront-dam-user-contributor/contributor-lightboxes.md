@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 라이트박스와 공동 작업
 * 라이트박스 콘텐츠 공유
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops)
 
 ## 라이트박스와 폴더 비교
 

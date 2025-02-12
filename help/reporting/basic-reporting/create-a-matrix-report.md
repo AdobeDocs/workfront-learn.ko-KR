@@ -11,7 +11,7 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 매트릭스 보고서가 유용할 수 있는 경우
 * 매트릭스 보고서를 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on&enablevpops)
 
 ## 활동: 매트릭스 보고서 만들기
 

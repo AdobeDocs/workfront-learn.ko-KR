@@ -13,9 +13,9 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 활성화 및 비활성화 권한을 부여하는 프로젝트 템플릿을 공유하는 방법.
 * 프로젝트 템플릿을 활성화 및 비활성화하는 방법.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
 
 ## 프로젝트 템플릿의 활성 상태를 확인 및 편집하기 위해 사용자 정의 보기를 만드는 방법을 알아봅니다.
 

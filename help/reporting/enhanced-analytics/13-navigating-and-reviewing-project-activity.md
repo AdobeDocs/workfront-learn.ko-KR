@@ -12,9 +12,9 @@ jira: KT-8731
 recommendations: noDisplay,catalog
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '235'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * 로그인한 사용자, 작업 상태 변경 및 완료된 작업을 기반으로 프로젝트를 비교하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops)
 
 ## 프로젝트 작업 비교
 

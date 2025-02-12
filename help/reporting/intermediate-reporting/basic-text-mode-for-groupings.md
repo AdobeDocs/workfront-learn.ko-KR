@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 100%
@@ -22,15 +22,15 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [보고 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=ko-KR)
->* [보고 구성 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=ko-KR)
+>* [보고 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=ko)
+>* [보고 구성 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=ko)
 >* [기본 그룹화 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=ko-KR)
 
 
 >[!TIP]
 >
->* 텍스트 모드에 대해 자세히 알아보려면 한 시간 길이의 녹화된 웨비나 이벤트인 [전문가에게 질문하기 - 텍스트 모드 보고 소개](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=ko-KR)를 시청하는 것이 좋습니다.
->* 텍스트 모드에 대해 자세히 알아보려면 총 5시간 30분 길이의 [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ko-KR) 튜토리얼을 시청하는 것이 좋습니다.
+>* 텍스트 모드에 대해 자세히 알아보려면 한 시간 길이의 녹화된 웨비나 이벤트인 [전문가에게 질문하기 - 텍스트 모드 보고 소개](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=ko)를 시청하는 것이 좋습니다.
+>* 텍스트 모드에 대해 자세히 알아보려면 총 5시간 30분 길이의 [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ko) 튜토리얼을 시청하는 것이 좋습니다.
 >* [[!UICONTROL API 탐색기]](https://developer.adobe.com/workfront/api-explorer/)에 액세스하려면 여기를 클릭하십시오.
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
@@ -39,7 +39,7 @@ ht-degree: 100%
 * 카멜 표기법의 정의
 * 그룹화에서 사용할 수 있는 몇 가지 기본 “플러그 앤 플레이” 텍스트 모드
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops)
 
 ## 작업 - 4개의 상위 그룹화
 
@@ -104,7 +104,7 @@ textmode=true
 ![statusEquatesWith로 그룹화된 프로젝트 작업을 보여 주는 화면 이미지](assets/status-equates-with.png)
 
 
-## 증명 승인 - 프로젝트 이름별로 그룹화
+## 교정쇄 승인 - 프로젝트 이름별로 그룹화
 
 ```
 group.0.valueformat=HTML
@@ -112,10 +112,10 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![프로젝트 이름별로 그룹화된 증명 승인을 보여 주는 화면 이미지](assets/proof-approvals-grouped-by-project-name.png)
+![프로젝트 이름별로 그룹화된 교정쇄 승인을 보여 주는 화면 이미지](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## 증명 승인 - 문서 이름별로 그룹화
+## 교정쇄 승인 - 문서 이름별로 그룹화
 
 ```
 group.0.displayname=Document Name
@@ -123,5 +123,5 @@ group.0.valuefield=documentVersion:document:name
 group.0.valueformat=HTML
 ```
 
-![프로젝트 이름별로 그룹화된 증명 승인을 보여 주는 화면 이미지](assets/proof-approvals-grouped-by-doc-name.png)
+![프로젝트 이름별로 그룹화된 교정쇄 승인을 보여 주는 화면 이미지](assets/proof-approvals-grouped-by-doc-name.png)
 

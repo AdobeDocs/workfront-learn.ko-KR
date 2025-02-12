@@ -11,9 +11,9 @@ jira: KT-9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '212'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,7 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 * 모듈의 두 모듈 사이에 필터 추가
 
->[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on&enablevpops)
 
 
 ## 사용자 차례

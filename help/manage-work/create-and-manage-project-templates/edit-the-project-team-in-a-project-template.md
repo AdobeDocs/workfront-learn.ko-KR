@@ -13,9 +13,9 @@ team: Technical Marketing
 jira: KT-14755
 doc-type: video
 exl-id: 9a92a0a5-5ea3-428d-a81a-2d217e6e3d59
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 템플릿 프로젝트 팀에 프로젝트 팀원이 **아닌** 구성원을 의도하지 않게 제외시키는 방법.
 * 템플릿 프로젝트 팀을 편집하는 방법.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

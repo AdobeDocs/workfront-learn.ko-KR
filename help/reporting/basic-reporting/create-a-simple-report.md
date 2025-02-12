@@ -11,7 +11,7 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 100%
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 * 기존 필터, 보기 및 그룹화를 사용하여 간단한 보고서 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops)
 
 ## 활동: 간단한 작업 보고서 만들기
 

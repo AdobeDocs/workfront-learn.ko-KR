@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8971
 exl-id: 566415e9-f9a5-4038-aae7-6e08ae67d4b3
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
@@ -27,4 +27,4 @@ ht-degree: 100%
 * 키워드 분류의 이점
 * 메타데이터 및 키워드를 사용하여 자산 검색
 
->[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on&enablevpops)

@@ -14,7 +14,7 @@ doc-type: video
 recommendations: noDisplay,catalog
 hide: true
 exl-id: d1246b53-922e-44f5-b4db-c68afa974c71
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 활성화 및 비활성화 권한을 부여하는 프로젝트 템플릿을 공유하는 방법.
 * 프로젝트 템플릿을 활성화 및 비활성화하는 방법.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
 
 ## 프로젝트 템플릿의 활성 상태를 확인 및 편집하기 위해 사용자 정의 보기를 만드는 방법을 알아봅니다.
 

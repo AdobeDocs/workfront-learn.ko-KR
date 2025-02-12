@@ -11,7 +11,7 @@ thumbnail: 335104.png
 jira: KT-8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * [!DNL  Workfront]에서 상태가 중요한 이유
 * 완료된 작업을 보기 위해 [!UICONTROL 작업 목록]을 필터링하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops)
 
 
 ## 작업 완료를 나타내는 두 가지 방법

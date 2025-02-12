@@ -11,9 +11,9 @@ jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '155'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 100%
 * 고성능에 적합한 설계 결정
 * 가정에 도전하고 관련자에게 최상의 조언 제공
 
->[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on&enablevpops)
 
 ## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 

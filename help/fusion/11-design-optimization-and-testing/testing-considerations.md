@@ -11,9 +11,9 @@ jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '316'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,7 @@ Workfront Fusion 테스트는 연결된 소프트웨어 플랫폼과 Workfront F
 * 상세하고 공유 가능한 설명서 작성
 * 테스트 깊이, 범위, 복잡성 및 로드
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops)
 
 ## 테스트 고려 사항 체크리스트
 

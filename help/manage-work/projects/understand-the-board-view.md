@@ -12,9 +12,9 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 100%
 * [!UICONTROL 보드] 보기를 사용하는 방법
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

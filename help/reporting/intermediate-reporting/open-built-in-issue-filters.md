@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 몇 가지 유용한 문제 보고 요소에 대해 알아보기
 * 고유한 문제 필터를 만드는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops)
 
 ## 활동: 문제 보고서 만들기
 

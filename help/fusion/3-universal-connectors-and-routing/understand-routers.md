@@ -11,9 +11,9 @@ jira: KT-9012
 exl-id: 38517856-094f-48e1-8930-ad0d27bec6ec
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '58'
 ht-degree: 100%
 
 ---
@@ -26,4 +26,4 @@ ht-degree: 100%
 * 데이터 번들의 라우터 경로를 통과하는 방식
 * 라우터 추가 및 사용 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on&enablevpops)

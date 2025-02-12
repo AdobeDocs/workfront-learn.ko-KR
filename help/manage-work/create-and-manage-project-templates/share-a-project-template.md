@@ -12,9 +12,9 @@ recommendations: noDisplay,catalog
 jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 다른 사용자와 템플릿 공유
 * 템플릿을 사용하여 만든 프로젝트 공유
 
->[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

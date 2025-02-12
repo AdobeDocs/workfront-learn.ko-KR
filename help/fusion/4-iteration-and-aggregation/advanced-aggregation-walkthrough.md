@@ -11,9 +11,9 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '245'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops)
 
 ## 연습용 URL
 

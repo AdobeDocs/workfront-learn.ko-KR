@@ -11,9 +11,9 @@ jira: KT-9059
 exl-id: 8f16d7e1-2eb1-400f-bdad-5d05745a0ba7
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
@@ -28,4 +28,4 @@ JSON(JavaScript Object Notation)은 데이터 저장 및 교환에 널리 사용
 * JSON을 읽는 방법 및 시나리오 내에서 사용할 데이터로 변환하는 방법
 * JSON을 생성, 변경 및 작업할 때 JSON 모듈을 사용하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12&learn=on&enablevpops)

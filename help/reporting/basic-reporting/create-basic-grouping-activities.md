@@ -1,6 +1,6 @@
 ---
-title: 기본 그룹화 만들기
-description: 그룹화의 저의, 그룹화를 만드는 방법, Workfront에서 다른 사용자와 그룹화를 공유하는 방법에 대해 알아봅니다.
+title: 기본 그룹화 활동 만들기
+description: 단계별 지침을 사용하여 기본 그룹화 만들기를 연습합니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,26 +9,15 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
-doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '185'
+ht-degree: 60%
 
 ---
 
-# 기본 그룹화 만들기
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
-
-* Workfront에서 그룹화의 정의
-* 그룹화를 만드는 방법
-* 다른 Workfront 사용자와 그룹화를 공유하는 방법
-
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
-
-## 활동: 기본 그룹화 만들기
+# 활동: 기본 그룹화 만들기
 
 요청 대기열을 통해 들어오는 요청을 추적하기 위해 보고서에서 사용할 문제 그룹화를 만듭니다. 이 그룹화를 통해 우선 순위별로 그룹화된 유사한 유형의 문제/요청을 쉽게 볼 수 있습니다. 그룹화 이름을 &quot;요청 대기열, 대기열 주제, 우선 순위&quot;로 지정합니다.
 

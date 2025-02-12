@@ -13,7 +13,7 @@ exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="통합" type="positive"
 feature-set: Workfront
 topic: Integrations
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 100%
@@ -48,8 +48,8 @@ Workfront를 Creative Cloud와 통합하여 다음 Adobe Creative Cloud 애플�
 * Workfront에 파일 업로드
 * 댓글 추가 및 팀원 태그 지정
 * 문서 승인 요청
-* 증명 업로드 및 증명 워크플로 할당
+* 교정쇄 업로드 및 교정 워크플로 할당
 * 로그 시간
 * 작업을 완료로 표시
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops)

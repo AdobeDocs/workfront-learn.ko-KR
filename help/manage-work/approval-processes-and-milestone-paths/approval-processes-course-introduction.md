@@ -9,7 +9,7 @@ level: Intermediate
 team: Technical Marketing
 jira: KT-8961
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 이 비디오에서는 승인 프로세스를 통해 작업 검토 프로세스를 단순화하고 자동화하는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335224/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335224/?quality=12&learn=on&enablevpops)

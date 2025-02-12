@@ -12,9 +12,9 @@ jira: KT-8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
@@ -27,4 +27,4 @@ ht-degree: 100%
 
 1. 비디오를 시청하여 이들 파일을 Workfront 폴더에 업로드하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on&enablevpops)

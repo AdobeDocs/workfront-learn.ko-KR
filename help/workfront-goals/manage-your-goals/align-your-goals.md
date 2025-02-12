@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 100%
@@ -52,4 +52,4 @@ ht-degree: 100%
 * 상향식 및 하향식 접근법을 모두 사용하여 목표 정렬
 * [!UICONTROL 목표 정렬] 섹션 탐색
 
->[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops)

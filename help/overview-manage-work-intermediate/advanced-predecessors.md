@@ -12,7 +12,8 @@ last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 8ef57b1c-39fb-4c4e-852e-994ea718e91a
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
@@ -36,7 +37,7 @@ ht-degree: 100%
 * 종속 루프 오류
 * 요령 및 모범 사례
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops)
 
 전임 작업에 대한 자세한 내용은 [작업 전임 작업 사용](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html)을 참조하십시오.
 

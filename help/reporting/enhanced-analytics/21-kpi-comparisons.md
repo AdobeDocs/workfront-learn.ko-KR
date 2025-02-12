@@ -12,9 +12,9 @@ jira: KT-8739
 recommendations: noDisplay,catalog
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
@@ -27,4 +27,4 @@ ht-degree: 100%
 * 날짜 범위를 변경하는 방법
 * KPI를 서로 다른 두 필터와 나란히 비교하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops)

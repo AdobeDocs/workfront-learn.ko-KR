@@ -11,7 +11,7 @@ thumbnail: 335170.jpeg
 jira: KT-8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * [!UICONTROL 프로젝트별 보기] 참조
 * 리소스 정보가 이 보기에 표시되는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops)
 
 프로젝트별 보기 옵션의 경우, 기본값은 비즈니스 사례에서 프로젝트에 필요한 예상 리소스 수를 가져오는 예산 열을 표시하는 것입니다(채워진 경우). 또한 기본적으로 Net 열이 예산 열의 숫자를 사용하여 남은 리소스 수를 알려 준다는 것을 의미합니다.
 

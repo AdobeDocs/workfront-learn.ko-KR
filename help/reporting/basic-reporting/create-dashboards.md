@@ -11,7 +11,7 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '463'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 다른 Workfront 사용자와 대시보드를 공유하는 방법
 * 대시보드를 인쇄하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops)
 
 ## 활동: 대시보드 만들기
 

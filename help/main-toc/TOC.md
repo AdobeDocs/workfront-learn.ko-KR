@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2405'
 ht-degree: 99%
 
 ---
@@ -200,6 +200,7 @@ ht-degree: 99%
       + [기본 보기 만들기](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [보기에 기본 조건부 서식 추가](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [기본 필터 만들기](/help/reporting/basic-reporting/create-a-basic-filter.md)
+      + [새 필터 환경 이해](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [기본 필터 활동 만들기](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [간단한 보고서 만들기](/help/reporting/basic-reporting/create-a-simple-report.md)
       + [작업 보고서 만들기](/help/reporting/basic-reporting/create-a-task-report.md)
@@ -649,5 +650,5 @@ ht-degree: 99%
 
 + [요청 관리](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [리소스 용량 차트 이해](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
-
++ [기본 그룹화 활동 만들기](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
 

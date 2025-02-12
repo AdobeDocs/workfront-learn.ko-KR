@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 100%
@@ -30,11 +30,11 @@ ht-degree: 100%
 * 폴더에 메타데이터 템플릿 적용
 * 폴더 권한 설정
 
->[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops)
 
 ## 자산 버전 작동 방식
 
-워크플로 일부에는 자산의 여러 버전(또는 라운드, 증명, 반복 등) 관리가 포함될 수 있습니다. [!UICONTROL Workfront DAM]을 통해 모든 버전을 관리할 수 있습니다.
+워크플로 일부에는 자산의 여러 버전(또는 라운드, 교정쇄, 반복 등) 관리가 포함될 수 있습니다. [!UICONTROL Workfront DAM]을 통해 모든 버전을 관리할 수 있습니다.
 
 시스템은 기존 파일과 이름이 동일한 파일이 동일한 폴더에 업로드될 때 자동 자산 버전 제어를 허용합니다. 이 기능이 켜져 있는지 확인하려면 시스템 관리자에게 문의하십시오.
 

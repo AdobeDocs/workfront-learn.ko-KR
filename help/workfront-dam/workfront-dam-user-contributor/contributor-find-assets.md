@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 폴더 세부 정보 보기
 * 자산 메타데이터 및 키워드 보기 및 업데이트
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops)
 
 ## 기본 검색 기준
 

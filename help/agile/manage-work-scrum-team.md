@@ -8,7 +8,7 @@ jira: KT-10872
 thumbnail: 346282.jpeg
 exl-id: 50773b9b-8f64-4aed-bd44-3a43026bd085
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 100%
@@ -30,7 +30,7 @@ ht-degree: 100%
 
 이 비디오에서는 애자일 팀 백로그 프로젝트를 만들고 새 스토리를 만드는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops)
 
 애자일 팀이 백로그를 함께 정리합니다. 기본적으로 세 가지 작업을 수행해야 한다는 것을 의미합니다.
 

@@ -12,9 +12,9 @@ jira: KT-8729
 recommendations: noDisplay,catalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
+source-wordcount: '459'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * 플라이트 플랜 차트를 읽는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops)
 
 ## 플라이트 플랜 차트
 
