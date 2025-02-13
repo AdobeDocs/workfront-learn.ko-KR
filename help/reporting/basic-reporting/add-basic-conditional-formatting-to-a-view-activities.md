@@ -1,6 +1,6 @@
 ---
-title: 보기에 기본 조건부 서식 추가
-description: 열 규칙을 사용하여 설정한 기준에 따라 보고서 또는 보기에서 텍스트 색상, 서식 및 배경 색상을 변경하는 방법을 알아봅니다.
+title: 보기 활동에 기본 조건부 서식 추가
+description: 단계별 지침을 사용하여 보기에 기본 조건부 서식을 추가하는 방법을 연습합니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -9,25 +9,17 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8855
-exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '411'
+ht-degree: 87%
 
 ---
 
-# 보기에 기본 조건부 서식 추가
+# 보기 활동에 기본 조건부 서식 추가
 
-조건부 서식은 열 규칙을 생성하여 수행됩니다. 열 규칙을 사용하면 설정한 기준에 따라 특정 방법으로 열 형식을 지정할 수 있습니다.
-
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
-
-* 보기에 포함된 조건부 서식
-* 조건부 서식을 만들고 수정하는 방법
-
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+단계별 지침을 사용하여 보기에 기본 조건부 서식을 추가하는 방법을 연습합니다.
 
 ## 요약
 

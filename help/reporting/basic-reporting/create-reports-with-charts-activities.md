@@ -1,6 +1,6 @@
 ---
-title: 차트로 보고서 만들기
-description: Workfront에서 차트로 데이터 시각화를 향상하는 방법과 차트 도구를 사용하는 방법을 알아봅니다.
+title: 차트 활동을 사용하여 보고서 만들기
+description: 단계별 지침을 사용하여 차트를 사용하여 보고서를 작성하는 방법을 연습합니다.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
-exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 91%
+source-wordcount: '314'
+ht-degree: 81%
 
 ---
 
-# 차트로 보고서 만들기
+# 차트 활동을 사용하여 보고서 만들기
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
-
-* 차트로 데이터 시각화를 향상하는 방법
-* Workfront의 차트 도구를 사용하는 방법
-
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+단계별 지침을 사용하여 차트를 사용하여 보고서를 작성하는 방법을 연습합니다.
 
 ## 활동 1: 보고서에 차트 추가
 

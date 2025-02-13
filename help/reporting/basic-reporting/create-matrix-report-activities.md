@@ -1,6 +1,6 @@
 ---
-title: 매트릭스 보고서 만들기
-description: Workfront에서 매트릭스 보고서가 유용할 수 있는 경우 및 매트릭스 보고서를 만드는 방법을 알아봅니다.
+title: 매트릭스 보고서 활동 만들기
+description: 단계별 지침을 사용하여 매트릭스 보고서를 작성하는 방법을 연습합니다.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 79%
+source-wordcount: '236'
+ht-degree: 66%
 
 ---
 
-# 매트릭스 보고서 만들기
+# 매트릭스 보고서 활동 만들기
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
-
-* 매트릭스 보고서가 유용할 수 있는 경우
-* 매트릭스 보고서를 만드는 방법
-
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+단계별 지침을 사용하여 매트릭스 보고서를 작성하는 방법을 연습합니다.
 
 ## 활동 1: 매트릭스 보고서 만들기
 

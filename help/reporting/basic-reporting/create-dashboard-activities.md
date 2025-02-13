@@ -1,6 +1,6 @@
 ---
-title: 대시보드 만들기
-description: 다양한 목록 보고서, 차트, 캘린더 및 외부 웹 페이지를 Workfront의 대시보드에 결합하는 방법에 대해 알아봅니다.
+title: 대시보드 활동 만들기
+description: 단계별 지침을 사용하여 대시보드 만들기를 연습합니다.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,26 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 58%
+source-wordcount: '425'
+ht-degree: 49%
 
 ---
 
-# 대시보드 만들기
+# 대시보드 활동 만들기
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
-
-* Workfront 대시보드 정의
-* 대시보드를 만드는 방법
-* 대시보드를 찾아서 사용하는 방법
-* 다른 Workfront 사용자와 대시보드를 공유하는 방법
-* 대시보드를 인쇄하는 방법
-
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+단계별 지침을 사용하여 대시보드 만들기를 연습합니다.
 
 ## 활동 1: 대시보드 만들기
 

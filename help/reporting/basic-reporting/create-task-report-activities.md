@@ -1,6 +1,6 @@
 ---
-title: 작업 보고서 만들기
-description: 복잡한 필터로 작업 보고서를 만들고 Workfront에서 만든 보고서를 찾는 방법을 알아봅니다. 활동 - 프롬프트가 있는 메모 보고서를 만듭니다.
+title: 작업 보고서 활동 만들기
+description: 단계별 지침을 사용하여 작업 보고서 작성을 연습합니다.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,25 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
 jira: KT-8859
-exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '920'
-ht-degree: 99%
+source-wordcount: '889'
+ht-degree: 96%
 
 ---
 
-# 작업 보고서 만들기
+# 작업 보고서 활동 만들기
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
-
-* 복잡한 필터로 작업 보고서를 만드는 방법
-* 생성한 보고서를 찾는 방법
-
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
-
-
+단계별 지침을 사용하여 작업 보고서 작성을 연습합니다.
 
 >[!TIP]
 >

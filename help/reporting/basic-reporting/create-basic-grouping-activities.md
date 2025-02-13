@@ -11,14 +11,18 @@ team: Technical Marketing
 jira: KT-8853
 hidefromtoc: true
 exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 60%
+source-wordcount: '201'
+ht-degree: 52%
 
 ---
 
-# 활동: 기본 그룹화 만들기
+# 기본 그룹화 활동 만들기
+
+단계별 지침을 사용하여 기본 그룹화 만들기를 연습합니다.
+
+## 활동 1: 요청 대기열 그룹화 만들기
 
 요청 대기열을 통해 들어오는 요청을 추적하기 위해 보고서에서 사용할 문제 그룹화를 만듭니다. 이 그룹화를 통해 우선 순위별로 그룹화된 유사한 유형의 문제/요청을 쉽게 볼 수 있습니다. 그룹화 이름을 &quot;요청 대기열, 대기열 주제, 우선 순위&quot;로 지정합니다.
 
@@ -28,7 +32,7 @@ ht-degree: 60%
 1. 대기열 주제
 1. 요청의 우선 순위
 
-## 답변
+## 답변 1
 
 ![새 그룹화를 생성하는 화면 이미지](assets/grouping-exercise.png)
 

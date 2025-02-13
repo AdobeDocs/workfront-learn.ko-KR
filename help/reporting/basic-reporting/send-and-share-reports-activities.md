@@ -1,6 +1,6 @@
 ---
-title: 보고서 보내기 및 공유
-description: 사용자, 팀 또는 이메일 주소로 보고서를 보내는 방법 및 Workfront의 사용자와 보고서를 공유하는 방법을 알아봅니다.
+title: 보고서 활동 보내기 및 공유
+description: 단계별 지침을 사용하여 보고서 전송 및 공유를 연습합니다.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,24 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 96%
+source-wordcount: '179'
+ht-degree: 79%
 
 ---
 
-# 보고서 보내기 및 공유
+# 보고서 활동 보내기 및 공유
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
-
-* 사용자, 팀 또는 이메일 주소로 보고서를 보내는 방법
-* 사용자와 보고서를 공유하는 방법
-* 수신자가 Workfront 보고서에서 확인하고 수행할 수 있는 사항
-
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+단계별 지침을 사용하여 보고서 전송 및 공유를 연습합니다.
 
 ## 활동 1: 보고서 보내기
 

@@ -1,6 +1,6 @@
 ---
-title: 기본 보기 만들기
-description: Workfront에서 보기란 무엇인지와 보기를 만드는 방법, 다른 사용자와 보기를 공유하는 방법을 알아봅니다.
+title: 기본 보기 활동 만들기
+description: 단계별 지침을 사용하여 기본 보기를 만드는 방법을 연습합니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,24 +10,17 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
-exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '795'
+ht-degree: 96%
 
 ---
 
-# 기본 보기 만들기
+# 기본 보기 활동 만들기
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
-
-* Workfront에서 보기란
-* 보기를 만들고 수정하는 방법
-* 다른 Workfront 사용자와 보기를 공유하는 방법
-
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+단계별 지침을 사용하여 기본 보기를 만드는 방법을 연습합니다.
 
 ## 활동 1: 작업 상태 보기 만들기
 
@@ -43,7 +36,7 @@ ht-degree: 99%
 * [!UICONTROL 진행 상태]
 * [!UICONTROL 상태 아이콘]
 
-## 답변 1
+## 활동 1 답변
 
 ![작업 상태 보기를 만드는 화면의 이미지](assets/view-exercise.png)
 
@@ -76,7 +69,7 @@ ht-degree: 99%
 * [!UICONTROL 완료율]
 
 
-## 답변 2
+## 활동 2 답변
 
 ![마일스톤 보기를 만드는 화면의 이미지](assets/view-milestone-exercise-1.png)
 
@@ -108,7 +101,7 @@ ht-degree: 99%
 
 [!UICONTROL 시작 일자] 및 [!UICONTROL 기한] 열에서 [!UICONTROL 필드 형식]을 일자와 시간을 모두 표시하도록 변경합니다.
 
-## 답변 3
+## 활동 3 답변
 
 ![기간 유형 및 작업 제한 사항 보기를 보여 주는 화면 이미지](assets/view-activity-3.png)
 
@@ -146,7 +139,7 @@ ht-degree: 99%
 * [!UICONTROL 활성화됨]
 
 
-## 답변 4
+## 활동 4 답변
 
 ![프로젝트 템플릿 활성 상태 보기를 보여 주는 화면의 이미지](assets/view-activity-4.png)
 
