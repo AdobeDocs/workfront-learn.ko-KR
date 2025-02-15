@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '471'
+ht-degree: 96%
 
 ---
 
@@ -29,7 +29,11 @@ ht-degree: 97%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## 요약
+## 보기 활동에 기본 조건부 서식 추가
+
+이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf)하십시오.
+
+### 요약
 
 조건부 서식을 만드는 방법:
 
@@ -42,7 +46,7 @@ ht-degree: 97%
    * 대체 텍스트
    * 아이콘 표시
 
-## 활동 1: 보기에 조건부 서식 추가
+### 활동 1: 보기에 조건부 서식 추가
 
 기존의 표준 보기를 사용하고 [!UICONTROL 이름] 열에 이 조건부 서식을 추가하여 “표준 + 진행률”이라는 작업 보기를 만듭니다.
 
@@ -51,7 +55,7 @@ ht-degree: 97%
 
 이렇게 하면 보기의 일부로 진행 상태 열을 포함하지 않고 문제가 있는 작업을 찾을 수 있습니다.
 
-## 답변 1
+### 답변 1
 
 ![새 열 규칙을 만드는 화면 이미지](assets/conditional-formatting-exercise.png)
 

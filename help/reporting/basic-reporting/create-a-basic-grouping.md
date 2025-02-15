@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '243'
+ht-degree: 95%
 
 ---
 
@@ -28,26 +28,30 @@ ht-degree: 73%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## 활동: 기본 그룹화 만들기
+## 기본 그룹화 활동 만들기
 
-요청 대기열을 통해 들어오는 요청을 추적하기 위해 보고서에서 사용할 문제 그룹화를 만듭니다. 이 그룹화를 통해 우선 순위별로 그룹화된 유사한 유형의 문제/요청을 쉽게 볼 수 있습니다. 그룹화 이름을 &quot;요청 대기열, 대기열 주제, 우선 순위&quot;로 지정합니다.
+이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-basic-grouping-activities.pdf)하십시오.
+
+### 활동 1: 기본 그룹화 만들기
+
+요청 대기열을 통해 들어오는 요청을 추적하기 위해 보고서에서 사용할 문제 그룹화를 만듭니다. 이 그룹화를 통해 우선순위별로 그룹화된 유사한 유형의 문제/요청을 쉽게 볼 수 있습니다. 해당 그룹화 이름을 “요청 대기열, 대기열 주제, 우선순위”로 지정합니다.
 
 다음을 기준으로 문제 보고서를 그룹화합니다.
 
 1. 요청 대기열의 이름(프로젝트 이름이 됨)
 1. 대기열 주제
-1. 요청의 우선 순위
+1. 요청의 우선순위
 
-## 답변
+### 답변 1
 
 ![새 그룹화를 생성하는 화면 이미지](assets/grouping-exercise.png)
 
 1. 문제 목록 보고서에서 **[!UICONTROL 그룹화]** 메뉴로 이동하여 **[!UICONTROL 새 그룹화]**&#x200B;를 선택합니다.
-1. 그룹화 이름을 &quot;요청 대기열, 대기열 주제, 우선 순위&quot;로 지정합니다.
+1. 그룹화 이름을 “요청 대기열, 대기열 주제, 우선순위”로 지정합니다.
 1. **[!UICONTROL 그룹화 추가]**&#x200B;를 클릭합니다.
-1. [!UICONTROL 첫 번째 기준] 필드에 &quot;프로젝트 이름&quot;을 입력한 다음 프로젝트 필드 원본에서 **[!UICONTROL 이름]**&#x200B;을(를) 선택하십시오.
+1. [!UICONTROL 첫 번째 기준] 필드에 “프로젝트 이름”을 입력한 다음 프로젝트 소스 아래에 있는 **[!UICONTROL 이름]**&#x200B;을 선택합니다.
 1. **[!UICONTROL 다른 그룹화 추가]**&#x200B;를 클릭합니다.
-1. [!UICONTROL 다음 ] 필드에서 &quot;queue&quot;를 입력한 다음 [!UICONTROL 대기열 주제] 필드 원본의 **[!UICONTROL 이름]**&#x200B;을 선택합니다.
+1. [!UICONTROL 다음 기준] 필드에 “대기열”을 입력한 다음, [!UICONTROL 대기열 주제] 필드 소스 아래에 있는 **[!UICONTROL 이름]**&#x200B;을 선택합니다.
 1. **[!UICONTROL 다른 그룹화 추가]**&#x200B;를 클릭합니다.
-1. [!UICONTROL 다음 ] 필드에서 &quot;우선 순위&quot;를 입력한 다음 [!UICONTROL 문제] 필드 원본에서 **[!UICONTROL 우선 순위]**&#x200B;을(를) 선택합니다.
+1. [!UICONTROL 다음 기준] 필드에 “우선순위”를 입력한 다음 [!UICONTROL 문제] 필드 소스의 아래에 있는 **[!UICONTROL 우선순위]**&#x200B;를 선택합니다.
 1. **[!UICONTROL 그룹화 저장]** 클릭

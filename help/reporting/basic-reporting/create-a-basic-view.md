@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '835'
+ht-degree: 98%
 
 ---
 
@@ -29,7 +29,11 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## 활동 1: 작업 상태 보기 만들기
+## 기본 보기 활동 만들기
+
+이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-basic-view-activities.pdf)하십시오.
+
+### 활동 1: 작업 상태 보기 만들기
 
 프로젝트 관리자, 팀 리드 또는 리소스 관리자로서 작업 진행 상황을 추적하려고 합니다. 이 보기를 사용하면 목록 또는 보고서의 한 행에서 작업의 여러 상태 표시기를 모두 볼 수 있습니다.
 
@@ -43,7 +47,7 @@ ht-degree: 99%
 * [!UICONTROL 진행 상태]
 * [!UICONTROL 상태 아이콘]
 
-## 답변 1
+### 답변 1
 
 ![작업 상태 보기를 만드는 화면의 이미지](assets/view-exercise.png)
 
@@ -60,7 +64,7 @@ ht-degree: 99%
 
 [!UICONTROL 상태 아이콘] 열의 각 아이콘 위로 마우스를 가져가면 해당 아이콘이 무엇을 나타내는지 확인할 수 있습니다. 회색으로 표시된 아이콘은 작업에 메모, 문서, 승인 프로세스 등이 없음을 의미합니다. 아이콘이 컬러로 표시되어 있으면 작업과 관련된 해당 항목이 하나 이상 있는 것입니다. 메모 또는 문서 아이콘을 클릭하여 해당 항목으로 이동할 수 있습니다.
 
-## 활동 2: 마일스톤 보기 만들기
+### 활동 2: 마일스톤 보기 만들기
 
 마일스톤을 사용하는 경우 이 보기는 마일스톤을 이름별로 보고 인라인 편집을 사용하여 추가하거나 편집하는 가장 쉬운 방법입니다.
 
@@ -76,7 +80,7 @@ ht-degree: 99%
 * [!UICONTROL 완료율]
 
 
-## 답변 2
+### 답변 2
 
 ![마일스톤 보기를 만드는 화면의 이미지](assets/view-milestone-exercise-1.png)
 
@@ -88,7 +92,7 @@ ht-degree: 99%
 
 ![마일스톤 보기를 사용하는 작업 목록의 이미지](assets/view-milestone-exercise-2.png)
 
-## 활동 3: 기간 유형 및 작업 제한 사항 보기 만들기
+### 활동 3: 기간 유형 및 작업 제한 사항 보기 만들기
 
 이 보기를 통해 프로젝트의 모든 기간 유형 및 작업 제한 사항을 검사하고 편집할 수 있습니다.
 
@@ -108,7 +112,7 @@ ht-degree: 99%
 
 [!UICONTROL 시작 일자] 및 [!UICONTROL 기한] 열에서 [!UICONTROL 필드 형식]을 일자와 시간을 모두 표시하도록 변경합니다.
 
-## 답변 3
+### 답변 3
 
 ![기간 유형 및 작업 제한 사항 보기를 보여 주는 화면 이미지](assets/view-activity-3.png)
 
@@ -130,7 +134,7 @@ ht-degree: 99%
 1. [!UICONTROL 필드 형식] 드롭다운 아래에서 [!UICONTROL “10/17/60 3:00 AM”]을 선택합니다.
 1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-## 활동 4: 프로젝트 템플릿 활성 상태 보기 만들기
+### 활동 4: 프로젝트 템플릿 활성 상태 보기 만들기
 
 프로젝트 템플릿 관리자는 목록에 있는 각 템플릿의 활성 상태(True 또는 False)를 확인할 수 있습니다. 심지어 필드를 인라인 편집할 수도 있습니다.
 
@@ -146,7 +150,7 @@ ht-degree: 99%
 * [!UICONTROL 활성화됨]
 
 
-## 답변 4
+### 답변 4
 
 ![프로젝트 템플릿 활성 상태 보기를 보여 주는 화면의 이미지](assets/view-activity-4.png)
 

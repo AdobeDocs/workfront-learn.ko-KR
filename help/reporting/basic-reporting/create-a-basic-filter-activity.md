@@ -11,14 +11,16 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '429'
 ht-degree: 100%
 
 ---
 
 # 기본 필터 활동 만들기
+
+이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-basic-filter-activities.pdf)하십시오.
 
 ## 활동 1 - 마케팅 포트폴리오의 모든 프로젝트
 
@@ -26,7 +28,7 @@ ht-degree: 100%
 
 단계별 지침은 아래에 포함되어 있습니다.
 
-### 활동 1에 대한 답변
+## 활동 1에 대한 답변
 
 ![새 필터를 생성하는 화면 이미지](assets/basic-filter-activity-1.png)
 
@@ -49,7 +51,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
 
-### 활동 2에 대한 답변
+## 활동 2에 대한 답변
 
 ![새 필터를 생성하는 화면 이미지](assets/basic-filter-activity-updated-6-15-21.png)
 

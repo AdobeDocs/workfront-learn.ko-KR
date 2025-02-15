@@ -11,10 +11,10 @@ thumbnail: 335153.png
 jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 91%
+source-wordcount: '343'
+ht-degree: 90%
 
 ---
 
@@ -27,11 +27,15 @@ ht-degree: 91%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## 활동 1: 보고서에 차트 추가
+## 차트 활동을 사용하여 보고서 만들기
+
+이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-reports-with-charts-activities.pdf)하십시오.
+
+### 활동 1: 보고서에 차트 추가
 
 분기 말이 다가오고 있으며 최근에 완료된 프로젝트가 예산에 어떻게 고정되어 있는지 확인하려고 합니다. 계획된 비용 및 프로젝트의 실제 비용을 보여 주는 보고서를 만듭니다. 지난 분기에 완료된 프로젝트만 보려고 합니다. 사용자 정의 색상을 사용하여 조합 열 차트를 추가합니다.
 
-## 답변 1
+### 답변 1
 
 1. **[!UICONTROL 메인 메뉴]**&#x200B;에서 **[!UICONTROL 보고서]**&#x200B;를 선택합니다.
 1. **[!UICONTROL 새 보고서]** 메뉴를 클릭하고 **[!UICONTROL 프로젝트]**&#x200B;를 선택합니다.

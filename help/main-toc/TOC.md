@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '2435'
-ht-degree: 97%
+source-wordcount: '2394'
+ht-degree: 99%
 
 ---
 
@@ -645,19 +645,4 @@ ht-degree: 97%
 + 경영진용 Workfront {#workfront-for-executives}
    + [경영진용 Workfront](/help/workfront-for-executives/workfront-for-executives.md)
 
-
-
-<!---
-The following tutorials are hidden from the TOC but need to be here so their links can be referenced by vPops in playlists.
---->
-
-+ [기본 그룹화 활동 만들기](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
-+ [기본 보기 활동 만들기](/help/reporting/basic-reporting/create-basic-view-activities.md)
-+ [보기 활동에 기본 조건부 서식 추가](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view-activities.md)
-+ [간단한 보고서 활동 만들기](/help/reporting/basic-reporting/create-simple-report-activities.md)
-+ [작업 보고서 활동 만들기](/help/reporting/basic-reporting/create-task-report-activities.md)
-+ [차트 활동을 사용하여 보고서 만들기](/help/reporting/basic-reporting/create-reports-with-charts-activities.md)
-+ [매트릭스 보고서 활동 만들기](/help/reporting/basic-reporting/create-matrix-report-activities.md)
-+ [대시보드 활동 만들기](/help/reporting/basic-reporting/create-dashboard-activities.md)
-+ [보고서 활동 보내기 및 공유](/help/reporting/basic-reporting/send-and-share-reports-activities.md)
 

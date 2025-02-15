@@ -11,10 +11,10 @@ thumbnail: 335158.png
 jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 96%
+source-wordcount: '225'
+ht-degree: 94%
 
 ---
 
@@ -28,11 +28,15 @@ ht-degree: 96%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## 활동 1: 보고서 보내기
+## 보고서 활동 보내기 및 공유
+
+이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/send-and-share-reports-activities.pdf)하십시오.
+
+### 활동 1: 보고서 보내기
 
 매주 월요일 오전 5시에 Excel 스프레드시트로 자신에게 보고서를 보냅니다. 이는 나중에 트렌드 확인에 사용할 수 있는 주간 보고서를 자동으로 수집하기에 좋은 방법입니다.
 
-## 답변 1
+### 답변 1
 
 ![반복 보고서 전송을 설정하는 화면의 이미지](assets/send-a-report.png)
 

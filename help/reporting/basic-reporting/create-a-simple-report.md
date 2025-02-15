@@ -11,9 +11,9 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '255'
 ht-degree: 79%
 
 ---
@@ -26,7 +26,11 @@ ht-degree: 79%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## 활동 1: 간단한 작업 보고서 만들기
+## 간단한 보고서 활동 만들기
+
+이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-simple-report-activities.pdf)하십시오.
+
+### 활동 1: 간단한 작업 보고서 만들기
 
 단일 보고서에서 모든 활성 작업을 추적하려고 합니다. 다음을 사용하여 &quot;내 현재 작업&quot;이라는 작업 보고서를 만듭니다.
 
@@ -35,7 +39,7 @@ ht-degree: 79%
 * 필터 = 내 현재 작업
 * 설명 = 프로젝트별로 그룹화된 내가 작업 소유자인 현재 프로젝트의 완료되지 않은 작업
 
-## 답변 1
+### 답변 1
 
 1. **[!UICONTROL 메인 메뉴]**&#x200B;로 이동하고 **[!UICONTROL 보고서]**&#x200B;를 선택합니다.
 1. **[!UICONTROL 새 보고서]** 드롭다운 메뉴를 클릭하고 **[!UICONTROL 작업 보고서]**&#x200B;를 선택합니다.

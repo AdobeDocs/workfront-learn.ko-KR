@@ -11,10 +11,10 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 58%
+source-wordcount: '476'
+ht-degree: 59%
 
 ---
 
@@ -29,6 +29,10 @@ ht-degree: 58%
 * 대시보드를 인쇄하는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+
+## 대시보드 활동 만들기
+
+이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-dashboard-activities.pdf)하십시오.
 
 ## 활동 1: 대시보드 만들기
 
