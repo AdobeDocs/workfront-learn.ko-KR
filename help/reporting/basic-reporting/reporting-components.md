@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3310ca62542d2cb596c6fd50a740bae2bb6345f2
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 96%
 * Workfront 보고의 핵심 구성 요소
 * 이러한 구성 요소가 보고 요소에 사용되는 방식
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
 ## 보고 구성 요소
 
@@ -35,7 +35,7 @@ ht-degree: 96%
 
 **A - 필드 소스**
 
-필드 소스 옵션은 선택한 객체 유형에 따라 다릅니다. 종종 필드 소스는 특정 정보(필드 이름이라고도 함)가 속한 Workfront 항목입니다. 경우에 따라 필드 소스가 오브젝트 유형과 동일합니다.
+필드 소스 옵션은 선택한 오브젝트 유형에 따라 다릅니다. 종종 필드 소스는 특정 정보(필드 이름이라고도 함)가 속한 Workfront 항목입니다. 경우에 따라 필드 소스가 오브젝트 유형과 동일합니다.
 필드 소스는 사용 가능한 필드 이름을 결정합니다.
 
 예: [!UICONTROL 프로젝트], [!UICONTROL 작업], [!UICONTROL 문제], [!UICONTROL 할당 대상]
