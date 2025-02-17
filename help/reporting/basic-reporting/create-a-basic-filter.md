@@ -1,6 +1,6 @@
 ---
 title: 기본 필터 만들기
-description: 필터의 정의, 필터를 만드는 방법 및 Workfront의 다른 사용자와 필터를 공유하는 방법에 대해 알아봅니다.
+description: 필터란 무엇인지와 필터를 만드는 방법, Workfront에서 다른 사용자와 필터를 공유하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: e0ae6eaacc03980ad53c0471681211f76dfaff26
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
