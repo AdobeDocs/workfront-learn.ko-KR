@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-01T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 97%
 
 ---
 
@@ -26,14 +26,17 @@ ht-degree: 100%
 * 기본 제공 프로젝트 필터를 검토하여 빌드 방법 확인
 * 학습한 내용을 사용하여 나만의 프로젝트 필터 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
+## 기본 제공 프로젝트 필터 활동 이해
 
-## 활동: 프로젝트 필터 만들기
+이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/understand-built-in-project-filters-activities.pdf)하십시오.
+
+### 활동: 프로젝트 필터 만들기
 
 소유하고 있는 모든 활성 프로젝트를 보고 싶습니다. 여기서 “활성”은 프로젝트 상태가 계획 또는 현재와 동일함을 의미합니다. 프로젝트 영역에서 “내가 소유한 활성 프로젝트”라는 이름의 프로젝트 필터를 만듭니다.
 
-## 답변
+### 답변
 
 필터는 다음과 같아야 합니다.
 

@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '285'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '301'
+ht-degree: 97%
 
 ---
 
@@ -39,7 +39,11 @@ ht-degree: 100%
 * 카멜 표기법의 정의
 * 그룹화에서 사용할 수 있는 몇 가지 기본 “플러그 앤 플레이” 텍스트 모드
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+
+## 그룹화 활동에 대한 기본 텍스트 모드 이해
+
+이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf)하십시오.
 
 ## 작업 - 4개의 상위 그룹화
 
