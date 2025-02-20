@@ -13,9 +13,9 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '835'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## 기본 보기 활동 만들기
+## 기본 보기 만들기 활동
 
 이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-basic-view-activities.pdf)하십시오.
 
@@ -62,7 +62,7 @@ ht-degree: 98%
 1. [!UICONTROL 이 열에 표시] 필드에 “상태”를 입력한 다음 작업 필드 소스 아래에서 “상태 아이콘”을 선택합니다.
 1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-[!UICONTROL 상태 아이콘] 열의 각 아이콘 위로 마우스를 가져가면 해당 아이콘이 무엇을 나타내는지 확인할 수 있습니다. 회색으로 표시된 아이콘은 작업에 메모, 문서, 승인 프로세스 등이 없음을 의미합니다. 아이콘이 컬러로 표시되어 있으면 작업과 관련된 해당 항목이 하나 이상 있는 것입니다. 메모 또는 문서 아이콘을 클릭하여 해당 항목으로 이동할 수 있습니다.
+[!UICONTROL 상태 아이콘] 열의 각 아이콘 위로 마우스를 가져다 대면 해당 아이콘이 무엇을 나타내는지 확인할 수 있습니다. 회색으로 표시된 아이콘은 작업에 메모, 문서, 승인 프로세스 등이 없음을 의미합니다. 아이콘이 컬러로 표시되어 있으면 작업과 관련된 해당 항목이 하나 이상 있는 것입니다. 메모 또는 문서 아이콘을 클릭하여 해당 항목으로 이동할 수 있습니다.
 
 ### 활동 2: 마일스톤 보기 만들기
 

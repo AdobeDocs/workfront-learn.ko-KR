@@ -12,9 +12,9 @@ jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 90%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## 차트 활동을 사용하여 보고서 만들기
+## 차트로 보고서 만들기 활동
 
 이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-reports-with-charts-activities.pdf)하십시오.
 
@@ -39,7 +39,7 @@ ht-degree: 90%
 
 1. **[!UICONTROL 메인 메뉴]**&#x200B;에서 **[!UICONTROL 보고서]**&#x200B;를 선택합니다.
 1. **[!UICONTROL 새 보고서]** 메뉴를 클릭하고 **[!UICONTROL 프로젝트]**&#x200B;를 선택합니다.
-1. **[!UICONTROL 열(보기)]** 탭에서 **[!UICONTROL 열 추가]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL 열 (보기)]** 탭에서 **[!UICONTROL 열 추가]**&#x200B;를 클릭합니다.
 1. [!UICONTROL 프로젝트] > [!UICONTROL 계획된 비용]을 선택하고 이 열을 **[!UICONTROL 합계]**&#x200B;별로 요약합니다.
 1. 다시 **[!UICONTROL 열 추가]**&#x200B;를 클릭합니다.
 1. [!UICONTROL 프로젝트] > [!UICONTROL 실제 비용]을 선택하고 이 열을 **[!UICONTROL 합계]**&#x200B;별로 요약합니다.
@@ -62,6 +62,6 @@ ht-degree: 90%
 1. [!UICONTROL 하단 (X) 축]의 경우, [!UICONTROL 프로젝트] > [!UICONTROL 이름]을 선택합니다.
 1. **[!UICONTROL 조합 차트]** 버튼을 클릭하고 **[!UICONTROL 값]** 필드에서 [!UICONTROL 프로젝트] > [!UICONTROL 실제 비용]을 선택합니다.
 1. 색상 상자 옆에 있는 화살표를 클릭하여 [!UICONTROL 실제 비용] 색상을 변경합니다. 표시되는 색상 중 하나를 선택하거나 오른쪽 하단에 있는 상자를 클릭하여 색상 팔레트를 불러옵니다.
-1. **[!UICONTROL 저장 및 닫기]**&#x200B;를 클릭합니다. 보고서 이름을 묻는 메시지가 표시되면 이를 &quot;지난 분기에 완료된 프로젝트별 계획된 비용 대 실제 비용&quot;이라고 합니다.
+1. **[!UICONTROL 저장 및 닫기]**&#x200B;를 클릭합니다. 보고서 이름을 입력하라는 메시지가 표시되면 “지난 분기에 완료된 프로젝트별 계획된 비용과 실제 비용의 비교”라고 지정합니다.
 
    ![보고서에 차트를 추가하는 화면 이미지](assets/chart-report-chart.png)

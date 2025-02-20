@@ -12,9 +12,9 @@ jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '225'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 94%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## 보고서 활동 보내기 및 공유
+## 보고서 보내기 및 공유 활동
 
 이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/send-and-share-reports-activities.pdf)하십시오.
 
@@ -38,10 +38,10 @@ ht-degree: 94%
 
 ### 답변 1
 
-![반복 보고서 전송을 설정하는 화면의 이미지](assets/send-a-report.png)
+![반복 보고서 게재를 설정하는 화면의 이미지](assets/send-a-report.png)
 
 1. 만든 보고서를 보고 **[!UICONTROL 보고서 작업]** 메뉴에서 **[!UICONTROL 보고서 보내기]**&#x200B;를 선택합니다.
-1. **[!UICONTROL 반복 전송]** 탭을 클릭합니다.
+1. **[!UICONTROL 반복 게재]** 탭을 클릭합니다.
 1. **[!UICONTROL 수신인]** 필드에 자신의 이메일 주소를 입력합니다.
 1. 이메일 제목을 입력합니다.
 1. 형식을 Excel로 변경합니다.
@@ -52,8 +52,8 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->오른쪽의 [!UICONTROL 반복 전송] 패널에서 새 반복 전송 항목을 확인합니다. 보고서에 대해 여러 전송을 설정할 수 있으며 모두 여기에 표시됩니다.
+>오른쪽의 [!UICONTROL 반복 게재] 패널에서 새 반복 게재 항목을 확인합니다. 하나의 보고서에 대해 여러 게재를 설정할 수 있으며 모두 여기에 표시됩니다.
 
-**전송 삭제**
+**게재 삭제**
 
-방금 만든 전송을 선택하고 ‘삭제’(**[!UICONTROL 저장]** 버튼 옆)를 클릭합니다.
+방금 만든 게재를 선택하고 ‘삭제’(**[!UICONTROL 저장]** 버튼 옆)를 클릭합니다.

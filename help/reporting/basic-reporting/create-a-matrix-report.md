@@ -12,9 +12,9 @@ jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '268'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -27,15 +27,15 @@ ht-degree: 79%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## 매트릭스 보고서 활동 만들기
+## 매트릭스 보고서 만들기 활동
 
 이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-matrix-report-activities.pdf)하십시오.
 
 ### 활동 1: 매트릭스 보고서 만들기
 
-요청 대기열별로 정렬된 각 상태의 요청 수를 보여 주는 매트릭스 보고서를 만듭니다. 이를 통해 들어오는 작업의 양과 이를 얼마나 잘 처리하고 있는지 신속하게 파악할 수 있습니다.
+요청 대기열별로 정렬된 각 상태의 요청 수를 보여 주는 매트릭스 보고서를 만듭니다. 수신 작업량과 진행 상황에 대한 빠른 스냅샷을 제공합니다.
 
-요청 대기열을 행 그룹화에 표시하고자 합니다. 상태는 열 그룹화로 나타납니다. 보고서 이름을 &quot;상태 및 요청 대기열별 요청&quot;으로 지정합니다.
+요청 대기열을 행 그룹화에 표시하고자 합니다. 상태는 열 그룹화로 나타납니다. 보고서 이름을 “상태 및 요청 대기열별 요청”으로 지정합니다.
 
 ### 답변 1
 
@@ -53,6 +53,6 @@ ht-degree: 79%
    * [!UICONTROL 프로젝트] > [!UICONTROL 동일시된 상태] > [!UICONTROL 같음] > [!UICONTROL 현재]
    * [!UICONTROL 대기열 정의] > [!UICONTROL 공개] > [!UICONTROL 같지 않음] > [!UICONTROL 없음] (공개 옵션 중 하나에 할당된 대기열 정의를 통해 프로젝트가 실제로 요청 대기열이라는 것을 알 수 있음)
 
-1. **[!UICONTROL 저장 및 닫기]**&#x200B;를 클릭합니다. 보고서 이름을 묻는 메시지가 표시되면 &quot;상태 및 요청 대기열별 요청&quot;을 입력합니다.
+1. **[!UICONTROL 저장 및 닫기]**&#x200B;를 클릭합니다. 보고서 이름을 입력하라는 메시지가 표시되면 “상태 및 요청 대기열별 요청”을 입력합니다.
 
    ![새로운 문제 보고서 필터를 만드는 화면 이미지](assets/matrix-report-filters.png)

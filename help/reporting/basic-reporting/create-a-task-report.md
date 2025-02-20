@@ -12,9 +12,9 @@ jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '933'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## 작업 보고서 활동 만들기
+## 작업 보고서 만들기 활동
 
 이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-task-report-activities.pdf)하십시오.
 
@@ -72,7 +72,7 @@ ht-degree: 99%
 
 1. **[!UICONTROL 메인 메뉴]**&#x200B;에서 **[!UICONTROL 보고서]**&#x200B;를 선택합니다.
 1. **[!UICONTROL 새 보고서]** 메뉴를 클릭하고 **[!UICONTROL 메모]**&#x200B;를 선택합니다.
-1. **[!UICONTROL 열(보기)]**&#x200B;에서 다음을 포함하도록 열을 설정합니다.
+1. **[!UICONTROL 열 (보기)]**&#x200B;에서 다음을 포함하도록 열을 설정합니다.
 
    ![메모 보고서 열을 만드는 화면 이미지](assets/note-report-columns.png)
 
@@ -121,22 +121,22 @@ ht-degree: 99%
 
 이름: 관리자 프로세스 피드백
 
-1. 프로세스 유형(드롭다운 필드)
+1. 프로세스 유형 (드롭다운 필드)
    * 액세스 수준
-   * 승인 프로세스(글로벌에만)
+   * 승인 프로세스 (글로벌에만)
    * 이메일 알림
    * 레이아웃 템플릿
    * 마일스톤 경로
    * 프로젝트 템플릿
    * 미리 알림
    * 요청 대기열
-1. 프로세스 이름(한 줄 텍스트 필드)
-1. 프로세스 등급(드롭다운 필드)
+1. 프로세스 이름 (한 줄 텍스트 필드)
+1. 프로세스 등급 (드롭다운 필드)
    * 1 - 전혀 쓸모 없음
    * 2 - 매우 유용하지 않음
    * 3 - 양호하지만 개선될 수 있음
    * 4 - 우수함
-1. 문제 또는 좋은 소식(단락 텍스트 필드)
+1. 문제 또는 좋은 소식 (단락 텍스트 필드)
 
 **관리팀 피드백 보고서**&#x200B;라는 이름의 문제 보고서를 만듭니다.
 
@@ -166,7 +166,7 @@ ht-degree: 99%
 
 1. **[!UICONTROL 메인 메뉴]**&#x200B;에서 **[!UICONTROL 보고서]**&#x200B;를 선택합니다.
 1. **[!UICONTROL 새 보고서]** 메뉴를 클릭하고 **[!UICONTROL 문제]**&#x200B;를 선택합니다.
-1. **[!UICONTROL 열(보기)]**&#x200B;에서 다음을 포함하도록 열을 설정합니다.
+1. **[!UICONTROL 열 (보기)]**&#x200B;에서 다음을 포함하도록 열을 설정합니다.
 
    ![문제 보고서 열을 만드는 화면 이미지](assets/task-report-activity-2-1.png)
 

@@ -12,9 +12,9 @@ jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '471'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 96%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## 보기 활동에 기본 조건부 서식 추가
+## 보기에 기본 조건부 서식 추가 활동
 
 이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf)하십시오.
 
