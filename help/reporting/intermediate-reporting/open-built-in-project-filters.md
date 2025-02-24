@@ -13,9 +13,9 @@ jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
 source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 97%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
-## 기본 제공 프로젝트 필터 활동 이해
+## 기본 제공 프로젝트 필터 이해하기 활동
 
 이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/understand-built-in-project-filters-activities.pdf)하십시오.
 

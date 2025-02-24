@@ -12,9 +12,9 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '301'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 97%
 >
 >* [보고 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=ko)
 >* [보고 구성 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=ko)
->* [기본 그룹화 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=ko-KR)
+>* [기본 그룹화 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=ko)
 
 
 >[!TIP]
@@ -41,7 +41,7 @@ ht-degree: 97%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## 그룹화 활동에 대한 기본 텍스트 모드 이해
+## 그룹화의 기본 텍스트 모드 이해하기 활동
 
 이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf)하십시오.
 
@@ -64,7 +64,7 @@ group.0.valueformat=string
 
 ## 작업 - 완료율 그룹화
 
-다음 텍스트 모드는 완료율을 기준으로 작업을 그룹화합니다. 작업은 그룹화될 때 다음 범주 중 하나에 속합니다.
+다음 텍스트 모드는 완료율을 기준으로 작업을 그룹화합니다. 작업은 그룹화될 때 다음 카테고리 중 하나에 속합니다.
 
 * 0%
 * 1~25%

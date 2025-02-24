@@ -12,9 +12,9 @@ jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
 source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '247'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 71%
 이 비디오에서는 다음 방법을 배우게 됩니다.
 
 * 일자 기반의 와일드카드를 사용하는 시기 파악
-* Workfront의 두 날짜 기반 와일드카드의 차이점 이해
+* Workfront의 두 가지 일자 기반의 와일드카드 간의 차이점 이해
 * 필터에 일자 기반의 와일드카드 추가
 * 와일드카드, 속성, 연산자 및 수정자를 사용하여 사용자 정의 일자 만들기
 * 와일드카드를 사용하여 사용자 정의 날짜 범위 만들기
@@ -31,7 +31,7 @@ ht-degree: 71%
 >[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
 
-## 날짜 기반 와일드카드 활동을 사용하여 필터 만들기
+## 일자 기반의 와일드카드로 필터 만들기 활동
 
 이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-filters-with-date-based-wildcards-activities.pdf)하십시오.
 
@@ -47,4 +47,4 @@ ht-degree: 71%
 
 1. [!UICONTROL $$TODAY-1d] 및 [!UICONTROL $$TODAY] 사이에 계획된 완료 일자가 있는 문제를 필터링합니다.
 1. [!UICONTROL $$TODAYb-1w] 및 [!UICONTROL $$TODAYe-1w] 사이에 계획된 완료 일자가 있는 프로젝트를 필터링합니다.
-1. 이 보고서는 아직 완료되지 않았고(즉, 완료율이 100 미만인 경우), 기한이 지났거나 오늘 기한이 지난 작업을 찾습니다. 작업의 계획된 완료 일자에 대한 필터 규칙에서는 기한이 오늘 일자와 같거나 이전인 작업을 확인하도록 되어 있습니다.
+1. 이 보고서는 귀하에게 할당된 아직 완료되지 않고(완료율이 100 미만) 기한이 지났거나 오늘 예정인 작업을 찾습니다. 작업의 계획된 완료 일자에 대한 필터 규칙은 기한이 오늘 일자와 같거나 그 이전인 작업을 살펴보도록 합니다.
