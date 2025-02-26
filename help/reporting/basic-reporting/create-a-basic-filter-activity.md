@@ -11,16 +11,15 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '429'
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '420'
 ht-degree: 100%
 
 ---
 
 # 기본 필터 활동 만들기
 
-이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-basic-filter-activities.pdf)하십시오.
 
 ## 활동 1 - 마케팅 포트폴리오의 모든 프로젝트
 

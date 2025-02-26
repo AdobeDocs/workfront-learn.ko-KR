@@ -11,10 +11,10 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '255'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '247'
+ht-degree: 97%
 
 ---
 
@@ -26,9 +26,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## 간단한 보고서 만들기 활동
-
-이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-simple-report-activities.pdf)하십시오.
+## &quot;간단한 보고서 만들기&quot; 활동
 
 ### 활동 1: 간단한 작업 보고서 만들기
 

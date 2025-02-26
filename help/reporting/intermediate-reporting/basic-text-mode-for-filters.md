@@ -12,10 +12,10 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: ht
-source-wordcount: '442'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '433'
+ht-degree: 98%
 
 ---
 
@@ -43,11 +43,10 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
-## 필터의 기본 텍스트 모드 이해하기 활동
+## &quot;필터의 기본 텍스트 모드 이해&quot; 활동
 
-이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/understand-basic-text-mode-for-filters-activities.pdf)하십시오.
 
-## 작업 - “내 부분 완료”로 표시한 작업 필터링
+### 작업 - “내 부분 완료”로 표시한 작업 필터링
 
 다음 텍스트 모드는 사용자가 “내 부분 완료”라고 표시한 작업을 제외합니다. 작업 필터를 만들고 원하는 필터 규칙을 추가한 다음 텍스트 모드로 전환하고 필터에 표시되는 텍스트 모드 뒤에 아래 코드를 붙여넣기만 하면 됩니다.
 
@@ -64,7 +63,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## 작업 - 승인 대기 중인 모든 작업 표시
+### 작업 - 승인 대기 중인 모든 작업 표시
 
 ```
 approvalProcessID_Mod=notblank
@@ -73,7 +72,7 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## 작업 - 내가 승인한 모든 작업 표시
+### 작업 - 내가 승인한 모든 작업 표시
 
 원하는 필터로 작업 보고서를 만든 다음 필터 탭으로 이동하여 텍스트 모드로 전환을 클릭합니다. 이미 있는 코드에 다음 코드를 추가합니다.
 
@@ -83,7 +82,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## 작업 - 프로젝트 간 전임 작업이 하나 이상 있는 모든 작업 표시
+### 작업 - 프로젝트 간 전임 작업이 하나 이상 있는 모든 작업 표시
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -91,7 +90,7 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## 작업 - 다른 사람에게 할당한 모든 작업 표시
+### 작업 - 다른 사람에게 할당한 모든 작업 표시
 
 원하는 필터로 작업 보고서를 만든 다음 필터 탭으로 이동하여 텍스트 모드로 전환을 클릭합니다. 이미 있는 코드에 다음 코드를 추가합니다.
 
@@ -107,7 +106,7 @@ EXISTS:1:assignedByID=$$USER.ID
 
 로그인한 사용자가 현재 할당자 중 적어도 한 명을 할당한 모든 작업을 보여 줍니다. 여러 사람이 할당자를 할당된 경우, 할당한 첫 번째 사람의 이름만 작업 랜딩 페이지에 “요청자”로 표시됩니다.
 
-## 작업 - 완료된 모든 작업 표시 - 승인 보류 중
+### 작업 - 완료된 모든 작업 표시 - 승인 보류 중
 
 ```
 status=CPL:A
@@ -115,7 +114,7 @@ status_Mod=in
 ```
 
 
-## 문제 - 완료된 모든 문제 표시 - 승인 보류 중
+### 문제 - 완료된 모든 문제 표시 - 승인 보류 중
 
 ```
 status=CPL:A
@@ -123,7 +122,7 @@ status_Mod=in
 ```
 
 
-## 프로젝트 - 완료된 모든 프로젝트 표시 - 승인 보류 중
+### 프로젝트 - 완료된 모든 프로젝트 표시 - 승인 보류 중
 
 ```
 status=CPL:A
@@ -131,7 +130,7 @@ status_Mod=in
 ```
 
 
-## 메모 - 내가 태그된 모든 댓글 표시
+### 메모 - 내가 태그된 모든 댓글 표시
 
 ```
 tags:userID=$$USER.ID
@@ -139,7 +138,7 @@ tags:userID_Mod=in
 ```
 
 
-## 매개변수/사용자 정의 필드 보고서 - 사용자 정의 양식에 첨부되지 않은 사용자 정의 필드 표시 (정리 작업에 매우 유용함)
+### 매개변수/사용자 정의 필드 보고서 - 사용자 정의 양식에 첨부되지 않은 사용자 정의 필드 표시 (정리 작업에 매우 유용함)
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS

@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: ht
-source-wordcount: '208'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '199'
+ht-degree: 97%
 
 ---
 
@@ -28,9 +28,8 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
-## 기본 제공 작업 필터 이해하기 활동
+## &quot;기본 제공 작업 필터 이해&quot; 활동
 
-이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/understand-built-in-task-filters-activities.pdf)하십시오.
 
 ### 활동: 작업 보고서 만들기
 

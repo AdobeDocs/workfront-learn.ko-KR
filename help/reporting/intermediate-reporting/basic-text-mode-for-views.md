@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: ht
-source-wordcount: '665'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '656'
+ht-degree: 98%
 
 ---
 
@@ -42,15 +42,13 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
-## 보기의 기본 텍스트 모드 이해하기 활동
+## &quot;보기의 기본 텍스트 모드 이해&quot; 활동
 
-이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/understand-basic-text-mode-for-views-activities.pdf)하십시오.
-
-## 과제 - 상위 항목 4개 보기
+### 과제 - 상위 항목 4개 보기
 
 작업 이름 및 상위 이름에 대한 열을 먼저 만들고, 다음 텍스트 모드를 사용하여 세 개의 다른 열을 만듭니다.
 
-### 작업 - 상위의 상위 이름
+#### 작업 - 상위의 상위 이름
 
 ```
 displayname=Parent of Parent Name
@@ -64,7 +62,7 @@ valuefield=parent:parent:name
 valueformat=HTML
 ```
 
-### 작업 - 상위의 상위의 상위 이름
+#### 작업 - 상위의 상위의 상위 이름
 
 ```
 displayname=Parent of Parent of Parent Name
@@ -78,7 +76,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### 작업 - 상위의 상위의 상위의 상위 이름
+#### 작업 - 상위의 상위의 상위의 상위 이름
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -94,9 +92,9 @@ valueformat=HTML
 
 ![상위 항목 4개를 보여 주는 화면 이미지](assets/4-parents-view.png)
 
-## 사용자 - 사용자 보기에 목록을 보여 주는 반복
+### 사용자 - 사용자 보기에 목록을 보여 주는 반복
 
-### 사용자 - 모든 작업 역할
+#### 사용자 - 모든 작업 역할
 
 ```
 displayname=All job roles
@@ -108,7 +106,7 @@ valuefield=role:name
 valueformat=HTML
 ```
 
-### 사용자 - 기본을 보여 주는 모든 작업 역할
+#### 사용자 - 기본을 보여 주는 모든 작업 역할
 
 ```
 displayname=All Job Roles showing primary
@@ -120,7 +118,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("** ",{role}.{name}," **")
 valueformat=HTML
 ```
 
-### 사용자 - 모든 팀
+#### 사용자 - 모든 팀
 
 ```
 displayname=All teams
@@ -137,7 +135,7 @@ valueformat=HTML
 >모든 팀을 쉼표로 구분하여 표시하는 UI를 통해 액세스할 수 있는 팀 필드가 있지만 위의 텍스트 모드를 사용하면 각 팀이 별도의 줄에 표시됩니다.
 
 
-### 사용자 - 모든 그룹
+#### 사용자 - 모든 그룹
 
 ```
 displayname=All groups
@@ -149,7 +147,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-### 사용자 - 홈 그룹을 표시하는 모든 그룹
+#### 사용자 - 홈 그룹을 표시하는 모든 그룹
 
 ```
 displayname=All groups showing home group
@@ -162,7 +160,7 @@ valueformat=HTML
 ```
 
 
-### 사용자 - 부하 직원
+#### 사용자 - 부하 직원
 
 ```
 displayname=Direct reports
@@ -174,7 +172,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-### 사용자 - 향후 PTO
+#### 사용자 - 향후 PTO
 
 ```
 displayname=Future PTO
@@ -190,7 +188,7 @@ width=150
 
 ![사용자 목록 보기를 보여 주는 화면 이미지](assets/user-lists-view-large.png)
 
-## 작업 - 작업 할당 및 작업 상태를 보여 주는 방법
+### 작업 - 작업 할당 및 작업 상태를 보여 주는 방법
 
 ```
 displayname=Assignments and Status
@@ -207,9 +205,9 @@ width=150
 ![할당 및 상태 보기를 보여 주는 화면 이미지](assets/assignments-and-status-view.png)
 
 
-## 작업 - 여러 작업 할당에 대한 역할 및 할당을 표시하는 방법
+### 작업 - 여러 작업 할당에 대한 역할 및 할당을 표시하는 방법
 
-### 작업 - 역할 + 시간
+#### 작업 - 역할 + 시간
 
 ```
 displayname=Role+hours
@@ -221,7 +219,7 @@ valueexpression=CONCAT({role}.{name}," (",round({workRequired}/60,2),")")
 valueformat=HTML
 ```
 
-### 작업 - 할당 + 백분율 할당
+#### 작업 - 할당 + 백분율 할당
 
 ```
 displayname=Assignment+percent
@@ -235,9 +233,9 @@ type=iterate
 
 ![할당 및 역할 보기를 보여 주는 화면 이미지](assets/assignments-roles-and-percent-view.png)
 
-## 작업 - 프로젝트 간 전임 작업 및 후임 작업
+### 작업 - 프로젝트 간 전임 작업 및 후임 작업
 
-### 작업 필터 (옵션)
+#### 작업 필터 (옵션)
 
 **현재 프로젝트에서 하나 이상의 프로젝트 간 전임 작업 또는 하나 이상의 프로젝트 간 후임 작업이 있는 모든 작업 표시**
 
@@ -254,7 +252,7 @@ OR:1:successorsMM:projectID=FIELD:projectID
 OR:1:successorsMM:projectID_Mod=ne
 ```
 
-### 작업 - 전임 작업 이름 및 프로젝트 전임 작업의 위치 표시
+#### 작업 - 전임 작업 이름 및 프로젝트 전임 작업의 위치 표시
 
 ```
 displayname=Predecessor names
@@ -268,7 +266,7 @@ valueformat=HTML
 width=150
 ```
 
-### 작업 - 후임 작업 이름 및 프로젝트 후임 작업의 위치 표시
+#### 작업 - 후임 작업 이름 및 프로젝트 후임 작업의 위치 표시
 
 ```
 displayname=Successor names
@@ -282,7 +280,7 @@ valueformat=HTML
 width=150
 ```
 
-### 작업 - 전임 작업의 예상 완료 일자 표시
+#### 작업 - 전임 작업의 예상 완료 일자 표시
 
 ```
 displayname=Predecessor projected completion dates
@@ -297,7 +295,7 @@ listmethod=nested(predecessors).lists
 shortview=false
 ```
 
-### 작업 - 전임 작업의 진행 상태 표시
+#### 작업 - 전임 작업의 진행 상태 표시
 
 ```
 displayname=Predecessor progress status
@@ -312,7 +310,7 @@ valueformat=HTML
 width=90
 ```
 
-### 작업 - 프로젝트 간 전임 작업의 프로젝트 완료율 표시
+#### 작업 - 프로젝트 간 전임 작업의 프로젝트 완료율 표시
 
 ```
 displayname=Predecessor project percent complete
@@ -329,7 +327,7 @@ width=150
 ![프로젝트 간 전임 작업 및 후임 작업 보기를 보여 주는 화면 이미지](assets/cross-project-predecessors-and-successors.png)
 
 
-## 작업 - 할당된 모든 사용자 및 각 사용자를 할당한 모든 사용자를 보여 주는 반복
+### 작업 - 할당된 모든 사용자 및 각 사용자를 할당한 모든 사용자를 보여 주는 반복
 
 ```
 displayname=All assignees and requesters
@@ -343,7 +341,7 @@ valueformat=HTML
 
 ![할당된 모든 사용자 및 각 사용자를 할당한 모든 사용자를 보여 주는 화면 이미지](assets/all-assignees-and-requesters.png)
 
-## 작업/프로젝트 - 프로젝트 또는 작업에 대한 모든 사용자 정의 양식을 보여 주는 반복
+### 작업/프로젝트 - 프로젝트 또는 작업에 대한 모든 사용자 정의 양식을 보여 주는 반복
 
 ```
 displayname=All Forms Assigned
@@ -358,7 +356,7 @@ valueformat=HTML
 ![프로젝트의 모든 사용자 정의 양식을 보여 주는 화면 이미지](assets/all-custom-forms-on-a-project.png)
 
 
-## 프로젝트 - 프로젝트 보기에서 해결 가능한 항목의 모든 기본 연락처를 보여 주는 반복
+### 프로젝트 - 프로젝트 보기에서 해결 가능한 항목의 모든 기본 연락처를 보여 주는 반복
 
 ```
 displayname=Requestor
@@ -374,7 +372,7 @@ width=150
 
 ![해결 가능한 항목의 기본 연락처를 보여 주는 화면 이미지](assets/primary-contacts-for-resolvables.png)
 
-## 프로젝트 - 모든 프로젝트 팀원을 보여 주는 반복
+### 프로젝트 - 모든 프로젝트 팀원을 보여 주는 반복
 
 ```
 displayname=Project Team Members
@@ -389,7 +387,7 @@ valueformat=HTML
 
 ![모든 프로젝트 팀원을 보여 주는 화면 이미지](assets/all-project-team-members.png)
 
-## 프로젝트 - 해결 가능한 프로젝트의 모든 문제에 대한 entryDate를 보여 주는 반복
+### 프로젝트 - 해결 가능한 프로젝트의 모든 문제에 대한 entryDate를 보여 주는 반복
 
 ```
 displayname=Resolvables entry date
@@ -407,7 +405,7 @@ valueformat=HTML
 
 ![해결 가능한 프로젝트의 모든 문제에 대한 entryDate를 보여 주는 화면 이미지](assets/resolvables-entry-date.png)
 
-## 프로젝트 - 원래 프로젝트 요청자의 홈 그룹 표시
+### 프로젝트 - 원래 프로젝트 요청자의 홈 그룹 표시
 
 ```
 displayname=Requestor home group
@@ -421,7 +419,7 @@ valueformat=HTML
 
 ![프로젝트 요청자 홈 그룹을 보여 주는 화면 이미지](assets/requestor-home-group.png)
 
-## 프로젝트 - 프로젝트가 요청 대기열인지 여부 표시
+### 프로젝트 - 프로젝트가 요청 대기열인지 여부 표시
 
 ```
 querysort=queueDef:isPublic
@@ -439,7 +437,7 @@ displayname=Public Selection
 
 ![프로젝트가 요청 대기열인지 여부를 보여 주는 화면 이미지](assets/project-is-a-request-queue.png)
 
-## 문제 - 모든 해결 프로젝트 팀원을 보여 주는 반복
+### 문제 - 모든 해결 프로젝트 팀원을 보여 주는 반복
 
 ```
 displayname=Resolve Project: Team Members
@@ -455,7 +453,7 @@ width=150
 
 ![모든 해결 프로젝트 팀원을 보여 주는 화면 이미지](assets/all-resolve-project-team-members.png)
 
-## 문제 - 문제의 기본 연락처의 모든 팀을 보여 주는 반복
+### 문제 - 문제의 기본 연락처의 모든 팀을 보여 주는 반복
 
 ```
 displayname=Requestor Teams
@@ -471,7 +469,7 @@ width=150
 
 ![모든 기본 연락 팀을 보여 주는 화면 이미지](assets/all-primary-contact-teams.png)
 
-## 문서 - 문서 보고서에 폴더를 보여 주는 반복
+### 문서 - 문서 보고서에 폴더를 보여 주는 반복
 
 ```
 displayname=Folder
@@ -485,7 +483,7 @@ valueformat=HTML
 
 ![문서 보고서의 폴더를 보여 주는 화면 이미지](assets/folder-in-a-document-report.png)
 
-## 문서 - 문서 보고서에 상위 폴더를 보여 주는 반복
+### 문서 - 문서 보고서에 상위 폴더를 보여 주는 반복
 
 ```
 displayname=Parent Folder
@@ -499,7 +497,7 @@ valueformat=HTML
 
 ![문서 보고서의 상위 폴더를 보여 주는 화면 이미지](assets/parent-folder-in-a-document-report.png)
 
-## 문서 - 문서 승인 일자
+### 문서 - 문서 승인 일자
 
 ```
 displayname=Document approval dates
@@ -517,9 +515,9 @@ section=0
 
 ![문서 승인 일자 보기를 보여 주는 화면 이미지](assets/document-approval-dates.png)
 
-## 교정쇄 승인
+### 교정쇄 승인
 
-### 교정쇄 승인 - 프로젝트 이름 표시
+#### 교정쇄 승인 - 프로젝트 이름 표시
 
 ```
 displayname=Project Name
@@ -528,7 +526,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-### 교정쇄 승인 - 작업 이름 표시
+#### 교정쇄 승인 - 작업 이름 표시
 
 ```
 displayname=Task Name

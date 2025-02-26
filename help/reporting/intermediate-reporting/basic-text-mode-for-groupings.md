@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: ht
-source-wordcount: '301'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '292'
+ht-degree: 97%
 
 ---
 
@@ -41,11 +41,9 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## 그룹화의 기본 텍스트 모드 이해하기 활동
+## &quot;그룹화에 대한 기본 텍스트 모드 이해&quot; 활동
 
-이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf)하십시오.
-
-## 작업 - 4개의 상위 그룹화
+### 작업 - 4개의 상위 그룹화
 
 다음 텍스트 모드는 최대 4개의 상위 수준을 기준으로 작업을 그룹화하고 존재하지 않는 상위 항목은 비워 둡니다.
 
@@ -62,7 +60,7 @@ group.0.valueformat=string
 ![4개의 상위 항목으로 그룹화된 프로젝트 작업을 보여 주는 화면 이미지](assets/4-parents-grouping.png)
 
 
-## 작업 - 완료율 그룹화
+### 작업 - 완료율 그룹화
 
 다음 텍스트 모드는 완료율을 기준으로 작업을 그룹화합니다. 작업은 그룹화될 때 다음 카테고리 중 하나에 속합니다.
 
@@ -83,7 +81,7 @@ textmode=true
 
 ![완료율로 그룹화된 프로젝트 작업을 보여 주는 화면 이미지](assets/percent-complete-grouping.png)
 
-## 작업 - statusEquatesWith, 상태
+### 작업 - statusEquatesWith, 상태
 
 다음 텍스트 모드는 statusEquatesWith와 상태별로 작업을 그룹화합니다.
 
@@ -108,7 +106,7 @@ textmode=true
 ![statusEquatesWith로 그룹화된 프로젝트 작업을 보여 주는 화면 이미지](assets/status-equates-with.png)
 
 
-## 교정쇄 승인 - 프로젝트 이름별로 그룹화
+### 교정쇄 승인 - 프로젝트 이름별로 그룹화
 
 ```
 group.0.valueformat=HTML
@@ -119,7 +117,7 @@ group.0.displayname=Project Name
 ![프로젝트 이름별로 그룹화된 교정쇄 승인을 보여 주는 화면 이미지](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## 교정쇄 승인 - 문서 이름별로 그룹화
+### 교정쇄 승인 - 문서 이름별로 그룹화
 
 ```
 group.0.displayname=Document Name

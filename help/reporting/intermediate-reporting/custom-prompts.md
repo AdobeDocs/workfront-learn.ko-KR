@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: ht
-source-wordcount: '207'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '198'
+ht-degree: 97%
 
 ---
 
@@ -28,11 +28,10 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## 사용자 정의 프롬프트 만들기 활동
+## &quot;사용자 지정 프롬프트 만들기&quot; 활동
 
-이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-custom-prompts-activities.pdf)하십시오.
 
-## 활동: 사용자 정의 프롬프트 만들기
+### 활동: 사용자 정의 프롬프트 만들기
 
 1. 프롬프트 드롭다운 메뉴에서 다음 프로젝트 상태를 표시하는 사용자 정의 프롬프트를 만듭니다.
    * 계획 수립
@@ -41,7 +40,7 @@ ht-degree: 100%
    * 중단
 1. 이번 달 마감인 현재 프로젝트를 표시하도록 프롬프트를 수정합니다.
 
-## 답변
+### 답변
 
 1. 사용자 정의 프롬프트는 이와 유사하게 표시되어야 하며 텍스트 모드는 다음과 같습니다.
 

@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: ht
-source-wordcount: '357'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '348'
+ht-degree: 98%
 
 ---
 
@@ -40,9 +40,7 @@ ht-degree: 100%
 >사용자 기반의 와일드카드를 사용할 때는 항상 Equal 필터 한정자를 사용해야 합니다.
 
 
-## 사용자 기반의 와일드카드로 필터 만들기 활동
-
-이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-filters-with-user-based-wildcards-activities.pdf)하십시오.
+## &quot;사용자 기반 와일드카드로 필터 만들기&quot; 활동
 
 ### 활동 1
 

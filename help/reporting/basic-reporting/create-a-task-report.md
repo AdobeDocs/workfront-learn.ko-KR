@@ -11,10 +11,10 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '933'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '925'
+ht-degree: 99%
 
 ---
 
@@ -27,9 +27,6 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## 작업 보고서 만들기 활동
-
-이 페이지의 PDF를 다운로드하려면 [여기를 클릭](/help/assets/create-task-report-activities.pdf)하십시오.
 
 >[!TIP]
 >
@@ -37,9 +34,10 @@ ht-degree: 100%
 >고객이 좋아하는 요리 목록을 쉽고 빠르게 사용할 수 있는 Cookbook에 담아 Workfront 주방에서 다시 꺼내 테스트할 수 있습니다.
 >이 10개의 보고서는 고객 여러분이 직접 작성한 것입니다. 여러 업체, 부서, 팀, 업종과 다양한 기업에서 고객이 좋아하는 보고서를 공유해 주셔서 감사드립니다. 일부 보고서는 간단하지만(매우 유용함), 일부 보고서는 매우 복잡하여 보고 수준을 새로운 차원으로 끌어올릴 수 있습니다.
 
+## &quot;작업 보고서 만들기&quot; 활동
 
 
-## 활동 1: 프롬프트가 있는 메모 보고서 만들기
+### 활동 1: 프롬프트가 있는 메모 보고서 만들기
 
 메모 콘텐츠, 작성자, 입력 일자, 프로젝트 이름 또는 감사 유형을 기반으로 사용자 메모(예: 댓글 또는 업데이트) 또는 시스템 메모를 검색하는 데 사용할 수 있는 메모 보고서를 만듭니다. 보고서 이름을 “메모 검색”으로 지정합니다.
 
@@ -68,7 +66,7 @@ ht-degree: 100%
 * 프로젝트 이름
 * 감사 유형
 
-## 답변 1
+### 답변 1
 
 1. **[!UICONTROL 메인 메뉴]**&#x200B;에서 **[!UICONTROL 보고서]**&#x200B;를 선택합니다.
 1. **[!UICONTROL 새 보고서]** 메뉴를 클릭하고 **[!UICONTROL 메모]**&#x200B;를 선택합니다.
@@ -111,7 +109,7 @@ ht-degree: 100%
 1. **[!UICONTROL 대시보드에 프롬프트 표시]** 확인란을 선택합니다.
 1. 보고서를 저장하고 닫습니다.
 
-## 활동 2: 관리팀 피드백 보고서 만들기
+### 활동 2: 관리팀 피드백 보고서 만들기
 
 이 문제 보고서에는 시스템 관리자를 위해 만든 피드백 요청 대기열의 모든 문제가 표시됩니다. [시스템 관리자 피드백 요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) 튜토리얼에서 이 요청 대기열을 만드는 방법을 확인할 수 있습니다.
 
@@ -162,7 +160,7 @@ ht-degree: 100%
 
 
 
-## 답변 2
+### 답변 2
 
 1. **[!UICONTROL 메인 메뉴]**&#x200B;에서 **[!UICONTROL 보고서]**&#x200B;를 선택합니다.
 1. **[!UICONTROL 새 보고서]** 메뉴를 클릭하고 **[!UICONTROL 문제]**&#x200B;를 선택합니다.
