@@ -11,7 +11,7 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
 source-wordcount: '925'
 ht-degree: 99%
@@ -27,14 +27,13 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
+## &quot;작업 보고서 만들기&quot; 활동
 
 >[!TIP]
 >
 >주걱과 믹싱 볼을 꺼내서 [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf)의 “레시피”를 만들 준비를 합니다. 이 안에는 내 환경을 바로 적용할 수 있는 10개의 보고서에 대한 단계별 지침이 있습니다.
 >고객이 좋아하는 요리 목록을 쉽고 빠르게 사용할 수 있는 Cookbook에 담아 Workfront 주방에서 다시 꺼내 테스트할 수 있습니다.
 >이 10개의 보고서는 고객 여러분이 직접 작성한 것입니다. 여러 업체, 부서, 팀, 업종과 다양한 기업에서 고객이 좋아하는 보고서를 공유해 주셔서 감사드립니다. 일부 보고서는 간단하지만(매우 유용함), 일부 보고서는 매우 복잡하여 보고 수준을 새로운 차원으로 끌어올릴 수 있습니다.
-
-## &quot;작업 보고서 만들기&quot; 활동
 
 
 ### 활동 1: 프롬프트가 있는 메모 보고서 만들기
