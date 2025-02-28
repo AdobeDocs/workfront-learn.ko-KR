@@ -13,10 +13,10 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 2fbd533ba3acca135e0bba76b2df1bd9a54f2ae7
+workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 ## 프로젝트 템플릿의 활성 상태를 확인 및 편집하기 위해 사용자 정의 보기를 만드는 방법을 알아봅니다.
 
-활성 상태 열이 있는 프로젝트 템플릿 보기를 만들려면 [기본 보기 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=ko-kr)에서 **프로젝트 템플릿 활성 상태 보기 활동**&#x200B;을 참조하십시오.
+활성 상태 열이 있는 프로젝트 템플릿 보기를 만들려면 [기본 보기 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view)에서 **프로젝트 템플릿 활성 상태 보기 활동**&#x200B;을 참조하십시오.
 
 ## 이 주제와 관련된 추천 튜토리얼
 
