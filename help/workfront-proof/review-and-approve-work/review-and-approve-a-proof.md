@@ -12,9 +12,9 @@ jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
 source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '727'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -47,13 +47,13 @@ ht-degree: 91%
 
 ### [!UICONTROL 홈]에서 교정쇄 열기
 
-[!DNL Workfront]에서 작업 중이며 증명 승인 요청을 받은 경우 [!DNL Workfront] [!UICONTROL Home]의 [!UICONTROL 내 승인] 위젯에서 할당을 찾을 수 있습니다.
+[!DNL Workfront]에서 작업하는 동안 교정쇄를 승인해 달라는 요청을 받은 경우, [!DNL Workfront] [!UICONTROL 홈]의 [!UICONTROL 내 승인] 위젯에서 할당을 찾을 수 있습니다.
 
-![[!DNL Workfront] [!UICONTROL Home]의 [!UICONTROL 내 승인] 위젯의 이미지](assets/open-proof-from-home.png)
+![[!DNL Workfront] [!UICONTROL 홈]의 [!UICONTROL 내 승인] 위젯 이미지.](assets/open-proof-from-home.png)
 
-승인하도록 할당된 경우에만 [!DNL Workfront] [!UICONTROL 홈]에 교정쇄가 표시된다는 점에 유의해야 합니다. 방금 증명 검토만 요청받았으면 [!DNL Workfront] [!UICONTROL Home]에 표시되지 않습니다.
+승인하도록 할당된 경우에만 [!DNL Workfront] [!UICONTROL 홈]에 교정쇄가 표시된다는 점에 유의해야 합니다. 교정본만 검토해 달라는 요청을 받은 경우에는 [!DNL Workfront] [!UICONTROL 홈]에 표시되지 않습니다.
 
-[!UICONTROL 증명으로 이동] 링크를 클릭하여 증명 뷰어로 엽니다.
+[!UICONTROL 교정쇄로 이동] 링크를 클릭하여 교정쇄 뷰어에서 이를 여십시오.
 
 조직의 교정쇄 및 프로젝트 워크플로에 따라 교정쇄 승인 요청 대신 [!DNL Workfront] [!UICONTROL 홈]에서 작업 할당을 볼 수 있습니다. 이 경우 작업 자체의 [!UICONTROL 문서] 섹션에서 교정쇄를 엽니다(자세한 내용은 아래 참조).
 
