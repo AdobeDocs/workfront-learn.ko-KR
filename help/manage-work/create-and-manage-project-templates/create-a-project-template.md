@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 템플릿 만들기 및 [!UICONTROL 블루프린트]에 대해 알아보기
-description: Workfront에서 템플릿 만들기에 대한 비디오를 통해 새 프로젝트 템플릿을 만들고, 이를 새 프로젝트에 사용하고, 기존 프로젝트를 템플릿으로 저장하고, 사전 빌드된 블루프린트를 활용하고, 효율적인 리소스 관리를 위해 작업을 작업 역할에 할당하는 방법을 보여 줍니다.
+description: 처음부터 기존 프로젝트에서 프로젝트 템플릿을 만드는 방법을 알아보고 [!UICONTROL 블루프린트]를 통해 Workfront 전문가가 만든 유용한 프로젝트 템플릿의 세계에 액세스하는 방법을 이해합니다.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 50%
+source-wordcount: '635'
+ht-degree: 54%
 
 ---
 
