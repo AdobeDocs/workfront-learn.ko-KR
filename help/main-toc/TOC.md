@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: c2680030e24dd48264be96695d468cd5e751c42b
+source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
 workflow-type: tm+mt
-source-wordcount: '2415'
+source-wordcount: '2410'
 ht-degree: 98%
 
 ---
@@ -152,7 +152,7 @@ ht-degree: 98%
    + 포트폴리오 {#portfolios}
       + [포트폴리오 이해](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [[!UICONTROL 비즈니스 사례] 이해](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [[!UICONTROL 포트폴리오 최적화 도구]를 사용하여 업무 우선 순위 지정 및 업무 관리](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [[!UICONTROL Portfolio 최적화 도구] 이해](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 승인 프로세스 및 마일스톤 경로 {#approval-processes-and-milestone-paths}
       + [글로벌 승인 프로세스 및 일회용 승인 프로세스 만들기](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)

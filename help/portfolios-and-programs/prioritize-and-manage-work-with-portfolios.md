@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL 포트폴리오 최적화 도구]를 사용하여 업무 우선 순위 지정 및 업무 관리'
+title: '[!UICONTROL Portfolio 최적화 도구] 이해'
 description: '[!UICONTROL 포트폴리오 최적화 도구]를 사용하여 포트폴리오 내에서 프로젝트를 비교하고 우선순위를 지정하는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: adb11deb325b2537dabeb80461f8c9ecd059e003
-workflow-type: ht
-source-wordcount: '75'
-ht-degree: 100%
+source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
+workflow-type: tm+mt
+source-wordcount: '65'
+ht-degree: 87%
 
 ---
 
-# [!UICONTROL 포트폴리오 최적화 도구]를 사용하여 업무 우선 순위 지정 및 업무 관리
+# [!UICONTROL Portfolio 최적화 도구] 이해
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
 
