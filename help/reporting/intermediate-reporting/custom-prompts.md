@@ -12,9 +12,9 @@ jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 97%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## &quot;사용자 지정 프롬프트 만들기&quot; 활동
+## “사용자 정의 프롬프트 만들기” 활동
 
 
 ### 활동: 사용자 정의 프롬프트 만들기

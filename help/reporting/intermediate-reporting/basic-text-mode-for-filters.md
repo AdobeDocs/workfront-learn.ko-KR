@@ -13,9 +13,9 @@ jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '433'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
-## &quot;필터의 기본 텍스트 모드 이해&quot; 활동
+## “필터의 기본 텍스트 모드 이해하기” 활동
 
 
 ### 작업 - “내 부분 완료”로 표시한 작업 필터링

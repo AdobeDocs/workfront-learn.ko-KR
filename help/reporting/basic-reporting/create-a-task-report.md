@@ -12,9 +12,9 @@ jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '925'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## &quot;작업 보고서 만들기&quot; 활동
+## “작업 보고서 만들기” 활동
 
 >[!TIP]
 >

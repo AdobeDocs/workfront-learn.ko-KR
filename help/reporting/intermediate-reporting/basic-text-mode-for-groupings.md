@@ -12,9 +12,9 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 97%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## &quot;그룹화에 대한 기본 텍스트 모드 이해&quot; 활동
+## “그룹화의 기본 텍스트 모드 이해하기” 활동
 
 ### 작업 - 4개의 상위 그룹화
 

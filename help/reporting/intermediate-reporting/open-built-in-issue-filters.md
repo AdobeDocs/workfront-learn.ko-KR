@@ -12,9 +12,9 @@ jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '273'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 98%
 >[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
 
-## &quot;기본 제공 문제 필터 이해&quot; 활동
+## “기본 제공 문제 필터 이해하기” 활동
 
 
 ### 활동: 문제 보고서 만들기
