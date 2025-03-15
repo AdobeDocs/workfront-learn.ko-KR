@@ -11,10 +11,10 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '627'
-ht-degree: 100%
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+workflow-type: tm+mt
+source-wordcount: '645'
+ht-degree: 95%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 100%
 
 ### 답변 1
 
-1. “메모 보고서 만들기” 활동에서 만든 보고서를 실행합니다.
+1. &quot;메모 보고서 만들기&quot; 활동에서 만든 보고서를 실행합니다. 아직 만들지 않았습니까? [작업 보고서 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) 자습서에서 활동을 보려면 여기를 클릭하십시오.
 1. **[!UICONTROL 보고서 작업]**&#x200B;을 클릭하고 **[!UICONTROL 복사]**&#x200B;를 선택합니다. [!DNL Workfront]는 “메모 검색 (사본)”이라는 새 보고서를 만듭니다.
 1. **[!UICONTROL 보고서 작업]**&#x200B;으로 이동하여 **[!UICONTROL 편집]**&#x200B;을 선택합니다. **[!UICONTROL 보고서 설정]**&#x200B;을 클릭하고 이름을 “이 프로젝트에서 메모 검색”으로 변경합니다.
 1. [!UICONTROL 보고서 프롬프트]를 클릭하고 목록에서 [!UICONTROL 프로젝트] > [!UICONTROL 이름] 프롬프트를 삭제합니다.

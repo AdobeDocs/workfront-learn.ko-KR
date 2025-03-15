@@ -1,6 +1,6 @@
 ---
 title: 요청 찾기 및 관리
-description: 효과적인 요청 관리를 위해 필터를 사용하고, 팀 할당을 관리하고, 사용자 지정 보고서 및 대시보드를 만들고, 다양한 컨텍스트에서 _my_의 의미를 명확히 하는 방법을 알아봅니다.
+description: 효과적인 요청 관리를 위해 필터를 사용하고, 팀 할당을 관리하고, 사용자 지정 보고서 및 대시보드를 만들고, 다양한 컨텍스트에서 "내"의 의미를 명확히 하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: b5daeb5775dff69b7f6fe92813ad3ec603b9f8ee
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 91%
