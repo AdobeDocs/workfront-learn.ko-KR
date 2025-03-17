@@ -13,18 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 21%
+ht-degree: 12%
 
 ---
 
 # 프로젝트 팀 이해
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
-
-* 프로젝트 팀의 용도 및 팀을 유지하는 방법
+이 비디오에서는 프로젝트 팀의 용도와 관리 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
 
