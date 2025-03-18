@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
+source-git-commit: 6611bdf35ab0863ac6f3e78ef93fc4f9cc34aed1
 workflow-type: tm+mt
-source-wordcount: '2410'
+source-wordcount: '2418'
 ht-degree: 98%
 
 ---
@@ -335,6 +335,7 @@ ht-degree: 98%
    + [작업 영역 만들기](/help/workfront-planning/create-a-workspace.md)
    + [레코드 유형 만들기 및 관리](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [테이블 보기 만들기 및 관리](/help/workfront-planning/create-and-manage-table-views.md)
+   + [UX 디자인 팀을 위한 Workfront Planning의 이점](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + 통합 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
