@@ -1,6 +1,6 @@
 ---
 title: 작업 시퀀스 알아보기
-description: 전임 작업의 정의 및 프로젝트에서 작업 순서를 지정하는 방법에 대해 알아봅니다. 그런 다음 기간 및 전임 작업을 사용하여 타임라인을 만드는 방법을 배웁니다.
+description: 전임 작업을 사용하여 작업 순서를 정의하고, 기간을 통해 타임라인을 설정하고, 템플릿을 사용하여 시퀀스를 단순화하고, 수동 제한을 방지하고, 연습을 통해 기술을 개선하여 프로젝트 관리를 간소화합니다.
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -13,34 +13,29 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+workflow-type: tm+mt
+source-wordcount: '220'
+ht-degree: 10%
 
 ---
 
 # 작업 시퀀스 알아보기
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
+이 비디오에서는 프로젝트 타임라인을 효과적으로 관리하기 위해 전임 작업 및 기간을 사용하여 Workfront에서 작업의 순서를 지정하는 방법을 설명합니다.
+이 비디오에서는 새로운 작업에 대한 전임 작업을 설정하여 순차적 순서와 정확한 시작 날짜를 확인하는 방법을 보여 줍니다.
+&#x200B;프로젝트 타임라인에 미치는 영향을 파악하기 위해 선행 작업과 함께 수행하는 작업의 중요성을 강조하고 효율적인 프로젝트 계획을 위해서는 지속 시간 및 선행 작업을 사용할 것을 권장합니다.
 
-* Workfront 전임 작업 정의
-* 기간 및 전임 작업을 사용하여 타임라인을 만드는 방법
-* 프로젝트에서 전임 작업으로 작업 순서를 지정하는 방법
-* 작업 시작 일자 설정이 작업 제한 사항에 미치는 영향
-* 전임 작업 진입 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
 
-<!---
-Learn more urls
-There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
-Overview of task predecessors
-Create predecessor relationships by chaining tasks
-Creating a predecessor relationship on the task list
-Overview of lag types
-Overview of task dependency types
---->
+## 핵심 사항
+
+* **전임 작업은 작업 순서를 정의합니다.** 전임 작업은 작업의 순서를 설정하여 다른 작업이 시작되기 전에 특정 작업이 완료되도록 합니다. 이는 프로젝트 성공에 매우 중요합니다. &#x200B;
+* **기간은 타임라인에 영향을 줍니다.** 작업 기간은 작업의 기간을 설정하고 시작 날짜와 완료 날짜를 조정하여 종속 작업에 연속 효과를 줍니다. &#x200B;
+* **템플릿 설정 간소화:** 프로젝트 템플릿에서 전임 작업 및 제약 조건을 미리 설정하여 작업 순서를 관리하는 프로세스를 간소화할 수 있습니다. &#x200B;
+* **수동 조정은 제한에 영향을 줍니다.** 특정 날짜를 수동으로 설정하면 기간 또는 전임 작업 변경으로 인한 연속 업데이트가 무시됩니다. &#x200B;
+* **실습 실력 향상:** 전임 작업 및 기간을 사용하여 실습하면 프로젝트 관리 기술을 개선하고 타임라인을 보다 효과적으로 제어할 수 있습니다.
 
 ## 이 주제와 관련된 추천 튜토리얼
 
