@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: 6611bdf35ab0863ac6f3e78ef93fc4f9cc34aed1
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '2418'
-ht-degree: 98%
+source-wordcount: '2427'
+ht-degree: 97%
 
 ---
 
@@ -152,10 +152,11 @@ ht-degree: 98%
    + 포트폴리오 {#portfolios}
       + [포트폴리오 이해](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [[!UICONTROL 비즈니스 사례] 이해](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [[!UICONTROL Portfolio 최적화 도구] 이해](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [[!UICONTROL 포트폴리오 최적화 도구] 이해](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 승인 프로세스 및 마일스톤 경로 {#approval-processes-and-milestone-paths}
       + [글로벌 승인 프로세스 및 일회용 승인 프로세스 만들기](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [요청 대기열에 문제 승인 프로세스 적용](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [디지털 작업 검토 및 승인](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [작업, 문제 및 승인 위임](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [마일스톤 적용](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
