@@ -1,6 +1,6 @@
 ---
 title: 대시보드 만들기
-description: 원활한 프로젝트 관리 및 공동 작업을 위해 사용자 정의, 쉽게 액세스, 공유 및 인쇄할 수 있는 Workfront 대시보드를 사용하여 프로젝트 데이터를 구성하고 표시할 수 있습니다.
+description: Workfront 대시보드를 사용하여 프로젝트 데이터를 구성하고 표시하십시오. 대시보드는 맞춤화하고, 쉽게 액세스하고, 공유하고, 인쇄할 수 있어 프로젝트를 원활하게 관리하고 공동 작업을 수행할 수 있습니다.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
 source-wordcount: '635'
-ht-degree: 62%
+ht-degree: 66%
 
 ---
 

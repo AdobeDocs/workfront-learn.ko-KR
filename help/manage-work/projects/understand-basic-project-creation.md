@@ -1,6 +1,6 @@
 ---
 title: 기본 프로젝트 생성 이해하기
-description: 프로젝트를 효율적으로 만들고, 관리하고, 완료하고, 예기치 않은 문제를 처리하고, 필수적인 프로젝트 관리 기능을 마스터하기 위한 초보자 친화적인 팁을 탐색하는 방법에 대해 알아봅니다. ​
+description: 효율적으로 프로젝트를 제작, 관리 및 완료하는 방법을 알아보고, 예상치 못한 문제를 처리하고, 초보 사용자 친화적인 팁을 살펴보고 필수적인 프로젝트 관리 기능을 익혀봅니다. ​
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 12%
+ht-degree: 22%
 
 ---
 
