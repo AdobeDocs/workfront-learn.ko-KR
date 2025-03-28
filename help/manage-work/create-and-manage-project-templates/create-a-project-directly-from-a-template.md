@@ -1,6 +1,6 @@
 ---
 title: 템플릿에서 직접 프로젝트 만들기
-description: 이미 빌드된 템플릿으로 시작하여 프로젝트를 만드는 방법에 대해 알아봅니다.
+description: 액세스 권한을 보장하고, 점 3개를 사용한 메뉴에서 "프로젝트 만들기"를 선택하고, 필요에 따라 프로젝트 세부 정보를 편집하고, 효율적인 설정 대안을 위해 프로세스를 마무리하여 템플릿에서 직접 프로젝트를 만듭니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,36 +8,32 @@ thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2025-03-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
-workflow-type: ht
-source-wordcount: '197'
-ht-degree: 100%
+doc-type: video
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
+workflow-type: tm+mt
+source-wordcount: '228'
+ht-degree: 21%
 
 ---
 
 # 템플릿에서 직접 프로젝트 만들기
 
-템플릿에서 작업 중이고 해당 템플릿을 사용하여 프로젝트를 만들어야 하는 경우, 템플릿 이름 옆에 있는 점 3개로 된 메뉴를 클릭합니다. 그런 다음 프로젝트 만들기를 선택합니다.
+이 비디오에서는 템플릿에서 프로젝트를 만드는 방법을 설명합니다. &#x200B; 템플릿을 열 수 있는 권한이 있는 경우 템플릿을 바로 가기로 사용하여 프로젝트를 만들 수 있습니다. &#x200B; 이렇게 하려면 템플릿을 열고 세 점 메뉴에 액세스한 다음 &quot;프로젝트 만들기&quot;를 선택합니다&#x200B;. 이렇게 하면 프로젝트 세부 정보를 편집할 수 있는 화면으로 이동합니다. &#x200B; 준비가 되면 &quot;프로젝트 만들기&quot;를 클릭하여 완료합니다. &#x200B;
 
-![메뉴의 프로젝트 만들기 옵션](assets/direct-template-01.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops)
 
-세부 정보 창에서 새 프로젝트의 설정을 변경할 수 있습니다.
+## 핵심 사항
 
-![프로젝트 생성 페이지](assets/direct-template-02.png)
+**템플릿 액세스:** 템플릿을 열어 프로젝트를 만들 수 있는 권한이 필요합니다. &#x200B;
+**바로 가기 옵션:** 템플릿을 사용하면 프로젝트를 처음부터 시작할 때와 비교하여 편리한 바로 가기가 될 수 있습니다. &#x200B;
+**점 3개 메뉴:** 템플릿을 열고 점 3개 메뉴에서 &quot;프로젝트 만들기&quot;를 선택합니다. &#x200B;
+**프로젝트 세부 정보 편집:** &quot;프로젝트 만들기&quot;를 선택한 후 완료하기 전에 프로젝트 세부 정보를 편집할 수 있습니다. &#x200B;
+**만들기 완료:** 프로세스를 완료할 준비가 되면 &quot;프로젝트 만들기&quot;를 클릭합니다. &#x200B;
 
->[!NOTE]
->
->이 방법을 사용하여 프로젝트를 만들려면 Workfront의 템플릿 영역에 대한 액세스 권한이 필요합니다. 템플릿에 액세스할 수 없는 경우에도 프로젝트 영역에서 또는 문제/작업을 전환할 때 템플릿을 사용하여 프로젝트를 만들 수 있습니다.
-
->[!TIP]
->
->자주 사용하는 템플릿이 있다면 즐겨찾기에 추가하십시오! ‘새 프로젝트’ 메뉴에 나열된 템플릿을 볼 수 있을 뿐만 아니라 탐색 막대의 ‘즐겨찾기’ 메뉴 아래에 표시됩니다.
-
-
-![새 프로젝트 즐겨찾기 템플릿](assets/direct-template-03.png)
 
 ## 이 주제와 관련된 추천 튜토리얼
 
