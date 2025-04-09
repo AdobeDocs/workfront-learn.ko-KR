@@ -13,10 +13,10 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: 2fbd533ba3acca135e0bba76b2df1bd9a54f2ae7
-workflow-type: ht
-source-wordcount: '125'
-ht-degree: 100%
+source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
+workflow-type: tm+mt
+source-wordcount: '164'
+ht-degree: 76%
 
 ---
 
@@ -28,6 +28,12 @@ ht-degree: 100%
 * 프로젝트 템플릿을 활성화 및 비활성화하는 방법.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+
+>[!NOTE]
+>
+>템플릿을 삭제하려는 경우 해당 템플릿을 사용하여 만든 프로젝트는 영향을 받지 않습니다. 삭제된 템플릿은 30일 동안 휴지통에 보관되며 시스템 관리자만 복구할 수 있습니다.
+
+
 
 ## 프로젝트 템플릿의 활성 상태를 확인 및 편집하기 위해 사용자 정의 보기를 만드는 방법을 알아봅니다.
 
