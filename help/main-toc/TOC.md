@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: 0399915a57cba155c809ea20c0998f13045e29e9
+source-git-commit: f78f24cb75ac561e4635b4d0f2a30935e1a94af4
 workflow-type: tm+mt
-source-wordcount: '2432'
-ht-degree: 97%
+source-wordcount: '2430'
+ht-degree: 94%
 
 ---
 
@@ -183,8 +183,8 @@ ht-degree: 97%
       + [시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + 사용자를 위한 프로젝트 재무 {#project-finances-users}
-      + [재무 업데이트 및 검토](/help/manage-work/project-finances/update-and-review-finances.md)
       + [재무 정보 찾기](/help/manage-work/project-finances/find-financial-information.md)
+      + [재무 업데이트](/help/manage-work/project-finances/update-and-review-finances.md)
       + [여러 과금 요율 이해](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + 중간 프로젝트 {#intermediate-projects}
@@ -331,7 +331,7 @@ ht-degree: 97%
       + [목표에 대한 진행률 계산](/help/workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [목표 상태 커뮤니케이션](/help/workfront-goals/monitor-your-goals/communicate-goal-status.md)
 
-+ Workfront 계획 {#workfront-planning}
++ Workfront Planning {#workfront-planning}
    + [인스턴스에 Planning 추가](/help/workfront-planning/add-planning-to-your-instance.md)
    + [작업 영역 만들기](/help/workfront-planning/create-a-workspace.md)
    + [레코드 유형 만들기 및 관리](/help/workfront-planning/create-and-manage-a-record-type.md)
@@ -495,7 +495,7 @@ ht-degree: 97%
       + [교정 계정 기본 설정 지정](/help/workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [교정쇄 사용자 설정](/help/workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
-   + 교정쇄 업로드 {#upload-proofs}
+   + 증명 업로드 {#upload-proofs}
       + [교정쇄 버전 정의](/help/workfront-proof/upload-proofs/what-is-a-proof-version.md)
       + [교정쇄 버전 업로드 책임자](/help/workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [문서를 교정쇄로 전환](/help/workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
@@ -509,7 +509,7 @@ ht-degree: 97%
       + [드래그 앤 드롭으로 업로드](/help/workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
       + [여러 파일을 하나의 교정쇄로 결합](/help/workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
 
-   + 교정 워크플로 {#proof-workflows}
+   + 증명 워크플로 {#proof-workflows}
       + [프로젝트 타임라인의 일부로 교정 워크플로 이해하기](/help/workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
       + [교정 워크플로 편집](/help/workfront-proof/proof-workflows/edit-a-proof-workflow.md)
       + [템플릿 그룹을 생성하여 자동화된 워크플로 템플릿 구성](/help/workfront-proof/administration-and-setup/create-template-groups.md)
@@ -602,11 +602,11 @@ ht-degree: 97%
       + [반복 계획 및 만들기](/help/agile/plan-and-create-an-iteration.md)
       + [반복 페이지 사용](/help/agile/using-the-iteration-page.md)
 
-   + Kanban {#kanban}
+   + 칸반 {#kanban}
       + [Kanban 팀 만들기](/help/agile/create-a-kanban-team.md)
       + [Kanban 팀으로 작업 관리](/help/agile/manage-work-kanban-team.md)
 
-   + 보드 {#boards}
+   + 보드  {#boards}
       + [기본 보드 찾기 및 만들기](/help/boards/find-and-create-a-basic-board.md)
       + [보드 열 관리](/help/boards/manage-board-columns.md)
       + [보드에 카드 추가](/help/boards/add-cards-to-a-board.md)

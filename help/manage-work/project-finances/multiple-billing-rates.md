@@ -1,6 +1,6 @@
 ---
 title: 여러 과금 요율 이해
-description: 프로젝트 내에서 시스템 과금 요율을 재정의하는 방법을 알아봅니다.
+description: 프로젝트 수준에서 작업 역할에 대한 청구 요율을 사용자 정의하고 관리합니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,49 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-16T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 100%
+source-wordcount: '173'
+ht-degree: 10%
 
 ---
 
+
 # 여러 과금 요율 이해
 
-[!DNL Workfront] 내에서 프로젝트 관리자는 특정 프로젝트 내의 시스템 과금 요율을 재정의할 수 있습니다. 이전에는 새 과금 요율이 프로젝트에 적용되면 향후 시간뿐만 아니라 이미 프로젝트에 로그인한 시간에도 영향을 미쳤습니다.
+이 비디오에서는 프로젝트 내의 작업 역할에 대한 청구 요율을 관리하고 사용자 지정하는 방법을 설명합니다. &#x200B;동일한 작업 역할에 대해 여러 청구 요율을 설정하고 정확한 시간 기반 조정을 보장하는 유연성이 강조됩니다. &#x200B;
 
-프로젝트 관리자는 [!DNL Workfront]의 새로운 여러 과금 요율 기능을 사용하여 과금 요율을 적용해야 하는 기간을 정할 수 있습니다. 이렇게 하면 요율이 협상되었거나 변경된 경우 프로젝트 관리자가 해당 요율이 적용되는 시기를 결정할 수 있습니다.
 
-## 과금 요율 변경
+>[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
 
-1. 프로젝트의 랜딩 페이지로 이동합니다. 왼쪽 패널에서 **[!UICONTROL 과금 요율]**&#x200B;을 선택합니다.
+## 핵심 사항
 
-   ![[!DNL Workfront]](assets/project-finances-1.png)에서 [!UICONTROL 과금 요율]을 선택하는 이미지
 
-1. **[!UICONTROL 과금 요율]** 탭에서 **[!UICONTROL 과금 요율 추가]** 버튼을 클릭합니다. 드롭다운에서 **[!UICONTROL 새로운 과금 요율]**&#x200B;을 선택합니다.
+* **기본 청구 요금:** 시스템 관리자가 각 작업 역할에 대해 기본 청구 요금을 설정하지만 개별 프로젝트에 대해 사용자 지정할 수 있습니다. &#x200B;
+* **청구 요금의 유연성:** 프로젝트 내에서 동일한 작업 역할에 대해 여러 청구 요율을 만들 수 있으므로 맞춤형으로 조정할 수 있습니다. &#x200B;
+* **시간별 요금:** 시작 날짜와 종료 날짜를 추가하여 특정 기간에 대한 청구 요금을 설정할 수 있으므로 프로젝트의 여러 단계 동안 정확한 요금 적용을 보장합니다. &#x200B;
+* **간편한 사용자 지정:** 청구 요금에 대한 변경 사항은 간단합니다. 작업 역할을 선택하고 새 요율을 입력한 다음 &quot;청구 요금&quot; 탭에서 직접 업데이트를 저장하십시오. &#x200B;
 
-   ![[!DNL Workfront]](assets/project-finances-2.png)에서 [!UICONTROL 새로운 과금 요율]을 선택하는 이미지
+## 이 주제와 관련된 추천 튜토리얼
 
-1. [!UICONTROL 새로운 과금 요율] 대화 상자가 표시됩니다. **[!UICONTROL 작업 역할]** 드롭다운에서 새로운 과금 요율을 적용할 작업 역할을 선택합니다.
+* [재무 정보 찾기](/help/manage-work/project-finances/find-financial-information.md)
+* [재무 업데이트](/help/manage-work/project-finances/update-and-review-finances.md)
+&lt;!—* [여러 청구 요금 이해](/help/manage-work/project-finances/multiple-billing-rates.md)—>
 
-   ![[!DNL Workfront]](assets/project-finances-3.png)에서 새로운 과금 요율의 작업 역할을 선택하는 이미지
-
-1. 작업 역할을 선택하면 [!UICONTROL 기본 과금 요율] 및 [!UICONTROL 과금 요율 1] 필드가 나타납니다. [!UICONTROL 과금 요율 1] 필드에 새로운 과금 요율을 입력합니다. 해당 과금 요율이 전체 프로젝트(기록된 과거, 현재 및 미래 시간)에 적용되는 경우, **[!UICONTROL 저장]** 버튼을 클릭합니다.
-
-   ![[!DNL Workfront]](assets/project-finances-5.png)에서 전체 프로젝트에 적용되는 새로운 과금 요율을 저장하는 이미지
-
-1. 새로운 과금 요율이 특정 기간에만 적용되는 경우, **[!UICONTROL 요율 추가]** 버튼을 클릭합니다. [!UICONTROL 과금 요율 1 종료 일자] 및 [!UICONTROL 과금 요율 2] 필드가 나타납니다. [!UICONTROL 과금 요율 1]에 대한 종료 일자를 입력합니다. 시스템이 프로젝트가 시작될 때 시작되었다고 가정하기 때문에 [!UICONTROL 과금 요율 1]에 대한 시작 일자를 입력할 수 없습니다.
-
-   ![[!DNL Workfront]](assets/project-finances-6.png)에서 프로젝트 시작 시 특정 기간 동안 적용되는 새로운 과금 요율을 생성하는 이미지
-
-1. 그러지 않은 경우:
-
-   * [!UICONTROL 과금 요율 1]에 대한 기본 과금 요율을 입력합니다.
-   * [!UICONTROL 과금 요율 1] ([!UICONTROL 기본 과금 요율])에 대한 종료 일자를 선택합니다.
-   * [!UICONTROL 과금 요율 2]에 대한 시작 일자는 [!UICONTROL 과금 요율 1]이 종료되는 다음 날로 자동 설정됩니다.
-   * [!UICONTROL 과금 요율 2] 섹션에 원하는 과금 요율을 입력합니다.
-   * **[!UICONTROL 요율 추가]** 버튼을 클릭하여 필요에 따라 과금 요율을 계속 추가합니다.
-   * 완료되면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
-   * 모든 과금 요율은 프로젝트의 [!UICONTROL 과금 요율] 탭에 표시됩니다.
-
-   ![[!DNL Workfront]](assets/project-finances-7.png)에서 다양한 기간에 적용되는 새로운 과금 요율을 생성하는 이미지
