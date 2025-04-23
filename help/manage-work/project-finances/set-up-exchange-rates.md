@@ -1,6 +1,6 @@
 ---
 title: 환율 설정
-description: 환율을 프로젝트 및 보고서에 사용하여 전 세계의 다양한 통화로 재무 정보를 반영하는 방법을 알아봅니다.
+description: 정확한 재무 추적을 위해 유연한 환율 관리, 글로벌 및 프로젝트 수준의 사용자 정의 및 수동 입력 옵션을 사용하여 통화 설정을 사용자 정의합니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,37 +10,34 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 100%
+source-wordcount: '277'
+ht-degree: 11%
 
 ---
 
 # 환율 설정
 
-[!DNL Workfront]는 다국적 기업인 고객 조직을 위해 다양한 통화를 지원합니다. 환율은 프로젝트 및 보고서에 사용되어 전 세계의 다양한 통화로 재무 정보를 반영할 수 있습니다.
+이 비디오에서는 Workfront 재무 추적 시스템의 통화 관리에 대한 안내서를 제공합니다. &#x200B; 기본 통화는 미국 달러이지만 전 세계 또는 개별 프로젝트 및 작업 역할에 대해 추가 통화를 설정할 수 있다고 설명한다.
+영상에는 현재 환율이 제공되지 않기 때문에 사용자가 외부에서 환율에 대한 소스를 제공해야 한다는 점을 강조하고 있다. &#x200B; 일단 설정되면 환율은 프로젝트 또는 작업 역할의 기본값이 되지만 자동으로 업데이트되지는 않습니다. 적절한 권한이 있는 사용자는 수동으로 업데이트해야 합니다. &#x200B; 통화를 설정한 후 사용자는 새 프로젝트를 만들고 사용 가능한 통화 옵션에서 선택할 수 있으며 개별 프로젝트의 환율을 사용자 정의할 수 있습니다. &#x200B;
 
-환율은 시스템 관리자가 관리합니다. 조직에 필요한 경우 추가 통화를 설정할 수 있습니다.
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
 
-Workfront의 기본 통화는 미국 달러가 기본값입니다. 기본적으로 이 통화를 사용하여 재무 정보가 계산됩니다. 이 기본값은 전역적으로, 그리고 개별 프로젝트에서 변경할 수 있습니다.
+## 핵심 사항
 
-## 통화 및 환율 설정
+* **기본 통화:** 시스템의 기본 통화는 미국 달러이지만 전체적으로 또는 개별 프로젝트 및 작업 역할에 대해 변경할 수 있습니다. &#x200B;
+* **통화 추가:** 설정 영역에서 환율과 함께 추가 통화를 설정할 수 있습니다. &#x200B;
+* **수동 환율 업데이트:** 시스템에서 현재 환율을 제공하지 않습니다. 사용자는 외부에서 환율을 소싱하고 수동으로 입력해야 합니다. &#x200B;
+* **프로젝트별 사용자 지정:** 설정 영역에서 설정된 환율은 기본값으로 사용되지만 사용자는 개별 프로젝트의 환율을 사용자 지정할 수 있습니다. &#x200B;
+* **업데이트 및 사용 권한:** 설정 영역의 변경 내용은 기존 프로젝트를 자동으로 업데이트하지 않습니다. 프로젝트 또는 작업 역할의 환율을 업데이트하려면 적절한 사용자 권한이 필요합니다.
 
-![환율 선택 이미지](assets/setting-up-finances-4.png)
+## 이 주제와 관련된 추천 튜토리얼
 
-**메인 메뉴에서 [!UICONTROL 설정]을 선택합니다.**
-
-1. 왼쪽 메뉴 패널에서 **[!UICONTROL 프로젝트 환경 설정]**&#x200B;을 확장합니다.
-1. **[!UICONTROL 환율]**&#x200B;을 클릭합니다.
-1. **[!UICONTROL 통화 추가]** 버튼을 클릭합니다.
-1. 드롭다운에서 국가 통화를 선택합니다.
-1. 통화에 대해 원하는 환율을 입력합니다.
-1. 미국 달러 이외의 통화가 [!DNL Workfront] 시스템의 기본(기본값) 통화여야 하는 경우, 통화 이름 옆에 있는 버튼을 클릭합니다.
-1. 모든 통화가 추가되면 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
-
-![환율 목록에 통화를 추가하는 이미지](assets/setting-up-finances-5.png)
-
->[!NOTE]
->
->Workfront는 환율에 대한 현재 시장 가치를 업데이트하거나 추적하지 않습니다. 필요한 경우 수동으로 업데이트해야 합니다.
+* [성과 지표 이해](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [작업 매출 및 비용 기본값 설정](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [경비 유형 설정](/help/manage-work/project-finances/set-up-expense-types.md)
+* [재무 액세스 이해](/help/manage-work/project-finances/understand-financial-access.md)

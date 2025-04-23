@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 100%
@@ -48,10 +48,10 @@ ht-degree: 100%
 >
 >더 많은 문제 유형을 만들거나 문제 유형을 삭제할 수 없습니다.
 
-<!---
+<!--
 learn more URLs
 Customize default issue types
---->
+-->
 
 ## Workfront에서 “문제”라는 용어 변경
 
@@ -60,13 +60,13 @@ Workfront 관리자는 레이아웃 템플릿 기능을 사용하여 조직의 �
 
 [!UICONTROL 문제]가 강조 표시된 ![[!UICONTROL 용어] 창](assets/admin-fund-issue-custom-terminology.png)
 
-<!---
+<!--
 paragraph below needs a hyperlink
---->
+-->
 
 새로운 [!DNL Workfront] 환경: 제3부 제어 및 인터페이스 환경의 관리자 기본 사항의 학습 경로에서 시스템 및 그룹 관리자가 레이아웃 템플릿을 만드는 방법에 대해 알아봅니다.
 
-<!---
+<!--
 learn more URLs
 Create and manage layout templates
---->
+-->

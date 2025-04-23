@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10096
 exl-id: 5d49108e-1795-4833-a374-3b598c90b345
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 100%
@@ -36,8 +36,8 @@ ht-degree: 100%
 >
 >동일한 프로젝트 또는 작업에 대해 미리 알림을 두 번 이상 사용하려면 미리 알림을 프로젝트 템플릿에 첨부합니다.
 
-<!---
+<!--
 learn more URLs
  Attach a reminder notification to an object
 Automatic reminders vs. reminder notifications
---->
+-->

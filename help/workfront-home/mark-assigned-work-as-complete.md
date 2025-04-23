@@ -11,8 +11,8 @@ thumbnail: 335104.png
 jira: KT-8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
@@ -34,6 +34,6 @@ ht-degree: 100%
 * [!UICONTROL 상태] 드롭다운 메뉴를 완료로 변경합니다.
 * [!UICONTROL 완료율]을 100퍼센트로 업데이트합니다. 이렇게 하면 상태가 완료로 자동 변경됩니다.
 
-<!---
+<!--
 learn more URLs
---->
+-->

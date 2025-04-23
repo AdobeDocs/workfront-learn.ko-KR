@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10137
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: 7dc12959-e512-41ae-866b-3ff7afb98f45
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 92%
@@ -46,9 +47,9 @@ ht-degree: 92%
 
 [!UICONTROL 프로젝트 세부 정보]에서 대부분의 재무 정보는 프로젝트를 생성하는 동안 설정되며, 여기에 표시되는 숫자는 해당 정보를 기반으로 합니다. 따라서 프로젝트를 닫을 때 재무 세부 정보에 업데이트하거나 추가할 필요가 없습니다.
 
-<!---
+<!--
 learn more urls
 Create billing records
 Manage project expenses
 Project finances
---->
+-->

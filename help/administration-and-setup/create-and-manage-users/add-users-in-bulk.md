@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: 10034.jpeg
 jira: KT-10034
 exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 100%
@@ -41,13 +41,13 @@ ht-degree: 100%
 
 [!DNL Workfront]에는 데이터를 시스템으로 가져오는 빠른 시작 템플릿이 있습니다. 사용자 가져오기에도 이 템플릿을 사용할 수 있습니다. [!DNL Workfront]의 권장 사항은 빠른 시작을 사용하기 전에 [!DNL Workfront] 컨설턴트와 협력하여 알아 두어야 할 고려 사항을 확인하는 것입니다.
 
-<!---
+<!--
 paragraph below needs URL to article
---->
+-->
 
 자세한 내용은 ‘빠른 시작을 통해 Workfront로 데이터 가져오기’를 참조하십시오.
 
-[!UICONTROL 설정] 영역의 ![[!UICONTROL 데이터 가져오기] ([!UICONTROL  빠른 시작]) 창](assets/admin-fund-adding-users-8.png)
+[!UICONTROL 설정] 영역의 ![[!UICONTROL 데이터 가져오기]&#x200B;([!UICONTROL  빠른 시작]) 창](assets/admin-fund-adding-users-8.png)
 
 <!--
 Learn more URLs

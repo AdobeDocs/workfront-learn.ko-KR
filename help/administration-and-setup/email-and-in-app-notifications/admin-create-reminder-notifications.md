@@ -10,16 +10,16 @@ level: Beginner
 thumbnail: setupremindnote.png
 jira: KT-10091
 exl-id: f1ba58d7-3226-4c62-8aa4-40f88495b833
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 100%
 
 ---
 
-<!---
+<!--
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
---->
+-->
 
 # 미리 알림 설정
 
@@ -54,12 +54,12 @@ this has the same content as the system administrator notification setup and man
 
 미리 알림은 기본 이메일 형식과 메시지를 사용합니다. 이메일을 사용자 정의하려면 템플릿을 만들면 됩니다.
 
-<!---
+<!--
 paragraph above needs a hyperlink to an article
---->
+-->
 
 ![새 이메일 템플릿 창](assets/admin-fund-email-customization.png)
 
-<!---
+<!--
 learn more URLs
---->
+-->

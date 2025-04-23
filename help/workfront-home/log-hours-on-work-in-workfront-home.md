@@ -11,8 +11,8 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
 
@@ -34,6 +34,6 @@ ht-degree: 100%
 * 미래의 시간을 기록할 수도 있고 기록하지 못할 수도 있습니다.
 * 시간을 어떻게 보냈는지 더 구체적으로 알 수 있도록 드롭다운 메뉴에서 시간 유형을 선택해야 할 수도 있습니다. 이 시간 유형은 과금 가능한 시간인지 여부를 나타낼 수도 있습니다. [!UICONTROL 로그 시간] 버튼을 클릭하여 시간을 입력하기 전에 시간 유형을 선택해야 합니다.
 
-<!---
+<!--
 learn more URLs
---->
+-->

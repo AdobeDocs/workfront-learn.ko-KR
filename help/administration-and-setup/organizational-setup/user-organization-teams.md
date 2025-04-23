@@ -11,8 +11,8 @@ thumbnail: 335071.png
 jira: KT-8762
 exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 100%
 
@@ -61,8 +61,8 @@ ht-degree: 100%
 >
 >[!UICONTROL 설정] 페이지의 [!UICONTROL 팀] 섹션에서 팀 설정을 편집할 수도 있습니다.
 
-<!---
+<!--
 learn more URLs
 Create a team
 Work On It and Done button overview
---->
+-->

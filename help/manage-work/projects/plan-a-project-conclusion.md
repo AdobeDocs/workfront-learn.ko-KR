@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 모든 것이 설정되면 프로젝트 상태를 현재로 변경하여 프로젝트를 활성화합니다. 프로젝트가 진행됨에 따라 수행 중인 작업, 발생하는 문제, 답변이 필요한 질문 등을 추적하고 싶을 것입니다. [!DNL Workfront]에서 모든 해당 정보를 찾고 관리할 수 있습니다!
 
-<!---
+<!--
 footer urls for the LP
 Plan a project 
 Edit projects
@@ -39,4 +39,4 @@ Task duration and duration types
 Use task predecessors 
 Modify multiple user assignments in a task list
 Notifications: Information about work assigned to me 
---->
+-->

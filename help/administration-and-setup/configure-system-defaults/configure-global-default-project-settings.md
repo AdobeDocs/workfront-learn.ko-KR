@@ -11,8 +11,8 @@ thumbnail: 335065.png
 jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 100%
 
@@ -20,9 +20,9 @@ ht-degree: 100%
 
 # 전역 기본 프로젝트의 설정 구성
 
-<!---
+<!--
 21.4 updates have been made
---->
+-->
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
 
@@ -79,7 +79,7 @@ ht-degree: 100%
 
 조직에서 그룹 관리자를 사용하지 않는 경우 시스템 관리자가 다른 그룹의 환경 설정을 관리할 수 있습니다.
 
-<!---
+<!--
 learn more URLs and guides
 Create or edit a group status 
 Group administrators 
@@ -87,4 +87,4 @@ Configure system-wide project preferences
 Configure project preferences for a group 
 Configure task and issue preferences for a group 
 Create and modify a group’s schedule 
---->
+-->

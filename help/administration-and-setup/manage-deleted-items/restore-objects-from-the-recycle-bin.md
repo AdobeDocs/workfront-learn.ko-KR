@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: 10100.jpeg
 jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 100%
@@ -45,8 +45,8 @@ ht-degree: 100%
 
 그룹 관리자는 자신이 관리하는 그룹과 연결된 프로젝트를 해당 프로젝트와 연결된 모든 작업, 문제 또는 문서와 함께 복원할 수 있습니다.
 
-<!---
+<!--
 learn more URL
 Restoring deleted items
 Viewing items that have been recently restored
---->
+-->
