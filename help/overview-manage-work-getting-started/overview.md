@@ -57,7 +57,7 @@ Adobe Workfront에서 프로젝트가 무엇인지, 프로젝트를 시작하고
 * [계획된 시간 이해](understand-planned-hours.md) - Adobe Workfront의 계획된 시간이 무엇인지, 계획된 시간이 프로젝트에 중요한 이유는 무엇인지, 계획된 시간을 작업에 추가하는 방법을 알아봅니다.
 * [프로젝트 타임라인 이해](understand-project-timelines.md) - 시작 또는 완료 날짜부터 프로젝트를 예약하는 방법을 알아봅니다. 그런 다음 기간, 전임 작업 및 작업 제한 사항이 프로젝트 계획에 어떤 영향을 미치는지 알아봅니다.
 * [날짜 유형 및 진행 상태 이해](understand-task-dates-and-progress-status.md) - 보기를 선택하여 Workfront의 다양한 날짜 유형을 비교하고 진행 상태 필드를 사용하는 방법을 알아봅니다.
-* [작업 노력 이해]](understand-work-effort.md) - 프로젝트 타임라인에서 계획된 시간 대신 [!UICONTROL 작업 노력]을 사용할 수 있는 방법을 알아봅니다.[!UICONTROL 
+* [작업 노력 이해](understand-work-effort.md) - 프로젝트 타임라인에서 계획된 시간 대신 [!UICONTROL 작업 노력]을 사용할 수 있는 방법을 알아봅니다.
 * [프로젝트를 실시간으로 활용](take-a-project-live.md) - 프로젝트 상태를 사용하여 프로젝트를 실시간으로 활용하는 방법에 대해 알아봅니다.
 
 ## 프로젝트 관리

@@ -17,7 +17,7 @@ ht-degree: 63%
 # 관리자를 위한 프로젝트 재무 {#project-finances-for-administrators}
 
 + [관리자를 위한 프로젝트 재무](overview.md)
-+ 관리자 {#project-finances-for-administrators}의 프로젝트 재무
++ 관리자의 프로젝트 재무 {#project-finances-for-administrators}
    + [성과 지표 이해](understand-performance-metrics.md)
    + [작업 매출 및 비용 기본값 설정](set-up-task-revenue-and-cost-defaults.md)
    + [환율 설정](set-up-exchange-rates.md)

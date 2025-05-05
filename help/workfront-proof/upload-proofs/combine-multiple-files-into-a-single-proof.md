@@ -1,6 +1,6 @@
 ---
 title: 여러 파일을 하나의 교정쇄로 결합
-description: ' [!DNL  Workfront]에서 여러 파일을 하나의 교정쇄로 결합하여 교정 프로세스를 간소화하는 방법에 대해 알아봅니다.'
+description: ' [!DNL &#x200B; Workfront]에서 여러 파일을 하나의 교정쇄로 결합하여 교정 프로세스를 간소화하는 방법에 대해 알아봅니다.'
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

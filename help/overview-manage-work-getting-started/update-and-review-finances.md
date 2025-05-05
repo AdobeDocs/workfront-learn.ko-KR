@@ -1,6 +1,6 @@
 ---
 title: 재무 업데이트 및 검토
-description: ' [!DNL  Workfront]에서 프로젝트와 관련된 재무 정보를 검토하는 방법에 대해 알아봅니다.'
+description: ' [!DNL &#x200B; Workfront]에서 프로젝트와 관련된 재무 정보를 검토하는 방법에 대해 알아봅니다.'
 activity: use
 team: Technical Marketing
 feature: Work Management

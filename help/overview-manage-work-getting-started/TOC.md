@@ -17,15 +17,15 @@ ht-degree: 68%
 # 작업 관리 - 시작 {#manage-work-getting-started}
 
 + [작업 관리 - 시작](overview.md)
-+ 작업 관리 - {#manage-work-getting-started} 시작
-   + 프로젝트 {#create-a-project} 만들기
++ 작업 관리 - 시작 {#manage-work-getting-started}
+   + 프로젝트 만들기 {#create-a-project}
       + [기본 프로젝트 생성 이해하기](understand-basic-project-creation.md)
       + [문제/요청을 프로젝트로 전환](create-a-project-from-a-request.md)
       + [프로젝트를 생성하는 네 가지 방법에 대해 알아보기](understand-other-ways-to-create-projects.md)
       + [프로젝트 세부 정보 입력](fill-in-the-project-details.md)
       + [프로젝트 페이지 탐색](navigate-the-project-page.md)
 
-   + 프로젝트 {#plan-a-project} 계획
+   + 프로젝트 계획 {#plan-a-project}
       + [프로젝트 계획 시작하기](getting-started-plan-a-project.md)
       + [작업 만들기](how-to-create-tasks.md)
       + [상위-하위 작업 이해](understand-parent-child-tasks.md)
@@ -39,7 +39,7 @@ ht-degree: 68%
       + [[!UICONTROL 작업 노력] 이해](understand-work-effort.md)
       + [실제로 프로젝트 실행](take-a-project-live.md)
 
-   + {#manage-a-project} 프로젝트 관리
+   + 프로젝트 관리{#manage-a-project}
       + [프로젝트 관리 시작하기](getting-started-manage-a-project.md)
       + [프로젝트 찾기](find-projects.md)
       + [프로젝트 공유](share-a-project.md)
