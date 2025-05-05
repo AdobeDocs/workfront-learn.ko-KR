@@ -26,4 +26,4 @@ ht-degree: 100%
 * 특정 프로젝트의 마일스톤 보기
 * [!UICONTROL 프로젝트] 영역에서 마일스톤 보기 참조
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415904/?quality=12&learn=on&enablevpops&captions=kor)

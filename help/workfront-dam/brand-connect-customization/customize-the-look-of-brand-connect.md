@@ -24,4 +24,4 @@ ht-degree: 100%
 * [!UICONTROL Brand Connect]의 용도
 * [!UICONTROL Workfront DAM]의 [!UICONTROL Brand Connect] 설정에 액세스하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335241/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418787/?quality=12&learn=on&enablevpops&captions=kor)

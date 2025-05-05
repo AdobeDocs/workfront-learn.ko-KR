@@ -40,7 +40,7 @@ ht-degree: 100%
 * 카멜 표기법의 정의
 * 보기에서 사용할 수 있는 몇 가지 기본 “플러그 앤 플레이” 텍스트 모드
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422891/?quality=12&learn=on&captions=kor)
 
 ## “보기의 기본 텍스트 모드 이해하기” 활동
 

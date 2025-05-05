@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * [!DNL Workfront]에서 할 일 목록에 액세스
 
->[!VIDEO](https://video.tv.adobe.com/v/335118/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437927/?quality=12&learn=on&enablevpops&captions=kor)

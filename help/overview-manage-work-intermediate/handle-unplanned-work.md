@@ -28,7 +28,7 @@ ht-degree: 100%
 * 문제를 기록하는 방법
 * 문제 관리의 모범 사례
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446573/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

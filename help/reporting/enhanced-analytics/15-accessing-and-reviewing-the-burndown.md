@@ -26,7 +26,7 @@ ht-degree: 100%
 * 번다운 차트에 액세스하는 방법
 * 남은 시간, 프로젝트 상태 및 프로젝트 속도 간의 관계를 이해하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438891/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 프로젝트 속도 추적
 

@@ -25,4 +25,4 @@ ht-degree: 100%
 * Workfront Fusion 개발 도구를 설치하고 사용하는 방법
 * 다양한 고급 시나리오 디자인 도구를 검토하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418121/?quality=12&learn=on&enablevpops&captions=kor)

@@ -24,7 +24,7 @@ ht-degree: 100%
 * 그룹
 * 팀
 
->[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444281/?quality=12&learn=on&enablevpops&captions=kor)
 
 시작하기 전에 [!DNL Workfront]에서 사용자 조직을 탐색할 때 익숙해져야 할 몇 가지 주요 용어는 다음과 같습니다.
 

@@ -24,7 +24,7 @@ ht-degree: 100%
 * 일반적인 업무 수명 주기의 6단계
 * 작업 수명 주기의 “전략 단계”에서 핵심 구성 요소
 
->[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415994/?quality=12&learn=on&enablevpops&captions=kor)
 
 <!--
 Your turn graphic

@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 전송 중인 작업 차트 내에서 업데이트하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436872/?quality=12&learn=on&enablevpops&captions=kor)

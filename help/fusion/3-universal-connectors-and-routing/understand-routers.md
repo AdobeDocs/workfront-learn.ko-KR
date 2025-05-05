@@ -26,4 +26,4 @@ ht-degree: 100%
 * 데이터 번들의 라우터 경로를 통과하는 방식
 * 라우터 추가 및 사용 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416568/?quality=12&learn=on&enablevpops&captions=kor)

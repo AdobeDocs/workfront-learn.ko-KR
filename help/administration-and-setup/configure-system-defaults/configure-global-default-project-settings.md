@@ -30,7 +30,7 @@ ht-degree: 100%
 * 전역 프로젝트 환경 설정 지정
 * 일정 만들기 및 사용
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423351/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 전역 및 그룹 프로젝트, 작업 및 문제 설정
 

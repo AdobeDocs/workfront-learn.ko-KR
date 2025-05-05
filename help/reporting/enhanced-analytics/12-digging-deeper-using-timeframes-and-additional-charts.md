@@ -26,4 +26,4 @@ ht-degree: 100%
 * 플라이트 플랜 차트에서 프로젝트를 드릴다운하여 번다운 차트 및 전송 중인 작업 차트를 표시하는 방법
 * 날짜 범위 내에서 확대할 일정 필터를 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437273/?quality=12&learn=on&enablevpops&captions=kor)

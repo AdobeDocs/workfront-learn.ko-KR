@@ -26,7 +26,7 @@ ht-degree: 100%
 * 그룹화를 만드는 방법
 * 다른 Workfront 사용자와 그룹화를 공유하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449822/?quality=12&learn=on&captions=kor)
 
 ## “기본 그룹화 만들기” 활동
 

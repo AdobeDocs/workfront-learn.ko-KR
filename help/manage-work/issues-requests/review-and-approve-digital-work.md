@@ -31,7 +31,7 @@ ht-degree: 13%
 
 이 비디오는 설명을 추가하고 필요에 따라 변경 사항을 지정하는 옵션을 통해 작업을 검토하고 승인할 때 유연성을 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444953/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 핵심 사항
 

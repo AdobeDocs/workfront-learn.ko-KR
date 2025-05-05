@@ -27,7 +27,7 @@ ht-degree: 7%
 위임된 승인은 시스템에 표시되며 누가 누구에게 이를 위임했는지 보여 줍니다. &#x200B; 승인과 관련된 업데이트는 업데이트 탭에 나타나며 시스템 활동은 시스템 활동 탭에서 볼 수 있습니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446383/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 핵심 사항
 

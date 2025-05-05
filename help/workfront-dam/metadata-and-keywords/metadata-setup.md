@@ -26,7 +26,7 @@ ht-degree: 100%
 * 기존 메타데이터 필드 사용
 * 사용자 정의 메타데이터 필드 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419520/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 메타데이터 모범 사례
 

@@ -41,7 +41,7 @@ ht-degree: 7%
 
 이 비디오에서는 효율적인 공유 관리를 위해 팀과 템플릿을 사용하는 방법을 강조하고 공유 환경 설정을 사용자 지정하는 관리자의 역할을 강조합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423151/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 핵심 사항
 

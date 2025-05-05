@@ -27,7 +27,7 @@ ht-degree: 100%
 * 계획된 일자, 예상 일자 및 실제 일자
 * 진행 상태 계산에 사용되는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436614/?quality=12&learn=on&enablevpops&captions=kor)
 
 >[!NOTE]
 >

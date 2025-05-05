@@ -27,7 +27,7 @@ ht-degree: 100%
 * 특정 프로젝트의 마일스톤 보기
 * 프로젝트 목록에서 마일스톤 보기에 대해 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415904/?quality=12&learn=on&enablevpops&captions=kor)
 
 >[!TIP]
 >

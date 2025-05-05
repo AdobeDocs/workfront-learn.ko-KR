@@ -36,7 +36,7 @@ ht-degree: 100%
 
 * [!UICONTROL 목표 목록] 섹션을 탐색하여 새 목표 추가
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412621/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 기존 목표 복사
 
@@ -93,5 +93,5 @@ ht-degree: 100%
 
 * 활동을 추가하고 정렬된 목표로 전환
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416526/?quality=12&learn=on&enablevpops&captions=kor)
 

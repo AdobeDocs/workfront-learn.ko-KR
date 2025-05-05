@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * [!DNL Slack]을 통해 최근 작업 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435933/?quality=12&learn=on&enablevpops&captions=kor)

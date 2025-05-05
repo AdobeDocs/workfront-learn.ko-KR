@@ -25,7 +25,7 @@ ht-degree: 100%
 * 예시 목표
 * 영향력 범위
 
->[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413135/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 책임자 지정
 

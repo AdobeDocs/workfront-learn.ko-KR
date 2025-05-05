@@ -26,4 +26,4 @@ ht-degree: 100%
 * 왼쪽 패널 메뉴에 항목 추가
 * 패널 메뉴에서 항목 재정렬
 
->[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432892/?quality=12&learn=on&enablevpops&captions=kor)

@@ -27,7 +27,7 @@ ht-degree: 100%
 * 그룹 연결
 * 하위 그룹 만들기 및 연결
 
->[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432874/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 그룹 관리자
 

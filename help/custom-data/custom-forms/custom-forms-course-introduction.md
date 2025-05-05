@@ -20,4 +20,4 @@ ht-degree: 100%
 
 이 비디오에서는 사용자 정의 양식이 무엇이며 사용자 정의 양식을 사용하여 조직별 정보를 캡처하는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432762/?quality=12&learn=on&enablevpops&captions=kor)

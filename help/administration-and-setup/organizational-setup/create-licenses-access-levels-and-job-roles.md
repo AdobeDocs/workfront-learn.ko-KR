@@ -26,4 +26,4 @@ ht-degree: 100%
 * 라이선스 및 액세스 수준 정의
 * 액세스 수준을 만들고 관리하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3421304/?quality=12&learn=on&enablevpops&captions=kor)

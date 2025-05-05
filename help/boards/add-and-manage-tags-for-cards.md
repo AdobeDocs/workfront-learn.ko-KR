@@ -21,4 +21,4 @@ ht-degree: 100%
 
 태그의 정의, 태그가 유용한 이유, 태그를 생성하고 삭제하고 추가하고 제거하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423033/?quality=12&learn=on&enablevpops&captions=kor)

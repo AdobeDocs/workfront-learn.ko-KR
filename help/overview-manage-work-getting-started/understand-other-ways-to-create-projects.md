@@ -30,7 +30,7 @@ ht-degree: 100%
 * 기존 프로젝트 복사
 * [!DNL Microsoft Project] 파일 가져오기
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432170/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

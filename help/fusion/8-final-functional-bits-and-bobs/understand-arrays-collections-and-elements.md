@@ -26,4 +26,4 @@ ht-degree: 100%
 * 단순 배열과 복합 배열의 차이점
 * 단순 배열과 복합 배열로 작업하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335298/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417984/?quality=12&learn=on&enablevpops&captions=kor)

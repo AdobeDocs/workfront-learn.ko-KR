@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * 로그인한 사용자, 작업 상태 변경 및 완료된 작업을 기반으로 프로젝트를 비교하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437443/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 프로젝트 작업 비교
 

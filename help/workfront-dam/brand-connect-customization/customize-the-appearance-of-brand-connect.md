@@ -24,7 +24,7 @@ ht-degree: 100%
 * 탐색 막대 및 바닥글 사용자 정의
 * 홈 페이지 및 로그인 페이지 사용자 정의
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418779/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 추가 [!UICONTROL 모양] 설정
 

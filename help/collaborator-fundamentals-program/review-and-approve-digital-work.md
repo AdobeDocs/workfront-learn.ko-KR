@@ -22,7 +22,7 @@ ht-degree: 100%
 * 문서 승인
 * 교정쇄 승인
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444953/?quality=12&learn=on&enablevpops&captions=kor)
 
 <!--
 learn more URLS

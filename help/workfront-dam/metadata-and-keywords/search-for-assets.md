@@ -25,4 +25,4 @@ ht-degree: 100%
 * 메타데이터 및 키워드의 유지 관리 계획
 * [!UICONTROL Workfront DAM] 모범 사례 설정
 
->[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419476/?quality=12&learn=on&enablevpops&captions=kor)

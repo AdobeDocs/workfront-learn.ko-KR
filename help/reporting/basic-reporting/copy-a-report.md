@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 유사한 보고서를 복사 및 편집하여 새 보고서를 신속하게 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437052/?quality=12&learn=on&enablevpops&captions=kor)

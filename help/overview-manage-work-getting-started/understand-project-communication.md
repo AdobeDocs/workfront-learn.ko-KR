@@ -30,7 +30,7 @@ ht-degree: 100%
 * 문제
 * 보고서
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436151/?quality=12&learn=on&enablevpops&captions=kor)
 
 >[!TIP]
 >

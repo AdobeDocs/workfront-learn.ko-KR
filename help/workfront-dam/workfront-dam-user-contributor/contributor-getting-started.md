@@ -24,4 +24,4 @@ ht-degree: 100%
 * 세 가지 [!UICONTROL Workfront DAM] 사용자 프로필 간의 차이점
 * [!UICONTROL Workfront DAM]을 탐색하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335252/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414428/?quality=12&learn=on&enablevpops&captions=kor)

@@ -27,7 +27,7 @@ ht-degree: 100%
 * 보기를 만들고 수정하는 방법
 * 다른 Workfront 사용자와 보기를 공유하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450245/?quality=12&learn=on&captions=kor)
 
 ## “기본 보기 만들기” 활동
 

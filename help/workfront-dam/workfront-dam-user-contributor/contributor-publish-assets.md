@@ -41,4 +41,4 @@ ht-degree: 100%
 * [!UICONTROL Brand Connect]에 자산 게시
 * [!UICONTROL Brand Connect]에 폴더 게시
 
->[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414416/?quality=12&learn=on&enablevpops&captions=kor)

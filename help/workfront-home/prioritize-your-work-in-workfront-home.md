@@ -25,4 +25,4 @@ ht-degree: 100%
 * 작업을 우선 순위 할당으로 표시
 * 우선 순위 작업만 볼 수 있도록 [!UICONTROL 작업 목록] 필터링
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438539/?quality=12&learn=on&enablevpops&captions=kor)

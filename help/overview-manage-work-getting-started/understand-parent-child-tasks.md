@@ -26,7 +26,7 @@ ht-degree: 100%
 
 * [!DNL Workfront] 프로젝트에서 작업을 구성하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445603/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 조직이 보다 효율적으로 운영되는데 도움이 되는 권장 사항을 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438836/?quality=12&learn=on&enablevpops&captions=kor)

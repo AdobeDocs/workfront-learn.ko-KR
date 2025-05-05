@@ -21,4 +21,4 @@ ht-degree: 100%
 
 보드에서 카드를 재구성, 복사, 보관, 삭제 및 연결 해제하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346810/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422923/?quality=12&learn=on&enablevpops&captions=kor)

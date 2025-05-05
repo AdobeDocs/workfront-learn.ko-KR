@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * [!DNL Workfront]에서 표현식을 작성할 때 사용되는 표준 요소
 
->[!VIDEO](https://video.tv.adobe.com/v/335174/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416228/?quality=12&learn=on&enablevpops&captions=kor)

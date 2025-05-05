@@ -22,6 +22,6 @@ ht-degree: 100%
 
 시스템 관리자가 그룹 관리자를 활용하여 효율적으로 설정을 유지 관리하고 그룹이 작업 프로세스를 보다 효과적으로 제어할 수 있도록 하는 방법을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439330/?quality=12&learn=on&enablevpops&captions=kor)
 
 

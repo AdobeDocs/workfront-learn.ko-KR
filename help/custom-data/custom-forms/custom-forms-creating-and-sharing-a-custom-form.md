@@ -26,5 +26,5 @@ ht-degree: 100%
 * 다양한 형식의 고유 필드 추가
 * 다른 사용자와 양식 공유
 
->[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420152/?quality=12&learn=on&enablevpops&captions=kor)
 

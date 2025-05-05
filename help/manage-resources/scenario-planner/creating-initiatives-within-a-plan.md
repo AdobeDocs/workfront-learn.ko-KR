@@ -22,4 +22,4 @@ ht-degree: 100%
 
 이 비디오에서는 [!DNL Scenario Planner]에서 계획의 일부로 이니셔티브를 만드는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335319/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412639/?quality=12&learn=on&enablevpops&captions=kor)

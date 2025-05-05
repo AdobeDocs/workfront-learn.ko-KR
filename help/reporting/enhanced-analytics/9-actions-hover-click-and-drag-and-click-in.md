@@ -27,7 +27,7 @@ ht-degree: 100%
 * 차트에 일정 만들기
 * 추가 차트를 표시하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438572/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 자세한 내용은 차트 클릭하기
 

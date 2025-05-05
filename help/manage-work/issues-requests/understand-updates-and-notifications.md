@@ -25,7 +25,7 @@ ht-degree: 100%
 * 승인 요청에 대한 업데이트 만들기
 * Workfront 알림 찾기
 
->[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440152/?quality=12&learn=on&enablevpops&captions=kor)
 
 <!--
 learn more URLS

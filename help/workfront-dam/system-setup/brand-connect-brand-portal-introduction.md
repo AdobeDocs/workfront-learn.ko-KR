@@ -26,7 +26,7 @@ ht-degree: 100%
 * 개별 자산에 대한 만료 일자 설정
 * 자산 설정 편집
 
->[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419547/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 자산 폴더
 

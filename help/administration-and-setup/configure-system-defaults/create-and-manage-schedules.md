@@ -21,5 +21,5 @@ ht-degree: 100%
 
 일정의 목적, 일정을 만들고 편집하는 방법, 작업을 완료할 수 있는 시점을 더 효과적으로 결정하기 위한 추가 설정에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422184/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423342/?quality=12&learn=on&enablevpops&captions=kor)
 

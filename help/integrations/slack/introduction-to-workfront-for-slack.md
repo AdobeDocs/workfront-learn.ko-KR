@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * [!DNL Slack] 비디오에 대해 다른 [!DNL Workfront]에서 배울 내용에 대한 소개를 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435922/?quality=12&learn=on&enablevpops&captions=kor)
 
 >[!NOTE]
 >

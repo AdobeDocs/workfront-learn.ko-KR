@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * 선택한 사용자에게 목표 액세스 권한 부여
 
->[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416481/?quality=12&learn=on&enablevpops&captions=kor)
 
 시스템 관리자는 Workfront의 **[!UICONTROL 설정]** 영역을 통해 사용된 [!DNL Workfront Goals] 라이선스 수를 추적할 수 있습니다.
 

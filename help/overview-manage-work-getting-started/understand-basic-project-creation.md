@@ -30,7 +30,7 @@ ht-degree: 100%
 * 작업 및 문제에 대한 약간의 정보
 * 프로젝트 생성을 시작하기 위한 모범 사례
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435901/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

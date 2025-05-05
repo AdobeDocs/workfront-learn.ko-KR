@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * 조직, 팀 및 사용자 간에 사용하고, 만들고, 탐색하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418188/?quality=12&learn=on&enablevpops&captions=kor)

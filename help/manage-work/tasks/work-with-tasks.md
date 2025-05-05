@@ -23,7 +23,7 @@ ht-degree: 12%
 
 이 비디오에서는 Workfront의 작업 관리에 대한 자세한 안내서를 제공합니다. 프로젝트 계획 내에서 작업을 편집, 삭제, 추가, 복제 및 재구성하는 등 효율적인 작업 관리를 강조한다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448563/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 핵심 사항
 

@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ## 리소스 관리 성숙도의 4단계
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420164/?quality=12&learn=on&enablevpops&captions=kor)
 
 
 ## 이어지는 다음 단계

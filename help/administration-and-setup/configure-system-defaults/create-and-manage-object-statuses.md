@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Workfront 오브젝트 및 워크플로에 대한 시스템 및 그룹 상태를 만들고 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451856/?learn=on&captions=kor)

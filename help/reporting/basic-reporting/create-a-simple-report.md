@@ -24,7 +24,7 @@ ht-degree: 100%
 
 * 기존 필터, 보기 및 그룹화를 사용하여 간단한 보고서 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413123/?quality=12&learn=on&captions=kor)
 
 ## “간단한 보고서 만들기” 활동
 

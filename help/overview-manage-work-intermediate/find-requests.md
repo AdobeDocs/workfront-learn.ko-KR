@@ -33,7 +33,7 @@ ht-degree: 100%
 * 사용자 정의 대시보드
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441661/?quality=12&learn=on&enablevpops&captions=kor)
 
 
 ## 이 주제와 관련된 추천 튜토리얼

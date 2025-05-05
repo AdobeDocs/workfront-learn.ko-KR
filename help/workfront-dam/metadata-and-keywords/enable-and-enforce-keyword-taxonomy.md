@@ -26,4 +26,4 @@ ht-degree: 100%
 * [!UICONTROL Workfront DAM] 사용자가 자신의 키워드를 입력할 수 있는 경우 파악
 * 검색 패싯 설정
 
->[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419504/?quality=12&learn=on&enablevpops&captions=kor)

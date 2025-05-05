@@ -25,4 +25,4 @@ ht-degree: 100%
 그러나 리소스에 대한 Workfront의 리소스 플래너를 사용하면 해당 작업이 조금 더 쉬울 수 있습니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437261/?quality=12&learn=on&enablevpops&captions=kor)

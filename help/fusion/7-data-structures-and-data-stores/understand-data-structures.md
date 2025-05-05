@@ -25,4 +25,4 @@ ht-degree: 100%
 * 데이터 구조 사용 및 기능 이해
 * 시나리오 내에서 데이터 구조 생성 및 사용
 
->[!VIDEO](https://video.tv.adobe.com/v/335293/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417954/?quality=12&learn=on&enablevpops&captions=kor)

@@ -22,7 +22,7 @@ ht-degree: 11%
 이 비디오에서는 긴 방법과 편리한 단축키를 모두 다루는 Workfront 프로젝트에서의 작업 생성에 대한 자습서를 제공합니다. 과제 생성의 유연성을 강조하고 효율적인 과제 관리를 위한 팁을 제공한다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423160/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 핵심 사항
 

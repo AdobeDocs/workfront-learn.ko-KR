@@ -23,4 +23,4 @@ ht-degree: 100%
 
 이 비디오에서는 Workfront에서 오브젝트에 사용자 정의 양식을 첨부하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431636/?quality=12&learn=on&enablevpops&captions=kor)

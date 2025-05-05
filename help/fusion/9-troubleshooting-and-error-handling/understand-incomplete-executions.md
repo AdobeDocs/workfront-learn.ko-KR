@@ -27,7 +27,7 @@ ht-degree: 100%
 * 불완전한 실행 정의
 * 불완전한 실행을 초래하는 오류를 처리하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418154/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 불완전한 실행으로 인한 오류
 

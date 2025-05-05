@@ -25,7 +25,7 @@ ht-degree: 100%
 * [!DNL  Workfront]의 상태 목적
 * 작업 할당 상태를 변경하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443437/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 시작과 작업 실행 비교
 

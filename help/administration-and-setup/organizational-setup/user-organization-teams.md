@@ -26,7 +26,7 @@ ht-degree: 100%
 * 다기능 팀을 사용하는 방법
 * 팀을 만들고 연결하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432883/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 팀 생성
 

@@ -26,7 +26,7 @@ ht-degree: 100%
 * 교정 템플릿을 사용하여 워크플로를 적용하는 방법
 * 처음부터 자동화된 워크플로를 설정하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453018/?quality=12&learn=on&enablevpops&captions=kor)
 
 
 

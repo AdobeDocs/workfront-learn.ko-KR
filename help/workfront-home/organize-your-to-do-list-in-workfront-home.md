@@ -31,7 +31,7 @@ ht-degree: 100%
 * 시작할 준비가 된 작업 확인
 * 작업 할당 승인
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445085/?quality=12&learn=on&enablevpops&captions=kor)
 
 >[!NOTE]
 >

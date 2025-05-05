@@ -26,7 +26,7 @@ ht-degree: 100%
 * 댓글에 사용되는 작업 방법
 * 작업 레이블을 사용자 정의하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432941/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 사용자 차례
 

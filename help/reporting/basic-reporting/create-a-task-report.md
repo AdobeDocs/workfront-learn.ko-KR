@@ -25,7 +25,7 @@ ht-degree: 100%
 * 복잡한 필터로 작업 보고서를 만드는 방법
 * 생성한 보고서를 찾는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448349/?quality=12&learn=on&captions=kor)
 
 ## “작업 보고서 만들기” 활동
 

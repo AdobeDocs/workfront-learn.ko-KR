@@ -25,4 +25,4 @@ ht-degree: 100%
 * 보고서 설정에 액세스하는 방법
 * 일반적인 보고서 설정의 용도
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445870/?quality=12&learn=on&enablevpops&captions=kor)

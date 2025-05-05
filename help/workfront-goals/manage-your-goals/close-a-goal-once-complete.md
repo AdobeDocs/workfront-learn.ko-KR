@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 목표가 완료되었거나 더 이상 작업하지 않거나 가까운 미래에 작업을 계획하지 않을 때 목표를 닫음
 
->[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415943/?quality=12&learn=on&enablevpops&captions=kor)

@@ -26,4 +26,4 @@ ht-degree: 100%
 * 반응형 웹후크와 수동 웹후크의 차이점
 * 웹후크로 수신 데이터에 대한 대기열을 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335291/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417942/?quality=12&learn=on&enablevpops&captions=kor)

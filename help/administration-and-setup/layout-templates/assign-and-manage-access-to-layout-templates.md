@@ -26,4 +26,4 @@ ht-degree: 100%
 * 사용자, 그룹 또는 팀에 레이아웃 템플릿 할당
 * 레이아웃 템플릿 액세스를 관리할 수 있는 사람 제어
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432332/?quality=12&learn=on&enablevpops&captions=kor)

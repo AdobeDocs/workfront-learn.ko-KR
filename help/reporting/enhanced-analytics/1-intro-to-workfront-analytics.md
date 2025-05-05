@@ -22,4 +22,4 @@ ht-degree: 100%
 
 [!UICONTROL 향상된 분석]을 위해 Workfront의 제품 관리자인 Joel Pettigrew와 함께 이 비디오를 시청하며 분석을 시작하고 흥미로운 기능을 활용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422288/?quality=12&learn=on&enablevpops&captions=kor)

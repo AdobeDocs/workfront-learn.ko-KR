@@ -26,4 +26,4 @@ ht-degree: 100%
 * 작업 역할을 만드는 방법.
 * 올바른 작업에 할당될 수 있도록 사용자에게 작업 역할을 적용하는 방법.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452433/?quality=12&learn=on&enablevpops&captions=kor)

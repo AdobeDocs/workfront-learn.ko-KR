@@ -32,7 +32,7 @@ ht-degree: 100%
 * 처음부터 템플릿 만들기
 * 기존 프로젝트에서 템플릿 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415447/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## [!UICONTROL 블루프린트]로 만든 템플릿
 

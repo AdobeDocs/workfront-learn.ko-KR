@@ -21,4 +21,4 @@ ht-degree: 100%
 
 보드에서 열을 편집, 추가, 재정렬 및 삭제하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346570/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422952/?quality=12&learn=on&enablevpops&captions=kor)

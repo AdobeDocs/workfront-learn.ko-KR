@@ -31,4 +31,4 @@ ht-degree: 100%
 * 수신 및 기존 작업 할당 찾기
 * 할당 정보 검토
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432296/?quality=12&learn=on&enablevpops&captions=kor)

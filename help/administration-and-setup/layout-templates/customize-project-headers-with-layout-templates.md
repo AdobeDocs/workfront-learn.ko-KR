@@ -22,4 +22,4 @@ ht-degree: 100%
 
 레이아웃 템플릿을 통해 프로젝트 헤더에서 필드를 추가하고 제거하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409081)
+>[!VIDEO](https://video.tv.adobe.com/v/3422847?captions=kor)

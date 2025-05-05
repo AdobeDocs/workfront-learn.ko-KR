@@ -28,7 +28,7 @@ ht-degree: 100%
 * 프로젝트 지표 차트에 액세스
 * 차트 정보를 사용자 정의
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439177/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

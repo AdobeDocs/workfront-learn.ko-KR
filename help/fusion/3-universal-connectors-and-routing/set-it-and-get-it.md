@@ -25,4 +25,4 @@ ht-degree: 100%
 * 서로 다른 경로 간에 데이터 공유
 * 설정 및 가져오기 변수 사용
 
->[!VIDEO](https://video.tv.adobe.com/v/335275/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417270/?quality=12&learn=on&enablevpops&captions=kor)

@@ -24,7 +24,7 @@ ht-degree: 12%
 이 비디오에서는 정확한 예측이 어려울 때 Workfront의 작업 노력 기능을 사용하여 작업의 계획된 시간을 예측하는 방법을 설명합니다.
 작업 노력, 계획된 시간 및 기간 유형과 같은 관련 열을 추가하여 작업 관리를 간소화하는 사용자 정의 작업 노력 보기를 만드는 방법을 보여 줍니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447406/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 핵심 사항
 

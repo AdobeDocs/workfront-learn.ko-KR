@@ -19,4 +19,4 @@ ht-degree: 100%
 
 스토리를 더 작게 나누고, 백로그에서 스토리의 우선 순위를 다시 지정하고, 스토리를 반복할 준비가 되었음을 표시하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412188/?quality=12&learn=on&enablevpops&captions=kor)

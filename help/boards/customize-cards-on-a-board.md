@@ -20,4 +20,4 @@ ht-degree: 100%
 
 전체 보기 또는 요약 보기에 대해 보드의 카드에 표시되는 정보를 사용자 정의하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446538/?quality=12&learn=on&enablevpops&captions=kor)

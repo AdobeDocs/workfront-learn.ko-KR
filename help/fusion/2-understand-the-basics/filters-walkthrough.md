@@ -32,7 +32,7 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 * 모듈의 두 모듈 사이에 필터 추가
 
->[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416487/?quality=12&learn=on&enablevpops&captions=kor)
 
 
 ## 사용자 차례

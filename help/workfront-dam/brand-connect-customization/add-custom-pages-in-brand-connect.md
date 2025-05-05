@@ -25,4 +25,4 @@ ht-degree: 100%
 * 사용자 정의 Brand Connect 페이지 만들기
 * 탐색 막대에서 옵션 사용자 정의
 
->[!VIDEO](https://video.tv.adobe.com/v/335243/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418772/?quality=12&learn=on&enablevpops&captions=kor)

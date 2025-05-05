@@ -35,4 +35,4 @@ ht-degree: 100%
 * 자산 검색 및 보기
 * 폴더 구조가 자산 구성 및 액세스에 미치는 영향 살펴보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420105/?quality=12&learn=on&enablevpops&captions=kor)

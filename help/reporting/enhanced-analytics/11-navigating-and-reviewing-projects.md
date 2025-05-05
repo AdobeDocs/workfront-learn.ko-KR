@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * 플라이트 플랜 차트를 읽는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439019/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 플라이트 플랜 차트
 

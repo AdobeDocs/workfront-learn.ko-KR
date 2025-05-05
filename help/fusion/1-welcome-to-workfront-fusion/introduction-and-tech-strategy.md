@@ -50,4 +50,4 @@ Fusion 시스템 관리자인 경우, 다음 튜토리얼을 참조하여 팀을
 * Fusion 핵심 및 디자이너 기능
 * Fusion 예제 시나리오
 
->[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416556/?quality=12&learn=on&enablevpops&captions=kor)

@@ -22,7 +22,7 @@ ht-degree: 100%
 
 * [!UICONTROL Workfront DAM] 과정의 소개 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335227/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436908/?quality=12&learn=on&enablevpops&captions=kor)
 
 <!-- Learn more graphic & links to documentation articles
 * Accessing help for Workfront DAM

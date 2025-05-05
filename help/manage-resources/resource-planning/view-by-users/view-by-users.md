@@ -26,4 +26,4 @@ ht-degree: 100%
 * 리소스 정보가 이 보기에 표시되는 방법 알아보기
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443813/?quality=12&learn=on&enablevpops&captions=kor)

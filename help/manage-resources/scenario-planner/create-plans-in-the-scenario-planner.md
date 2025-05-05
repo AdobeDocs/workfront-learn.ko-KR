@@ -22,7 +22,7 @@ ht-degree: 100%
 
 이 비디오에서는 [!DNL Scenario Planner]에서 플랜을 만드는 방법에 대해 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412633/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 플랜에 대한 작업 역할 정보 추정
 

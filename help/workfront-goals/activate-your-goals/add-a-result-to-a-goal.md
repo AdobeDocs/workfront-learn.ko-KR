@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 결과를 추가하여 목표 활성화
 
->[!VIDEO](https://video.tv.adobe.com/v/335194/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415982/?quality=12&learn=on&enablevpops&captions=kor)

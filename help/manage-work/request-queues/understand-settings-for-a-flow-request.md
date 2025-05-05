@@ -30,7 +30,7 @@ ht-degree: 11%
 
 이러한 질문을 해결하면 사용자는 Workfront에서 요청 대기열을 효과적으로 계획 및 구성할 수 있습니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441912/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 핵심 사항
 

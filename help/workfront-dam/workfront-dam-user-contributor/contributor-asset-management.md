@@ -30,7 +30,7 @@ ht-degree: 100%
 * 폴더에 메타데이터 템플릿 적용
 * 폴더 권한 설정
 
->[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414422/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 자산 버전 작동 방식
 

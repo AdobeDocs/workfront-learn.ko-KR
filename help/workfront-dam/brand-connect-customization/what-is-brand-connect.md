@@ -31,7 +31,7 @@ ht-degree: 100%
 
 * [!UICONTROL Brand Connect] 개요를 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418794/?quality=12&learn=on&enablevpops&captions=kor)
 
 <!-- Learn more graphic and link to article, below
 * Workfront DAM within Workfront

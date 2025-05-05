@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * 리소스 관리 도구를 최적화하는 방법(기간 및 계획된 일자, 계획된 시간 및 작업 역할 할당)
 
->[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420176/?quality=12&learn=on&enablevpops&captions=kor)

@@ -26,7 +26,7 @@ ht-degree: 100%
 * [!DNL  Workfront]에서 상태가 중요한 이유
 * 완료된 작업을 보기 위해 [!UICONTROL 작업 목록]을 필터링하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444292/?quality=12&learn=on&enablevpops&captions=kor)
 
 
 ## 작업 완료를 나타내는 두 가지 방법

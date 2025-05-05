@@ -27,7 +27,7 @@ ht-degree: 100%
 * 라이트박스 감시 및 관리
 * 라이트박스 공동 작업
 
->[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3454357/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 라이트박스와 폴더 비교
 

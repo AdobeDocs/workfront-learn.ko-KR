@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Home 페이지에서 위젯을 제거, 추가 및 재배치하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448980/?quality=12&learn=on&enablevpops&captions=kor)
 
 
 >[!NOTE]

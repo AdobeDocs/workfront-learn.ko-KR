@@ -25,7 +25,7 @@ ht-degree: 100%
 * SUB, SUM, DIV 및 PROD 표현식의 기능
 * 계산된 필드에서 SUB 데이터 표현식을 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414003/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 추가 정보: ROUND 표현식
 

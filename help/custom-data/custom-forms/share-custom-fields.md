@@ -23,5 +23,5 @@ ht-degree: 100%
 
 이 비디오에서는 사용자 정의 필드를 조회 및/또는 편집할 수 있는 사용자를 결정하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432949/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446549/?quality=12&learn=on&enablevpops&captions=kor)
 

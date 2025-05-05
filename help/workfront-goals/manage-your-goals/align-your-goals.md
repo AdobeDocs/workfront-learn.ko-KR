@@ -52,4 +52,4 @@ ht-degree: 100%
 * 상향식 및 하향식 접근법을 모두 사용하여 목표 정렬
 * [!UICONTROL 목표 정렬] 섹션 탐색
 
->[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415970/?quality=12&learn=on&enablevpops&captions=kor)

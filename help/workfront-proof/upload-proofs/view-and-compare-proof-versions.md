@@ -27,7 +27,7 @@ ht-degree: 100%
 * 버전에 대한 댓글 및 마크업 만들기
 * 파일의 현재 버전과 이전 버전 비교
 
->[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446903/?quality=12&learn=on&enablevpops&captions=kor)
 
 <!--
 ## Learn more

@@ -27,7 +27,7 @@ ht-degree: 76%
 * 활성화 및 비활성화 권한을 부여하는 프로젝트 템플릿을 공유하는 방법.
 * 프로젝트 템플릿을 활성화 및 비활성화하는 방법.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444997/?quality=12&learn=on&enablevpops&captions=kor)
 
 >[!NOTE]
 >

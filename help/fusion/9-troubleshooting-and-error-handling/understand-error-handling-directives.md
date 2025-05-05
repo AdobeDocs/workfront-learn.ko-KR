@@ -25,7 +25,7 @@ ht-degree: 100%
 * 계속해서 실행할 수 있는 세 가지 오류 핸들러 지시문
 * 실행을 중지하는 두 가지 오류 핸들러 지시문
 
->[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418139/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 지시문 - 시나리오 계속
 

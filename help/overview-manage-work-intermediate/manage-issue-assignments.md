@@ -31,7 +31,7 @@ ht-degree: 100%
 * 문제에 대한 진행 상황 업데이트
 * 문제 상태 업데이트
 
->[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446962/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

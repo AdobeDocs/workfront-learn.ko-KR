@@ -29,7 +29,7 @@ ht-degree: 100%
 * [!DNL  Workfront]에서 교정쇄 사용자 설정 조정
 * 교정 백엔드 설정에서 교정쇄 사용자 설정 조정
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432928/?quality=12&learn=on&enablevpops&captions=kor)
 
 <!--
 Lean More URLs

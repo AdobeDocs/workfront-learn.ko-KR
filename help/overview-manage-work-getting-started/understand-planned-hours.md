@@ -30,7 +30,7 @@ ht-degree: 100%
 * 계획된 시간을 추정하는 방법
 * 작업에 계획된 시간을 추가하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445340/?quality=12&learn=on&enablevpops&captions=kor)
 
 
 ## 이 주제와 관련된 추천 튜토리얼 및 문서

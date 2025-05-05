@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Workfront Planning이 프로젝트 추적을 중앙 집중화하고 비즈니스 목표에 맞게 디자인 작업을 조정하여 UX 팀 효율성을 높이는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452187/?learn=on&enablevpops&captions=kor)

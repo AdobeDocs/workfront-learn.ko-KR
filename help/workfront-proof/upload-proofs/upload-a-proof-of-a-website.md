@@ -25,7 +25,7 @@ ht-degree: 100%
 * 정적 교정쇄로 웹 사이트 업로드
 * 인터랙티브 교정쇄로 웹 사이트 업로드
 
->[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445074/?quality=12&learn=on&enablevpops&captions=kor)
 
 
 ## 대화형 콘텐츠 고려 사항

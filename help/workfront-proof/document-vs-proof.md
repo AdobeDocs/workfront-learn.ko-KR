@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * [!DNL Workfront]에서 문서와 교정쇄의 차이점
 
->[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439866/?quality=12&learn=on&enablevpops&captions=kor)

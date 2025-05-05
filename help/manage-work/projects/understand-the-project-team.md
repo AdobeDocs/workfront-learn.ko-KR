@@ -24,7 +24,7 @@ ht-degree: 12%
 
 이 비디오에서는 프로젝트 팀의 용도와 관리 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444596/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 핵심 사항
 

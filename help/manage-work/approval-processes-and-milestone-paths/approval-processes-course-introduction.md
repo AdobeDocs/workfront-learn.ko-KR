@@ -20,4 +20,4 @@ ht-degree: 100%
 
 이 비디오에서는 승인 프로세스를 통해 작업 검토 프로세스를 단순화하고 자동화하는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335224/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436429/?quality=12&learn=on&enablevpops&captions=kor)

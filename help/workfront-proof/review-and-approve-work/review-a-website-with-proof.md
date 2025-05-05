@@ -26,7 +26,7 @@ ht-degree: 100%
 * 정적 웹 사이트 교정쇄에 댓글 달기
 * 인터랙티브 웹 사이트 교정쇄에 댓글 달기
 
->[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445969/?quality=12&learn=on&enablevpops&captions=kor)
 
 <!--
 ## Learn more

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 이 비디오에서는 새 반복을 만들고 반복에 대한 스토리를 선택/선택 취소하는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346284/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412194/?quality=12&learn=on&enablevpops&captions=kor)

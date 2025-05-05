@@ -21,5 +21,5 @@ ht-degree: 100%
 
 기존 사용자를 복사하고, 새 사용자를 일괄 가져오고, 처음부터 새 사용자를 만들어 Workfront에 사용자를 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447050/?quality=12&learn=on&enablevpops&captions=kor)
 

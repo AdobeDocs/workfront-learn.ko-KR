@@ -26,7 +26,7 @@ ht-degree: 100%
 * 교정쇄 사용자가 워크플로 템플릿을 통해 얻을 수 있는 이점
 * 어떤 템플릿을 만들지 계획을 시작하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441304/?quality=12&learn=on&enablevpops&captions=kor)
 
 <!--
 Learn More Icon

@@ -26,4 +26,4 @@ ht-degree: 100%
 * 계산 편집기의 기능
 * 계산 편집기를 사용하여 계산된 필드에서 ADDWEEKDAYS 일자 표현식을 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412699/?quality=12&learn=on&enablevpops&captions=kor)

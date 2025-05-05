@@ -25,4 +25,4 @@ ht-degree: 100%
 * [!UICONTROL 설정] 영역에서 레이아웃 템플릿 찾기
 * Workfront에서 레이아웃 템플릿 만들기를 시작하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413111/?quality=12&learn=on&enablevpops&captions=kor)
