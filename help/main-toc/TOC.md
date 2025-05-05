@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: f78f24cb75ac561e4635b4d0f2a30935e1a94af4
+source-git-commit: 9bf4398b7edae104063f1d6265e9c56efb41ea8e
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2384'
 ht-degree: 94%
 
 ---
@@ -344,10 +344,10 @@ ht-degree: 94%
       + [Adobe Workfront 플러그인을 사용하여 Creative Cloud와 통합](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ko)
-      + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=ko)
-      + [문서 전송 및 자산 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=ko)
-      + [버전 기록 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=ko)
+      + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [문서 전송 및 자산 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [버전 기록 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [G Suite 통합으로 워크플로 개선](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -359,13 +359,13 @@ ht-degree: 94%
       + [Microsoft Outlook 추가 기능 설치](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Microsoft Teams용 Adobe Workfront 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=ko)
-      + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=ko)
-      + [Microsoft Teams의 Adobe Workfront 액세스](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 항목 검색 및 공유](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=ko)
+      + [Microsoft Teams용 Adobe Workfront 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [Microsoft Teams의 Adobe Workfront 액세스](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 항목 검색 및 공유](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [[!UICONTROL Slack]용 Workfront 이해](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -575,17 +575,7 @@ ht-degree: 94%
 
 + 홈 {#home}
    + [Home에서 위젯 제거, 추가 및 재배열](/help/workfront-home/remove-add-and-rearrange-widgets.md)
-   + [작업 찾기](/help/workfront-home/find-your-work-in-workfront-home.md)
-   + [할 일 목록 구성](/help/workfront-home/organize-your-to-do-list-in-workfront-home.md)
-   + [작업의 우선 순위 지정](/help/workfront-home/prioritize-your-work-in-workfront-home.md)
-   + [작업 상태 표시](/help/workfront-home/indicate-work-status-in-workfront-home.md)
-   + [작업에 대한 커뮤니케이션](/help/workfront-home/communicate-about-work-in-workfront-home.md)
-   + [작업 시간 기록](/help/workfront-home/log-hours-on-work-in-workfront-home.md)
-   + [할당된 작업을 완료로 표시](/help/workfront-home/mark-assigned-work-as-complete.md)
-   + [[!UICONTROL 홈]에서 작업 승인](/help/workfront-home/approve-work-in-workfront-home.md)
-   + [[!UICONTROL 내 업데이트]로 공동 작업](/help/workfront-home/collaborate-on-work-with-my-updates.md)
-   + [[!UICONTROL 내 업데이트] 또는 [!UICONTROL 홈]의 작업 검토](/help/workfront-home/review-work-in-my-updates-or-workfront-home.md)
-   + [업데이트 및 알림 이해](/help/manage-work/issues-requests/understand-updates-and-notifications.md)
+
 
 + 애자일 {#agile}
 
