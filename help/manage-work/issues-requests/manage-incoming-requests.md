@@ -22,5 +22,5 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->**요청 관리**&#x200B;는 이제 **[요청 찾기 및 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html)**&#x200B;에 포함되어 있습니다.
+>**요청 관리**&#x200B;는 이제 **[요청 찾기 및 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html?lang=ko)**&#x200B;에 포함되어 있습니다.
 

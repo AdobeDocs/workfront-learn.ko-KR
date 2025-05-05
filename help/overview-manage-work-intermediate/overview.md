@@ -38,7 +38,7 @@ Workfront을 최대한 활용하는 방법에 대해 자세히 알아보십시�
 >
 >* Workfront 사용에 대한 올바른 이해
 >* 프로젝트를 만들 수 있는 권한이 활성화된 표준 라이선스 유형
->* [작업 관리 - 시작](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* [작업 관리 - 시작](https://experienceleague.adobe.com/?lang=ko&recommended=Workfront-U-1-2022.1.planners)
 
 
 ## 프로젝트 템플릿

@@ -49,8 +49,8 @@ ht-degree: 100%
 
 또한 사용자가 작업하는 방식과 위치를 이해하는 데 도움이 되는 활용성 보고서, 프로젝트의 우선 순위를 지정하고 전체 회사 목표 및 전략에 쉽게 맞출 수 있는 포트폴리오 최적화 도구와 같은 추가 도구를 사용할 수 있습니다.
 
-특정 포트폴리오별로 프로젝트 목록을 필터링하는 방법을 이해하려면 [기본 필터 활동 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html)에서 “활동 1 - 마케팅 포트폴리오의 모든 프로젝트”를 참조하십시오.
+특정 포트폴리오별로 프로젝트 목록을 필터링하는 방법을 이해하려면 [기본 필터 활동 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html?lang=ko)에서 “활동 1 - 마케팅 포트폴리오의 모든 프로젝트”를 참조하십시오.
 
 활용성 보고서를 이해하려면 [활용성 보고서를 통한 진행 상황, 비용 및 수익 추적](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=ko-KR#track-progress-cost-and-revenue-with-the-utilization-report) 문서를 참조하십시오.
 
-포트폴리오 최적화 도구에 대한 자세한 내용은 [포트폴리오 최적화 도구를 사용하여 업무 우선 순위 지정 및 업무 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)를 참조하십시오.
+포트폴리오 최적화 도구에 대한 자세한 내용은 [포트폴리오 최적화 도구를 사용하여 업무 우선 순위 지정 및 업무 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=ko)를 참조하십시오.

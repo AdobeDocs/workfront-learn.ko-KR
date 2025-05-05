@@ -26,7 +26,7 @@ ht-degree: 4%
 
 이 튜토리얼에서는 프로젝트를 만들고, 계획을 세우고, 프로젝트를 관리하고, 프로젝트를 닫는 방법에 대해 알아봅니다.
 
-이 자습서를 완료한 후에는 프로젝트 관리 기술을 더 선명하게 하려면 [작업 관리 - 중급](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html)을 권장합니다.
+이 자습서를 완료한 후에는 프로젝트 관리 기술을 더 선명하게 하려면 [작업 관리 - 중급](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=ko)을 권장합니다.
 
 >[!PREREQUISITES]
 >

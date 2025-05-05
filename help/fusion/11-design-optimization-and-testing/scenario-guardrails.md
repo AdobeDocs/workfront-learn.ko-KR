@@ -36,4 +36,4 @@ ht-degree: 100%
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-kr)
 
-[Adobe Workfront Fusion 성능 가드레일](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)
+[Adobe Workfront Fusion 성능 가드레일](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html?lang=ko)

@@ -27,7 +27,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->비디오에 설명된 대로 Workfront 추가 기능을 찾을 수 없는 경우, 먼저 IT 부서에서 일부 설정 작업을 수행해야 할 수 있습니다. 자세한 지침은 [Outlook용 Adobe Workfront 설정](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html)을 참조하십시오.
+>비디오에 설명된 대로 Workfront 추가 기능을 찾을 수 없는 경우, 먼저 IT 부서에서 일부 설정 작업을 수행해야 할 수 있습니다. 자세한 지침은 [Outlook용 Adobe Workfront 설정](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=ko)을 참조하십시오.
 
 ## Microsoft Outlook 캘린더와 [!DNL Workfront] 홈 캘린더 통합
 

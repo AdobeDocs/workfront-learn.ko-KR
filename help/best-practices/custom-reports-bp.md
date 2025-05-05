@@ -86,7 +86,7 @@ ht-degree: 100%
 </br>
 </br>
 
-보고서에서 사용자 기반의 와일드카드를 사용하는 방법에 대한 지침은 [사용자 기반의 와일드카드로 필터 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)를 참조하십시오.
+보고서에서 사용자 기반의 와일드카드를 사용하는 방법에 대한 지침은 [사용자 기반의 와일드카드로 필터 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=ko)를 참조하십시오.
 
 **모범 사례**
 

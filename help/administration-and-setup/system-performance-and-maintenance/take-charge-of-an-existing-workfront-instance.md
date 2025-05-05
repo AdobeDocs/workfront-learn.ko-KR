@@ -98,7 +98,7 @@ Workfront의 놀라운 점은 사용자 정의가 가능하다는 것입니다. 
 </br>
 
 추가 정보는 아래에서 확인할 수 있습니다.
-* [웨비나: 상속된 인스턴스 인수를 위한 팁](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
+* [웨비나: 상속된 인스턴스 인수를 위한 팁](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=ko)
 * [Workfront 구현을 위한 목표 정의](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=ko)
-* [블로그 게시물: 리더십에 대한 후원 및 가치](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [블로그 게시물: Adobe Workfront KPI 소개](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [블로그 게시물: 리더십에 대한 후원 및 가치](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353?profile.language=ko)
+* [블로그 게시물: Adobe Workfront KPI 소개](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001?profile.language=ko)

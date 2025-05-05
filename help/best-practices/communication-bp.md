@@ -49,9 +49,9 @@ ht-degree: 100%
 
 워크플로를 단계별로 살펴보면 커뮤니케이션 포인트를 쉽게 확인하고 적절한 알림이 활성화되어 있는지 확인할 수 있습니다. 이렇게 하면 조직이 이미 작업하고 있는 방식에 대한 알림을 준비하여 스팸이나 커뮤니케이션 분류를 방지합니다.
 
-이벤트 알림을 설정하는 방법에 대한 지침은 [이벤트 알림 설정](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)을 참조하십시오.
+이벤트 알림을 설정하는 방법에 대한 지침은 [이벤트 알림 설정](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html?lang=ko)을 참조하십시오.
 
-이벤트 알림을 관리하는 방법에 대한 지침은 [인앱 및 이메일 이벤트 알림 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)를 참조하십시오.
+이벤트 알림을 관리하는 방법에 대한 지침은 [인앱 및 이메일 이벤트 알림 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html?lang=ko)를 참조하십시오.
 
 </br>
 </br>
@@ -72,5 +72,5 @@ ht-degree: 100%
 * 소유자 이름
 * 입력 일자
 
-프롬프트가 있는 메모 보고서를 만드는 방법에 대한 단계별 지침을 보려면 [작업 보고서 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) 튜토리얼을 시청한 후 다음 활동을 수행합니다.
+프롬프트가 있는 메모 보고서를 만드는 방법에 대한 단계별 지침을 보려면 [작업 보고서 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=ko) 튜토리얼을 시청한 후 다음 활동을 수행합니다.
 

@@ -23,8 +23,8 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->* [요청 흐름 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [전역 및 일회용 승인 프로세스 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [요청 흐름 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
+>* [전역 및 일회용 승인 프로세스 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
 이 비디오에서는 요청 대기열을 만들 때 기본 승인 프로세스를 적용하는 프로세스에 대해 설명합니다. &#x200B; 요청이 만들어지면 &quot;신규 - 승인 보류 중&quot; 상태로 시작되고 지정된 승인자에게 승인 알림이 전송됩니다. &#x200B; 승인되면 상태가 &quot;신규&quot;로 변경되어 할당된 개인이 작업을 시작할 수 있습니다. &#x200B; 거부된 경우 승인 프로세스 설정의 일반적인 실수로 인해 상태가 &quot;신규&quot;로 잘못 되돌릴 수 있습니다. &#x200B;
@@ -46,4 +46,4 @@ ht-degree: 6%
 * [작업, 문제 및 승인 위임](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [그룹별 승인 프로세스 이해](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [요청 흐름 만들기](/help/manage-work/request-queues/create-a-request-flow.md)
-* [전역 및 일회용 승인 프로세스 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [전역 및 일회용 승인 프로세스 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

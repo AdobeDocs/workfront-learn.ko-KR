@@ -108,7 +108,7 @@ ht-degree: 100%
 
 특정 프로젝트에 대한 액세스 권한은 프로젝트 자체를 통해 부여됩니다. 동일한 그룹의 사람들이 특정 템플릿으로 만들어진 프로젝트에 항상 액세스해야 하는 경우 템플릿의 프로젝트 공유 옵션 아래에서 해당 사용자를 추가하십시오. 프로젝트가 만들어지자마자 액세스를 제어할 수 있을 뿐만 아니라 향후 권한을 변경해야 하는 경우 확장성 관련 작업이 간소화됩니다.
 
-템플릿을 사용하여 만든 프로젝트를 공유하는 방법에 대한 지침은 [프로젝트 템플릿 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html)에서 “템플릿을 사용하여 만든 프로젝트를 공유하는 방법”으로 레이블이 지정된 챕터를 참조하십시오.
+템플릿을 사용하여 만든 프로젝트를 공유하는 방법에 대한 지침은 [프로젝트 템플릿 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html?lang=ko)에서 “템플릿을 사용하여 만든 프로젝트를 공유하는 방법”으로 레이블이 지정된 챕터를 참조하십시오.
 
 **참고**: 템플릿 공유는 템플릿 자체에 대한 액세스 권한을 부여합니다. 템플릿으로 프로젝트를 만들려면 사용자에게 최소한 ‘보기’ 권한이 있어야 합니다.
 
@@ -177,7 +177,7 @@ ht-degree: 100%
 
 템플릿을 사용하여 요청을 프로젝트로 전환할 때 제출된 정보를 가져오려면 요청 사용자 정의 양식과 일치하는 프로젝트 사용자 정의 양식을 첨부합니다.
 
-프로젝트 템플릿과 같은 오브젝트에 사용자 정의 양식을 첨부하는 방법에 대한 지침은 [오브젝트에 사용자 정의 양식 첨부](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html)를 참조하십시오.
+프로젝트 템플릿과 같은 오브젝트에 사용자 정의 양식을 첨부하는 방법에 대한 지침은 [오브젝트에 사용자 정의 양식 첨부](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html?lang=ko)를 참조하십시오.
 
 </br>
 </br>
@@ -190,7 +190,7 @@ ht-degree: 100%
 
 프로세스와 팀이 변경되면 프로젝트 템플릿을 업데이트해야 합니다. 활발히 사용되고 있지 않은 템플릿이 무엇인지 점검하고 확인하기 위해 분기별처럼 정기적인 주기를 설정합니다. 이들 템플릿을 비활성화하여 여전히 Workfront에 남아 있지만 템플릿 선택 목록에는 나타나지 않도록 할 수 있습니다.
 
-프로젝트 템플릿을 비활성화하는 방법에 대한 지침은 [프로젝트 템플릿 비활성화](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html)를 참조하십시오.
+프로젝트 템플릿을 비활성화하는 방법에 대한 지침은 [프로젝트 템플릿 비활성화](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html?lang=ko)를 참조하십시오.
 
 </br>
 </br>
@@ -232,7 +232,7 @@ ht-degree: 100%
 
 프로젝트에서 서로 다른 작업 제한을 혼합하면 계획 일자 계산 시 예상치 못한 혼란이 발생할 수 있습니다. 예를 들어 “일정 모드” 옵션에 대해 시작 일자를 선택하면 기본적으로 해당 프로젝트에서 만들어진 모든 작업에 ‘최대한 빨리’ 작업 제한이 할당됩니다. 나중에 “일정 모드” 옵션을 ‘완료 일자’로 전환하면 만들어진 모든 작업에 기본적으로 “최대한 빨리” 작업 제한이 적용됩니다. 이러한 각 제한이 있는 작업을 의도하지 않게 혼합하면 프로젝트 타임라인에서 계획된 일자가 혼동될 수 있습니다.
 
-작업 제한 사항 및 이를 사용하는 방법을 더 잘 이해하려면 [기기간 유형 및 작업 제한 사항의 이해 및 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)를 참조하십시오.
+작업 제한 사항 및 이를 사용하는 방법을 더 잘 이해하려면 [기기간 유형 및 작업 제한 사항의 이해 및 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ko)를 참조하십시오.
 
 </br>
 </br>
@@ -247,4 +247,4 @@ ht-degree: 100%
 
 이러한 모든 사용자는 프로젝트의 “사용자 및 일정” 섹션에서 프로젝트 팀의 일부로 나열됩니다. 결과적으로 해당 템플릿에서 만들어진 모든 프로젝트에 전파됩니다. 이는 해당 사용자에게 혼란을 줄 수 있는데, 프로젝트 팀원으로서 프로젝트 활동에 대한 알림을 받고, ‘내가 진행 중인 프로젝트’ 목록에서 프로젝트를 보고, 프로젝트 및 해당 작업, 문제 및 문서에 대한 권한을 얻게 되기 때문입니다.
 
-프로젝트 템플릿에서 프로젝트 팀을 편집하는 방법에 대한 지침은 [프로젝트 템플릿에서 프로젝트 팀 편집](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html)을 참조하십시오.
+프로젝트 템플릿에서 프로젝트 팀을 편집하는 방법에 대한 지침은 [프로젝트 템플릿에서 프로젝트 팀 편집](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html?lang=ko)을 참조하십시오.

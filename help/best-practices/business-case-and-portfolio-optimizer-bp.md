@@ -51,7 +51,7 @@ ht-degree: 100%
 
 또한 프로젝트가 부서, 지역 및/또는 기업 목표에 기여하는 방식을 관련자에게 보여 줄 기회를 제공합니다.
 
-비즈니스 사례를 사용하는 방법에 대한 지침은 [비즈니스 사례 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)를 참조하십시오.
+비즈니스 사례를 사용하는 방법에 대한 지침은 [비즈니스 사례 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=ko)를 참조하십시오.
 
 </br>
 </br>
@@ -64,7 +64,7 @@ ht-degree: 100%
 
 이 정보가 “실제” 프로젝트에 수반되는 정보에 근접한지 확인하면 포트폴리오 최적화 도구의 점수 기능을 정확하게 사용하여 나열된 프로젝트의 우선 순위를 결정할 수 있습니다. 포트폴리오 최적화 도구는 프로젝트의 우선 순위를 효율적으로 지정하고 기업의 전략 및 가치에 맞게 조정할 수 있는 뛰어난 도구입니다.
 
-비즈니스 사례를 사용하는 방법에 대한 지침은 [비즈니스 사례 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)를 참조하십시오.
+비즈니스 사례를 사용하는 방법에 대한 지침은 [비즈니스 사례 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=ko)를 참조하십시오.
 
-포트폴리오 최적화 도구를 사용하는 방법에 대한 지침은 [ 포트폴리오 최적화 도구를 사용하여 업무 우선 순위 지정 및 업무 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)를 참조하십시오.
+포트폴리오 최적화 도구를 사용하는 방법에 대한 지침은 [ 포트폴리오 최적화 도구를 사용하여 업무 우선 순위 지정 및 업무 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=ko)를 참조하십시오.
 

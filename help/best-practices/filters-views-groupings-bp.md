@@ -53,9 +53,9 @@ ht-degree: 100%
 
 보려는 데이터의 각 세그먼트에 대해 일회성 보고서를 만들면 시간이 많이 걸리고 Workfront 시스템을 복잡하게 만듭니다.
 
-프롬프트가 있는 보고서를 만드는 방법에 대한 지침은 [보고서 설정 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) 비디오에서 “보고서 프롬프트 설정 및 사용하는 방법”으로 레이블이 지정된 챕터를 참조하십시오.
+프롬프트가 있는 보고서를 만드는 방법에 대한 지침은 [보고서 설정 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html?lang=ko) 비디오에서 “보고서 프롬프트 설정 및 사용하는 방법”으로 레이블이 지정된 챕터를 참조하십시오.
 
-사용자 정의 프롬프트가 있는 보고서를 만드는 방법에 대한 지침은 [사용자 정의 프롬프트 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html)를 참조하십시오.
+사용자 정의 프롬프트가 있는 보고서를 만드는 방법에 대한 지침은 [사용자 정의 프롬프트 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html?lang=ko)를 참조하십시오.
 
 </br>
 </br>
@@ -68,7 +68,7 @@ ht-degree: 100%
 
 적을수록 좋습니다. 사용자의 일일 워크플로와 관련이 없는 필터, 보기 및 그룹화 목록 옵션을 숨기면 목록의 범위가 좁아져 사용자가 필요한 항목을 더 빨리 찾을 수 있습니다.
 
-레이아웃 템플릿을 사용하여 필터, 보기 또는 그룹화를 숨기는 방법에 대한 지침은 [레이아웃 템플릿으로 보고 목록 사용자 정의](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html)를 참조하십시오.
+레이아웃 템플릿을 사용하여 필터, 보기 또는 그룹화를 숨기는 방법에 대한 지침은 [레이아웃 템플릿으로 보고 목록 사용자 정의](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=ko)를 참조하십시오.
 
 </br>
 </br>
@@ -83,7 +83,7 @@ ht-degree: 100%
 
 레이아웃 템플릿을 통해 사용자에게 표시하려는 정보를 사용자 정의하면 각 필터, 보기 또는 그룹화 옵션을 개별적으로 공유할 필요가 없기 때문에 시스템 및 그룹 관리자의 시간도 절약됩니다.
 
-레이아웃 템플릿을 사용하여 필터, 보기 또는 그룹화를 공유하는 방법에 대한 지침은 [레이아웃 템플릿으로 보고 목록 사용자 정의](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html)를 참조하십시오.
+레이아웃 템플릿을 사용하여 필터, 보기 또는 그룹화를 공유하는 방법에 대한 지침은 [레이아웃 템플릿으로 보고 목록 사용자 정의](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=ko)를 참조하십시오.
 
 </br>
 </br>
