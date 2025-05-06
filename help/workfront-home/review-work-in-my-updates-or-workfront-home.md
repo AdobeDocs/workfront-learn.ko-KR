@@ -1,6 +1,6 @@
 ---
 title: ' [!DNL My Updates] 또는 [!DNL Home]에서 작업 검토'
-description: '[!DNL  Workfront]는 검토 및 승인을 위해 할당된 작업에 액세스할 수 있는 두 개의 위치( [!DNL My Updates] 및 [!DNL Home] )를 제공합니다.'
+description: '[!DNL  Workfront]은(는) 검토 및 승인을 위해 사용자에게 할당된 작업에 액세스할 수 있는 두 개의 위치( [!DNL My Updates] 및 [!DNL Home] )를 제공합니다'
 feature: Work Management
 type: Tutorial
 role: User
@@ -10,10 +10,12 @@ team: Technical Marketing
 thumbnail: myupdates.png
 jira: KT-10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+hide: true
+hidefromtoc: true
+source-git-commit: 76bccb731d1257fee3e3c0c20dde8efa2270a9c3
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
