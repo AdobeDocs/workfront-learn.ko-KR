@@ -12,10 +12,10 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 48%
+source-wordcount: '595'
+ht-degree: 39%
 
 ---
 
@@ -73,15 +73,16 @@ ht-degree: 48%
 1. **[!UICONTROL 필터]** 탭에서 두 개의 필터 규칙을 추가합니다.
 
    * [!UICONTROL 프로젝트] > [!UICONTROL 동일시된 상태] > [!UICONTROL 완료]
-   * [!UICONTROL 프로젝트] >[!UICONTROL &#x200B; 실제 완료 일자] > [!UICONTROL 지난 분기]
+   * [!UICONTROL 프로젝트] >[!UICONTROL  실제 완료 일자] > [!UICONTROL 지난 분기]
 
    ![보고서에 필터를 추가하는 화면 이미지](assets/chart-report-filters.png)
 
 1. **[!UICONTROL 차트]** 탭에서 차트 유형에 대한 **[!UICONTROL 열]**&#x200B;을 선택합니다.
-1. [!UICONTROL 왼쪽 (Y) 축]의 경우, [!UICONTROL 프로젝트] > [!UICONTROL 계획된 비용]을 선택합니다.
-1. [!UICONTROL 하단 (X) 축]의 경우, [!UICONTROL 프로젝트] > [!UICONTROL 이름]을 선택합니다.
-1. **[!UICONTROL 조합 차트]** 버튼을 클릭하고 **[!UICONTROL 값]** 필드에서 [!UICONTROL 프로젝트] > [!UICONTROL 실제 비용]을 선택합니다.
-1. 색상 상자 옆에 있는 화살표를 클릭하여 [!UICONTROL 실제 비용] 색상을 변경합니다. 표시되는 색상 중 하나를 선택하거나 오른쪽 하단에 있는 상자를 클릭하여 색상 팔레트를 불러옵니다.
+1. [!UICONTROL 왼쪽(Y) 축]에 대해 [!UICONTROL 계획된 비용]을(를) 선택하십시오.
+1. [!UICONTROL 아래쪽(X) 축]에 대해 [!UICONTROL 이름]을 선택하세요.
+1. **[!UICONTROL 조합 차트]** 단추를 클릭하고 **[!UICONTROL 값]** 필드에서 [!UICONTROL 실제 비용]을(를) 선택합니다.
+1. **[!UICONTROL 차트 종류]** 필드에서 Line을 선택합니다.
+1. [!UICONTROL 실제 비용] 색상을 변경하려면 색 상자를 클릭하십시오. 색상을 선택합니다.
 1. **[!UICONTROL 저장 및 닫기]**&#x200B;를 클릭합니다. 보고서 이름을 입력하라는 메시지가 표시되면 “지난 분기에 완료된 프로젝트별 계획된 비용과 실제 비용의 비교”라고 지정합니다.
 
    ![보고서에 차트를 추가하는 화면 이미지](assets/chart-report-chart.png)
