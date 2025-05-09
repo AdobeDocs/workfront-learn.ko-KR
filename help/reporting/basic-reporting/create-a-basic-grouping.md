@@ -1,6 +1,6 @@
 ---
 title: 기본 그룹화 만들기
-description: 그룹화의 저의, 그룹화를 만드는 방법, Workfront에서 다른 사용자와 그룹화를 공유하는 방법에 대해 알아봅니다.
+description: Workfront 그룹화는 사용자가 포트폴리오, 프로그램 또는 완료 날짜와 같은 항목을 기준으로 목록을 분류할 수 있도록 함으로써 프로젝트 조직을 개선합니다. 또한 효율적인 공동 작업을 위한 사용자 지정 가능한 공유 및 관리 옵션을 제공합니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,24 +9,30 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
+last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '235'
-ht-degree: 100%
+source-git-commit: 888021fa7d7160154a3a21c491c1d50c13650864
+workflow-type: tm+mt
+source-wordcount: '419'
+ht-degree: 34%
 
 ---
 
 # 기본 그룹화 만들기
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
+이 비디오에서는 프로젝트 목록을 효과적으로 구성하기 위해 Workfront에서 그룹화를 만들고 관리하는 방법을 설명합니다. &#x200B; 그룹화는 필터 및 보기와 함께 세 가지 주요 보고 요소 중 하나이며 공유된 정보를 기반으로 결과를 구성하는 데 도움이 됩니다. &#x200B;
+이 튜토리얼에서는 일상적인 작업과 공동 작업을 간소화하기 위해 프로젝트 목록을 구성하는 실용적인 단계를 제공합니다. &#x200B;
 
-* Workfront에서 그룹화의 정의
-* 그룹화를 만드는 방법
-* 다른 Workfront 사용자와 그룹화를 공유하는 방법
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/3449822/?quality=12&learn=on&captions=kor)
+## 핵심 사항
+
+* **그룹화 목적:** 그룹화는 완료 날짜, 포트폴리오 또는 프로그램 등의 공유 정보를 기반으로 프로젝트 목록을 구성하는 Workfront의 주요 보고 요소입니다. &#x200B;
+* **그룹화 만들기:** 최대 세 가지 수준의 기준을 사용하여 사용자 지정 그룹화를 만들 수 있습니다. &#x200B; 예를 들어 프로젝트를 먼저 포트폴리오별로 그룹화한 다음 프로그램별로 그룹화하여 구성을 개선할 수 있습니다. &#x200B;
+* **그룹화 편집 및 저장:** 기본 제공 그룹화는 덮어쓸 수 없지만 편집 내용을 새 그룹화로 저장할 수 있습니다. &#x200B; 사용자 정의 그룹화에는 쉽게 식별할 수 있도록 명확하고 설명적인 이름이 있어야 합니다. &#x200B;
+* **그룹화 공유:** 그룹화를 다른 사용자와 공유할 수 있습니다. 기본 &quot;보기&quot; 권한으로 그룹화는 사용하고 공유할 수 있지만 편집할 수는 없습니다. &quot;&#x200B;관리&quot; 권한을 사용하면 편집 및 삭제가 가능합니다. &#x200B;
+* **그룹화 제거:** 만든 그룹화를 삭제하면 공유한 사용자 목록에서도 제거됩니다. &#x200B; 공유 그룹화는 다른 사용자의 &quot;나와 공유&quot; 섹션에 표시됩니다. &#x200B;
 
 ## “기본 그룹화 만들기” 활동
 
@@ -48,9 +54,7 @@ ht-degree: 100%
 1. 문제 목록 보고서에서 **[!UICONTROL 그룹화]** 메뉴로 이동하여 **[!UICONTROL 새 그룹화]**&#x200B;를 선택합니다.
 1. 그룹화 이름을 “요청 대기열, 대기열 주제, 우선순위”로 지정합니다.
 1. **[!UICONTROL 그룹화 추가]**&#x200B;를 클릭합니다.
-1. [!UICONTROL 첫 번째 기준] 필드에 “프로젝트 이름”을 입력한 다음 프로젝트 소스 아래에 있는 **[!UICONTROL 이름]**&#x200B;을 선택합니다.
-1. **[!UICONTROL 다른 그룹화 추가]**&#x200B;를 클릭합니다.
-1. [!UICONTROL 다음 기준] 필드에 “대기열”을 입력한 다음 [!UICONTROL 대기열 주제] 필드 소스 아래에 있는 **[!UICONTROL 이름]**&#x200B;을 선택합니다.
-1. **[!UICONTROL 다른 그룹화 추가]**&#x200B;를 클릭합니다.
-1. [!UICONTROL 다음 기준] 필드에 “우선순위”를 입력한 다음 [!UICONTROL 문제] 필드 소스의 아래에 있는 **[!UICONTROL 우선순위]**&#x200B;를 선택합니다.
+1. [!UICONTROL 그룹화 기준] 필드. “프로젝트 이름”을 입력한 다음 프로젝트 소스 아래에 있는 **[!UICONTROL 이름]**&#x200B;을 선택합니다.
+1. **[!UICONTROL 다른 그룹화 추가]**&#x200B;를 클릭한 다음 &quot;큐&quot;를 입력하고 [!UICONTROL 큐 항목] 필드 원본에서 **[!UICONTROL 이름]**&#x200B;을 선택합니다.
+1. **[!UICONTROL 다른 그룹화 추가]**&#x200B;를 클릭한 다음 &quot;우선 순위&quot;를 입력하고 [!UICONTROL 문제] 필드 원본에서 **[!UICONTROL 우선 순위]**&#x200B;을 선택합니다.
 1. **[!UICONTROL 그룹화 저장]** 클릭
