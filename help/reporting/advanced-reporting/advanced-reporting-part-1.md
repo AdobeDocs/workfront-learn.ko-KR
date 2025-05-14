@@ -2,7 +2,7 @@
 title: 고급 보고 1부
 description: 보고서 생성 검토, [!UICONTROL API 탐색기] 및 텍스트 모드 소개, 텍스트 모드 필터에 대한 심층 연구를 알아봅니다.
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-11196
 exl-id: dec3d807-41b2-47a6-b4ff-476313b6fc07
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 

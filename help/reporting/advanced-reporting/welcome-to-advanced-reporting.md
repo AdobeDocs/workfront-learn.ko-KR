@@ -2,7 +2,7 @@
 title: 고급 보고 소개
 description: '[!UICONTROL API Explorer] 및 텍스트 모드를 사용하여 [!UICONTROL 보고 UI]의 기능을 능가하는 고급 필터, 보기 및 그룹화를 만드는 방법에 대해 알아봅니다.'
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -10,7 +10,7 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 100%
@@ -40,9 +40,9 @@ ht-degree: 100%
 * 사용자 정의 양식, 특히 계산된 사용자 정의 필드 사용에 대해 숙지합니다.
 * 보고서 및 필터를 활성화하는 권한이 있는 [!UICONTROL 플랜] 라이선스 유형입니다.
 * 지금까지 다음과 같은 과정을 수료하셨습니다.
-   * [[!UICONTROL 기본 보고 요소]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=ko)
-   * [[!UICONTROL 사용자 정의 보고서 및 대시보드 만들기]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=ko)
-   * [[!UICONTROL 중간 필터 만들기]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=ko)
+   * [[!UICONTROL 기본 보고 요소]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
+   * [[!UICONTROL 사용자 정의 보고서 및 대시보드 만들기]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
+   * [[!UICONTROL 중간 필터 만들기]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
 * 다음 튜토리얼도 살펴보셨습니다.
    * [[!UICONTROL 보기의 기본 텍스트 모드 이해]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ko-KR)
    * [[!UICONTROL 그룹화의 기본 텍스트 모드 이해]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=ko-KR)

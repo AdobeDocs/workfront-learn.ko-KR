@@ -2,7 +2,7 @@
 title: 보기의 기본 텍스트 모드 이해
 description: 텍스트 모드의 정의, 카멜 표기법의 정의, Workfront의 보기에서 사용할 수 있는 몇 가지 기본 “플러그 앤 플레이” 텍스트 모드에 대해 알아봅니다.
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+workflow-type: tm+mt
 source-wordcount: '656'
 ht-degree: 100%
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 * 카멜 표기법의 정의
 * 보기에서 사용할 수 있는 몇 가지 기본 “플러그 앤 플레이” 텍스트 모드
 
->[!VIDEO](https://video.tv.adobe.com/v/3422891/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## “보기의 기본 텍스트 모드 이해하기” 활동
 
