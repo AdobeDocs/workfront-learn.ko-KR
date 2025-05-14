@@ -41,7 +41,7 @@ ht-degree: 100%
 * 카멜 표기법의 정의
 * 보고서 필터에서 사용할 수 있는 몇 가지 기본 “플러그 앤 플레이” 텍스트 모드
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412687/?quality=12&learn=on&captions=kor)
 
 ## “필터의 기본 텍스트 모드 이해하기” 활동
 
