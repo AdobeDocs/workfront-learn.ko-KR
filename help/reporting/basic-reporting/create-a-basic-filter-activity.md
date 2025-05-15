@@ -49,7 +49,7 @@ ht-degree: 64%
 
 단계별 지침은 아래에 포함되어 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443386/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 활동 2에 대한 답변
 
