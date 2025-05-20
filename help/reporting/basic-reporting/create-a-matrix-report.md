@@ -26,7 +26,7 @@ ht-degree: 62%
 * 매트릭스 보고서가 유용할 수 있는 경우
 * 매트릭스 보고서를 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448190/?quality=12&learn=on&captions=kor)
 
 ## 핵심 사항
 
