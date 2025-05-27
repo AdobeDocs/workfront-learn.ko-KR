@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 튜토리얼
-source-git-commit: 9bf4398b7edae104063f1d6265e9c56efb41ea8e
+source-git-commit: b453097c89c2ba1a2bad5b71c195846425e5214a
 workflow-type: tm+mt
-source-wordcount: '2384'
+source-wordcount: '2274'
 ht-degree: 94%
 
 ---
@@ -236,28 +236,6 @@ ht-degree: 94%
       + [추가 캘린더 보고서 옵션 이해](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [캘린더 보고서를 만들 차례](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + 향상된 분석 {#enhanced-analytics}
-      + [[!UICONTROL 향상된 분석]에 대한 제품 관련 잠시](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-      + [[!UICONTROL 향상된 분석] 시작하기](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [[!UICONTROL 향상된 분석] 액세스 방법](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
-      + [기본 탐색 이해](/help/reporting/enhanced-analytics/4-basic-navigation.md)
-      + [작업 및 사용자 차트 이해](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
-      + [필터 이해](/help/reporting/enhanced-analytics/6-filters-overview.md)
-      + [날짜 범위 및 일정 이해](/help/reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
-      + [계획된 시간 및 기간 보기 이해](/help/reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
-      + [작업(가리키기, 클릭하고 드래그, 클릭) 이해](/help/reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
-      + [KPI 이해](/help/reporting/enhanced-analytics/10-kpis-overview.md)
-      + [프로젝트 탐색 및 검토 이해](/help/reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
-      + [일정 및 추가 차트를 사용하여 더 자세히 알아보기](/help/reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
-      + [프로젝트 활동 탐색 및 검토 이해](/help/reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
-      + [탐색에 대해 자세히 알아보기](/help/reporting/enhanced-analytics/14-navigation-and-digging-deeper.md)
-      + [번다운 액세스 및 검토 이해](/help/reporting/enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)
-      + [전송 중인 작업 검토](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
-      + [업데이트를 통한 조치](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
-      + [팀 차트별 활동 이해](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [KPI 비교 사용 사례 이해](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
-      + [최종 사용자 사용 사례 이해](/help/reporting/enhanced-analytics/22-end-user-use.md)
-      + [컨설팅 지침 이해](/help/reporting/enhanced-analytics/23-consulting-guidance.md)
 
 + 리소스 관리 {#manage-resources}
    + 리소스 관리 {#resource-management}
@@ -344,10 +322,10 @@ ht-degree: 94%
       + [Adobe Workfront 플러그인을 사용하여 Creative Cloud와 통합](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ko)
-      + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=ko)
-      + [문서 전송 및 자산 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=ko)
-      + [버전 기록 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=ko)
+      + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [문서 전송 및 자산 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [버전 기록 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [G Suite 통합으로 워크플로 개선](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -359,13 +337,13 @@ ht-degree: 94%
       + [Microsoft Outlook 추가 기능 설치](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Microsoft Teams용 Adobe Workfront 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=ko)
-      + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=ko)
-      + [Microsoft Teams의 Adobe Workfront 액세스](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 항목 검색 및 공유](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=ko)
+      + [Microsoft Teams용 Adobe Workfront 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [Microsoft Teams의 Adobe Workfront 액세스](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 항목 검색 및 공유](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [[!UICONTROL Slack]용 Workfront 이해](/help/integrations/slack/introduction-to-workfront-for-slack.md)
