@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
+last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '216'
-ht-degree: 100%
+source-git-commit: f4cdb04795c8dc95339d2eb61594335759df6fbc
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 61%
 
 ---
 
@@ -26,7 +27,16 @@ ht-degree: 100%
 * 사용자와 보고서를 공유하는 방법
 * 수신자가 Workfront 보고서에서 확인하고 수행할 수 있는 사항
 
->[!VIDEO](https://video.tv.adobe.com/v/3447819/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+
+## 핵심 사항
+
+* **외부 사용자에게 보고서 보내기:** Workfront이 아닌 사용자에게 전자 메일 주소를 입력하여 보고서를 보낼 수 있으므로 조직 외부의 데이터를 쉽게 공유할 수 있습니다. &#x200B;
+* **액세스 권한 제어 가시성:** 보고서에 대한 받는 사람의 보기는 설정한 액세스 권한에 따라 다르므로 데이터 보안과 적절한 가시성을 보장합니다. &#x200B;
+* **스냅숏에 대한 반복 게재:** 예약된 게재는 특정 시간에 고정 데이터 스냅숏을 제공하므로 추세를 추적하고 프로젝트 데이터의 기록을 유지하는 데 유용합니다. &#x200B;
+* **팀과 보고서 공유:** 보고서를 개인, 팀 또는 작업 역할과 공유하여 보기 또는 관리 권한을 부여할 수 있습니다. &#x200B; 공유 보고서는 사용자 &quot;나와 공유&quot; 섹션에 표시됩니다. &#x200B;
+* **공개 및 시스템 전체 공유:** 보고서는 외부 사용자에 대한 공개 링크를 통해 공유하거나 모든 Workfront 사용자에 대해 시스템 전체에 표시되도록 할 수 있으므로 데이터 공유에 유연성을 제공합니다.
+
 
 ## “보고서 보내기 및 공유” 활동
 
