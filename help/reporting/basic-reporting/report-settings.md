@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335159.png
 jira: KT-8871
+last-substantial-update: 2025-05-30T00:00:00Z
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '41'
-ht-degree: 100%
+source-git-commit: cc611bf43c51dde02af715d19246cfd17bcce095
+workflow-type: tm+mt
+source-wordcount: '54'
+ht-degree: 61%
 
 ---
 
@@ -23,6 +24,7 @@ ht-degree: 100%
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
 * 보고서 설정에 액세스하는 방법
-* 일반적인 보고서 설정의 용도
+* 특정 사용자의 액세스 권한으로 보고서를 실행하는 방법
+* 보고서 프롬프트 설정 및 사용 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3445870/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
