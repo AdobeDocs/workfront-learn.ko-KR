@@ -9,12 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
+last-substantial-update: 2025-06-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
+workflow-type: tm+mt
+source-wordcount: '985'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +43,7 @@ Workfront Fusion에 처음 로그인하고 첫 번째 시나리오를 빌드할 
    ![초기 시나리오 디자인 이미지 2](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. 다음 페이지에서 Workfront를 검색하고 해당 앱을 선택합니다. 그런 다음 계속을 클릭합니다.
-1. 시나리오 디자이너 화면의 왼쪽 상단에서 시나리오 이름을 “초기 시나리오 디자인”으로 바꿉니다.
+1. 시나리오 디자이너 화면의 왼쪽 상단에서 시나리오 이름을 &quot;초기 시나리오 디자인&quot;으로 바꿉니다.
 1. 화면 중앙에 있는 빈 트리거 모듈을 클릭하고 Workfront 앱을 선택한 다음 문서 다운로드 모듈을 선택합니다.
 
    **Workfront 계정에 대한 모듈 연결을 인증합니다.**
@@ -55,7 +56,7 @@ Workfront Fusion에 처음 로그인하고 첫 번째 시나리오를 빌드할 
 
    ![초기 시나리오 디자인 이미지 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. **Workfront 인스턴스**&#x200B;의 URL을 입력하고 ‘다음’을 클릭합니다.
+1. **Workfront 테스트 드라이브 계정**&#x200B;의 URL을 입력한 후 [다음]을 클릭하십시오.
 
    ![초기 시나리오 디자인 이미지 5](../12-exercises/assets/initial-scenario-design-5.png)
 
