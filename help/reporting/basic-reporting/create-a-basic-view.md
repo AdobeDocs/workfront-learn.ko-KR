@@ -8,26 +8,31 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '827'
-ht-degree: 100%
+source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
+workflow-type: tm+mt
+source-wordcount: '974'
+ht-degree: 77%
 
 ---
 
 # 기본 보기 만들기
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
+이 비디오에서는 프로젝트, 작업, 문제 및 문서와 같이 목록에 있는 항목에 대한 특정 정보를 표시하기 위해 Workfront에서 보기를 만들고 사용자 지정하는 방법을 설명합니다. &#x200B; 보기를 사용하면 이름, 설명, 상태 및 항목과 관련된 기타 필드와 같은 세부 정보를 볼 수 있습니다. &#x200B;
 
-* Workfront에서 보기란
-* 보기를 만들고 수정하는 방법
-* 다른 Workfront 사용자와 보기를 공유하는 방법
+이 비디오는 Workfront 보기의 유연성을 강조하며 작성, 사용자 지정 및 관리에 대한 단계별 지침을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450245/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+
+## 핵심 사항
+
+* **보기 사용자 지정**: 사용자는 프로젝트 상태 또는 예산과 같은 특정 정보를 표시하기 위해 열을 추가, 제거 또는 다시 정렬하여 기존 보기를 편집하거나 새 보기를 만들 수 있습니다.
+* **인라인 편집**: 개별 항목을 열지 않고 목록 보기의 일부 필드를 직접 업데이트할 수 있으므로 변경 속도가 빨라집니다. &#x200B;
+* **처음부터 보기 만들기**: 사용자는 예산, 실제 비용 및 진행 상태와 같은 관련 열을 추가하여 프로젝트 상태 추적과 같은 특정 요구 사항에 맞게 보기를 디자인할 수 있습니다. &#x200B;
+* **보기 공유 및 관리**: 사용자 지정 보기는 공동 작업을 위해 팀원과 공유하거나 더 이상 필요하지 않으면 제거할 수 있습니다.
 
 ## “기본 보기 만들기” 활동
 
@@ -65,7 +70,7 @@ ht-degree: 100%
 
 ### 활동 2: 마일스톤 보기 만들기
 
-마일스톤을 사용하는 경우 이 보기는 마일스톤을 이름별로 보고 인라인 편집을 사용하여 추가하거나 편집하는 가장 쉬운 방법입니다.
+마일스톤을 사용하는 경우 이 보기를 통해 작업 목록에서 이름별로 마일스톤을 가장 쉽게 확인하고 인라인 편집을 사용하여 작업에서 마일스톤을 추가하거나 제거할 수 있습니다.
 
 다음 열을 사용하여 “마일스톤 보기”라는 작업 보기를 만듭니다.
 
@@ -86,7 +91,7 @@ ht-degree: 100%
 1. 프로젝트 작업 목록에서 **[!UICONTROL 보기]** 드롭다운 메뉴로 이동하고 **[!UICONTROL 새 보기]**&#x200B;를 선택합니다.
 1. 보기 이름을 “마일스톤 보기”로 지정합니다.
 1. [!UICONTROL 전임 작업] 열을 클릭하여 선택합니다.
-1. [!UICONTROL 이 열에 표시] 필드에서 [!UICONTROL 작업 >> 전임 작업] 필드의 X 아이콘을 클릭한 다음 “[!UICONTROL 마일스톤 이름]”을 입력하고 목록에서 “[!UICONTROL 이름]”을 클릭합니다.
+1. [!UICONTROL 이 열에 표시] 필드에서 [!UICONTROL 작업 >> 전임 작업] 필드의 &quot;빼기&quot; 아이콘을 클릭한 다음 &quot;[!UICONTROL 마일스톤 이름]&quot;을(를) 입력하고 목록에서 &quot;[!UICONTROL 이름]&quot;을(를) 클릭합니다.
 1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
 ![마일스톤 보기를 사용하는 작업 목록의 이미지](assets/view-milestone-exercise-2.png)
