@@ -1,6 +1,6 @@
 ---
 title: 작업 보고서 만들기
-description: 복잡한 필터로 작업 보고서를 만들고 Workfront에서 만든 보고서를 찾는 방법을 알아봅니다. 활동 - 프롬프트가 있는 메모 보고서를 만듭니다.
+description: 복잡한 필터로 작업 보고서를 만들고 Workfront에서 만든 보고서를 찾는 방법에 대해 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -8,32 +8,41 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
+last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
-workflow-type: ht
-source-wordcount: '925'
-ht-degree: 100%
+source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
+workflow-type: tm+mt
+source-wordcount: '1116'
+ht-degree: 77%
 
 ---
 
 # 작업 보고서 만들기
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
+이 비디오에서는 로그인한 사용자에게 할당된 지연된 작업을 추적하는 사용자 지정 보고서 만들기에 대한 단계별 안내서를 제공합니다. 기존 필터, 보기 또는 기본 제공 보고서가 특정 요구 사항을 충족하지 않는 경우 사용자 지정 보고서의 필요성을 설명하는 것으로 시작됩니다. &#x200B; 이 보고서의 이름은 &quot;나에게 할당된 지연된 작업&quot;으로, 설명을 명확하게 하기 위해 추가했습니다. &#x200B;
 
-* 복잡한 필터로 작업 보고서를 만드는 방법
-* 생성한 보고서를 찾는 방법
+결과 보고서는 사용자가 지연 작업에 집중할 수 있도록 지원하고, 종속성에 대한 통찰력을 제공하고, 호스트 프로젝트에 대한 탐색을 단순화합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448349/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+
+## 핵심 사항
+
+* **사용자 지정 보고서 만들기:** 기존 필터 및 기본 제공 보고서가 사용자의 요구 사항에 맞지 않으면 사용자 지정 보고서를 처음부터 만들어 자신에게 할당된 지연 작업과 같은 특정 데이터에 집중할 수 있습니다. &#x200B;
+* **필터 설정:** 필터를 사용하여 지연 작업, 미완료 작업, 현재 프로젝트 및 로그인한 사용자에게 할당된 작업을 포함한 보고서 기준을 정의합니다. &#x200B;
+* **컨텍스트에 대한 열:** 관련 프로젝트로 쉽게 이동할 수 있도록 &quot;시작 가능&quot; 열을 추가하여 종속성 문제를 식별하고 하이퍼링크를 통해 &quot;프로젝트 이름&quot;을 추가하십시오. &#x200B;
+* **우선 순위 정렬:** 보고서 상단에서 가장 기한이 지난 작업의 우선 순위를 매기기 위해 작업을 &quot;기한&quot; 열을 기준으로 오름차순으로 정렬합니다. &#x200B;
+* **액세스 가능성:** 보고서를 저장하거나 고정하거나 빠른 액세스를 위해 즐겨찾기로 표시하여 지연 작업을 효율적으로 추적하고 관리할 수 있습니다.
+
 
 ## “작업 보고서 만들기” 활동
 
 >[!TIP]
 >
 >주걱과 믹싱 볼을 꺼내서 [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf)의 “레시피”를 만들 준비를 합니다. 이 안에는 내 환경을 바로 적용할 수 있는 10개의 보고서에 대한 단계별 지침이 있습니다.
->고객이 좋아하는 요리 목록을 쉽고 빠르게 사용할 수 있는 Cookbook에 담아 Workfront 주방에서 다시 꺼내 테스트할 수 있습니다.
->이 10개의 보고서는 고객 여러분이 직접 작성한 것입니다. 여러 업체, 부서, 팀, 업종과 다양한 기업에서 고객이 좋아하는 보고서를 공유해 주셔서 감사드립니다. 일부 보고서는 간단하지만(매우 유용함), 일부 보고서는 매우 복잡하여 보고 수준을 새로운 차원으로 끌어올릴 수 있습니다.
+>>고객이 좋아하는 요리 목록을 쉽고 빠르게 사용할 수 있는 Cookbook에 담아 Workfront 주방에서 다시 꺼내 테스트할 수 있습니다.
+>>이 10개의 보고서는 고객 여러분이 직접 작성한 것입니다. 여러 업체, 부서, 팀, 업종과 다양한 기업에서 고객이 좋아하는 보고서를 공유해 주셔서 감사드립니다. 일부 보고서는 간단하지만(매우 유용함), 일부 보고서는 매우 복잡하여 보고 수준을 새로운 차원으로 끌어올릴 수 있습니다.
 
 
 ### 활동 1: 프롬프트가 있는 메모 보고서 만들기
@@ -110,15 +119,15 @@ ht-degree: 100%
 
 ### 활동 2: 관리팀 피드백 보고서 만들기
 
-이 문제 보고서에는 시스템 관리자를 위해 만든 피드백 요청 대기열의 모든 문제가 표시됩니다. [시스템 관리자 피드백 요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=ko) 튜토리얼에서 이 요청 대기열을 만드는 방법을 확인할 수 있습니다.
+이 문제 보고서에는 시스템 관리자를 위해 만든 피드백 요청 대기열의 모든 문제가 표시됩니다. [시스템 관리자 피드백 요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) 튜토리얼에서 이 요청 대기열을 만드는 방법을 확인할 수 있습니다.
 
-이 보고서는 사용자 정의 양식을 사용하기도 합니다. 사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=ko) 튜토리얼을 참조하십시오.
+이 보고서는 사용자 정의 양식을 사용하기도 합니다. 사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 튜토리얼을 참조하십시오.
 
-이 사용자 정의 양식은 다음과 같이 만들어야 합니다.
+이 사용자 정의 양식은 오브젝트 유형 Project 및 Issue를 사용해야 하며 다음과 같이 만들어야 합니다.
 
 이름: 관리자 프로세스 피드백
 
-1. 프로세스 유형 (드롭다운 필드)
+1. 프로세스 유형(단일 선택 드롭다운 필드)
    * 액세스 수준
    * 승인 프로세스 (글로벌에만)
    * 이메일 알림
@@ -128,7 +137,7 @@ ht-degree: 100%
    * 미리 알림
    * 요청 대기열
 1. 프로세스 이름 (한 줄 텍스트 필드)
-1. 프로세스 등급 (드롭다운 필드)
+1. 프로세스 등급(단일 선택 드롭다운 필드)
    * 1 - 전혀 쓸모 없음
    * 2 - 매우 유용하지 않음
    * 3 - 양호하지만 개선될 수 있음
