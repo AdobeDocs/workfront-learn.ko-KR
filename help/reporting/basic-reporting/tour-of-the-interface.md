@@ -35,4 +35,4 @@ ht-degree: 100%
 * 요약 정보
 * 애드혹 캘린더 항목을 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438766/?quality=12&learn=on&enablevpops&captions=kor)
