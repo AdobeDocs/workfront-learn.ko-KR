@@ -26,7 +26,7 @@ ht-degree: 87%
 * 와일드카드를 사용하는 이유 이해
 * 사용자 기반의 와일드카드로 필터 빌드
 
->[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412657/?quality=12&learn=on&captions=kor)
 
 >[!TIP]
 >
