@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '348'
-ht-degree: 100%
+source-git-commit: 4f82fb7be6bed149036f0218038f927ef57e67f4
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 87%
 
 ---
 
@@ -25,11 +26,11 @@ ht-degree: 100%
 * 와일드카드를 사용하는 이유 이해
 * 사용자 기반의 와일드카드로 필터 빌드
 
->[!VIDEO](https://video.tv.adobe.com/v/3412657/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->작업 또는 문제 할당 정보를 조회하는 필터를 빌드할 때 할당 사용자 >> ID 필드 소스 및 이름을 사용합니다. 이 옵션은 “소유자” 또는 기본 할당자뿐만 아니라 작업 또는 문제에 할당된 모든 사용자를 확인합니다.
+>작업 또는 문제 할당 정보를 조회하는 필터를 빌드할 때 할당 사용자 >> ID 필드 소스 및 이름을 사용합니다. 이 옵션은 &quot;소유자&quot; 또는 기본 할당자뿐만 아니라 작업 또는 문제에 할당된 모든 사용자를 살펴봅니다.
 
 >[!TIP]
 >
@@ -44,7 +45,7 @@ ht-degree: 100%
 
 ### 활동 1
 
-이번 주에는 약간의 여유 시간이 있으므로 팀에 할당 작업에 도움을 줄 수 있는 사람이 있는지 확인하려 합니다. 완료되지 않은 이번 주 마감 작업을 찾기 위해 작업 필터를 만듭니다.
+이번 주에는 약간의 여유 시간이 있으므로 팀에 할당 작업에 도움을 줄 수 있는 사람이 있는지 확인하려 합니다. 작업 필터를 만들어 홈 팀에 할당된 작업 중 이번 주에 만료되고 아직 완료되지 않은 작업을 찾습니다.
 
 ### 답변 1
 
