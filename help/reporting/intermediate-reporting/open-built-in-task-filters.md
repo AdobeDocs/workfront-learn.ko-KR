@@ -7,14 +7,15 @@ thumbnail: 336818.png
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2025-07-22T00:00:00Z
 team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: a3174fcd208a2483bc3728932ae4d31b2e155e6b
+workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -26,7 +27,7 @@ ht-degree: 100%
 * 몇 가지 유용한 작업 보고 요소에 대해 알아보기
 * 고유한 작업 필터를 만드는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3412675/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
 ## “기본 제공 작업 필터 이해하기” 활동
 
@@ -45,6 +46,6 @@ ht-degree: 100%
 
 각 작업에 할당된 팀의 이름을 기준으로 목록을 그룹화할 수 있습니다.
 
-보고서는 다음과 같이 표시됩니다.
+다음은 보고서의 모습입니다.
 
 ![작업 보고서의 이미지](assets/opening-built-in-task-filters-2.png)
