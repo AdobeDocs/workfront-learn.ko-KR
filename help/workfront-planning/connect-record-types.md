@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Workfront Planning에서 레코드 유형을 연결하여 워크플로우를 간소화하고 명확성을 높이고 팀의 책임성과 효율성을 향상시키는 방법을 알아봅니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463805/?learn=on&enablevpops&captions=kor)
 
