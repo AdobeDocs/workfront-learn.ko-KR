@@ -46,5 +46,5 @@ Workfront 고객은 일반적으로 다음 두 가지 수학 표현식 세트를
 
 >[!NOTE]
 >
->전체 표현식 목록과 각 표현식에 대한 자세한 내용을 보려면 [계산된 데이터 표현식](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions) 설명서 페이지로 이동하십시오.
+>전체 표현식 목록과 각 표현식에 대한 자세한 내용을 보려면 [계산된 데이터 표현식](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions) 설명서 페이지로 이동하십시오.
 
