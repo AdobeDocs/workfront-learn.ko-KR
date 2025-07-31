@@ -9,10 +9,10 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 382df5f0f590df73db9e7d3c708aa3606f750210
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -44,4 +44,7 @@ Workfront 고객은 일반적으로 다음 두 가지 수학 표현식 세트를
 * SUB, SUM, DIV, PROD
 * ROUND
 
-<b>메모</b>: 표현식의 전체 목록과 각 표현식에 대한 자세한 내용은 “계산된 데이터 표현식” 설명서 페이지를 참조하십시오.
+>[!NOTE]
+>
+>전체 표현식 목록과 각 표현식에 대한 자세한 내용을 보려면 [계산된 데이터 표현식](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions) 설명서 페이지로 이동하십시오.
+
