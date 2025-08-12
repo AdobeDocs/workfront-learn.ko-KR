@@ -1,6 +1,6 @@
 ---
 title: 그룹화의 기본 텍스트 모드 이해
-description: 텍스트 모드의 정의, 카멜 표기법의 정의 및 Workfront의 그룹화에서 사용할 수 있는 몇 가지 기본 “플러그 앤 플레이” 텍스트 모드에 대해 알아봅니다.
+description: 텍스트 모드, 카멜 대/소문자 및 Workfront의 보고서 그룹화에 사용할 수 있는 몇 가지 기본 텍스트 모드에 대해 알아봅니다.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 100%
+source-wordcount: '287'
+ht-degree: 88%
 
 ---
 
@@ -37,9 +38,9 @@ ht-degree: 100%
 
 * 텍스트 모드의 정의
 * 카멜 표기법의 정의
-* 그룹화에서 사용할 수 있는 몇 가지 기본 “플러그 앤 플레이” 텍스트 모드
+* 보고서 그룹화에 사용할 수 있는 _텍스트 모드 코드 블록_
 
->[!VIDEO](https://video.tv.adobe.com/v/3422900/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## “그룹화의 기본 텍스트 모드 이해하기” 활동
 
