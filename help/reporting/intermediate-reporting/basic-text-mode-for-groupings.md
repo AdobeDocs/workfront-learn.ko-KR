@@ -40,7 +40,7 @@ ht-degree: 88%
 * 카멜 표기법의 정의
 * 보고서 그룹화에 사용할 수 있는 _텍스트 모드 코드 블록_
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422900/?quality=12&learn=on&captions=kor)
 
 ## “그룹화의 기본 텍스트 모드 이해하기” 활동
 
