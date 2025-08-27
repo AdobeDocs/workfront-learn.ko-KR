@@ -19,7 +19,7 @@ ht-degree: 10%
 
 이 비디오에서는 작업 상태를 업데이트하는 방법, 이유 및 빈도에 대한 튜토리얼을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471174/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 핵심 사항
 
