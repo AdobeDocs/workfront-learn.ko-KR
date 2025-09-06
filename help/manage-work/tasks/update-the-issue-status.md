@@ -19,7 +19,7 @@ ht-degree: 18%
 
 이 비디오에서는 문제 상태 및 문제 사용 모범 사례에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472972/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 핵심 사항
 

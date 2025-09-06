@@ -21,4 +21,4 @@ ht-degree: 0%
 
 작업을 구성하고, 주요 정보를 수집하고, 팀 효율성을 높이기 위한 사용자 정의 요청 양식을 만드는 방법을 배움으로써 작업을 간소화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471080/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471088/?learn=on&enablevpops&captions=kor)
