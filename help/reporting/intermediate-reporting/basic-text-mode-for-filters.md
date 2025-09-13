@@ -12,7 +12,7 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
+source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 90%
@@ -30,7 +30,7 @@ ht-degree: 90%
 
 >[!TIP]
 >
->* 텍스트 모드에 대해 자세히 알아보려면 한 시간 길이의 녹화된 웨비나 이벤트인 [전문가에게 질문하기 - 텍스트 모드 보고 소개](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=ko)를 시청하는 것이 좋습니다.
+>* 텍스트 모드에 대해 자세히 알아보려면 한 시간 길이의 녹화된 웨비나 이벤트인 [전문가에게 질문하기 - 텍스트 모드 보고 소개](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting)를 시청하는 것이 좋습니다.
 >* 텍스트 모드에 대해 자세히 알아보려면 총 5시간 30분 길이의 [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ko) 튜토리얼을 시청하는 것이 좋습니다.
 >* [[!UICONTROL API 탐색기]](https://developer.adobe.com/workfront/api-explorer/)에 액세스하려면 여기를 클릭하십시오.
 
@@ -41,7 +41,7 @@ ht-degree: 90%
 * 카멜 대/소문자
 * 보고서 필터에서 사용할 수 있는 일부 _텍스트 모드 코드 블록_
 
->[!VIDEO](https://video.tv.adobe.com/v/3412687/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## “필터의 기본 텍스트 모드 이해하기” 활동
 
