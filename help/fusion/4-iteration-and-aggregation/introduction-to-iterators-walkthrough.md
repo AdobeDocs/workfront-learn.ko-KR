@@ -28,7 +28,7 @@ Workfront에서 특정 프로젝트를 살펴본 다음 해당 프로젝트 내�
 
 Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417300/?quality=12&learn=on&enablevpops&captions=kor)
 
 
 

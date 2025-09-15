@@ -33,7 +33,7 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 * 시나리오 디자이너 사용
 * 기본 시나리오 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415976/?quality=12&learn=on&enablevpops&captions=kor)
 
 
 ## 자세히 알아보시겠습니까? 다음 자료를 참조하십시오.

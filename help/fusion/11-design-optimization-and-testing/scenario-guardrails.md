@@ -30,7 +30,7 @@ ht-degree: 99%
 * 파일 가드레일
 * 웹후크 가드레일
 
->[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418728/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 

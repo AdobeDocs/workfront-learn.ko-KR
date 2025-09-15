@@ -32,7 +32,7 @@ Workfront Fusion 테스트는 연결된 소프트웨어 플랫폼과 Workfront F
 * 상세하고 공유 가능한 설명서 작성
 * 테스트 깊이, 범위, 복잡성 및 로드
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418735/?quality=12&learn=on&enablevpops&captions=kor)
 
 ## 테스트 고려 사항 체크리스트
 
