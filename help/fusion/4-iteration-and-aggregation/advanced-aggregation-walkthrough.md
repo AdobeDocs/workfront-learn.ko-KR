@@ -11,10 +11,10 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '245'
-ht-degree: 100%
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
+source-wordcount: '238'
+ht-degree: 90%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417306/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops)
 
 ## 연습용 URL
 
@@ -53,10 +53,10 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 이 실습은 워크스루에서 배운 내용을 기반으로 하나, 해결 방법은 제공되지 않습니다.
 
-마케팅 포트폴리오의 프로젝트에서 작업에 로그온한 모든 시간을 합산하는 새 시나리오를 만듭니다. 그런 다음 “귀하의 {Project 이름} 프로젝트 팀이 총 {계획된 시간} 시간 중 {합산된 시간}을 기록하여 계획의 {백분율}에 도달했습니다”라는 이메일을 보냅니다.
+마케팅 포트폴리오의 프로젝트에서 작업에 로그온한 모든 시간을 합산하는 새 시나리오를 만듭니다. 그런 다음 &quot;내 {Project Name} 프로젝트 팀이 계획된 총 {summed hours}시간 중 {planned hours}시간을 기록하여 플랜의 {percentage}을(를) 달성했습니다.&quot;라는 전자 메일을 보냅니다.
 
 **과제:** 올해 기록된 시간 동안만 동일한 작업을 수행할 수 있는지 확인합니다.
 
 ## 자세히 알아보고 싶으신가요? 다음 자료를 참조하십시오.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=ko-KR)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
