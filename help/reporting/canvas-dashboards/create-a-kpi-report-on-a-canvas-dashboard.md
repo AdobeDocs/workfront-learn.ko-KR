@@ -11,9 +11,9 @@ jira: KT-18769
 last-substantial-update: 2025-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
+source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '119'
 ht-degree: 4%
 
 ---
@@ -31,13 +31,14 @@ ht-degree: 4%
 
 [캔버스 대시보드 소개](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)에서는 두 가지 작업을 모두 수행하는 방법을 단계별로 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474849/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
 
 **자세한 내용은 다음 도움말 문서를 참조하십시오.**
-[캔버스 대시보드 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[캔버스 대시보드에 KPI 보고서 작성](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[캔버스 대시보드 개요](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[캔버스 대시보드에 KPI 보고서 작성](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
 
 ## 이 주제와 관련된 추천 튜토리얼
 
 * [캔버스 대시보드 소개](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [캔버스 대시보드에서 표 보고서 만들기](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
+* [캔버스 대시보드 보고서에 조건부 서식 추가](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
