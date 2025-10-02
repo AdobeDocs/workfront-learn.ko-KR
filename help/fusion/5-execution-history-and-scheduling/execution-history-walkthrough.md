@@ -60,4 +60,4 @@ D - 실행 ID를 복사합니다.
 
 ## 자세히 알아보고 싶으신가요? 다음 자료를 참조하십시오.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

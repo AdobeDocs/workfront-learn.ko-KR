@@ -24,7 +24,7 @@ EXISTS 필터는 표준 Report Builder에서 2 테이블/필드 이동 제한을
 
 이 비디오에서는 EXISTS 필터를 만들어 증명 승인 보고서에서 &quot;현재 프로젝트에 대한 증명 승인&quot;을 보는 방법에 대해 알아봅니다.
 
-EXISTS 함수에 대한 자세한 설명은 [EXISTS 문을 사용하여 복잡한 텍스트 모드 필터 만들기](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) 설명서를 참조하십시오.
+EXISTS 함수에 대한 자세한 설명은 [EXISTS 문을 사용하여 복잡한 텍스트 모드 필터 만들기](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) 설명서를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 

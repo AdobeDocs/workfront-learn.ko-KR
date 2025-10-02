@@ -29,4 +29,4 @@ ht-degree: 100%
 
 ## G Suite용 Adobe Workfront 설치
 
-최신 버전의 설치 방법에 대한 지침은 [G Suite용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html)를 참조하십시오.
+최신 버전의 설치 방법에 대한 지침은 [G Suite용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html?lang=ko)를 참조하십시오.

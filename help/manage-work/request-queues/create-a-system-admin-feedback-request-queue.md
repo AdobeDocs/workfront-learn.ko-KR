@@ -24,8 +24,8 @@ ht-degree: 20%
 
 >[!PREREQUISITES]
 >
->* [요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
->* [요청 흐름 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
+>* [요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=ko)
+>* [요청 흐름 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=ko)
 >* 또는 라우팅 규칙 및 사용자 정의 양식을 사용하는 요청 대기열을 만드는 것이 익숙합니다.
 
 이 비디오에서는 시스템 관리자를 위한 피드백 요청 대기열을 만드는 방법에 대한 단계별 안내서를 제공합니다.
@@ -45,9 +45,9 @@ ht-degree: 20%
 * **테스트 및 액세스 가능성:** 기능을 보장하기 위해 샘플 요청으로 큐를 테스트합니다. 이 워크플로우는 모든 사용자가 액세스할 수 있는 도움말 요청 대기열로 게시되며 기본 완료 기간은 10일입니다.
 
 
-비디오에 사용되는 **관리 팀 피드백 보고서**&#x200B;를 만드는 방법에 대해 알아보려면 **작업 보고서 만들기** 자습서에서 [관리 팀 피드백 보고서 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) 활동을 참조하십시오.
+비디오에 사용되는 **관리 팀 피드백 보고서**&#x200B;를 만드는 방법에 대해 알아보려면 **작업 보고서 만들기** 자습서에서 [관리 팀 피드백 보고서 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) 활동을 참조하십시오.
 
-사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 튜토리얼을 참조하십시오.
+사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=ko) 튜토리얼을 참조하십시오.
 
 ## 이 주제와 관련된 추천 튜토리얼
 
