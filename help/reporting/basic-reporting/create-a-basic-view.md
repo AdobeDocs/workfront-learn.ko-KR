@@ -25,7 +25,7 @@ ht-degree: 74%
 
 이 비디오는 Workfront 보기의 유연성을 강조하며 작성, 사용자 지정 및 관리에 대한 단계별 지침을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0
 
 ## 핵심 사항
 

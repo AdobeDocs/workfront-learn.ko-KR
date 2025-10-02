@@ -38,7 +38,7 @@ ht-degree: 39%
 
 이 비디오에서는 원형 및 누적 세로 막대형 차트와 같은 차트를 통해 작업 배포 및 프로젝트 성능에 대한 통찰력을 제공하여 사용자가 프로젝트를 비교하고 작업 진행 상황을 시각적으로 이해하는 데 도움이 되는 방법을 소개합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0
 
 ## 핵심 사항
 
@@ -73,7 +73,7 @@ ht-degree: 39%
 1. **[!UICONTROL 필터]** 탭에서 두 개의 필터 규칙을 추가합니다.
 
    * [!UICONTROL 프로젝트] > [!UICONTROL 동일시된 상태] > [!UICONTROL 완료]
-   * [!UICONTROL 프로젝트] >[!UICONTROL  실제 완료 일자] > [!UICONTROL 지난 분기]
+   * [!UICONTROL 프로젝트] >[!UICONTROL &#x200B; 실제 완료 일자] > [!UICONTROL 지난 분기]
 
    ![보고서에 필터를 추가하는 화면 이미지](assets/chart-report-filters.png)
 

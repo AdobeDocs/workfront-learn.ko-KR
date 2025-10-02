@@ -27,7 +27,7 @@ ht-degree: 95%
 * 몇 가지 유용한 작업 보고 요소에 대해 알아보기
 * 고유한 작업 필터를 만드는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0
 
 ## “기본 제공 작업 필터 이해하기” 활동
 
