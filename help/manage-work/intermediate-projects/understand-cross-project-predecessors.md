@@ -12,8 +12,8 @@ last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
 
@@ -35,6 +35,6 @@ ht-degree: 100%
 * 프로젝트 간 전임 작업을 만드는 방법
 * 보고서에서 프로젝트 간 전임 작업을 추적하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3422838/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
 
 비디오에 사용된 **프로젝트 간 전임 작업 및 후임 작업** 보기 및 **프로젝트 간 전임 작업 및 후임 작업** 보고서를 만드는 방법에 대해 알아보려면 [보기의 기본 텍스트 모드 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ko-KR) 튜토리얼을 참조하고 필요한 경우 목록에 있는 필수 튜토리얼을 선택합니다.

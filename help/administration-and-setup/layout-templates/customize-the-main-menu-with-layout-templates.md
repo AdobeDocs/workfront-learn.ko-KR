@@ -11,8 +11,8 @@ thumbnail: 335073.jpeg
 jira: KT-8760
 exl-id: 5fa4e251-fcf3-41a4-be50-f0302a481358
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
 
@@ -27,4 +27,4 @@ ht-degree: 100%
 * [!UICONTROL 메인 메뉴]에 항목 추가
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432307/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on&enablevpops=1)

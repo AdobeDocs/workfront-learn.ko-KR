@@ -11,7 +11,7 @@ jira: KT-9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 99%
@@ -32,7 +32,7 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 * 모듈의 두 모듈 사이에 필터 추가
 
->[!VIDEO](https://video.tv.adobe.com/v/3416487/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on&enablevpops=1)
 
 
 ## 사용자 차례
@@ -49,4 +49,4 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 ## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

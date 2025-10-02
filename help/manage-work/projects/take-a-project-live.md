@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 10%
@@ -23,7 +23,7 @@ ht-degree: 10%
 
 이 비디오에서는 상태를 &quot;현재&quot;로 변경하여 프로젝트를 라이브로 만드는 마지막 단계에 대해 설명합니다&#x200B;. 이를 수행하기 전에 모든 것이 정확하고 올바르게 설정되었는지 확인하기 위해 작업 이름, 기간, 계획된 시간, 전임 작업, 시작 및 완료 일자, 할당을 포함한 주요 프로젝트 요소를 검토하는 것을 강조합니다. &#x200B; 프로젝트가 활성 상태가 되면 프로젝트 관리자는 전역 및 개인 설정을 기반으로 하는 알림을 받게 되며 활성 프로젝트에 대한 보고서 및 필터에 표시됩니다. &#x200B; 이것은 그 작업의 공식적인 시작을 나타낸다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3438995/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

@@ -13,7 +13,7 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 14%
@@ -24,7 +24,7 @@ ht-degree: 14%
 
 이 비디오에서는 Workfront 내에서 요청을 만들고 관리하는 방법에 대한 자세한 안내서를 제공합니다. 기본 메뉴에서 &quot;요청&quot;을 선택하고 &quot;새 요청&quot; 버튼을 클릭하여 요청을 만드는 프로세스를 설명합니다. &#x200B; 사용자는 조직의 워크플로에 맞게 사용자 지정 디자인된 대기열에서 요청 유형을 선택할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413117/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

@@ -13,7 +13,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 12%
@@ -25,7 +25,7 @@ ht-degree: 12%
 이 비디오에서는 프로젝트 지표를 사용하여 프로젝트 진행 상황을 추적하는 방법에 대해 설명합니다. &#x200B; 프로젝트 왼쪽 패널의 지표 탭에 액세스하는 방법을 보여 줍니다. 이 탭에서는 스크롤하고 &quot;자세히 표시&quot;를 클릭해야 할 수 있습니다. 맨 위에 있는 KPI 영역에는 완료, 미완료 및 기한 경과 등의 주요 성과 지표가 표시됩니다. &#x200B; 사용자는 표시기를 클릭하여 특정 작업을 보고 차트를 사용하여 상태 또는 우선 순위별로 작업 또는 문제를 그룹화할 수 있습니다. &#x200B; 열 위로 마우스를 가져가면 수량이 표시되며, 이 차트는 불완전한 작업 또는 문제에 대한 완료율의 비율을 보여 줍니다. &#x200B; 지표는 상태(완료, 미완료, 예정 또는 기한 초과)에 따라 할당자별로 작업을 표시할 수도 있습니다. &#x200B; 지표 보기를 위한 환경 설정은 향후 방문을 위해 저장됩니다. &#x200B; 마지막으로, 이 비디오는 내보내기 단추를 사용하여 지표 페이지를 PNG 파일로 내보내는 방법을 보여 줍니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439177/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

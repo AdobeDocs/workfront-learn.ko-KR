@@ -12,8 +12,8 @@ jira: KT-8730
 recommendations: noDisplay,catalog
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ ht-degree: 100%
 * 플라이트 플랜 차트에서 프로젝트를 드릴다운하여 번다운 차트 및 전송 중인 작업 차트를 표시하는 방법
 * 날짜 범위 내에서 확대할 일정 필터를 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3437273/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on&enablevpops=1)

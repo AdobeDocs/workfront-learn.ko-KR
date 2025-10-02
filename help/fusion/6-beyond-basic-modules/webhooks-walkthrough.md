@@ -11,7 +11,7 @@ jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 99%
@@ -28,7 +28,7 @@ ht-degree: 99%
 
 Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417948/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on&enablevpops=1)
 
 
 ## Postman 설정
@@ -62,4 +62,4 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 ## 자세히 알아보고 싶으신가요? 다음 자료를 참조하십시오.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

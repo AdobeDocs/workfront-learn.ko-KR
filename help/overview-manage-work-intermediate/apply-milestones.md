@@ -14,7 +14,7 @@ hide: true
 doc-type: video
 exl-id: ae199222-6f1e-4d01-9ef9-16892edfdde7
 recommendations: noDisplay,catalog
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 작업에 마일스톤 추가
 * 마일스톤 적용 모범 사례
 
->[!VIDEO](https://video.tv.adobe.com/v/3430291/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

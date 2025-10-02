@@ -12,7 +12,7 @@ jira: KT-8808
 recommendations: noDisplay,catalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 13%
@@ -31,7 +31,7 @@ ht-degree: 13%
 
 이 비디오는 설명을 추가하고 필요에 따라 변경 사항을 지정하는 옵션을 통해 작업을 검토하고 승인할 때 유연성을 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3444953/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

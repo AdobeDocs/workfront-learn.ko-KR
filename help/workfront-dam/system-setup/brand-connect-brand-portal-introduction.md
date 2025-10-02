@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 개별 자산에 대한 만료 일자 설정
 * 자산 설정 편집
 
->[!VIDEO](https://video.tv.adobe.com/v/3419547/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops=1)
 
 ## 자산 폴더
 

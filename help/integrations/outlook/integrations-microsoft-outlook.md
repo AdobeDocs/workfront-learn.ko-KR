@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 70%
@@ -32,9 +32,9 @@ ht-degree: 70%
 
 * Microsoft Outlook 추가 기능 설치
 
->[!VIDEO](https://video.tv.adobe.com/v/3421310/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
->비디오에 설명된 대로 Workfront 추가 기능을 찾을 수 없는 경우, 먼저 IT 부서에서 일부 설정 작업을 수행해야 할 수 있습니다. 자세한 지침은 [Outlook용 Adobe Workfront 설정](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=ko)을 참조하십시오.
+>비디오에 설명된 대로 Workfront 추가 기능을 찾을 수 없는 경우, 먼저 IT 부서에서 일부 설정 작업을 수행해야 할 수 있습니다. 자세한 지침은 [Outlook용 Adobe Workfront 설정](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html)을 참조하십시오.
 

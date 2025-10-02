@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '803'
-ht-degree: 55%
+ht-degree: 56%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 55%
 * **문서 섹션:** 프로젝트 관련 파일 및 증명을 업로드하고 관리할 수 있습니다. &#x200B; 작업에 첨부된 문서는 쉽게 액세스할 수 있도록 프로젝트 수준으로 롤업됩니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449733/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

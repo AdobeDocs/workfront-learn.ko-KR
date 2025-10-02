@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 12%
@@ -23,7 +23,7 @@ ht-degree: 12%
 
 이 비디오에서는 Workfront의 작업 관리에 대한 자세한 안내서를 제공합니다. 프로젝트 계획 내에서 작업을 편집, 삭제, 추가, 복제 및 재구성하는 등 효율적인 작업 관리를 강조한다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448563/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

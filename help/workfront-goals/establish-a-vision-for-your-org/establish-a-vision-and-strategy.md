@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 예시 목표
 * 영향력 범위
 
->[!VIDEO](https://video.tv.adobe.com/v/3416000/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on&enablevpops=1)
 
 ## 정기적인 점검 및 유지 관리를 위한 주기를 계획합니다.
 

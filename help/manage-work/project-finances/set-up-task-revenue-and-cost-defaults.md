@@ -1,6 +1,6 @@
 ---
 title: 작업 매출 및 비용 기본값 설정
-description: 수익 유형 및 원가 유형이 사용되는 위치와 시스템 기본값을 설정하는 방법에 대해 알아봅니다.
+description: 수익 유형과 비용 유형이 사용되는 지점 및 시스템 기본값을 설정하는 방법을 알아보십시오.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,19 +13,19 @@ exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 16%
+ht-degree: 33%
 
 ---
 
 
 # 작업 매출 및 비용 기본값 설정
 
-수익 유형 및 원가 유형이 사용되는 위치와 시스템 기본값을 설정하는 방법에 대해 알아봅니다.
+수익 유형과 비용 유형이 사용되는 지점 및 시스템 기본값을 설정하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

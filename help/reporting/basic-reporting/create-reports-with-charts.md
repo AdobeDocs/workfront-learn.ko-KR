@@ -12,9 +12,9 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '596'
 ht-degree: 39%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 39%
 
 이 비디오에서는 원형 및 누적 세로 막대형 차트와 같은 차트를 통해 작업 배포 및 프로젝트 성능에 대한 통찰력을 제공하여 사용자가 프로젝트를 비교하고 작업 진행 상황을 시각적으로 이해하는 데 도움이 되는 방법을 소개합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3450021/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 핵심 사항
 
@@ -73,14 +73,14 @@ ht-degree: 39%
 1. **[!UICONTROL 필터]** 탭에서 두 개의 필터 규칙을 추가합니다.
 
    * [!UICONTROL 프로젝트] > [!UICONTROL 동일시된 상태] > [!UICONTROL 완료]
-   * [!UICONTROL 프로젝트] >[!UICONTROL &#x200B; 실제 완료 일자] > [!UICONTROL 지난 분기]
+   * [!UICONTROL 프로젝트] >[!UICONTROL  실제 완료 일자] > [!UICONTROL 지난 분기]
 
    ![보고서에 필터를 추가하는 화면 이미지](assets/chart-report-filters.png)
 
 1. **[!UICONTROL 차트]** 탭에서 차트 유형에 대한 **[!UICONTROL 열]**&#x200B;을 선택합니다.
 1. [!UICONTROL 왼쪽(Y) 축]에 대해 [!UICONTROL 계획된 비용]을(를) 선택하십시오.
 1. [!UICONTROL 아래쪽(X) 축]에 대해 [!UICONTROL 이름]을 선택하세요.
-1. **[!UICONTROL 조합 차트]** 단추를 클릭하고 **[!UICONTROL 값]** 필드에서 [!UICONTROL 실제 비용]을(를) 선택합니다.
+1. **[!UICONTROL 조합 차트]** 단추를 클릭하고 [!UICONTROL 값] 필드에서 **[!UICONTROL 실제 비용]**&#x200B;을(를) 선택합니다.
 1. **[!UICONTROL 차트 종류]** 필드에서 Line을 선택합니다.
 1. [!UICONTROL 실제 비용] 색상을 변경하려면 색 상자를 클릭하십시오. 색상을 선택합니다.
 1. **[!UICONTROL 저장 및 닫기]**&#x200B;를 클릭합니다. 보고서 이름을 입력하라는 메시지가 표시되면 “지난 분기에 완료된 프로젝트별 계획된 비용과 실제 비용의 비교”라고 지정합니다.

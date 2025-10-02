@@ -13,7 +13,7 @@ exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 7%
@@ -34,7 +34,7 @@ ht-degree: 7%
 
 이 비디오에서는 시스템 관리자와 프로젝트 관리자 모두가 성능 지표 및 계산을 관리할 수 있는 유연성과 제어를 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

@@ -12,7 +12,7 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 13%
@@ -40,7 +40,7 @@ ht-degree: 13%
 
 이 비디오에서는 간트 차트의 유연성이 강조되어 사용자가 보기를 사용자 정의하고 여러 요소를 동시에 표시하여 프로젝트를 더 잘 관리할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448013/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 온라인에서 [간트 차트 시작하기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=ko-KR) 문서를 통해 자세히 알아볼 수 있습니다.
 

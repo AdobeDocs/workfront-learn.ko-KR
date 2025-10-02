@@ -12,7 +12,7 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 11%
@@ -23,7 +23,7 @@ ht-degree: 11%
 
 이 비디오에서는 프로젝트 작업을 보고 관리하는 대체 방법을 제공하는 Workfront의 보드 보기 기능에 대해 설명합니다. &#x200B; 보드 보기에서 작업은 Kanban 스타일 보드에 카드로 표시되므로 사용자는 열 내에서 또는 열 간에 작업을 정렬, 그룹화 및 이동할 수 있습니다. &#x200B; 작업을 이동하면 해당 상태가 자동으로 업데이트되며, 이는 작업 목록 보기에 반영됩니다. &#x200B; 사용자는 프로젝트에서 새 작업을 생성하는 새 카드를 만들고 보드 보기에서 직접 편집하거나 할당할 수 있습니다. &#x200B; 열과 카드를 구성할 수 있으며, 작업 목록 보기에서 전임 작업을 사용하여 작업의 순서를 지정할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423281/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

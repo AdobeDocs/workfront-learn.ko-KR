@@ -13,10 +13,10 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 10%
 이 비디오에서는 프로젝트 내의 작업 역할에 대한 청구 요율을 관리하고 사용자 지정하는 방법을 설명합니다. &#x200B;동일한 작업 역할에 대해 여러 청구 요율을 설정하고 정확한 시간 기반 조정을 보장하는 유연성이 강조됩니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

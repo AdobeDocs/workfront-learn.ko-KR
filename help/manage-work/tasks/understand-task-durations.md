@@ -13,7 +13,7 @@ last-substantial-update: 2024-06-03T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 10%
@@ -27,7 +27,7 @@ ht-degree: 10%
 &#x200B;정확한 기간은 효과적인 프로젝트 계획 및 리소스 관리에 중요합니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449350/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

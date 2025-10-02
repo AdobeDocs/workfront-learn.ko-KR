@@ -9,8 +9,8 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8991
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 이 과정에서 배우게 될 내용
 * [!UICONTROL Workfront DAM]의 정의 및 사용 방식
 
->[!VIDEO](https://video.tv.adobe.com/v/3445706/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335251/?quality=12&learn=on&enablevpops=1)

@@ -13,7 +13,7 @@ jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 14%
@@ -25,7 +25,7 @@ ht-degree: 14%
 이 비디오에서는 프로젝트 계획에서 작업을 할당하는 다양한 방법에 대해 설명합니다. 작업 할당을 간소화하고 프로젝트 워크플로를 최적화하기 위해 필터, 템플릿 및 리소스 관리 기능과 같은 도구를 사용하는 것을 강조합니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3445749/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

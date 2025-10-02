@@ -13,7 +13,7 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 8%
@@ -24,7 +24,7 @@ ht-degree: 8%
 
 이 비디오에서는 Adobe Workfront에서 요청을 찾고 업데이트하는 방법을 설명합니다. &#x200B; 요청을 제출한 후 정보를 추가하거나 질문을 하여 작업 중인 사람이 최신 세부 정보를 사용할 수 있도록 할 수 있습니다. &#x200B; &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3422300/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

@@ -11,7 +11,7 @@ thumbnail: 335129.png
 jira: KT-8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 교정쇄 사용자가 워크플로 템플릿을 통해 얻을 수 있는 이점
 * 어떤 템플릿을 만들지 계획을 시작하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3441304/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn More Icon

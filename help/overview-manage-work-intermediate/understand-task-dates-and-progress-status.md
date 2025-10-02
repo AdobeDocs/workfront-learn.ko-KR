@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8782
 hide: true
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 보기를 선택하여 다양한 [!DNL Workfront's] 일자 유형을 비교합니다.
 * 진행 상태를 사용하여 작업 진행 상황 추적
 
->[!VIDEO](https://video.tv.adobe.com/v/3436614/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

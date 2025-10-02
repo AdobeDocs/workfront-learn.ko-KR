@@ -8,8 +8,8 @@ jira: KT-10871
 thumbnail: 346281.jpeg
 exl-id: 5fd50010-6aba-49af-9094-026b0569e0d8
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 100%
 
@@ -40,7 +40,7 @@ Workfront의 애자일 팀이 반복 페이지 [1]에서 작업을 완료합니�
 - 스크럼 방법론 선택
 - 스크럼 팀의 설정 결정
 
->[!VIDEO](https://video.tv.adobe.com/v/3412167/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on&enablevpops=1)
 
 Workfront에 애자일 팀으로 전환하려는 팀이 이미 있습니까? 문제 없습니다! 팀 설정으로 이동하여 “애자일 팀입니다” 상자를 선택합니다.
 

@@ -11,7 +11,7 @@ jira: KT-18770
 last-substantial-update: 2025-09-30T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 16%
@@ -31,11 +31,11 @@ ht-degree: 16%
 
 [캔버스 대시보드 소개](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)에서는 두 가지 작업을 모두 수행하는 방법을 단계별로 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops=1)
 
 **자세한 내용은 다음 도움말 문서를 참조하십시오.**
-[캔버스 대시보드 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[캔버스 대시보드에서 보고서 필터 편집](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
+[캔버스 대시보드 개요](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[캔버스 대시보드에서 보고서 필터 편집](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

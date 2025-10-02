@@ -13,7 +13,7 @@ jira: KT-8772
 hide: true
 doc-type: video
 exl-id: c8b7e6b0-9464-4b2b-8963-b2184293ca7a
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
@@ -29,7 +29,7 @@ ht-degree: 100%
 * [!UICONTROL 보기]를 통해 필요한 정보를 조회할 수 있는 방법
 * 시작 일자 또는 완료 일자를 설정하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3448574/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

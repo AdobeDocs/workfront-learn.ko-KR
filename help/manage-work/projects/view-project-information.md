@@ -12,7 +12,7 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 5%
@@ -33,7 +33,7 @@ ht-degree: 5%
 
 이 비디오에서는 맞춤화를 강조하고 추가 학습을 위한 자습서 링크를 제공합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3453073/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

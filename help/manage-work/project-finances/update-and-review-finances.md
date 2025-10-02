@@ -1,6 +1,6 @@
 ---
 title: 재무 업데이트
-description: 요율을 정의하고, 비용 및 수익 유형을 작업에 지정하고, 비용을 관리하고, 청구 기록을 생성하여 비용 추적 및 청구를 간소화합니다. Workfront은 실제 결제를 수행하지 않습니다.
+description: 요율 지정, 작업에 비용 및 수익 유형 할당, 지출 관리, 청구 기록 생성 등을 통해 비용 추적 및 청구를 간소화합니다. Workfront는 실제 청구를 하지 않습니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,10 +13,10 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '359'
-ht-degree: 2%
+ht-degree: 11%
 
 ---
 
@@ -47,7 +47,7 @@ Workfront은 청구 가능 항목을 추적하지만 실제 청구는 처리하�
 
 이 비디오에서는 클라이언트 청구 프로세스를 간소화할 수 있는 적절한 설정 및 추적의 중요성을 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 
@@ -62,6 +62,6 @@ Workfront은 청구 가능 항목을 추적하지만 실제 청구는 처리하�
 ## 이 주제와 관련된 추천 튜토리얼
 
 * [재무 정보 찾기](/help/manage-work/project-finances/find-financial-information.md)
-* [여러 청구 요금 이해](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [여러 과금 요율 이해](/help/manage-work/project-finances/multiple-billing-rates.md)
   <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 

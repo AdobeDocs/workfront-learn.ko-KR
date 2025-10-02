@@ -13,7 +13,7 @@ jira: KT-8780
 hide: true
 doc-type: video
 exl-id: c2ed640c-b32f-4c1e-892c-fb54796a101e
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 
 * 프로젝트 상태를 사용하여 실제로 프로젝트 실행
 
->[!VIDEO](https://video.tv.adobe.com/v/3438995/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

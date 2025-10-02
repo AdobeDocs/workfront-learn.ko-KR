@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 12%
@@ -24,7 +24,7 @@ ht-degree: 12%
 
 이 비디오에서는 Workfront의 요청 대기열 개념, 용도 및 요청을 제출하고 관리하는 방법에 대해 설명합니다. &#x200B; 요청 대기열은 다양한 유형의 요청을 제출하는 중앙 집중식 위치 역할을 합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447017/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

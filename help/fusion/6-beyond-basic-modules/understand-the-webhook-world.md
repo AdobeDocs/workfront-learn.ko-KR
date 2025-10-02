@@ -11,8 +11,8 @@ jira: KT-9050
 exl-id: 87140000-e26b-48b3-ad58-c60b6be7a7fa
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ ht-degree: 100%
 * 반응형 웹후크와 수동 웹후크의 차이점
 * 웹후크로 수신 데이터에 대한 대기열을 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3417942/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335291/?quality=12&learn=on&enablevpops=1)

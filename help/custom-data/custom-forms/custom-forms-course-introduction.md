@@ -9,8 +9,8 @@ activity: use
 team: Technical Marketing
 jira: KT-8908
 hidefromtoc: true
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 이 비디오에서는 사용자 정의 양식이 무엇이며 사용자 정의 양식을 사용하여 조직별 정보를 캡처하는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432762/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12&learn=on&enablevpops=1)

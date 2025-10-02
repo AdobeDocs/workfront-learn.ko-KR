@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 기존 메타데이터 필드 사용
 * 사용자 정의 메타데이터 필드 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3419520/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on&enablevpops=1)
 
 ## 메타데이터 모범 사례
 

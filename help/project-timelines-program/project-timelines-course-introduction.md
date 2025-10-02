@@ -9,8 +9,8 @@ level: Intermediate
 team: Technical Marketing
 jira: KT-8952
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 이 비디오에서는 [!DNL  Workfront]에서 프로젝트 타임라인을 빌드하고 관리할 때 사용되는 요소(예: 일자 유형 및 작업 제한)를 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436747/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)

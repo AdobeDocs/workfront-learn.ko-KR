@@ -12,7 +12,7 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 13%
@@ -25,7 +25,7 @@ ht-degree: 13%
 
 이 비디오에서는 정확한 추적과 적시에 프로젝트를 완료할 수 있도록 팀 구성원의 정기적인 업데이트와 사전 예방적 문제 관리의 중요성을 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447417/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

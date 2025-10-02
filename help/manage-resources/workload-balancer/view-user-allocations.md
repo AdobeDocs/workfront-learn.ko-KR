@@ -11,8 +11,8 @@ thumbnail: 335164.png
 jira: KT-8876
 exl-id: 05a10df0-9f96-4a38-b23c-c54b64231722
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 차트 모드를 선택하여 사용자 할당에 대한 높은 수준의 보기를 살펴봅니다.
 * 사용자의 일일 할당 분류 표시
 
->[!VIDEO](https://video.tv.adobe.com/v/3413841/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on&enablevpops=1)

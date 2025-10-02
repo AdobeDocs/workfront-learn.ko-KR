@@ -13,9 +13,9 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '403'
 ht-degree: 9%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 9%
 이 비디오에서는 라우팅 규칙, 주제 그룹, 사용자 정의 양식, 승인 프로세스 및 기본 기간에 연결된 대기열 주제를 만드는 방법을 보여 줍니다.
 마지막으로, 이 비디오에서는 설정이 올바르게 라우팅되는지 확인하기 위해 요청을 제출하여 설정을 테스트하는 방법을 보여 줍니다. &#x200B; 문제가 발생하면 대기열을 조정할 수 있습니다. &#x200B; 이 비디오에서는 적절한 라우팅 및 구성을 보장하기 위해 요청 흐름의 구조 및 기능을 확인하는 것이 중요함을 강조합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433829/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 핵심 사항
 

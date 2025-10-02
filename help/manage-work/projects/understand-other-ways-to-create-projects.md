@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 7%
@@ -55,7 +55,7 @@ ht-degree: 7%
 
 이 비디오는 템플릿을 통해 프로젝트를 제작하고, 스크래치, 복사 또는 가져오기를 수행하며, 다양한 사용자 요구 사항을 충족할 수 있는 Workfront의 유연성에 대해 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3432170/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

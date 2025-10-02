@@ -14,7 +14,7 @@ doc-type: video
 jira: KT-10143
 hide: true
 exl-id: 7655ce23-ee3a-4c66-b8fd-98c2c7a8517b
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
@@ -33,7 +33,7 @@ ht-degree: 100%
 * 사용자 정의 대시보드
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441661/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 
 ## 이 주제와 관련된 추천 튜토리얼

@@ -13,7 +13,7 @@ exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 12%
@@ -25,7 +25,7 @@ ht-degree: 12%
 이 비디오에서는 Workfront 내에서 재무 정보에 대한 액세스를 관리할 때 시스템 관리자의 역할에 대해 설명합니다. &#x200B; 관리자는 액세스 수준을 통해 액세스를 제어합니다&#x200B;.
 이 비디오에서는 사용자가 직접 만든 프로젝트 또는 재무 액세스 권한이 있는 사용자가 재무 액세스 권한을 공유한 프로젝트에서만 재무 액세스 권한을 사용할 수 있음을 강조합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

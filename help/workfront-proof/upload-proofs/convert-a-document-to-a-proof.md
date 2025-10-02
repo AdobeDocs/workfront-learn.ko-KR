@@ -11,8 +11,8 @@ thumbnail: 335134.png
 jira: KT-8834
 exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 교정쇄를 생성하는 동안 워크플로 추가
 * 교정쇄가 생성된 후 워크플로 추가 또는 편집
 
->[!VIDEO](https://video.tv.adobe.com/v/3443474/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops=1)
 
 
 ## 문서를 업로드할 수 있는 사람은 누구입니까?

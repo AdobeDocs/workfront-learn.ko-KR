@@ -12,7 +12,7 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 7%
@@ -41,7 +41,7 @@ ht-degree: 7%
 
 이 비디오에서는 효율적인 공유 관리를 위해 팀과 템플릿을 사용하는 방법을 강조하고 공유 환경 설정을 사용자 지정하는 관리자의 역할을 강조합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423151/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

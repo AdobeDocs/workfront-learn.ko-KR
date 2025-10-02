@@ -12,8 +12,8 @@ jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%
 
@@ -50,4 +50,4 @@ Fusion 시스템 관리자인 경우, 다음 튜토리얼을 참조하여 팀을
 * Fusion 핵심 및 디자이너 기능
 * Fusion 예제 시나리오
 
->[!VIDEO](https://video.tv.adobe.com/v/3416556/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops=1)

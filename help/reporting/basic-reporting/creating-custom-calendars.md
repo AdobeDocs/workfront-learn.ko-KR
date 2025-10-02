@@ -11,7 +11,7 @@ last-substantial-update: 2025-06-23T00:00:00Z
 thumbnail: create-a-custom-calendar.png
 jira: KT-10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
-source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 83%
@@ -34,5 +34,5 @@ ht-degree: 83%
 * 캘린더 그룹화에 작업 항목 추가
 * 휴무 캘린더 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3452400/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops=1)
 

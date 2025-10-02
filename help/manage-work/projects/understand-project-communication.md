@@ -12,7 +12,7 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 16%
@@ -32,13 +32,13 @@ ht-degree: 16%
 
 이 비디오에서는 Workfront이 커뮤니케이션, 작업 관리 및 보고를 간소화하여 모든 프로젝트 관련 정보를 액세스 및 구성하는 방법을 소개합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3436151/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->비디오에 나와 있는 메모 검색 보고서를 만들려면 [작업 보고서 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) 튜토리얼의 활동을 참조하십시오.
+>비디오에 나와 있는 메모 검색 보고서를 만들려면 [작업 보고서 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) 튜토리얼의 활동을 참조하십시오.
 >
->프로젝트 패널에 메모 검색 보고서를 추가하려면 [대시보드 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=ko#activity-1-create-a-dashboard) 튜토리얼의 활동을 참조하십시오.
+>프로젝트 패널에 메모 검색 보고서를 추가하려면 [대시보드 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard) 튜토리얼의 활동을 참조하십시오.
 
 ## 핵심 사항
 

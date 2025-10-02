@@ -12,9 +12,9 @@ jira: KT-8861
 last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '419'
 ht-degree: 62%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 62%
 * 매트릭스 보고서가 유용할 수 있는 경우
 * 매트릭스 보고서를 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3448190/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 핵심 사항
 

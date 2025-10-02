@@ -13,7 +13,7 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 11%
@@ -24,7 +24,7 @@ ht-degree: 11%
 
 이 비디오에서는 Workfont 내에 요청 대기열을 만드는 방법에 대한 단계별 안내서를 제공합니다. &#x200B; 이 비디오는 새로 생성된 대기열을 사용하여 요청을 제출하는 방법을 보여 주며, &quot;제출된 요청&quot; 탭에 세부 정보를 입력하고 제출을 확인하는 프로세스를 보여 줍니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

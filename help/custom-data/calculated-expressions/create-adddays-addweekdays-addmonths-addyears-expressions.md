@@ -11,10 +11,10 @@ thumbnail: 335175.png
 jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '275'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR 표현식이 계산하는 것
 * 계산된 필드에서 ADDWEEKDAYS 데이터 표현식을 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3416192/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops=1)
 
 ## 추가 예시
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 고객은 실제 시작 일자와 계획된 기간을 기준으로 작업이 완료되어야 하는 시점을 확인하고자 했습니다. 이 경우 작업이 늦어지면 일자가 이동할 수 있기 때문에 ‘예상 완료 일자’와는 조금 다르며, 이전 작업이 지연되면 ‘계획된 완료 일자’도 도움이 되지 않습니다.
 
-만들어진 표현식은 ADDDAYS({actualStartDate},{durationMinutes}/480)입니다.
+만들어진 식은 ADDDAYS({actualStartDate},{durationMinutes}/480)입니다.
 
 ‘기간’ 필드의 시간은 분 단위로 저장됩니다. 따라서 이 표현식에서 시간이 일 단위로 반영되는 경우 ‘기간’ 필드는 독립적일 수 없습니다. 시간을 일 단위로 반영하려면 기간을 480분으로 나누어야 합니다(480분 = 8시간 = 1일).
 

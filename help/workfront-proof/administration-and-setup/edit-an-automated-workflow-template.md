@@ -12,8 +12,8 @@ last-substantial-update: 2024-08-08T00:00:00Z
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 100%
 
@@ -44,7 +44,7 @@ ht-degree: 100%
 
 이 비디오는 [!UICONTROL 워크플로] 영역에서 적용할 수 있는 변경 사항 중 일부를 보여 줍니다. 이 비디오 아래의 글머리 기호 목록을 참조하십시오. 이러한 설정을 검토하는 내용입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432618/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
 
 다음은 검토 과정에서 [!UICONTROL 워크플로] 섹션에 적용할 수 있는 교정 템플릿 변경 사항입니다.
 

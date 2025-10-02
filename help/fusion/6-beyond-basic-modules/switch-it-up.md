@@ -11,8 +11,8 @@ jira: KT-9047
 exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 전환 함수 및 모듈의 정의 및 차이점
 * 전환 함수와 전환 모듈을 사용해야 하는 경우
 
->[!VIDEO](https://video.tv.adobe.com/v/3417446/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on&enablevpops=1)

@@ -12,10 +12,10 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 88%
+source-wordcount: '288'
+ht-degree: 87%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 88%
 
 >[!TIP]
 >
->* 텍스트 모드에 대해 자세히 알아보려면 한 시간 길이의 녹화된 웨비나 이벤트인 [전문가에게 질문하기 - 텍스트 모드 보고 소개](https://experienceleague.adobe.com/ko/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting)를 시청하는 것이 좋습니다.
+>* 텍스트 모드에 대해 자세히 알아보려면 한 시간 길이의 녹화된 웨비나 이벤트인 [전문가에게 질문하기 - 텍스트 모드 보고 소개](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting)를 시청하는 것이 좋습니다.
 >* 텍스트 모드에 대해 자세히 알아보려면 총 5시간 30분 길이의 [고급 보고](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ko) 튜토리얼을 시청하는 것이 좋습니다.
 >* [[!UICONTROL API 탐색기]](https://developer.adobe.com/workfront/api-explorer/)에 액세스하려면 여기를 클릭하십시오.
 
@@ -40,7 +40,7 @@ ht-degree: 88%
 * 카멜 표기법의 정의
 * 보고서 그룹화에 사용할 수 있는 _텍스트 모드 코드 블록_
 
->[!VIDEO](https://video.tv.adobe.com/v/3470786/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## “그룹화의 기본 텍스트 모드 이해하기” 활동
 

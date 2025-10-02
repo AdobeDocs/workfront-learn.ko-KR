@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 15%
@@ -25,7 +25,7 @@ ht-degree: 15%
 
 이 비디오에서는 프로젝트 성공을 위한 강력한 토대를 만들기 위한 현실적인 타임라인, 팀 가용성 및 정확한 계획의 중요성을 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448574/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

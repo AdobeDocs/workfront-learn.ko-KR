@@ -11,8 +11,8 @@ thumbnail: 335176.png
 jira: KT-8913
 exl-id: 7ef77612-d490-4dc5-82e1-5c36acad761e
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
 
@@ -25,6 +25,6 @@ ht-degree: 100%
 * DATEDIFF 및 WEEKDAYDIFF 표현식이 계산하는 항목
 * 계산된 필드에서 WEEKDAYDIFF 데이터 표현식을 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3417118/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on&enablevpops=1)
 
 **참고**: WEEKDAYDIFF 데이터 표현식은 조직에서 지정한 휴일을 고려하지 않습니다.

@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '974'
-ht-degree: 77%
+source-wordcount: '977'
+ht-degree: 74%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 77%
 
 이 비디오는 Workfront 보기의 유연성을 강조하며 작성, 사용자 지정 및 관리에 대한 단계별 지침을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450245/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## 핵심 사항
 
@@ -133,9 +133,9 @@ ht-degree: 77%
 1. 다시 **[!UICONTROL 열 추가]**&#x200B;를 클릭합니다.
 1. [!UICONTROL 이 열에 표시] 필드에서 [!UICONTROL “제한”]을 입력한 다음 ‘작업’ 필드 소스 아래에서 [!UICONTROL “제한 일자”]를 선택합니다.
 1. [!UICONTROL 시작 일자] 열을 선택한 다음 [!UICONTROL 고급 옵션]을 클릭합니다.
-1. [!UICONTROL 필드 형식] 드롭다운 아래에서 [!UICONTROL “10/17/60 3:00 AM”]을 선택합니다.
+1. [!UICONTROL 필드 형식] 드롭다운 아래에서 [!UICONTROL &quot;10/17/60 3:00 AM&quot;]을(를) 선택합니다.
 1. [!UICONTROL 기한] 열을 선택한 다음 [!UICONTROL 고급 옵션]을 클릭합니다.
-1. [!UICONTROL 필드 형식] 드롭다운 아래에서 [!UICONTROL “10/17/60 3:00 AM”]을 선택합니다.
+1. [!UICONTROL 필드 형식] 드롭다운 아래에서 [!UICONTROL &quot;10/17/60 3:00 AM&quot;]을(를) 선택합니다.
 1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
 ### 활동 4: 프로젝트 템플릿 활성 상태 보기 만들기

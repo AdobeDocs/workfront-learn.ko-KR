@@ -12,7 +12,7 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 99%
@@ -33,9 +33,9 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 * 시나리오 디자이너 사용
 * 기본 시나리오 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3415976/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
 
 ## 자세히 알아보시겠습니까? 다음 자료를 참조하십시오.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

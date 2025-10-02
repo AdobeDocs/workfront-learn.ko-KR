@@ -11,7 +11,7 @@ jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 99%
@@ -32,7 +32,7 @@ Workfront Fusion 테스트는 연결된 소프트웨어 플랫폼과 Workfront F
 * 상세하고 공유 가능한 설명서 작성
 * 테스트 깊이, 범위, 복잡성 및 로드
 
->[!VIDEO](https://video.tv.adobe.com/v/3418735/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
 
 ## 테스트 고려 사항 체크리스트
 
@@ -48,4 +48,4 @@ Workfront Fusion 구현의 전체 수명 주기 동안 테스트의 우선 순�
 
 ## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

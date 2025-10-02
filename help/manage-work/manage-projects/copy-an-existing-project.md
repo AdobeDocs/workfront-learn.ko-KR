@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 9%
@@ -27,7 +27,7 @@ ht-degree: 9%
 문제는 계획된 작업으로 간주되지 않으므로 이 프로세스 중에 직접 복사할 수 없습니다. &#x200B; 문제를 복사하려면 문제 탭으로 이동하여 원하는 문제를 선택한 다음 &quot;복사 위치&quot; 옵션을 사용하여 해당 문제를 새 프로젝트로 전송합니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456045/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

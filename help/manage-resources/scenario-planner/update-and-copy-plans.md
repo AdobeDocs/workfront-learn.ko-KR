@@ -11,8 +11,8 @@ thumbnail: 335321.jpeg
 jira: KT-9079
 exl-id: c3a42469-6b0e-4b46-9713-eb15ecdf3055
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 * [!DNL Scenario Planner]의 계획 업데이트
 * [!DNL Scenario Planner]의 계획 복사
 
->[!VIDEO](https://video.tv.adobe.com/v/3412651/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12&learn=on&enablevpops=1)

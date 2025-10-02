@@ -13,7 +13,7 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 10%
@@ -27,7 +27,7 @@ ht-degree: 10%
 &#x200B;프로젝트 타임라인에 미치는 영향을 파악하기 위해 선행 작업과 함께 수행하는 작업의 중요성을 강조하고 효율적인 프로젝트 계획을 위해서는 지속 시간 및 선행 작업을 사용할 것을 권장합니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

@@ -12,7 +12,7 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 28%
@@ -24,7 +24,7 @@ ht-degree: 28%
 이 비디오에서는 프로젝트를 생성할 때 필요한 가장 일반적인 프로젝트 설정에 대해 알아봅니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

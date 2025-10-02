@@ -11,10 +11,10 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '386'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '378'
+ht-degree: 89%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * SUB, SUM, DIV 및 PROD 표현식의 기능
 * 계산된 필드에서 SUB 데이터 표현식을 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3414003/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops=1)
 
 ## 추가 정보: ROUND 표현식
 
@@ -57,8 +57,8 @@ ROUND 표현식에는 표현식 이름(ROUND)과 일반적으로 두 개의 데�
 
 표현식은 구성되는 방식은 ROUND(데이터 포인트, #)와 같습니다.
 
-계획된 시간과 실제 시간의 차이를 계산하는 표현식에서 DIV(SUB({workRequired},{actualWorkRequired}),60) 표현식을 첫 번째 데이터 포인트로 사용합니다. 그런 다음 해당 표현식에서 나오는 숫자가 소수점 오른쪽으로 2자리를 초과하여 이동하지 않는지 확인합니다.
+계획된 시간과 실제 시간의 차이를 계산하는 식에서 이 표현식 —DIV(SUB({workRequired},{actualWorkRequired}),60)—을 첫 번째 데이터 포인트로 사용합니다. 그런 다음 해당 표현식에서 나오는 숫자가 소수점 오른쪽으로 2자리를 초과하여 이동하지 않는지 확인합니다.
 
 ![활용성 보고서가 포함된 워크로드 밸런서](assets/round03.png)
 
-표현식은 ROUND(DIV(SUB({workRequired},{actualWorkRequired}),60),2)와 같이 작성할 수 있습니다.
+식은 다음과 같이 작성할 수 있습니다. ROUND(DIV(SUB({workRequired},{actualWorkRequired}),60),2).

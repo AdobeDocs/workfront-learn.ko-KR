@@ -13,8 +13,8 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 계획된 일자, 예상 일자 및 실제 일자
 * 진행 상태 계산에 사용되는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3436614/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

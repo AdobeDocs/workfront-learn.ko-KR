@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8974
 exl-id: 57818b8d-46c8-476f-8f29-d4f0f4bb10e0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ ht-degree: 100%
 * [!UICONTROL Workfront DAM] 사용자가 자신의 키워드를 입력할 수 있는 경우 파악
 * 검색 패싯 설정
 
->[!VIDEO](https://video.tv.adobe.com/v/3419504/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on&enablevpops=1)

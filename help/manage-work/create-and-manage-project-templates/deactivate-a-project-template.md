@@ -13,7 +13,7 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 76%
@@ -27,7 +27,7 @@ ht-degree: 76%
 * 활성화 및 비활성화 권한을 부여하는 프로젝트 템플릿을 공유하는 방법.
 * 프로젝트 템플릿을 활성화 및 비활성화하는 방법.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444997/?quality=12&learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
