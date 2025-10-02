@@ -73,7 +73,7 @@ ht-degree: 39%
 1. **[!UICONTROL 필터]** 탭에서 두 개의 필터 규칙을 추가합니다.
 
    * [!UICONTROL 프로젝트] > [!UICONTROL 동일시된 상태] > [!UICONTROL 완료]
-   * [!UICONTROL 프로젝트] >[!UICONTROL  실제 완료 일자] > [!UICONTROL 지난 분기]
+   * [!UICONTROL 프로젝트] >[!UICONTROL &#x200B; 실제 완료 일자] > [!UICONTROL 지난 분기]
 
    ![보고서에 필터를 추가하는 화면 이미지](assets/chart-report-filters.png)
 
