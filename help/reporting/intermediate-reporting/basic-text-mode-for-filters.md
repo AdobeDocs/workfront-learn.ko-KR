@@ -41,7 +41,7 @@ ht-degree: 90%
 * 카멜 대/소문자
 * 보고서 필터에서 사용할 수 있는 일부 _텍스트 모드 코드 블록_
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412687/?quality=12&learn=on&captions=kor)
 
 ## “필터의 기본 텍스트 모드 이해하기” 활동
 

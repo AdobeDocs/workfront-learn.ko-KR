@@ -41,7 +41,7 @@ ht-degree: 94%
 * 카멜 표기법의 정의
 * 보고서 보기에서 사용할 수 있는 일부 _텍스트 모드 코드 블록_
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470795/?quality=12&learn=on&captions=kor)
 
 ## “보기의 기본 텍스트 모드 이해하기” 활동
 

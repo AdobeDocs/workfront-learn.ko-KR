@@ -29,7 +29,7 @@ ht-degree: 0%
 * 와일드카드, 속성, 연산자 및 수정자를 사용하여 사용자 정의 일자 만들기
 * 와일드카드를 사용하여 사용자 정의 날짜 범위 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412663/?quality=12&learn=on&captions=kor)
 
 
 ## “일자 기반의 와일드카드로 필터 만들기” 활동

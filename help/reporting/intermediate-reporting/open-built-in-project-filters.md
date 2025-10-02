@@ -26,7 +26,7 @@ ht-degree: 0%
 * 기본 제공 프로젝트 필터를 검토하여 빌드 방법 확인
 * 학습한 내용을 사용하여 나만의 프로젝트 필터 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412669/?quality=12&learn=on&captions=kor)
 
 ## “기본 제공 프로젝트 필터 이해하기” 활동
 
