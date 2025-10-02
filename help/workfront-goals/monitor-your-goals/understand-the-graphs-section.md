@@ -28,4 +28,4 @@ ht-degree: 100%
 * 목표 상태 차트 읽기 및 해석
 * 목표 진행률 차트 읽기 및 해석
 
->[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415923/?quality=12&learn=on&enablevpops=1&captions=kor)

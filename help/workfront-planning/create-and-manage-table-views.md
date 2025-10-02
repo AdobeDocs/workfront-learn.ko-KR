@@ -21,4 +21,4 @@ ht-degree: 80%
 
 Adobe Workfront Planning에서 레코드 유형 테이블 보기를 만들고, 관리하고, 사용자 정의하여 프로젝트 구성과 공동 작업을 개선하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448154/?learn=on&enablevpops=1&captions=kor)

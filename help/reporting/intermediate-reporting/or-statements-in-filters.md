@@ -25,7 +25,7 @@ ht-degree: 31%
 또는 필터 논리를 &quot;OR&quot;로 변경하여 조건을 충족하는 항목을 표시할 수 있습니다.
 이 비디오에서는 필터 그룹을 사용하여 작업을 위한 필터를 만드는 방법도 보여 줍니다. &#x200B; 예를 들어 늦은 크리에이티브 팀에 할당된 미완료 작업에 대한 그룹과 미할당 크리에이티브 팀에 할당된 미완료 작업에 대한 그룹, 이렇게 두 개의 그룹을 만들 수 있습니다. &#x200B; 각 그룹 내에서 &quot;AND&quot; 논리가 적용되며, 이는 그룹의 모든 조건이 충족되어야 함을 의미합니다. &#x200B; 그룹 간의 &quot;OR&quot; 논리는 두 그룹의 조건에 맞는 작업이 표시되도록 합니다.
 
->[!VIDEO] (https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3470700/?quality=12&learn=on&enablevpops=0&captions=kor
 
 ## OR 필터 활동
 

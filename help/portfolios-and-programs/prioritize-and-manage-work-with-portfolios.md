@@ -25,7 +25,7 @@ ht-degree: 7%
 
 이 비디오에서는 정확한 비교를 위해 비즈니스 사례를 완료하는 것의 중요성을 강조하고 프로젝트 우선 순위를 효과적으로 최적화하고 관리하는 단계별 지침을 제공합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446282/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 핵심 사항
 

@@ -24,7 +24,7 @@ ht-degree: 100%
 * 명확한 목표 진술(지휘 의도) 작성
 * 강력한 기업 또는 조직 목표 작성
 
->[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416012/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 <!--
 Your turn graphic

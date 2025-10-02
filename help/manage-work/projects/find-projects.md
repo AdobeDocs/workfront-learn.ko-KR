@@ -24,7 +24,7 @@ ht-degree: 23%
 
 이 비디오에서는 프로젝트를 찾는 빠르고 쉬운 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439555/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 핵심 사항
 

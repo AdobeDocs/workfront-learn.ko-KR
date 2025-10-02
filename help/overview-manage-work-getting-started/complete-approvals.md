@@ -28,7 +28,7 @@ ht-degree: 100%
 * 해결되지 않은 작업 승인을 찾고 처리하는 방법
 * 해결되지 않은 문제 승인을 찾고 처리하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439431/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

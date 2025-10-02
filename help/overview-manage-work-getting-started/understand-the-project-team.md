@@ -27,7 +27,7 @@ ht-degree: 100%
 
 * 프로젝트 팀의 용도 및 팀을 유지하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444596/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

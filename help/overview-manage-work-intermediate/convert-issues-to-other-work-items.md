@@ -23,7 +23,7 @@ ht-degree: 100%
 
 이 비디오에서는 문제 또는 요청을 작업으로 전환하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445437/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 >[!NOTE]
 >

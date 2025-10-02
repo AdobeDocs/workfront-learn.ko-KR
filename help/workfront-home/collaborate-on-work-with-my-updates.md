@@ -27,4 +27,4 @@ ht-degree: 100%
 * 멘션 섹션을 사용하여 내가 포함된 업데이트 보기
 * 업데이트에 대한 회신
 
->[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414236/?quality=12&learn=on&enablevpops=1&captions=kor)

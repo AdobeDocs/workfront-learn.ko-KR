@@ -25,4 +25,4 @@ ht-degree: 100%
 * 전환 함수 및 모듈의 정의 및 차이점
 * 전환 함수와 전환 모듈을 사용해야 하는 경우
 
->[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417446/?quality=12&learn=on&enablevpops=1&captions=kor)

@@ -26,7 +26,7 @@ ht-degree: 100%
 * 교정 결정 옵션의 이름을 바꾸는 방법
 * 불필요한 교정 결정 옵션을 숨기는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444656/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 사용자 차례
 

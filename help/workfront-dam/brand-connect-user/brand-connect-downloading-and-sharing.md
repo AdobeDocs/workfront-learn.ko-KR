@@ -24,4 +24,4 @@ ht-degree: 100%
 * Brand Connect 사용자 또는 외부 관련자와 라이트박스 공유
 * 단일 또는 여러 자산 다운로드
 
->[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414458/?quality=12&learn=on&enablevpops=1&captions=kor)

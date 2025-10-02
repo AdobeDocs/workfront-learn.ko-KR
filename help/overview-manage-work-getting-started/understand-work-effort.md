@@ -28,7 +28,7 @@ ht-degree: 100%
 * 작업 노력을 사용하는 방법
 * 작업 노력 작업 보기를 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447406/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 [!UICONTROL 작업 노력]에 대한 자세한 내용은 [작업 노력 개요](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=ko-KR) 문서를 참조하십시오.
 

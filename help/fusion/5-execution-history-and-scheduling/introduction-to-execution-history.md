@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * Workfront Fusion을 지원하고 문제를 해결하는 데 도움이 되는 실행 기록
 
->[!VIDEO](https://video.tv.adobe.com/v/335282/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417312/?quality=12&learn=on&enablevpops=1&captions=kor)

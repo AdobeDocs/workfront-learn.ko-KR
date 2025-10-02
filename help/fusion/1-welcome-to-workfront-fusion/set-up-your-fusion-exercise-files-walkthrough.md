@@ -27,4 +27,4 @@ ht-degree: 100%
 
 1. 비디오를 시청하여 이들 파일을 Workfront 폴더에 업로드하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416550/?quality=12&learn=on&enablevpops=1&captions=kor)

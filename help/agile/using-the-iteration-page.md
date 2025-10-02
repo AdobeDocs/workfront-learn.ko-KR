@@ -19,4 +19,4 @@ ht-degree: 100%
 
 반복 상태 표시줄을 읽는 방법, 번다운 차트를 찾아 읽는 방법, 반복 스토리보드에서 스토리를 보고 이동하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346285/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412182/?quality=12&learn=on&enablevpops=1&captions=kor)

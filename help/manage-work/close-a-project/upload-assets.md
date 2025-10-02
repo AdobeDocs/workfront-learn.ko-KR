@@ -29,7 +29,7 @@ ht-degree: 100%
 * 문서 업로드
 * 교정쇄 업로드 관련 교육 과정 찾기
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440377/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

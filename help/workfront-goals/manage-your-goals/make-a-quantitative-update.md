@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 결과 및 활동에 대한 진행 상황 업데이트
 
->[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415957/?quality=12&learn=on&enablevpops=1&captions=kor)

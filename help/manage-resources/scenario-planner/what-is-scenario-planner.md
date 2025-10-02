@@ -30,4 +30,4 @@ ht-degree: 100%
 * 조직 내 시나리오 계획
 * [!DNL Scenario Planner]를 사용하려면 설정에 액세스해야 함
 
->[!VIDEO](https://video.tv.adobe.com/v/335317/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412627/?quality=12&learn=on&enablevpops=1&captions=kor)

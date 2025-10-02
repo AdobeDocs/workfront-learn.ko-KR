@@ -28,7 +28,7 @@ ht-degree: 100%
 * 해당 프로젝트 템플릿 선택
 * 요청에서 프로젝트로 전환 완료
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446629/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 
 ## 이 주제와 관련된 추천 튜토리얼

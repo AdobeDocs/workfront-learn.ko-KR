@@ -21,4 +21,4 @@ ht-degree: 100%
 
 보드 정보에 액세스할 수 있도록 개인 사용자 및 팀을 보드에 추가하고 제거하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423044/?quality=12&learn=on&enablevpops=1&captions=kor)

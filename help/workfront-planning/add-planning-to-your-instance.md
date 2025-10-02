@@ -21,4 +21,4 @@ ht-degree: 80%
 
 Workfront Planning 도구를 추가하고 인스턴스의 사용자에게 표시하는 데 필요한 요구 사항을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447930/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447973/?learn=on&enablevpops=1&captions=kor)

@@ -31,7 +31,7 @@ ht-degree: 100%
 * 프로젝트를 포트폴리오에 넣어 공유하는 방법
 * 프로젝트 공유 모범 사례
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423151/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

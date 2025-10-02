@@ -29,4 +29,4 @@ ht-degree: 100%
 * 다른 공식 유형
 * 수식 편집기의 올바른 사용과 잘못된 사용
 
->[!VIDEO](https://video.tv.adobe.com/v/335262/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415988/?quality=12&learn=on&enablevpops=1&captions=kor)

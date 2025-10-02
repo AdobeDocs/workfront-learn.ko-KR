@@ -26,4 +26,4 @@ ht-degree: 100%
 * [!UICONTROL 업데이트] 섹션에서 교정쇄 댓글 보기
 * [!UICONTROL 업데이트] 섹션에서 교정쇄 댓글에 응답
 
->[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438660/?quality=12&learn=on&enablevpops=1&captions=kor)

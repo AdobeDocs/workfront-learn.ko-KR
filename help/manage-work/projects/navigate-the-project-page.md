@@ -33,7 +33,7 @@ ht-degree: 56%
 * **문서 섹션:** 프로젝트 관련 파일 및 증명을 업로드하고 관리할 수 있습니다. &#x200B; 작업에 첨부된 문서는 쉽게 액세스할 수 있도록 프로젝트 수준으로 롤업됩니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449733/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 핵심 사항
 

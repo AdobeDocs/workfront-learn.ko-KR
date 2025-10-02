@@ -25,7 +25,7 @@ ht-degree: 78%
 
 결과 보고서는 사용자가 지연 작업에 집중할 수 있도록 지원하고, 종속성에 대한 통찰력을 제공하고, 호스트 프로젝트에 대한 탐색을 단순화합니다. &#x200B;
 
->[!VIDEO] (https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3448349/?quality=12&learn=on&enablevpops=0&captions=kor
 
 ## 핵심 사항
 

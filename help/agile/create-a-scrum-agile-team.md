@@ -40,7 +40,7 @@ Workfront의 애자일 팀이 반복 페이지 [1]에서 작업을 완료합니�
 - 스크럼 방법론 선택
 - 스크럼 팀의 설정 결정
 
->[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412167/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 Workfront에 애자일 팀으로 전환하려는 팀이 이미 있습니까? 문제 없습니다! 팀 설정으로 이동하여 “애자일 팀입니다” 상자를 선택합니다.
 

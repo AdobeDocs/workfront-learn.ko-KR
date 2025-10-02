@@ -24,7 +24,7 @@ ht-degree: 98%
 
 * Workfront 앱의 다양하고 유용한 트리거, 작업 및 검색 모듈
 
->[!VIDEO](https://video.tv.adobe.com/v/335297/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417978/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 
 ## 자세히 알아보고 싶으신가요? 다음 자료를 참조하십시오.

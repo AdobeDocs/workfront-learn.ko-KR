@@ -24,4 +24,4 @@ ht-degree: 100%
 * [!DNL Scenario Planner]의 탐색 개요 보기
 * [!DNL Scenario Planner]로 비즈니스의 결과에 따라 결정을 조정하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414404/?quality=12&learn=on&enablevpops=1&captions=kor)

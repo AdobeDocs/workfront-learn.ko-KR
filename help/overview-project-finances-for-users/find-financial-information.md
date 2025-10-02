@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 프로젝트에 대한 재무 정보를 찾고 출처를 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415898/?quality=12&learn=on&enablevpops=1&captions=kor)

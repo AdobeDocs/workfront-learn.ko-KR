@@ -24,4 +24,4 @@ ht-degree: 100%
 * Brand Connect에서 자산 보기
 * 메타데이터 및 키워드 등의 자산에 대한 데이터 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418743/?quality=12&learn=on&enablevpops=1&captions=kor)

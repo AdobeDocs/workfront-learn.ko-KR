@@ -20,4 +20,4 @@ ht-degree: 100%
 
 핀의 정의 및 레이아웃 템플릿을 통해 사용자 세트에 중요하거나 관련된 페이지를 고정하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422810/?quality=12&learn=on&enablevpops=1&captions=kor)

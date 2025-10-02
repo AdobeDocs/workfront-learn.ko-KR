@@ -22,7 +22,7 @@ ht-degree: 100%
 * 제출된 요청 보기
 * 요청 초안 찾기
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413117/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 요청 대기열 경로에 빠르고 쉽게 액세스
 

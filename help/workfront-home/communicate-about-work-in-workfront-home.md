@@ -26,7 +26,7 @@ ht-degree: 100%
 * [!DNL Workfront] 업데이트 시 사용자 태그 지정
 * 기존 업데이트에 회신
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445284/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## [!UICONTROL 홈]에서 작업을 업데이트하기 위한 팁
 

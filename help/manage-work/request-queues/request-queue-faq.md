@@ -24,7 +24,7 @@ ht-degree: 100%
 
 다음 비디오를 통해 자세한 내용을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434163/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 **사용자에게 대기열에 대한 액세스 권한을 부여했지만 사용자가 요청 대기열 프로젝트도 볼 수 있는 상태입니다. 이유가 무엇입니까?**
 
@@ -62,7 +62,7 @@ ht-degree: 100%
 
 다음 비디오를 통해 자세한 내용을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434183/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 
 **보고서에서 요청 대기열을 필터링하는 가장 좋은 방법은 무엇입니까?**
@@ -73,7 +73,7 @@ ht-degree: 100%
 
 다음 비디오를 통해 자세한 내용을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434337/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 **요청 대기열에 사용자 정의 상태를 만드는 것이 좋은 방법입니까?**
 

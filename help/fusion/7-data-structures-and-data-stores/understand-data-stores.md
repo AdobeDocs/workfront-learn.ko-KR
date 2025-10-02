@@ -26,4 +26,4 @@ ht-degree: 100%
 * 데이터 구조에서 데이터 저장소를 지원하는 방법
 * 데이터 저장소를 사용하여 시스템을 동기화하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335295/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417966/?quality=12&learn=on&enablevpops=1&captions=kor)

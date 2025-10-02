@@ -27,7 +27,7 @@ ht-degree: 9%
 문제는 계획된 작업으로 간주되지 않으므로 이 프로세스 중에 직접 복사할 수 없습니다. &#x200B; 문제를 복사하려면 문제 탭으로 이동하여 원하는 문제를 선택한 다음 &quot;복사 위치&quot; 옵션을 사용하여 해당 문제를 새 프로젝트로 전송합니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456045/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 핵심 사항
 

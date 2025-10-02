@@ -26,7 +26,7 @@ ht-degree: 100%
 
 * 프로젝트 상태를 사용하여 실제로 프로젝트 실행
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438995/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

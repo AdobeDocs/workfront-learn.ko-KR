@@ -33,7 +33,7 @@ ht-degree: 5%
 
 이 비디오에서는 맞춤화를 강조하고 추가 학습을 위한 자습서 링크를 제공합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453073/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 핵심 사항
 

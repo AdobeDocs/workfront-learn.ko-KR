@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 최종 사용자가 플라이트 플랜, 번다운 및 전송 중인 작업을 사용하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437696/?quality=12&learn=on&enablevpops=1&captions=kor)

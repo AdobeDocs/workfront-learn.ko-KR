@@ -21,4 +21,4 @@ ht-degree: 100%
 
 보드의 정의, 귀하 및/또는 귀하의 팀이 작업을 관리하는 데 도움이 되는 방식을 파악합니다. 보드에 액세스할 수 있는 위치와 기본 보드를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422942/?quality=12&learn=on&enablevpops=1&captions=kor)

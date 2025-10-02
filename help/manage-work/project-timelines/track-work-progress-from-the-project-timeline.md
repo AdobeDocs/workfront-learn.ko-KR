@@ -29,7 +29,7 @@ ht-degree: 100%
 * 완료율
 * 진행 상태
 
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438215/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 
 ## 이 주제와 관련된 추천 튜토리얼

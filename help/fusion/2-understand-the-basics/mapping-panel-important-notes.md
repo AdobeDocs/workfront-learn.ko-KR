@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * 매핑 패널에서 제공하는 연산자 사용의 중요성
 
->[!VIDEO](https://video.tv.adobe.com/v/335263/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416006/?quality=12&learn=on&enablevpops=1&captions=kor)

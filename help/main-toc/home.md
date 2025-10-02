@@ -13,7 +13,7 @@ ht-degree: 100%
 
 Workfront 기능 및 설정을 더 잘 이해할 수 있도록 설계된 교육 비디오 및 문서 라이브러리입니다.  사용자와 사용자 조직이 Workfront를 성공적으로 사용하도록 도움이 되는 모범 사례, 선별된 연습 및 기타 리소스 컬렉션이 포함되어 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422467/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 <!-- 
 

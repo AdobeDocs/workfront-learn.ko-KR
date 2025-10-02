@@ -21,4 +21,4 @@ ht-degree: 100%
 
 보드에서 열 설정을 추가하고 편집하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/347332/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422933/?quality=12&learn=on&enablevpops=1&captions=kor)

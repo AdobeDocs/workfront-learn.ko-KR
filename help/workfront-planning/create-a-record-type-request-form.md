@@ -21,4 +21,4 @@ ht-degree: 76%
 
 작업 정리, 주요 정보 수집 및 팀 효율성 향상을 위해 사용자 정의 요청 양식을 만드는 방법에 대해 알아보고 작업을 간소화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471080/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471088/?learn=on&enablevpops=1&captions=kor)

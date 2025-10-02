@@ -29,7 +29,7 @@ ht-degree: 100%
 * 드릴다운하여 작업 세부 정보를 확인하는 방법
 * 관련자들과 소통하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445174/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

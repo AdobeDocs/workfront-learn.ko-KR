@@ -25,4 +25,4 @@ ht-degree: 100%
 * 메타데이터 템플릿 설정
 * 폴더에 템플릿 적용
 
->[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419484/?quality=12&learn=on&enablevpops=1&captions=kor)

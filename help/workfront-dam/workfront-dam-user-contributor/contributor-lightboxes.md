@@ -27,7 +27,7 @@ ht-degree: 100%
 * 라이트박스와 공동 작업
 * 라이트박스 콘텐츠 공유
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420182/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 라이트박스와 폴더 비교
 

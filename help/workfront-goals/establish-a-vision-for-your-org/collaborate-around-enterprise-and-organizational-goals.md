@@ -25,7 +25,7 @@ ht-degree: 100%
 * 귀하와 귀하의 팀이 최상위 목표를 달성하기 위해 수행해야 하는 작업 정의
 * 섹션 2: 비전 및 전략 수립에서 목표 계층 구체화
 
->[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416018/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 <!--
 Pro-tips graphic

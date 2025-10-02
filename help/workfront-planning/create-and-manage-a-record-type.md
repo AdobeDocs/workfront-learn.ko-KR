@@ -21,4 +21,4 @@ ht-degree: 76%
 
 Adobe Workfront Planning에서 사용자 정의 레코드 유형을 만들고, 가져오고, 관리하여 업무 관련 항목을 효율적으로 정리하고 추적하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448091/?learn=on&enablevpops=1&captions=kor)

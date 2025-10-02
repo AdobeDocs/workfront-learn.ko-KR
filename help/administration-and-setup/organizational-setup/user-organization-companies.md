@@ -25,4 +25,4 @@ ht-degree: 100%
 * Workfront의 회사 정의
 * 회사 및 협회를 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432855/?quality=12&learn=on&enablevpops=1&captions=kor)

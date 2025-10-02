@@ -27,7 +27,7 @@ ht-degree: 100%
 
 이 비디오에서는 프로젝트, 작업 또는 문제에 대한 글로벌 승인 프로세스와 일회용 승인 프로세스를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434694/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 >[!TIP]
 >

@@ -25,4 +25,4 @@ ht-degree: 100%
 * 알림 설정 수정
 * 주소록 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/335250/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414452/?quality=12&learn=on&enablevpops=1&captions=kor)

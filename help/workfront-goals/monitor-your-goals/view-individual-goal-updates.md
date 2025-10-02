@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * [!UICONTROL 펄스] 업데이트 스트림의 개인 목표 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415932/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 펄스 스트림의 정보 필터링
 

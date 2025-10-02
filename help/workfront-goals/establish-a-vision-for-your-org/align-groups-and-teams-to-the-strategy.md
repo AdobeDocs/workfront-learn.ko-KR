@@ -24,7 +24,7 @@ ht-degree: 100%
 * 제안된 목표 검토 및 활성화
 * 분기별 목표 겹쳐 놓기 및 조정
 
->[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416469/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 <!--
 Pro-tips graphic

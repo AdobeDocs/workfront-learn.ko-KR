@@ -24,7 +24,7 @@ ht-degree: 34%
 이 비디오에서는 프로젝트 목록을 효과적으로 구성하기 위해 Workfront에서 그룹화를 만들고 관리하는 방법을 설명합니다. &#x200B; 그룹화는 필터 및 보기와 함께 세 가지 주요 보고 요소 중 하나이며 공유된 정보를 기반으로 결과를 구성하는 데 도움이 됩니다. &#x200B;
 이 튜토리얼에서는 일상적인 작업과 공동 작업을 간소화하기 위해 프로젝트 목록을 구성하는 실용적인 단계를 제공합니다. &#x200B;
 
->[!VIDEO] (https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3449822/?quality=12&learn=on&enablevpops=0&captions=kor
 
 ## 핵심 사항
 

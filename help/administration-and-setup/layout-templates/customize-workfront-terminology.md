@@ -22,4 +22,4 @@ ht-degree: 100%
 
 이 비디오에서는 레이아웃 템플릿으로 용어를 설정하는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445481/?quality=12&learn=on&enablevpops=1&captions=kor)

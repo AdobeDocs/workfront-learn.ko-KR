@@ -38,7 +38,7 @@ ht-degree: 39%
 
 이 비디오에서는 원형 및 누적 세로 막대형 차트와 같은 차트를 통해 작업 배포 및 프로젝트 성능에 대한 통찰력을 제공하여 사용자가 프로젝트를 비교하고 작업 진행 상황을 시각적으로 이해하는 데 도움이 되는 방법을 소개합니다. &#x200B;
 
->[!VIDEO] (https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3450021/?quality=12&learn=on&enablevpops=0&captions=kor
 
 ## 핵심 사항
 

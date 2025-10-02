@@ -25,7 +25,7 @@ ht-degree: 97%
 * ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR 표현식이 계산하는 것
 * 계산된 필드에서 ADDWEEKDAYS 데이터 표현식을 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416192/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 추가 예시
 

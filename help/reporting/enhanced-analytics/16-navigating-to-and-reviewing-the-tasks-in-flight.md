@@ -26,7 +26,7 @@ ht-degree: 100%
 * 전송 중인 작업 차트에 액세스하는 방법
 * 프로젝트에서 완료되지 않은 작업을 빠르게 확인하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437007/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 작업 수준의 데이터
 

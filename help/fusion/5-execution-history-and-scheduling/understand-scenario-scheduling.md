@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * Workfront Fusion에 포함된 시나리오 일정, 주기 및 실행
 
->[!VIDEO](https://video.tv.adobe.com/v/335284/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417324/?quality=12&learn=on&enablevpops=1&captions=kor)

@@ -30,7 +30,7 @@ ht-degree: 100%
 * 요청 페이지 열기
 * [!UICONTROL 업데이트] 패널에서 요청 업데이트하기
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422300/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

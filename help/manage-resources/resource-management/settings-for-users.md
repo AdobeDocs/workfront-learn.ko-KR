@@ -28,4 +28,4 @@ ht-degree: 100%
 * 개인 휴무
 * 작업 역할
 
->[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420170/?quality=12&learn=on&enablevpops=1&captions=kor)

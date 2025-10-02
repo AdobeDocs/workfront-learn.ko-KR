@@ -26,7 +26,7 @@ ht-degree: 100%
 * 교정쇄를 생성하는 동안 워크플로 추가
 * 교정쇄가 생성된 후 워크플로 추가 또는 편집
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443474/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 
 ## 문서를 업로드할 수 있는 사람은 누구입니까?

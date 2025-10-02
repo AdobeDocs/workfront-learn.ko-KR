@@ -26,7 +26,7 @@ ht-degree: 100%
 * 시작 또는 완료 일자부터 프로젝트 일정 예약
 * 작업 제한 사항
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435842/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 >[!IMPORTANT]
 >

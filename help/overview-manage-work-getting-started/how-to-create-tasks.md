@@ -25,7 +25,7 @@ ht-degree: 100%
 * Workfront 프로젝트에서 작업을 만드는 긴 여정
 * 작업 생성을 위한 몇 가지 편리한 단축키
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423160/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

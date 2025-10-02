@@ -25,4 +25,4 @@ ht-degree: 100%
 * CONCAT 표현식이 수행하는 작업
 * 계산된 필드에서 CONCAT 텍스트 표현식을 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335178/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417112/?quality=12&learn=on&enablevpops=1&captions=kor)

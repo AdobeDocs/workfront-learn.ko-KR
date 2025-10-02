@@ -27,7 +27,7 @@ ht-degree: 100%
 * 사용자 정의 양식을 사용하여 필터를 추가하는 방법
 * 필터링 팁
 
->[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439644/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 >[!NOTE]
 >

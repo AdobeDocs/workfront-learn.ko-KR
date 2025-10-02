@@ -29,4 +29,4 @@ Workfront에서 [!UICONTROL Analytics]로 이동하려면 [!UICONTROL 메인 메
 * 작업 차트 개요
 * 사용자 차트 개요
 
->[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436395/?quality=12&learn=on&enablevpops=1&captions=kor)

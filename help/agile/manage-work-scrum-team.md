@@ -30,7 +30,7 @@ ht-degree: 100%
 
 이 비디오에서는 애자일 팀 백로그 프로젝트를 만들고 새 스토리를 만드는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412173/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 애자일 팀이 백로그를 함께 정리합니다. 기본적으로 세 가지 작업을 수행해야 한다는 것을 의미합니다.
 

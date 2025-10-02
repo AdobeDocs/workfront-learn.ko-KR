@@ -25,4 +25,4 @@ ht-degree: 100%
 * 몇 가지 일반적인 오류 유형과 시스템에서 기본적으로 오류를 처리하는 방법
 * 오류 처리 모듈을 사용하여 사용자 정의 오류 처리를 정의하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418133/?quality=12&learn=on&enablevpops=1&captions=kor)

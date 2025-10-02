@@ -28,7 +28,7 @@ ht-degree: 100%
 * 작업에 마일스톤 추가
 * 마일스톤 적용 모범 사례
 
->[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3430291/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 >[!TIP]
 >

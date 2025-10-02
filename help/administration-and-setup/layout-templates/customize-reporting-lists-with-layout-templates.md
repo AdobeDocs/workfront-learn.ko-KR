@@ -26,7 +26,7 @@ ht-degree: 100%
 * 필터, 보기 및 그룹화 제거
 * 필터, 보기 및 그룹화 추가
 
->[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432911/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 목록 기본값 설정
 

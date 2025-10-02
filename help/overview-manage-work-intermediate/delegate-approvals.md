@@ -31,7 +31,7 @@ ht-degree: 100%
 * 프로젝트, 작업, 문제에 대한 승인 위임
 * 위임된 승인 식별
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446383/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

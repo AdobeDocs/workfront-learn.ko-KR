@@ -28,7 +28,7 @@ ht-degree: 100%
 * 작업을 추가하고 삭제하는 방법
 * 작업 순서를 변경하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448563/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

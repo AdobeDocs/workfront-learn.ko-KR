@@ -24,4 +24,4 @@ ht-degree: 100%
 * 그래프 탐색
 * 목표 정렬 탐색
 
->[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3421298/?quality=12&learn=on&enablevpops=1&captions=kor)

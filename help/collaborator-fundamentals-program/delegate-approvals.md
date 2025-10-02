@@ -21,7 +21,7 @@ ht-degree: 100%
 * 위임 기간 종료
 * 위임된 승인 찾기
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446383/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 <!--
 learn more URLS

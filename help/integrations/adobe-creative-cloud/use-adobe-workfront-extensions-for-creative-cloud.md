@@ -52,4 +52,4 @@ Workfront를 Creative Cloud와 통합하여 다음 Adobe Creative Cloud 애플�
 * 로그 시간
 * 작업을 완료로 표시
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420647/?quality=12&learn=on&enablevpops=1&captions=kor)

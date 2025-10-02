@@ -25,4 +25,4 @@ ht-degree: 100%
 * 반복 및 집계가 사용되는 방식
 * 다양한 유형의 반복기
 
->[!VIDEO](https://video.tv.adobe.com/v/335277/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417282/?quality=12&learn=on&enablevpops=1&captions=kor)

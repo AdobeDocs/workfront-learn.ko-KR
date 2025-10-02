@@ -44,7 +44,7 @@ ht-degree: 100%
 
 이 비디오는 [!UICONTROL 워크플로] 영역에서 적용할 수 있는 변경 사항 중 일부를 보여 줍니다. 이 비디오 아래의 글머리 기호 목록을 참조하십시오. 이러한 설정을 검토하는 내용입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432618/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 다음은 검토 과정에서 [!UICONTROL 워크플로] 섹션에 적용할 수 있는 교정 템플릿 변경 사항입니다.
 

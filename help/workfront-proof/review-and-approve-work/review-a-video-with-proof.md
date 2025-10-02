@@ -25,7 +25,7 @@ ht-degree: 100%
 * 비디오에 타임스탬프가 지정된 댓글 추가
 * 뷰어 설정 조정
 
->[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444229/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 <!--
 ## Learn more

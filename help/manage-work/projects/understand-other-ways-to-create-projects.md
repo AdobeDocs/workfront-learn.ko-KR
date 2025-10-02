@@ -55,7 +55,7 @@ ht-degree: 7%
 
 이 비디오는 템플릿을 통해 프로젝트를 제작하고, 스크래치, 복사 또는 가져오기를 수행하며, 다양한 사용자 요구 사항을 충족할 수 있는 Workfront의 유연성에 대해 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432170/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 핵심 사항
 

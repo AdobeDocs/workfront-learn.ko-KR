@@ -25,7 +25,7 @@ ht-degree: 100%
 * 예시 목표
 * 영향력 범위
 
->[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416000/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 정기적인 점검 및 유지 관리를 위한 주기를 계획합니다.
 

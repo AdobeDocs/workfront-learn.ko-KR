@@ -27,4 +27,4 @@ ht-degree: 100%
 * [!UICONTROL 메인 메뉴]에 항목 추가
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432307/?quality=12&learn=on&enablevpops=1&captions=kor)

@@ -25,4 +25,4 @@ ht-degree: 100%
 * 차트 모드를 선택하여 사용자 할당에 대한 높은 수준의 보기를 살펴봅니다.
 * 사용자의 일일 할당 분류 표시
 
->[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413841/?quality=12&learn=on&enablevpops=1&captions=kor)

@@ -27,4 +27,4 @@ ht-degree: 100%
 * 키워드 분류의 이점
 * 메타데이터 및 키워드를 사용하여 자산 검색
 
->[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419528/?quality=12&learn=on&enablevpops=1&captions=kor)

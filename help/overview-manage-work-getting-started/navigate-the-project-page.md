@@ -30,7 +30,7 @@ ht-degree: 100%
 * 문서의 업로드 위치
 * 업데이트 기록을 보는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449733/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 프로젝트 페이지의 주요 부분
 

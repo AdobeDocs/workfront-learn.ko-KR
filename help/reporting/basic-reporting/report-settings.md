@@ -27,4 +27,4 @@ ht-degree: 61%
 * 특정 사용자의 액세스 권한으로 보고서를 실행하는 방법
 * 보고서 프롬프트 설정 및 사용 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445870/?quality=12&learn=on&enablevpops=1&captions=kor)

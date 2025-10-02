@@ -26,4 +26,4 @@ ht-degree: 100%
 * 모듈 내에서 필터를 검색 기준으로 사용
 * 실행 기록에서 필터 평가 검토
 
->[!VIDEO](https://video.tv.adobe.com/v/335265/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416475/?quality=12&learn=on&enablevpops=1&captions=kor)

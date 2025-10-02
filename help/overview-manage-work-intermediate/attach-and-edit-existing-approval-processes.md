@@ -26,7 +26,7 @@ ht-degree: 100%
 * 기존의 승인 진행 사용
 * 특정 프로젝트, 작업 또는 문제에 대한 기존 승인 프로세스 편집
 
->[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414476/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 <!--
 learn more URLS

@@ -25,4 +25,4 @@ ht-degree: 100%
 * IF 표현식이 수행하는 작업
 * 계산된 필드에서 IF 텍스트 표현식을 사용하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335180/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417106/?quality=12&learn=on&enablevpops=1&captions=kor)

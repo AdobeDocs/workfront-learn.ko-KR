@@ -30,7 +30,7 @@ ht-degree: 100%
 * 기간이 프로젝트 타임라인에 반영되는 방식
 * 작업 기간 사용에 대한 모범 사례 권장 사항
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449350/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

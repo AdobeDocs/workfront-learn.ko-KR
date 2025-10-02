@@ -31,7 +31,7 @@ ht-degree: 100%
 * 작업 할당 시 프로젝트 템플릿의 가치 이해
 * 팀에 작업을 할당하는 것의 가치 이해
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445749/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 <!--
 learn more urls:

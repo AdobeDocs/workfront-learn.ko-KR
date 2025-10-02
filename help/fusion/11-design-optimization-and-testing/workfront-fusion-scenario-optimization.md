@@ -32,7 +32,7 @@ ht-degree: 99%
 * 더 적은 API 호출 보내기
 * 더 적은 수의 모듈 사용
 
->[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418207/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 

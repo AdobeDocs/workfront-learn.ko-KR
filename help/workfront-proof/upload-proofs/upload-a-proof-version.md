@@ -25,7 +25,7 @@ ht-degree: 100%
 * 새 버전의 교정쇄 업로드
 * 버전에 교정 워크플로 적용
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441858/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 교정쇄 뷰어에서 버전 업로드
 

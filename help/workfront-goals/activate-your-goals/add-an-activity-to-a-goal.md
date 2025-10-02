@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 목표에 활동 및 프로젝트 추가
 
->[!VIDEO](https://video.tv.adobe.com/v/335193/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420194/?quality=12&learn=on&enablevpops=1&captions=kor)

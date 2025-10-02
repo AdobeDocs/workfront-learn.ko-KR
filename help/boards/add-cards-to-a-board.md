@@ -21,4 +21,4 @@ ht-degree: 100%
 
 새 항목으로 기존 작업 항목에서 보드에 카드를 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423053/?quality=12&learn=on&enablevpops=1&captions=kor)

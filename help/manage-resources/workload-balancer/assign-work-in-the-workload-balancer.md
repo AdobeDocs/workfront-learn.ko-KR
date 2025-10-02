@@ -26,4 +26,4 @@ ht-degree: 100%
 * 할당되지 않은 작업 할당
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335166/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413808/?quality=12&learn=on&enablevpops=1&captions=kor)

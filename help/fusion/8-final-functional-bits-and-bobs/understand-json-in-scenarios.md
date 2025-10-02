@@ -28,4 +28,4 @@ JSON(JavaScript Object Notation)은 데이터 저장 및 교환에 널리 사용
 * JSON을 읽는 방법 및 시나리오 내에서 사용할 데이터로 변환하는 방법
 * JSON을 생성, 변경 및 작업할 때 JSON 모듈을 사용하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418109/?quality=12&learn=on&enablevpops=1&captions=kor)

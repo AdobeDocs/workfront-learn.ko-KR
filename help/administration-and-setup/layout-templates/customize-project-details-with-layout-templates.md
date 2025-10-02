@@ -25,4 +25,4 @@ ht-degree: 100%
 * 프로젝트 세부 정보 영역으로 이동
 * 레이아웃 템플릿을 사용하여 프로젝트 세부 정보 필드 사용자 정의
 
->[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432907/?quality=12&learn=on&enablevpops=1&captions=kor)

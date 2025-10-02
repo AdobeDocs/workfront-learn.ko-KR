@@ -26,7 +26,7 @@ ht-degree: 100%
 * 기존 워크플로에 사용자 추가
 * 기존 워크플로를 자동화된 워크플로로 전환
 
->[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445459/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 사용자 차례
 

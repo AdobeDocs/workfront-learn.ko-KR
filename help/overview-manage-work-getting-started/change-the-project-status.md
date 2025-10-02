@@ -28,7 +28,7 @@ ht-degree: 100%
 * 프로젝트 상태를 [!UICONTROL 완료]로 변경하는 이유
 * 프로젝트 상태를 [!UICONTROL 완료]로 변경할 수 없는 경우 수행할 작업
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439365/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

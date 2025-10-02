@@ -26,7 +26,7 @@ ht-degree: 100%
 * 리소스 정보가 이 보기에 표시되는 방법 알아보기
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416532/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 작업 역할별 보기 옵션의 경우, 기본값은 비즈니스 사례에서 프로젝트에 필요한 예상 리소스 수를 가져오는 예산 열을 표시하는 것입니다(채워진 경우). 또한 기본적으로 Net 열이 예산 열의 숫자를 사용하여 남은 리소스 수를 알려 준다는 것을 의미합니다.
 

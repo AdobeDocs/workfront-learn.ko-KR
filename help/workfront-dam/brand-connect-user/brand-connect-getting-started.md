@@ -25,7 +25,7 @@ ht-degree: 100%
 * Brand Connect 탐색 방법
 * 자산 검색 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418750/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 ## 기본 검색 기준
 

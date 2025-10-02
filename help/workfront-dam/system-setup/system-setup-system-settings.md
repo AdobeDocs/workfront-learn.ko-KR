@@ -27,4 +27,4 @@ ht-degree: 100%
 * 다운로드에 관한 규칙 만들기
 * 보고서 및 감사 로그 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414464/?quality=12&learn=on&enablevpops=1&captions=kor)

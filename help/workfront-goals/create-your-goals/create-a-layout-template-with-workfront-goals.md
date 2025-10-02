@@ -29,7 +29,7 @@ ht-degree: 100%
 * 조직에 맞게 [!DNL Goals] 용어 변경
 * [!DNL Workfront] [!UICONTROL 메인 메뉴]에 [!DNL Goals] 추가
 
->[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416493/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 <!--
 Learn more graphic

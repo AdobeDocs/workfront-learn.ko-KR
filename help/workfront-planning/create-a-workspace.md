@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Workfront Planning에서 작업 영역을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447966/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448268/?learn=on&enablevpops=1&captions=kor)

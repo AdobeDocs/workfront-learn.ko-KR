@@ -32,7 +32,7 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 * 디자인 요구 사항을 지원하도록 시나리오 내에서 JSON을 만들고 구문 분석
 
->[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418115/?quality=12&learn=on&enablevpops=1&captions=kor)
 
 
 

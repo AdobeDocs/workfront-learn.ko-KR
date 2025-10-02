@@ -26,4 +26,4 @@ ht-degree: 100%
 * 애그리게이터를 사용하는 방법
 * 다양한 유형의 애그리게이터
 
->[!VIDEO](https://video.tv.adobe.com/v/335279/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417288/?quality=12&learn=on&enablevpops=1&captions=kor)
