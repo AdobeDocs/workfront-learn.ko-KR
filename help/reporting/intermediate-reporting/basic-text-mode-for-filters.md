@@ -12,10 +12,10 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 89%
+source-wordcount: '423'
+ht-degree: 90%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 89%
 * 카멜 대/소문자
 * 보고서 필터에서 사용할 수 있는 일부 _텍스트 모드 코드 블록_
 
->[!VIDEO] (https://video.tv.adobe.com/v/3412687/?quality=12&learn=on&enablevpops=0&captions=kor
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## “필터의 기본 텍스트 모드 이해하기” 활동
 

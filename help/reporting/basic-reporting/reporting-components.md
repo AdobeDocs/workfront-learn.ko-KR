@@ -12,9 +12,9 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '533'
 ht-degree: 45%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 45%
 * **필터 한정자:** 우선 순위가 &quot;높음&quot;인 작업을 표시하는 것과 같이 보고서에 포함하거나 제외할 값을 정의합니다&#x200B;.
 
 
->[!VIDEO] (https://video.tv.adobe.com/v/3447028/?quality=12&learn=on&enablevpops=0&captions=kor
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
 ## 핵심 사항
 

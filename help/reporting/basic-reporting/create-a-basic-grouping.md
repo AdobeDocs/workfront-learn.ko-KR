@@ -12,9 +12,9 @@ jira: KT-8853
 last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '419'
 ht-degree: 34%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 34%
 이 비디오에서는 프로젝트 목록을 효과적으로 구성하기 위해 Workfront에서 그룹화를 만들고 관리하는 방법을 설명합니다. &#x200B; 그룹화는 필터 및 보기와 함께 세 가지 주요 보고 요소 중 하나이며 공유된 정보를 기반으로 결과를 구성하는 데 도움이 됩니다. &#x200B;
 이 튜토리얼에서는 일상적인 작업과 공동 작업을 간소화하기 위해 프로젝트 목록을 구성하는 실용적인 단계를 제공합니다. &#x200B;
 
->[!VIDEO] (https://video.tv.adobe.com/v/3449822/?quality=12&learn=on&enablevpops=0&captions=kor
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
 ## 핵심 사항
 

@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '465'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 99%
 * 보기에 포함된 조건부 서식
 * 조건부 서식을 만들고 수정하는 방법
 
->[!VIDEO] (https://video.tv.adobe.com/v/3445448/?quality=12&learn=on&enablevpops=0&captions=kor
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
 
 ## 조건부 서식 요약

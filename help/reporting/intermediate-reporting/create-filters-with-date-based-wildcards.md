@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 99%
 * 와일드카드, 속성, 연산자 및 수정자를 사용하여 사용자 정의 일자 만들기
 * 와일드카드를 사용하여 사용자 정의 날짜 범위 만들기
 
->[!VIDEO] (https://video.tv.adobe.com/v/3412663/?quality=12&learn=on&enablevpops=0&captions=kor
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
 
 ## “일자 기반의 와일드카드로 필터 만들기” 활동

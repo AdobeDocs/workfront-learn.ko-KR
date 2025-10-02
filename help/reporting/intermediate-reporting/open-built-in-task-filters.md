@@ -12,9 +12,9 @@ team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '199'
 ht-degree: 95%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 95%
 * 몇 가지 유용한 작업 보고 요소에 대해 알아보기
 * 고유한 작업 필터를 만드는 방법 알아보기
 
->[!VIDEO] (https://video.tv.adobe.com/v/3412675/?quality=12&learn=on&enablevpops=0&captions=kor
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
 ## “기본 제공 작업 필터 이해하기” 활동
 

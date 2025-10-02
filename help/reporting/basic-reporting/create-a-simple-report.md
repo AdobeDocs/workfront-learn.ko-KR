@@ -12,9 +12,9 @@ last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '467'
 ht-degree: 49%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 49%
 
 이 비디오에서는 사용자 지정 보고서는 기본 설정을 유지하지만 볼 때 일시적으로 변경할 수 있음을 강조합니다. &#x200B; 보고서는 &quot;내 보고서&quot; 섹션에 저장되고 공유 보고서는 &quot;나와 공유&quot;에 표시됩니다&#x200B;. 자주 사용하는 보고서는 쉽게 액세스할 수 있도록 즐겨찾기로 고정하거나 표시할 수 있습니다. &#x200B;
 
->[!VIDEO] (https://video.tv.adobe.com/v/3413123/?quality=12&learn=on&enablevpops=0&captions=kor
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
 ## 핵심 사항
 

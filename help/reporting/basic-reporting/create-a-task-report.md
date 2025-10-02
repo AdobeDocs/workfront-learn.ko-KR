@@ -12,9 +12,9 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '1116'
+source-wordcount: '1115'
 ht-degree: 78%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 78%
 
 결과 보고서는 사용자가 지연 작업에 집중할 수 있도록 지원하고, 종속성에 대한 통찰력을 제공하고, 호스트 프로젝트에 대한 탐색을 단순화합니다. &#x200B;
 
->[!VIDEO] (https://video.tv.adobe.com/v/3448349/?quality=12&learn=on&enablevpops=0&captions=kor
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
 ## 핵심 사항
 
@@ -41,8 +41,8 @@ ht-degree: 78%
 >[!TIP]
 >
 >주걱과 믹싱 볼을 꺼내서 [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf)의 “레시피”를 만들 준비를 합니다. 이 안에는 내 환경을 바로 적용할 수 있는 10개의 보고서에 대한 단계별 지침이 있습니다.
->&#x200B;>고객이 좋아하는 요리 목록을 쉽고 빠르게 사용할 수 있는 Cookbook에 담아 Workfront 주방에서 다시 꺼내 테스트할 수 있습니다.
->&#x200B;>이 10개의 보고서는 고객 여러분이 직접 작성한 것입니다. 여러 업체, 부서, 팀, 업종과 다양한 기업에서 고객이 좋아하는 보고서를 공유해 주셔서 감사드립니다. 일부 보고서는 간단하지만(매우 유용함), 일부 보고서는 매우 복잡하여 보고 수준을 새로운 차원으로 끌어올릴 수 있습니다.
+>>고객이 좋아하는 요리 목록을 쉽고 빠르게 사용할 수 있는 Cookbook에 담아 Workfront 주방에서 다시 꺼내 테스트할 수 있습니다.
+>>이 10개의 보고서는 고객 여러분이 직접 작성한 것입니다. 여러 업체, 부서, 팀, 업종과 다양한 기업에서 고객이 좋아하는 보고서를 공유해 주셔서 감사드립니다. 일부 보고서는 간단하지만(매우 유용함), 일부 보고서는 매우 복잡하여 보고 수준을 새로운 차원으로 끌어올릴 수 있습니다.
 
 
 ### 활동 1: 프롬프트가 있는 메모 보고서 만들기
@@ -119,9 +119,9 @@ ht-degree: 78%
 
 ### 활동 2: 관리팀 피드백 보고서 만들기
 
-이 문제 보고서에는 시스템 관리자를 위해 만든 피드백 요청 대기열의 모든 문제가 표시됩니다. [시스템 관리자 피드백 요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=ko) 튜토리얼에서 이 요청 대기열을 만드는 방법을 확인할 수 있습니다.
+이 문제 보고서에는 시스템 관리자를 위해 만든 피드백 요청 대기열의 모든 문제가 표시됩니다. [시스템 관리자 피드백 요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) 튜토리얼에서 이 요청 대기열을 만드는 방법을 확인할 수 있습니다.
 
-이 보고서는 사용자 정의 양식을 사용하기도 합니다. 사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=ko) 튜토리얼을 참조하십시오.
+이 보고서는 사용자 정의 양식을 사용하기도 합니다. 사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 튜토리얼을 참조하십시오.
 
 이 사용자 정의 양식은 오브젝트 유형 Project 및 Issue를 사용해야 하며 다음과 같이 만들어야 합니다.
 

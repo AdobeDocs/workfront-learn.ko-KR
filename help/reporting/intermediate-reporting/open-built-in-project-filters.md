@@ -12,10 +12,10 @@ last-substantial-update: 2025-07-24T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 99%
 * 기본 제공 프로젝트 필터를 검토하여 빌드 방법 확인
 * 학습한 내용을 사용하여 나만의 프로젝트 필터 만들기
 
->[!VIDEO] (https://video.tv.adobe.com/v/3412669/?quality=12&learn=on&enablevpops=0&captions=kor
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
 
 ## “기본 제공 프로젝트 필터 이해하기” 활동
 
