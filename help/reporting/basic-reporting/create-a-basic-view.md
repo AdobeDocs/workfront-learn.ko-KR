@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '976'
 ht-degree: 75%
@@ -25,7 +25,7 @@ ht-degree: 75%
 
 이 비디오는 Workfront 보기의 유연성을 강조하며 작성, 사용자 지정 및 관리에 대한 단계별 지침을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450245/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0)
 
 ## 핵심 사항
 
