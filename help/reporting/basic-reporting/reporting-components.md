@@ -29,7 +29,7 @@ ht-degree: 45%
 * **필터 한정자:** 우선 순위가 &quot;높음&quot;인 작업을 표시하는 것과 같이 보고서에 포함하거나 제외할 값을 정의합니다&#x200B;.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3447028/?captions=kor&quality=12&learn=on&enablevpops=0)
 
 ## 핵심 사항
 

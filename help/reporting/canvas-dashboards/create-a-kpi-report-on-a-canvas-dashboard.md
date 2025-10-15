@@ -32,7 +32,7 @@ ht-degree: 14%
 
 [캔버스 대시보드 소개](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)에서는 두 가지 작업을 모두 수행하는 방법을 단계별로 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474849/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 **자세한 내용은 다음 도움말 문서를 참조하십시오.**
 [캔버스 대시보드 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)

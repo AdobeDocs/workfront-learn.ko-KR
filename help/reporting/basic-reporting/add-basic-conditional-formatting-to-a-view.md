@@ -27,7 +27,7 @@ ht-degree: 100%
 * 보기에 포함된 조건부 서식
 * 조건부 서식을 만들고 수정하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3445448/?captions=kor&quality=12&learn=on&enablevpops=0)
 
 
 ## 조건부 서식 요약
