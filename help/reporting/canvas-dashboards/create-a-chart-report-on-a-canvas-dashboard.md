@@ -34,8 +34,8 @@ ht-degree: 9%
 >[!VIDEO](https://video.tv.adobe.com/v/3475814/?quality=12&learn=on&enablevpops=1)
 
 **자세한 내용은 다음 도움말 문서를 참조하십시오.**
-[캔버스 대시보드 개요](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[캔버스 대시보드에 차트 보고서 작성](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-chart-report)
+[캔버스 대시보드 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[캔버스 대시보드에 차트 보고서 작성](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-chart-report)
 
 ## 이 주제와 관련된 추천 튜토리얼
 
