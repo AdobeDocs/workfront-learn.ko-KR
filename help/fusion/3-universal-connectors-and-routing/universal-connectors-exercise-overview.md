@@ -27,4 +27,4 @@ ht-degree: 100%
 * 외부 API에 연결
 * 수식 편집기를 사용하여 배열에서 정보 추출
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416544/?captions=kor&quality=12&learn=on&enablevpops=1)
