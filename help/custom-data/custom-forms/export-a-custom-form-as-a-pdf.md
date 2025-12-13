@@ -18,5 +18,5 @@ ht-degree: 100%
 
 # 사용자 정의 양식을 PDF로 내보내기
 
->[!VIDEO](https://video.tv.adobe.com/v/3477594/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3477601/?captions=kor&quality=12&learn=on&enablevpops=1)
 
