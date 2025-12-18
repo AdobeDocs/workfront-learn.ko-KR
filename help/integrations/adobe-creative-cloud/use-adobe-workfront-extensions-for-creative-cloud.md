@@ -33,8 +33,8 @@ Workfront를 Creative Cloud와 통합하여 다음 Adobe Creative Cloud 애플�
 
 사용 중인 Adobe Creative Cloud 애플리케이션에 맞는 플러그인을 설치해야 합니다.
 
-* Photoshop의 경우, [Photoshop용 Adobe Workfront 설치 및 열기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?) 참조
-* InDesign, Illustrator, Premiere Pro, and After Effects의 경우, [디자인 및 비디오용 Adobe Workfront 설치 및 열기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?) 참조
+* Photoshop의 경우, [Photoshop용 Adobe Workfront 설치 및 열기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=ko&) 참조
+* InDesign, Illustrator, Premiere Pro, and After Effects의 경우, [디자인 및 비디오용 Adobe Workfront 설치 및 열기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=ko&) 참조
 
 
 이 비디오에서는 Creative Cloud 앱 내에서 다음을 수행하는 방법을 배웁니다.
