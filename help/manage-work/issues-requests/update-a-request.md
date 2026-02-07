@@ -24,7 +24,7 @@ ht-degree: 5%
 
 이 비디오에서는 Adobe Workfront에서 요청을 찾고 업데이트하는 방법을 설명합니다. &#x200B; 요청을 제출한 후 정보를 추가하거나 질문을 하여 작업 중인 사람이 최신 세부 정보를 사용할 수 있도록 할 수 있습니다. &#x200B; &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422300/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

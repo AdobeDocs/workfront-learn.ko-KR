@@ -25,7 +25,7 @@ ht-degree: 84%
 * 마일스톤 경로를 만드는 방법
 * 마일스톤 경로에 마일스톤 단계를 추가하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415916/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

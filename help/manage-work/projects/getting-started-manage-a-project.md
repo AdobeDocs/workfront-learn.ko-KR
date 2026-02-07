@@ -24,7 +24,7 @@ ht-degree: 12%
 
 이 비디오에서는 상태가 &quot;현재&quot;로 변경된 후의 프로젝트 관리에 대한 개요를 제공합니다&#x200B;.
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445174/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

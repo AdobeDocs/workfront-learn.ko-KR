@@ -33,7 +33,7 @@ ht-degree: 14%
 
 이 비디오에서는 Workfront이 커뮤니케이션, 작업 관리 및 보고를 간소화하여 모든 프로젝트 관련 정보를 액세스 및 구성하는 방법을 소개합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436151/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

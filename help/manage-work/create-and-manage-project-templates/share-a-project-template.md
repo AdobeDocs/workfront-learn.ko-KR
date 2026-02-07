@@ -26,7 +26,7 @@ ht-degree: 87%
 * 다른 사용자와 템플릿 공유
 * 템플릿을 사용하여 만든 프로젝트 공유
 
->[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415441/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

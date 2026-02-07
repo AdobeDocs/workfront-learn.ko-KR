@@ -25,7 +25,7 @@ ht-degree: 11%
 
 이 비디오에서는 프로젝트 성공을 위한 강력한 토대를 만들기 위한 현실적인 타임라인, 팀 가용성 및 정확한 계획의 중요성을 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448574/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

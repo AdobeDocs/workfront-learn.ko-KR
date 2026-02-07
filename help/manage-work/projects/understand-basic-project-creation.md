@@ -25,7 +25,7 @@ ht-degree: 18%
 이 비디오에서는 처음부터 프로젝트를 만들고 관리하는 방법을 설명합니다. &#x200B; 이 작업은 새 프로젝트를 만들고, 이름을 바꾸고, 설명, 시작 날짜 및 목표 완료 날짜로 목표를 설정하는 것으로 시작됩니다. 프로젝트는 예상 기간 및 할당이 있는 계획된 작업인 작업으로 나눌 수 있습니다. &#x200B; 전임 작업을 사용하여 작업의 순서를 지정할 수 있으며 프로젝트 상태를 &quot;현재&quot;로 설정하여 팀에 알리고 보고서에 포함할 수 있습니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435901/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

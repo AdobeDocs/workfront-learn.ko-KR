@@ -23,7 +23,7 @@ ht-degree: 7%
 
 이 비디오에서는 프로젝트 관리에서 비즈니스 사례의 중요성을 설명합니다. 비즈니스 사례를 철저히 작성하면 관리자가 동일한 자원을 두고 경쟁하는 프로젝트를 분석하고 우선 순위를 정할 수 있도록 돕는다는 점을 강조한다. &#x200B; 비즈니스 사례를 제출하면 프로젝트 상태가 &quot;요청됨&quot;으로 변경되고 Portfolio 최적화 도구에서 비교할 전체 점수가 계산됩니다. &#x200B; 필수 필드는 없지만 보다 자세한 정보를 통해 의사 결정을 향상시킬 수 있습니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442851/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

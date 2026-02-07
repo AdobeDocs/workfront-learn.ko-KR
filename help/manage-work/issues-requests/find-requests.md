@@ -30,7 +30,7 @@ ht-degree: 80%
 * 사용자 정의 보고서 및 대시보드
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441661/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 
