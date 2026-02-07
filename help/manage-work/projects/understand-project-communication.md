@@ -37,9 +37,9 @@ ht-degree: 14%
 
 >[!TIP]
 >
->비디오에 나와 있는 메모 검색 보고서를 만들려면 [작업 보고서 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) 튜토리얼의 활동을 참조하십시오.
+>비디오에 나와 있는 메모 검색 보고서를 만들려면 [작업 보고서 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) 튜토리얼의 활동을 참조하십시오.
 >
->프로젝트 패널에 메모 검색 보고서를 추가하려면 [대시보드 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard) 튜토리얼의 활동을 참조하십시오.
+>프로젝트 패널에 메모 검색 보고서를 추가하려면 [대시보드 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=ko#activity-1-create-a-dashboard) 튜토리얼의 활동을 참조하십시오.
 
 ## 핵심 사항
 
