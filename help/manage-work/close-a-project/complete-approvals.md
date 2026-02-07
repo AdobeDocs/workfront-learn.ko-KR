@@ -1,5 +1,5 @@
 ---
-title: 승인 완료
+title: 작업 및 문제 승인 해결
 description: 완료되지 않은 승인을 확인하고 해결하여 프로젝트를 종료하는 방법에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 100%
+source-wordcount: '71'
+ht-degree: 85%
 
 ---
 
-# 승인 완료
+# 작업 및 문제 승인 해결
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
 * 해결되지 않은 작업 승인을 찾고 처리하는 방법
 * 해결되지 않은 문제 승인을 찾고 처리하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3439431/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

@@ -1,5 +1,5 @@
 ---
-title: 프로젝트 정보 보기
+title: 프로젝트 관리를 위한 필터, 보기 및 그룹화 탐색
 description: 사용자 정의 가능한 필터, 세부 보기, 효율적인 그룹화, 작업 관리 도구 및 문제 추적 기능을 사용하여 프로젝트 워크플로를 간소화하여 조직과 명확성을 개선합니다.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 5%
+source-wordcount: '427'
+ht-degree: 4%
 
 ---
 
-# 프로젝트 정보 보기
+# 프로젝트 관리를 위한 필터, 보기 및 그룹화 탐색
 
 이 비디오는 사용자가 프로젝트, 작업 및 문제를 효율적으로 관리하고 분석하는 데 도움이 되는 Workfront의 필터, 보기 및 그룹화에 대한 개요를 제공합니다. &#x200B; 주요 내용은 다음과 같습니다.
 
@@ -33,7 +33,7 @@ ht-degree: 5%
 
 이 비디오에서는 맞춤화를 강조하고 추가 학습을 위한 자습서 링크를 제공합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3453073/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

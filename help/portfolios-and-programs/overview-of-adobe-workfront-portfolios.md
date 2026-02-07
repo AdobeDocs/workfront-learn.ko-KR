@@ -1,5 +1,5 @@
 ---
-title: 포트폴리오 이해
+title: 포트폴리오 관리 및 최적화 살펴보기
 description: Portfolio Optimizer를 사용하고, 관리 액세스로 포트폴리오를 만들고, 프로젝트 및 프로그램을 구성하고, 정보에 입각한 의사 결정을 위한 비즈니스 사례를 준비하여 Workfront에서 프로젝트 선택을 최적화합니다.
 activity: use
 team: Technical Marketing
@@ -12,19 +12,19 @@ recommendations: noDisplay,catalog
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 8%
+source-wordcount: '285'
+ht-degree: 7%
 
 ---
 
-# 포트폴리오 이해
+# 포트폴리오 관리 및 최적화 살펴보기
 
 이 비디오에서는 관리자가 회사 목표에 맞게 프로젝트 선택을 최적화하는 방법에 중점을 두고 포트폴리오 관리에 대해 설명합니다. &#x200B; 공유 자원, 예산, 일정 등을 놓고 경쟁하는 프로젝트의 집합체로 포트폴리오의 개념을 소개한다. &#x200B; 관리자는 Portfolio Optimizer와 같은 도구를 사용하여 노동, 경비, 위험, ROI 및 포트폴리오 목표와의 일치와 같은 기준을 기반으로 프로젝트를 비교할 수 있습니다. &#x200B; 비교를 위한 프로젝트 준비에는 각각에 대한 비즈니스 사례 만들기가 포함됩니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442835/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

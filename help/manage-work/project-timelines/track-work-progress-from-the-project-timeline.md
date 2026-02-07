@@ -1,5 +1,5 @@
 ---
-title: 프로젝트 타임라인에서 진행 상황 추적
+title: 완료율 및 진행 상태를 사용하여 진행 추적
 description: 완료율 및 진행 상태를 사용하여 프로젝트 타임라인에서 작업의 진행 상황을 추적하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ level: Beginner
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '73'
+ht-degree: 78%
 
 ---
 
-# 프로젝트 타임라인에서 진행 상황 추적
+# 완료율 및 진행 상태를 사용하여 진행 추적
 
 작업이 프로젝트 기한을 지켜야 하는 방식으로 진행되고 있는지 확인합니다.
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 완료율
 * 진행 상태
 
->[!VIDEO](https://video.tv.adobe.com/v/3438215/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
 
 
 ## 이 주제와 관련된 추천 튜토리얼

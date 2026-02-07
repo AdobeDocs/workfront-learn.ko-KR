@@ -1,5 +1,5 @@
 ---
-title: 작업
+title: Workfront에서 효율적으로 작업 관리
 description: 인라인 편집, 삭제된 작업에 대한 휴지통 백업, 상위-하위 구조 추가, 작업 복제 및 Workfront의 드래그 앤 드롭과 같은 직관적인 재구성 도구를 통해 작업 관리를 향상시킵니다.
 activity: use
 feature: Work Management
@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 12%
+source-wordcount: '211'
+ht-degree: 9%
 
 ---
 
-# 작업
+# Workfront에서 효율적으로 작업 관리
 
 이 비디오에서는 Workfront의 작업 관리에 대한 자세한 안내서를 제공합니다. 프로젝트 계획 내에서 작업을 편집, 삭제, 추가, 복제 및 재구성하는 등 효율적인 작업 관리를 강조한다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448563/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

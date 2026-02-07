@@ -1,5 +1,5 @@
 ---
-title: 기존 프로젝트 복사
+title: 기존 프로젝트를 효율적으로 복사
 description: 점 3개 메뉴의 "복사" 옵션을 사용하여 이름을 바꾸고 상태를 "계획"으로 설정하고, 사용자 지정 데이터 및 양식을 복사하고, 맞춤형 프로젝트 설정을 위해 문제 탭을 통해 문제를 별도로 전송하여 프로젝트를 쉽게 복제할 수 있습니다.
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 9%
+source-wordcount: '320'
+ht-degree: 7%
 
 ---
 
-# 기존 프로젝트 복사
+# 기존 프로젝트를 효율적으로 복사
 
 이 비디오에서는 템플릿을 사용하는 대신 프로젝트를 복사하는 방법을 설명합니다. &#x200B; 프로젝트를 복사하려면 원하는 프로젝트를 열고 프로젝트 이름 옆에 있는 점 3개를 클릭한 다음 &quot;복사&quot;를 선택합니다&#x200B;. 프로젝트 복사 창에서 프로젝트 이름을 바꾸고 상태를 변경할 수 있습니다. 일반적으로 지정된 사용자에게 통지를 발송하지 않도록 &quot;계획&quot;으로 변경합니다. &#x200B; 할당, 진행 상황, 사용자 지정 데이터 등을 복사할지 여부를 선택할 수 있습니다&#x200B;.
 완료하려면 &quot;프로젝트 복사&quot;를 클릭합니다&#x200B;.
 문제는 계획된 작업으로 간주되지 않으므로 이 프로세스 중에 직접 복사할 수 없습니다. &#x200B; 문제를 복사하려면 문제 탭으로 이동하여 원하는 문제를 선택한 다음 &quot;복사 위치&quot; 옵션을 사용하여 해당 문제를 새 프로젝트로 전송합니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456045/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

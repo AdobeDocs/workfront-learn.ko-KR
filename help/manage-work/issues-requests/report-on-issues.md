@@ -1,5 +1,5 @@
 ---
-title: 문제 보고서
+title: 문제 관리를 위한 사용자 지정 보고서 만들기
 description: 문제 및 프로젝트 관리를 위한 사용자 정의 보고서를 생성하는 방법과, 이를 통해 진행 중인 문제를 중앙에서 추적하고, 열과 필터를 사용자화하며, 문제 및 프로젝트 관리를 최적화하는 방법에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-07-24T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 100%
+source-wordcount: '382'
+ht-degree: 96%
 
 ---
 
-# 문제 보고서
+# 문제 관리를 위한 사용자 지정 보고서 만들기
 
 이 비디오는 문제 및 프로젝트를 관리하고 추적하는 두 가지 유형의 보고서를 생성하는 방법에 대한 단계별 안내서를 제공합니다. &#x200B;
 

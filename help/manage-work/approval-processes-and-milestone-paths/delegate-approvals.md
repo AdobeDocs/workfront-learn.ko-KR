@@ -1,5 +1,5 @@
 ---
-title: 작업, 문제 및 승인 위임
+title: 효과적으로 작업, 문제 및 승인 위임
 description: 설정에서 작업 및 승인 위임을 활성화하고, "위임" 및 "승인 위임" 버튼을 활용하고, 할당에 대한 이메일 알림을 설정하고, 명확한 감독을 위해 업데이트 및 시스템 활동을 추적하여 위임 워크플로를 간소화합니다.
 activity: use
 feature: Approvals
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 7%
+source-wordcount: '432'
+ht-degree: 5%
 
 ---
 
-# 작업, 문제 및 승인 위임
+# 효과적으로 작업, 문제 및 승인 위임
 
 이 비디오에서는 작업, 문제 및 승인을 위임하는 방법을 설명합니다. &#x200B; 위임을 활성화하려면 시스템 또는 그룹 관리자가 프로젝트 환경 설정 아래의 설정에서 기능을 활성화해야 합니다. &#x200B; 활성화되면 사용자는 내 작업 위젯의 &quot;위임&quot; 버튼을 사용하여 지정된 기간 동안 모든 작업 및 문제를 다른 사람에게 위임할 수 있습니다. &#x200B; 위임은 작업과 문제에 함께 적용되며 동일한 사람에게 할당되어야 합니다. &#x200B; 위임은 종료 날짜를 사용하거나 사용하지 않고 설정할 수 있으며 사용자는 언제든지 위임을 수동으로 중지할 수 있습니다. &#x200B;
 승인을 위해 사용자는 &quot;내 승인 대기 중&quot; 위젯을 통해 이러한 권한을 위임할 수 있습니다. &#x200B; 위임은 지정된 기간 동안 기존 승인 및 새 승인에 적용되지만, 문서, 증명 또는 타임시트가 아닌 프로젝트, 작업 및 문제에만 적용됩니다. &#x200B; 위임된 작업, 문제 및 승인에 대한 알림은 관리자가 위임자와 피위임자 모두에게 알리도록 활성화할 수 있습니다. &#x200B;
 위임된 승인은 시스템에 표시되며 누가 누구에게 이를 위임했는지 보여 줍니다. &#x200B; 승인과 관련된 업데이트는 업데이트 탭에 나타나며 시스템 활동은 시스템 활동 탭에서 볼 수 있습니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446383/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

@@ -1,5 +1,5 @@
 ---
-title: 문제 할당 관리
+title: 효과적으로 문제 할당 관리
 description: 할당에 대한 인라인 편집 및 업무 균형자 를 사용하고, 진행 상황을 추적 및 업데이트하고, 문제 상태를 변경하고, 팀별 워크플로우를 준수하여 원활한 프로젝트 실행을 통해 Workfront의 문제를 효과적으로 관리합니다.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 25%
+source-wordcount: '291'
+ht-degree: 23%
 
 ---
 
-# 문제 할당 관리
+# 효과적으로 문제 할당 관리
 
 문제 관리는 프로젝트 관리자와 해당 문제에 대해 작업하도록 할당된 사람들의 중요한 책임입니다.
 
@@ -30,7 +30,7 @@ ht-degree: 25%
 * 문제에 대한 진행 상황 업데이트
 * 문제 상태 업데이트
 
->[!VIDEO](https://video.tv.adobe.com/v/3446962/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

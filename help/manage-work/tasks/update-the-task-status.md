@@ -1,5 +1,5 @@
 ---
-title: 작업 상태 업데이트
+title: 정확한 보고를 위해 작업 상태 업데이트
 description: 작업 상태를 업데이트하는 방법, 이유 및 빈도에 대해 알아봅니다.
 feature: Work Management
 type: Tutorial
@@ -9,18 +9,18 @@ last-substantial-update: 2025-08-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18799
 exl-id: 2b485695-578c-4c1d-b7c5-52af326487b2
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 17%
+source-wordcount: '159'
+ht-degree: 16%
 
 ---
 
-# 작업 상태 업데이트
+# 정확한 보고를 위해 작업 상태 업데이트
 
 이 비디오에서는 작업 상태를 업데이트하는 방법, 이유 및 빈도에 대한 튜토리얼을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471174/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

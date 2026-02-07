@@ -1,5 +1,5 @@
 ---
-title: 프로젝트 템플릿 만들기 및 [!UICONTROL 블루프린트]에 대해 알아보기
+title: 프로젝트 템플릿 만들기 및 블루프린트 살펴보기
 description: 처음부터 기존 프로젝트에서 프로젝트 템플릿을 만드는 방법을 알아보고 [!UICONTROL 블루프린트]를 통해 Workfront 전문가가 만든 유용한 프로젝트 템플릿의 세계에 액세스하는 방법을 이해합니다.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 86%
+source-wordcount: '633'
+ht-degree: 84%
 
 ---
 
-# 프로젝트 템플릿 만들기 및 [!UICONTROL 블루프린트]에 대해 알아보기
+# 프로젝트 템플릿 만들기 및 블루프린트 살펴보기
 
 
 처음부터 기존 프로젝트에서 프로젝트 템플릿을 만드는 방법을 알아보고 [!UICONTROL 블루프린트]를 통해 Workfront 전문가가 만든 유용한 프로젝트 템플릿의 세계에 액세스하는 방법을 이해합니다.
@@ -31,7 +31,7 @@ ht-degree: 86%
 * 템플릿이 생성되면 이를 활용하여 새로운 프로젝트를 제작할 수 있습니다. 이 비디오에서는 템플릿을 사용하여 새 프로젝트를 생성하고, 필요한 조정을 하며, 작업을 추가하거나 기간을 수정하는 방법을 보여 줍니다. 또한 리소스 예약 및 계획 기능을 활용하여 작업 역할을 작업에 할당하는 방법을 설명합니다. &#x200B;
 * 기존 프로젝트를 새로운 템플릿으로 저장하여 워크플로를 업데이트하고 개선하는 방법에 대해서도 다룹니다.&#x200B; 템플릿을 효과적으로 관리하여 혼선을 방지하고 원활한 프로젝트 실행을 보장하는 것이 중요함을 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3415447/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
 ## 핵심 사항
 

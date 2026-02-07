@@ -1,5 +1,5 @@
 ---
-title: 요청 업데이트
+title: Workfront에서 요청 업데이트
 description: 필터를 사용하여 요청을 찾고, 상태와 세부 정보를 효율적으로 업데이트하고, 전체 정보에 액세스하고, 간소화된 워크플로우를 위해 중앙 집중식 공동 작업을 촉진하여 Workfront에서 요청 관리를 간소화합니다.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 8%
+source-wordcount: '252'
+ht-degree: 5%
 
 ---
 
-# 요청 업데이트
+# Workfront에서 요청 업데이트
 
 이 비디오에서는 Adobe Workfront에서 요청을 찾고 업데이트하는 방법을 설명합니다. &#x200B; 요청을 제출한 후 정보를 추가하거나 질문을 하여 작업 중인 사람이 최신 세부 정보를 사용할 수 있도록 할 수 있습니다. &#x200B; &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3422300/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

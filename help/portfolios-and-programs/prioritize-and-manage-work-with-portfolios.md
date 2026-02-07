@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL 포트폴리오 최적화 도구] 이해'
+title: Portfolio 최적화 도구를 사용하여 프로젝트 우선 순위 최적화
 description: 공정한 비교를 위한 비즈니스 사례를 완료하고, 상태별로 프로젝트를 필터링하고, 점수를 동적으로 조정하고, 프로젝트의 우선 순위를 효과적으로 지정하고, 포트폴리오 목표에 맞게 리소스 계획을 조정하여 Workfront에서 프로젝트 관리를 최적화합니다.
 activity: use
 team: Technical Marketing
@@ -12,20 +12,20 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 7%
+source-wordcount: '291'
+ht-degree: 4%
 
 ---
 
-# [!UICONTROL 포트폴리오 최적화 도구] 이해
+# Portfolio 최적화 도구를 사용하여 프로젝트 우선 순위 최적화
 
 이 비디오에서는 Workfront에서 Portfolio 최적화 도구를 사용하여 포트폴리오 내에서 프로젝트를 평가하고 우선 순위를 지정하는 방법을 설명합니다. &#x200B; 먼저 프로젝트에 대한 비즈니스 사례를 제출하고 상태를 &quot;요청됨&quot;으로 변경하고 승인하거나 거부할 수 있는 옵션을 활성화합니다. &#x200B; 승인 전에 사용자는 Portfolio 최적화 도구를 사용하여 프로젝트를 포트폴리오의 다른 사용자와 비교할 수 있습니다. &#x200B;
 
 이 비디오에서는 정확한 비교를 위해 비즈니스 사례를 완료하는 것의 중요성을 강조하고 프로젝트 우선 순위를 효과적으로 최적화하고 관리하는 단계별 지침을 제공합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446282/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

@@ -1,5 +1,5 @@
 ---
-title: 프로젝트 찾기
+title: 효율적인 프로젝트 찾기
 description: 프로젝트에 빠르고 체계적으로 액세스할 수 있도록 필터, 검색 도구, 최근 항목 목록, 즐겨찾기, 고정된 프로젝트 및 사용자 지정 보고서 또는 대시보드를 사용하여 프로젝트 관리를 간소화합니다.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 23%
+source-wordcount: '175'
+ht-degree: 20%
 
 ---
 
-# 프로젝트 찾기
+# 효율적인 프로젝트 찾기
 
 이 비디오에서는 프로젝트를 찾는 빠르고 쉬운 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439555/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

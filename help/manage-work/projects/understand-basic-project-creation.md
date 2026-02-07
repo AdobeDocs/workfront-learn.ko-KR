@@ -1,5 +1,5 @@
 ---
-title: 기본 프로젝트 생성 이해하기
+title: 처음부터 프로젝트 제작 및 관리
 description: 효율적으로 프로젝트를 제작, 관리 및 완료하는 방법을 알아보고, 예상치 못한 문제를 처리하고, 초보 사용자 친화적인 팁을 살펴보고 필수적인 프로젝트 관리 기능을 익혀봅니다. ​
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,19 +13,19 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 22%
+source-wordcount: '249'
+ht-degree: 18%
 
 ---
 
-# 기본 프로젝트 생성 이해하기
+# 처음부터 프로젝트 제작 및 관리
 
 이 비디오에서는 처음부터 프로젝트를 만들고 관리하는 방법을 설명합니다. &#x200B; 이 작업은 새 프로젝트를 만들고, 이름을 바꾸고, 설명, 시작 날짜 및 목표 완료 날짜로 목표를 설정하는 것으로 시작됩니다. 프로젝트는 예상 기간 및 할당이 있는 계획된 작업인 작업으로 나눌 수 있습니다. &#x200B; 전임 작업을 사용하여 작업의 순서를 지정할 수 있으며 프로젝트 상태를 &quot;현재&quot;로 설정하여 팀에 알리고 보고서에 포함할 수 있습니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3435901/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

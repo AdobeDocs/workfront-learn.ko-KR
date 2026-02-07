@@ -1,5 +1,5 @@
 ---
-title: 요청 찾기 및 관리
+title: 효율적인 요청 찾기 및 관리
 description: 효과적인 요청 관리를 위해 필터를 사용하고, 팀 할당을 관리하고, 사용자 지정 보고서 및 대시보드를 만들고, 다양한 컨텍스트에서 "내"의 의미를 명확히 하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 85%
+source-wordcount: '229'
+ht-degree: 80%
 
 ---
 
-# 요청 찾기 및 관리
+# 효율적인 요청 찾기 및 관리
 
 이 비디오에서는 Workfront에서 요청을 찾고 관리하는 방법을 다룹니다. 이는 네 가지 주요 영역으로 구성됩니다.
 
@@ -30,7 +30,7 @@ ht-degree: 85%
 * 사용자 정의 보고서 및 대시보드
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441661/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

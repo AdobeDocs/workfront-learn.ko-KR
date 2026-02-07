@@ -1,5 +1,5 @@
 ---
-title: 작업 시퀀스 알아보기
+title: Workfront에서 효과적으로 작업 순서 지정
 description: 전임 작업을 사용하여 작업 순서를 정의하고, 기간을 통해 타임라인을 설정하고, 템플릿을 사용하여 시퀀스를 단순화하고, 수동 제한을 방지하고, 연습을 통해 기술을 개선하여 프로젝트 관리를 간소화합니다.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 10%
+source-wordcount: '222'
+ht-degree: 7%
 
 ---
 
-# 작업 시퀀스 알아보기
+# Workfront에서 효과적으로 작업 순서 지정
 
 이 비디오에서는 프로젝트 타임라인을 효과적으로 관리하기 위해 전임 작업 및 기간을 사용하여 Workfront에서 작업의 순서를 지정하는 방법을 설명합니다.
 이 비디오에서는 새로운 작업에 대한 전임 작업을 설정하여 순차적 순서와 정확한 시작 날짜를 확인하는 방법을 보여 줍니다.

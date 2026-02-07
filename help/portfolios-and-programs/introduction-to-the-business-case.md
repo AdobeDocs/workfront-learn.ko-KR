@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL 비즈니스 사례] 이해'
+title: 포괄적인 비즈니스 사례 만들기
 description: 자세한 프로젝트 정보, 경비, 노무 및 위험 분석, 스코어카드, 정보에 입각한 포트폴리오 관리를 위한 사용자 정의 양식을 포함하여 프로젝트의 우선 순위를 지정할 Workfront의 포괄적인 비즈니스 사례를 제작합니다.
 activity: use
 team: Technical Marketing
@@ -12,18 +12,18 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 10%
+source-wordcount: '245'
+ht-degree: 7%
 
 ---
 
-# [!UICONTROL 비즈니스 사례] 이해
+# 포괄적인 비즈니스 사례 만들기
 
 이 비디오에서는 프로젝트 관리에서 비즈니스 사례의 중요성을 설명합니다. 비즈니스 사례를 철저히 작성하면 관리자가 동일한 자원을 두고 경쟁하는 프로젝트를 분석하고 우선 순위를 정할 수 있도록 돕는다는 점을 강조한다. &#x200B; 비즈니스 사례를 제출하면 프로젝트 상태가 &quot;요청됨&quot;으로 변경되고 Portfolio 최적화 도구에서 비교할 전체 점수가 계산됩니다. &#x200B; 필수 필드는 없지만 보다 자세한 정보를 통해 의사 결정을 향상시킬 수 있습니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442851/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

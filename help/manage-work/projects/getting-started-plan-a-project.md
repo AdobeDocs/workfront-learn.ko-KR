@@ -1,5 +1,5 @@
 ---
-title: 프로젝트 계획 시작하기
+title: Workfront에서 효과적으로 프로젝트 계획
 description: 주요 필드에 초점을 맞추고, 상태를 "계획"으로 설정하고, 적절한 보기를 사용하고, 실제 시작 날짜를 선택하고, 정확한 타임라인에 대한 예약 모드를 활용하여 프로젝트 계획을 간소화합니다.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -12,20 +12,20 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 15%
+source-wordcount: '275'
+ht-degree: 11%
 
 ---
 
-# 프로젝트 계획 시작하기
+# Workfront에서 효과적으로 프로젝트 계획
 
 이 비디오에서는 Workfront에서 프로젝트를 효과적으로 계획하는 방법에 대한 지침을 제공합니다. &#x200B; 프로젝트가 제 시간에 완료되고 성공적으로 진행될 수 있도록 견고한 기반을 마련하는 것이 중요함을 강조하고 있다. &#x200B; 주요 단계에는 작업, 할당, 기간, 계획된 시간 및 전임 작업 등 5가지 중요 필드 이해가 포함됩니다. &#x200B; 이러한 필드를 통해 프로젝트 계획을 빠르고 정확하게 조정할 수 있습니다. &#x200B;
 
 이 비디오에서는 프로젝트 성공을 위한 강력한 토대를 만들기 위한 현실적인 타임라인, 팀 가용성 및 정확한 계획의 중요성을 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448574/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

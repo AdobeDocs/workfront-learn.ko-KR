@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront 튜토리얼
 user-guide-description: Workfront 기능 및 설정을 더 잘 이해하는 데 도움이 되도록 설계된 교육 비디오 및 문서 라이브러리입니다.
-source-git-commit: ecacc319b909a488a176ef69bc44de415470390d
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '2356'
-ht-degree: 91%
+source-wordcount: '2428'
+ht-degree: 83%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 91%
 
    + 승인 프로세스 및 마일스톤 경로 {#approval-processes-and-milestone-paths}
       + [그룹별 승인 프로세스 이해](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-      + [마일스톤 만들기](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+      + [마일스톤 경로 및 단계 만들기](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
    + 시스템 성능 및 유지 관리 {#system-perfomance-and-maintenance}
       + [기존 Adobe Workfront 인스턴스 구현 관리](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
@@ -105,44 +105,44 @@ ht-degree: 91%
 
 + 작업 관리 {#manage-work}
    + 프로젝트 {#projects}
-      + [기본 프로젝트 생성 이해하기](/help/manage-work/projects/understand-basic-project-creation.md)
+      + [처음부터 프로젝트 제작 및 관리](/help/manage-work/projects/understand-basic-project-creation.md)
       + [프로젝트 페이지 탐색](/help/manage-work/projects/navigate-the-project-page.md)
-      + [프로젝트를 생성하는 네 가지 방법에 대해 알아보기](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [프로젝트 세부 정보 입력](/help/manage-work/projects/fill-in-the-project-details.md)
-      + [프로젝트 계획 시작하기](/help/manage-work/projects/getting-started-plan-a-project.md)
+      + [프로젝트를 만드는 네 가지 방법 살펴보기](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [필수 프로젝트 세부 정보 입력](/help/manage-work/projects/fill-in-the-project-details.md)
+      + [Workfront에서 효과적으로 프로젝트 계획](/help/manage-work/projects/getting-started-plan-a-project.md)
       + [실제로 프로젝트 실행](/help/manage-work/projects/take-a-project-live.md)
-      + [프로젝트 관리 시작하기](/help/manage-work/projects/getting-started-manage-a-project.md)
-      + [프로젝트 찾기](/help/manage-work/projects/find-projects.md)
-      + [프로젝트 공유](/help/manage-work/projects/share-a-project.md)
+      + [현재 상태로 프로젝트 관리](/help/manage-work/projects/getting-started-manage-a-project.md)
+      + [효율적인 프로젝트 찾기](/help/manage-work/projects/find-projects.md)
+      + [Workfront에서 효과적으로 프로젝트 공유](/help/manage-work/projects/share-a-project.md)
       + [프로젝트 팀 이해](/help/manage-work/projects/understand-the-project-team.md)
-      + [프로젝트 커뮤니케이션 이해](/help/manage-work/projects/understand-project-communication.md)
-      + [프로젝트 정보 보기](/help/manage-work/projects/view-project-information.md)
+      + [효과적인 커뮤니케이션을 통해 프로젝트 성공 향상](/help/manage-work/projects/understand-project-communication.md)
+      + [프로젝트 관리를 위한 필터, 보기 및 그룹화 탐색](/help/manage-work/projects/view-project-information.md)
       + [전체 프로젝트 진행 상황 추적](/help/manage-work/projects/track-overall-project-progress.md)
       + [프로젝트 지표로 작업 진행 상황 추적](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [[!UICONTROL 간트] 보기 이해](/help/manage-work/projects/understand-the-gantt-view.md)
       + [[!UICONTROL 보드] 보기 이해](/help/manage-work/projects/understand-the-board-view.md)
 
    + 작업 {#tasks}
-      + [작업 만들기](/help/manage-work/tasks/how-to-create-tasks.md)
-      + [상위-하위 작업 이해](/help/manage-work/tasks/understand-parent-child-tasks.md)
-      + [작업](/help/manage-work/tasks/work-with-tasks.md)
+      + [Workfront에서 효율적으로 작업 만들기](/help/manage-work/tasks/how-to-create-tasks.md)
+      + [상위-하위 작업 관계 이해](/help/manage-work/tasks/understand-parent-child-tasks.md)
+      + [Workfront에서 효율적으로 작업 관리](/help/manage-work/tasks/work-with-tasks.md)
       + [프로젝트 계획에서 작업 할당](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-      + [작업 상태 업데이트](/help/manage-work/tasks/update-the-task-status.md)
+      + [정확한 보고를 위해 작업 상태 업데이트](/help/manage-work/tasks/update-the-task-status.md)
       + [작업 기간 이해](/help/manage-work/tasks/understand-task-durations.md)
-      + [작업 시퀀스 알아보기](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+      + [Workfront에서 효과적으로 작업 순서 지정](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [계획된 시간 이해](/help/manage-work/tasks/understand-planned-hours.md)
-      + [[!UICONTROL 작업 노력] 이해](/help/manage-work/tasks/understand-work-effort.md)
+      + [작업 노력으로 작업 시간 예상](/help/manage-work/tasks/understand-work-effort.md)
 
    + 문제/요청 {#issues-requests}
-      + [계획되지 않은 작업 처리](/help/manage-work/issues-requests/handle-unplanned-work.md)
-      + [요청 작성](/help/manage-work/issues-requests/make-a-request.md)
-      + [요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
-      + [문제 할당 관리](/help/manage-work/issues-requests/manage-issue-assignments.md)
-      + [문제 상태 업데이트](/help/manage-work/tasks/update-the-issue-status.md)
-      + [요청 업데이트](/help/manage-work/issues-requests/update-a-request.md)
+      + [계획되지 않은 작업을 효과적으로 처리](/help/manage-work/issues-requests/handle-unplanned-work.md)
+      + [Workfront에서 요청 만들기 및 관리](/help/manage-work/issues-requests/make-a-request.md)
+      + [효율적인 요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
+      + [효과적으로 문제 할당 관리](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [효과적으로 문제 상태 업데이트](/help/manage-work/tasks/update-the-issue-status.md)
+      + [Workfront에서 요청 업데이트](/help/manage-work/issues-requests/update-a-request.md)
       + [문제/요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [문제/요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [문제 보고서](/help/manage-work/issues-requests/report-on-issues.md)
+      + [문제 관리를 위한 사용자 지정 보고서 만들기](/help/manage-work/issues-requests/report-on-issues.md)
 
    + 요청 대기열 {#request-queues}
       + [요청 대기열 이해](/help/manage-work/request-queues/understand-request-queues.md)
@@ -153,36 +153,36 @@ ht-degree: 91%
       + [요청 대기열에 대한 일반적인 질문에 대한 답변](/help/manage-work/request-queues/request-queue-faq.md)
 
    + 포트폴리오 {#portfolios}
-      + [포트폴리오 이해](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [[!UICONTROL 비즈니스 사례] 이해](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [[!UICONTROL 포트폴리오 최적화 도구] 이해](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [포트폴리오 관리 및 최적화 살펴보기](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [포괄적인 비즈니스 사례 만들기](/help/portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Portfolio 최적화 도구를 사용하여 프로젝트 우선 순위 최적화](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 승인 프로세스 및 마일스톤 경로 {#approval-processes-and-milestone-paths}
       + [글로벌 승인 프로세스 및 일회용 승인 프로세스 만들기](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [요청 대기열에 문제 승인 프로세스 적용](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [디지털 작업 검토 및 승인](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
-      + [작업, 문제 및 승인 위임](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [마일스톤 적용](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-      + [마일스톤 보기](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+      + [효과적으로 작업, 문제 및 승인 위임](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+      + [프로젝트 및 작업에 마일스톤 경로 적용](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [프로젝트에서 마일스톤 보기](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + 프로젝트 템플릿 만들기 및 관리 {#create-and-manage-project-templates}
-      + [프로젝트 템플릿 만들기 및 블루프린트에 대해 알아보기](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [프로젝트 템플릿 만들기 및 블루프린트 살펴보기](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [템플릿에서 직접 프로젝트 만들기](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-      + [프로젝트 템플릿 공유](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-      + [기존 프로젝트 복사](/help/manage-work/manage-projects/copy-an-existing-project.md)
+      + [효과적으로 프로젝트 템플릿 공유](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+      + [기존 프로젝트를 효율적으로 복사](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [프로젝트 템플릿 비활성화](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-      + [프로젝트 템플릿에서 프로젝트 팀 편집](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+      + [템플릿에서 프로젝트 팀 편집](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + 프로젝트 타임라인 {#project-timelines}
-      + [프로젝트 타임라인 이해](/help/manage-work/project-timelines/understand-project-timelines.md)
+      + [Workfront에서 프로젝트 타임라인 탐색](/help/manage-work/project-timelines/understand-project-timelines.md)
       + [일자 유형 및 진행 상태 이해](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-      + [프로젝트 타임라인에서 진행 상황 추적](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+      + [완료율 및 진행 상태를 사용하여 진행 추적](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + 프로젝트 종료 {#close-a-project}
       + [프로젝트 상태를 완료로 변경](/help/manage-work/projects/change-the-project-status.md)
-      + [승인 완료](/help/manage-work/close-a-project/complete-approvals.md)
-      + [자산 업로드](/help/manage-work/close-a-project/upload-assets.md)
-      + [배운 내용 기록](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+      + [작업 및 문제 승인 해결](/help/manage-work/close-a-project/complete-approvals.md)
+      + [프로젝트 자산 업로드 및 관리](/help/manage-work/close-a-project/upload-assets.md)
+      + [향후 프로젝트에 대해 학습한 레슨 기록](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + 사용자를 위한 프로젝트 재무 {#project-finances-users}
@@ -335,28 +335,28 @@ ht-degree: 91%
       + [Adobe Workfront 플러그인을 사용하여 Creative Cloud와 통합](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ko)
-      + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=ko)
-      + [문서 전송 및 자산 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=ko)
-      + [버전 기록 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=ko)
+      + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [문서 전송 및 자산 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [버전 기록 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [G Suite 통합으로 워크플로 개선](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [&#x200B; [!DNL Jira] 통합 기능으로 가시성 생성](/help/integrations/jira/jira.md)
+      + [ [!DNL Jira] 통합 기능으로 가시성 생성](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook 추가 기능 설치](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Microsoft Teams용 Adobe Workfront 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=ko)
-      + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=ko)
-      + [Microsoft Teams의 Adobe Workfront 액세스](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 항목 검색 및 공유](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=ko)
+      + [Microsoft Teams용 Adobe Workfront 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [Microsoft Teams의 Adobe Workfront 액세스](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 항목 검색 및 공유](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [[!UICONTROL Slack]용 Workfront 이해](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -519,10 +519,10 @@ ht-degree: 91%
 
 + Workfront DAM {#workfront-dam-program}
    + 시스템 설정 {#system-setup}
-      + [&#x200B; [!DNL Workfront DAM] 이해](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [ [!DNL Workfront DAM] 이해](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [시스템 설정 이해](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [[!UICONTROL Brand Portal] 이해](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [&#x200B; [!DNL Workfront DAM] 전략의 분석 및 계획](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [ [!DNL Workfront DAM] 전략의 분석 및 계획](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [그룹 및 사용자 설정](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront에서 통합 구성](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [맞춤화 [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)

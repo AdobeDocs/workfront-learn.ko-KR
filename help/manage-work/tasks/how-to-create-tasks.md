@@ -1,5 +1,5 @@
 ---
-title: 작업 만들기
+title: Workfront에서 효율적으로 작업 만들기
 description: '상세 또는 인라인 편집, 유연한 위치 변경, 추가 필드에 대한 사용자 정의 보기, 특정 배치(예: Workfront의 "아래에 작업 삽입" 사용)를 위한 옵션을 사용하여 작업 생성을 단순화합니다.'
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
@@ -10,19 +10,19 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 11%
+source-wordcount: '201'
+ht-degree: 9%
 
 ---
 
-# 작업 만들기
+# Workfront에서 효율적으로 작업 만들기
 
 이 비디오에서는 긴 방법과 편리한 단축키를 모두 다루는 Workfront 프로젝트에서의 작업 생성에 대한 자습서를 제공합니다. 과제 생성의 유연성을 강조하고 효율적인 과제 관리를 위한 팁을 제공한다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423160/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

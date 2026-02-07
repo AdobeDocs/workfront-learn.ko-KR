@@ -1,5 +1,5 @@
 ---
-title: 프로젝트 관리 시작하기
+title: 현재 상태로 프로젝트 관리
 description: 보고서를 통해 프로젝트 진행 상황을 효과적으로 추적하고, 간트 보기를 통해 종속성을 관리하고, 작업 및 승인을 모니터링하고, 팀 커뮤니케이션을 향상하고, 자주 업데이트하면서 원활한 워크플로를 보장합니다.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 18%
+source-wordcount: '178'
+ht-degree: 12%
 
 ---
 
-# 프로젝트 관리 시작하기
+# 현재 상태로 프로젝트 관리
 
 이 비디오에서는 상태가 &quot;현재&quot;로 변경된 후의 프로젝트 관리에 대한 개요를 제공합니다&#x200B;.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445174/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

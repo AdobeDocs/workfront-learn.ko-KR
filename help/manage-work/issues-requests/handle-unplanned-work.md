@@ -1,5 +1,5 @@
 ---
-title: 계획되지 않은 작업 처리
+title: 계획되지 않은 작업을 효과적으로 처리
 description: 문제를 효과적으로 추적 및 해결하고, 로깅 도구를 활용하고, 모범 사례를 구현하고, 커뮤니케이션을 촉진하고, 문제를 간소화된 실행을 위한 작업으로 원활하게 전환하여 Workfront의 프로젝트 관리를 개선합니다.
 activity: use
 team: Technical Marketing
@@ -12,19 +12,19 @@ last-substantial-update: 2024-06-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 13%
+source-wordcount: '266'
+ht-degree: 10%
 
 ---
 
-# 계획되지 않은 작업 처리
+# 계획되지 않은 작업을 효과적으로 처리
 
 이 비디오에서는 프로젝트 관리에서 커뮤니케이션의 중요성을 강조하고 커뮤니케이션을 용이하게 하는 핵심 도구로서 이슈의 역할을 조명합니다. &#x200B; 프로젝트를 완료하기 전에 할당, 추적 및 해결해야 하는 작업에 문제가 더 적합하다는 점을 언급하며 업데이트와 문제의 차이점에 대해 설명합니다. &#x200B; 이 비디오에서는 문제를 기록하는 방법에 대한 단계별 안내서를 제공합니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446573/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

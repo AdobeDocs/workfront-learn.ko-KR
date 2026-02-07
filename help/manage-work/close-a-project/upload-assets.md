@@ -1,5 +1,5 @@
 ---
-title: 자산 업로드
+title: 프로젝트 자산 업로드 및 관리
 description: 모든 관련 데이터가 프로젝트와 연결되도록 프로젝트를 닫기 전에 문서 및 교정쇄를 프로젝트에 업로드하십시오.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ last-substantial-update: 2024-12-02T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 87%
 
 ---
 
-# 자산 업로드
+# 프로젝트 자산 업로드 및 관리
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 문서 업로드
 * 교정쇄 업로드 관련 교육 과정 찾기
 
->[!VIDEO](https://video.tv.adobe.com/v/3440377/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

@@ -1,5 +1,5 @@
 ---
-title: 마일스톤 경로 및 마일스톤 단계 만들기
+title: 마일스톤 경로 및 단계 만들기
 description: 마일스톤 경로의 정의, 마일스톤 경로를 만드는 방법 및 마일스톤 단계를 추가하는 방법을 알아봅니다.
 feature: System Setup and Administration
 activity: deploy
@@ -10,14 +10,14 @@ role: Admin
 level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '65'
+ht-degree: 84%
 
 ---
 
-# 마일스톤 경로 및 마일스톤 단계 만들기
+# 마일스톤 경로 및 단계 만들기
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 마일스톤 경로를 만드는 방법
 * 마일스톤 경로에 마일스톤 단계를 추가하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3415916/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

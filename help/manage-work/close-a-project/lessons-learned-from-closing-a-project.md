@@ -1,5 +1,5 @@
 ---
-title: 배운 내용 기록
+title: 향후 프로젝트에 대해 학습한 레슨 기록
 description: 프로젝트 종료 시 “배운 내용”을 통해 이점을 얻을 수 있는 방법에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ last-substantial-update: 2024-12-12T00:00:00Z
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 84%
 
 ---
 
-# 배운 내용 기록
+# 향후 프로젝트에 대해 학습한 레슨 기록
 
 이 비디오에서 다음과 같은 이점을 확인하실 수 있습니다.
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * “배운 내용” 사용자 정의 보고서 만들기
 * “배운 내용” 프로젝트 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3441019/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
 
 ## 이 주제와 관련된 추천 튜토리얼
 
