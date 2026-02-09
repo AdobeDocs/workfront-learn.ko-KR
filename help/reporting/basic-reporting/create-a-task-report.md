@@ -119,9 +119,9 @@ ht-degree: 76%
 
 ### 활동 2: 관리팀 피드백 보고서 만들기
 
-이 문제 보고서에는 시스템 관리자를 위해 만든 피드백 요청 대기열의 모든 문제가 표시됩니다. [시스템 관리자 피드백 요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) 튜토리얼에서 이 요청 대기열을 만드는 방법을 확인할 수 있습니다.
+이 문제 보고서에는 시스템 관리자를 위해 만든 피드백 요청 대기열의 모든 문제가 표시됩니다. [시스템 관리자 피드백 요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=ko) 튜토리얼에서 이 요청 대기열을 만드는 방법을 확인할 수 있습니다.
 
-이 보고서는 사용자 정의 양식을 사용하기도 합니다. 사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 튜토리얼을 참조하십시오.
+이 보고서는 사용자 정의 양식을 사용하기도 합니다. 사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=ko) 튜토리얼을 참조하십시오.
 
 이 사용자 정의 양식은 오브젝트 유형 Project 및 Issue를 사용해야 하며 다음과 같이 만들어야 합니다.
 
