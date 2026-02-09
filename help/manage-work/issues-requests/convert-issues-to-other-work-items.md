@@ -1,5 +1,5 @@
 ---
-title: 문제/요청을 작업으로 전환
+title: 문제 또는 요청을 작업으로 전환
 description: 간소화된 워크플로를 위해 편집 가능한 이름, 원활한 사용자 정의 양식 첨부, 유연한 프로젝트 선택, 전환 옵션, 동기화된 상태 업데이트를 통해 문제를 Workfront의 작업으로 손쉽게 전환합니다.
 activity: use
 team: Technical Marketing
@@ -11,18 +11,18 @@ last-substantial-update: 2024-02-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 23%
+source-wordcount: '247'
+ht-degree: 17%
 
 ---
 
-# 문제/요청을 작업으로 전환
+# 문제 또는 요청을 작업으로 전환
 
 이 비디오에서는 문제 또는 요청을 작업으로 변환하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445437/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

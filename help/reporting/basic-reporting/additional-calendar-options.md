@@ -1,5 +1,5 @@
 ---
-title: 추가 캘린더 보고서 옵션 이해
+title: 고급 캘린더 보고서 기능 살펴보기
 description: 캘린더를 복사, 편집, 공유 및 삭제하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
-# 추가 캘린더 보고서 옵션 이해
+# 고급 캘린더 보고서 기능 살펴보기
 
 캘린더 보고서는 캘린더 보기에 근무와 휴무를 표시하는 동적 보고서입니다. 다음 오브젝트에 대해 캘린더 보고서에 일자 정보를 표시할 수 있습니다.
 
@@ -35,4 +35,4 @@ ht-degree: 100%
 * 캘린더 공유
 * 캘린더 삭제
 
->[!VIDEO](https://video.tv.adobe.com/v/3445063/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on&enablevpops=1)

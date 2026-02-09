@@ -1,5 +1,5 @@
 ---
-title: 보고 요소 이해
+title: Workfront 보고 요소 탐색
 description: 목록 보고서를 구체화하고, 데이터를 효율적으로 구성하고, 원활한 공동 작업을 가능하게 하는 사용자 정의 가능한 필터, 보기 및 그룹화로 프로젝트 보고를 향상시킵니다.
 activity: use
 feature: Reports and Dashboards
@@ -11,20 +11,20 @@ team: Technical Marketing
 jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 3%
+source-wordcount: '243'
+ht-degree: 0%
 
 ---
 
-# 보고 요소 이해
+# Workfront 보고 요소 탐색
 
 이 비디오에서는 Workfront의 보고 요소(필터, 보기 및 그룹화)를 사용하여 프로젝트, 작업 및 기타 개체에 대한 목록 보고서의 중요한 정보에 액세스하고 정보를 구체화하는 방법을 설명합니다. &#x200B; 필터는 사용자에게 할당된 활성 프로젝트 또는 작업만 표시하는 것과 같이 특정 기준에 따라 목록의 범위를 좁히는 데 도움이 됩니다. &#x200B; 보기는 수익 또는 비용과 같은 특정 필드를 강조 표시하여 열에 표시되는 정보를 결정합니다. &#x200B; 그룹화는 계획된 완료 일자 또는 진행 상태와 같은 기준에 따라 목록을 구성합니다.
 
 이 비디오에서는 보고 요소를 사용자 지정하고 다른 사용자와 공유하는 방법도 보여 줍니다. &#x200B; 이러한 도구를 통해 사용자는 더 나은 가시성과 관리를 위해 보고서를 필요에 따라 맞춤형으로 나열할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447795/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

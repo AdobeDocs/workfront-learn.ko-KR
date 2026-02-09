@@ -1,5 +1,5 @@
 ---
-title: 보고 구성 요소 이해
+title: Workfront에서 보고 구성 요소 탐색
 description: Workfront의 보고 구성 요소는 맞춤화된 통찰력을 위해 오브젝트 기반 필터, 동적 보기, 구조화된 그룹화 및 와일드카드 기능을 사용하여 데이터 시각화를 구체화합니다.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 45%
+source-wordcount: '537'
+ht-degree: 44%
 
 ---
 
-# 보고 구성 요소 이해
+# Workfront에서 보고 구성 요소 탐색
 
 이 비디오에서는 필터, 보기 및 그룹화를 만드는 데 필요한 Workfront의 보고 구성 요소의 개념을 설명합니다. 주요 구성 요소는 다음과 같습니다.
 
@@ -29,7 +29,7 @@ ht-degree: 45%
 * **필터 한정자:** 우선 순위가 &quot;높음&quot;인 작업을 표시하는 것과 같이 보고서에 포함하거나 제외할 값을 정의합니다&#x200B;.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447028/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
 
 ## 핵심 사항
 

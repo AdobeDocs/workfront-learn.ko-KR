@@ -1,5 +1,5 @@
 ---
-title: 차트로 보고서 만들기
+title: 보고서의 차트로 데이터 시각화
 description: 차트는 사용자 지정 가능한 필터, 그룹화 및 스택 열 형식을 통해 데이터 통찰력을 구성하여 데이터 시각화를 향상하므로 분석을 더 명확하고 실용적으로 수행할 수 있습니다.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 39%
+source-wordcount: '599'
+ht-degree: 37%
 
 ---
 
-# 차트로 보고서 만들기
+# 보고서의 차트로 데이터 시각화
 
 이 비디오에서는 특히 프로젝트 작업 추적을 위해 차트를 사용하여 데이터를 효과적으로 시각화하는 방법을 설명합니다. &#x200B; Workfront에서 두 가지 유형의 보고서를 만드는 방법을 보여 줍니다.
 
@@ -38,7 +38,7 @@ ht-degree: 39%
 
 이 비디오에서는 원형 및 누적 세로 막대형 차트와 같은 차트를 통해 작업 배포 및 프로젝트 성능에 대한 통찰력을 제공하여 사용자가 프로젝트를 비교하고 작업 진행 상황을 시각적으로 이해하는 데 도움이 되는 방법을 소개합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3450021/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
 
 ## 핵심 사항
 
@@ -73,7 +73,7 @@ ht-degree: 39%
 1. **[!UICONTROL 필터]** 탭에서 두 개의 필터 규칙을 추가합니다.
 
    * [!UICONTROL 프로젝트] > [!UICONTROL 동일시된 상태] > [!UICONTROL 완료]
-   * [!UICONTROL 프로젝트] >[!UICONTROL &#x200B; 실제 완료 일자] > [!UICONTROL 지난 분기]
+   * [!UICONTROL 프로젝트] >[!UICONTROL  실제 완료 일자] > [!UICONTROL 지난 분기]
 
    ![보고서에 필터를 추가하는 화면 이미지](assets/chart-report-filters.png)
 

@@ -1,5 +1,5 @@
 ---
-title: 작업 보고서 만들기
+title: 지연 할당에 대한 작업 보고서 만들기
 description: 복잡한 필터로 작업 보고서를 만들고 Workfront에서 만든 보고서를 찾는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
@@ -12,20 +12,20 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 78%
+source-wordcount: '1121'
+ht-degree: 76%
 
 ---
 
-# 작업 보고서 만들기
+# 지연 할당에 대한 작업 보고서 만들기
 
 이 비디오에서는 로그인한 사용자에게 할당된 지연된 작업을 추적하는 사용자 지정 보고서 만들기에 대한 단계별 안내서를 제공합니다. 기존 필터, 보기 또는 기본 제공 보고서가 특정 요구 사항을 충족하지 않는 경우 사용자 지정 보고서의 필요성을 설명하는 것으로 시작됩니다. &#x200B; 이 보고서의 이름은 &quot;나에게 할당된 지연된 작업&quot;으로, 설명을 명확하게 하기 위해 추가했습니다. &#x200B;
 
 결과 보고서는 사용자가 지연 작업에 집중할 수 있도록 지원하고, 종속성에 대한 통찰력을 제공하고, 호스트 프로젝트에 대한 탐색을 단순화합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448349/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
 ## 핵심 사항
 
@@ -119,9 +119,9 @@ ht-degree: 78%
 
 ### 활동 2: 관리팀 피드백 보고서 만들기
 
-이 문제 보고서에는 시스템 관리자를 위해 만든 피드백 요청 대기열의 모든 문제가 표시됩니다. [시스템 관리자 피드백 요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=ko) 튜토리얼에서 이 요청 대기열을 만드는 방법을 확인할 수 있습니다.
+이 문제 보고서에는 시스템 관리자를 위해 만든 피드백 요청 대기열의 모든 문제가 표시됩니다. [시스템 관리자 피드백 요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) 튜토리얼에서 이 요청 대기열을 만드는 방법을 확인할 수 있습니다.
 
-이 보고서는 사용자 정의 양식을 사용하기도 합니다. 사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=ko) 튜토리얼을 참조하십시오.
+이 보고서는 사용자 정의 양식을 사용하기도 합니다. 사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 튜토리얼을 참조하십시오.
 
 이 사용자 정의 양식은 오브젝트 유형 Project 및 Issue를 사용해야 하며 다음과 같이 만들어야 합니다.
 

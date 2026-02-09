@@ -1,5 +1,5 @@
 ---
-title: 문제/요청을 프로젝트로 전환
+title: 문제 또는 요청을 프로젝트로 전환
 description: 템플릿을 사용하여 문제를 프로젝트로 전환하고, 프로젝트 세부 정보를 맞춤화하고, 문제 해결 옵션을 관리하고, 원활한 워크플로에 대한 가시성과 액세스를 보장하여 Workfront에서 프로젝트 관리를 간소화합니다.
 activity: use
 feature: Work Management
@@ -12,18 +12,18 @@ jira: KT-9723
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 15%
+source-wordcount: '235'
+ht-degree: 8%
 
 ---
 
-# 문제/요청을 프로젝트로 전환
+# 문제 또는 요청을 프로젝트로 전환
 
 이 비디오에서는 문제 또는 요청을 프로젝트로 변환하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446629/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

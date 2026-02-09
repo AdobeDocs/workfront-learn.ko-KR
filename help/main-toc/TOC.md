@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront 튜토리얼
 user-guide-description: Workfront 기능 및 설정을 더 잘 이해하는 데 도움이 되도록 설계된 교육 비디오 및 문서 라이브러리입니다.
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '2428'
-ht-degree: 83%
+source-wordcount: '2483'
+ht-degree: 76%
 
 ---
 
@@ -59,7 +59,7 @@ ht-degree: 83%
       + [자동 알림 설정](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
       + [작업 항목 구독](/help/administration-and-setup/email-and-in-app-notifications/user-subscribe-to-work-items.md)
 
-   + 사용자 만들기 및 관리 {#create-and-manage-users}
+   + 사용자 생성 및 관리 {#create-and-manage-users}
       + [사용자 추가](/help/administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
       + [사용자 정보 수정](/help/administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [사용자 비활성화 또는 삭제 시기 및 방법](/help/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
@@ -119,8 +119,8 @@ ht-degree: 83%
       + [프로젝트 관리를 위한 필터, 보기 및 그룹화 탐색](/help/manage-work/projects/view-project-information.md)
       + [전체 프로젝트 진행 상황 추적](/help/manage-work/projects/track-overall-project-progress.md)
       + [프로젝트 지표로 작업 진행 상황 추적](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-      + [[!UICONTROL 간트] 보기 이해](/help/manage-work/projects/understand-the-gantt-view.md)
-      + [[!UICONTROL 보드] 보기 이해](/help/manage-work/projects/understand-the-board-view.md)
+      + [프로젝트 관리를 위한 간트 보기 탐색](/help/manage-work/projects/understand-the-gantt-view.md)
+      + [작업 관리를 위한 게시판 보기 탐색](/help/manage-work/projects/understand-the-board-view.md)
 
    + 작업 {#tasks}
       + [Workfront에서 효율적으로 작업 만들기](/help/manage-work/tasks/how-to-create-tasks.md)
@@ -140,15 +140,15 @@ ht-degree: 83%
       + [효과적으로 문제 할당 관리](/help/manage-work/issues-requests/manage-issue-assignments.md)
       + [효과적으로 문제 상태 업데이트](/help/manage-work/tasks/update-the-issue-status.md)
       + [Workfront에서 요청 업데이트](/help/manage-work/issues-requests/update-a-request.md)
-      + [문제/요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [문제/요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [문제 또는 요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [문제 또는 요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [문제 관리를 위한 사용자 지정 보고서 만들기](/help/manage-work/issues-requests/report-on-issues.md)
 
    + 요청 대기열 {#request-queues}
-      + [요청 대기열 이해](/help/manage-work/request-queues/understand-request-queues.md)
-      + [요청 대기열 만들기](/help/manage-work/request-queues/create-a-request-queue.md)
-      + [요청 흐름에 대한 설정 이해](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-      + [요청 흐름 만들기](/help/manage-work/request-queues/create-a-request-flow.md)
+      + [Workfront에서 요청 대기열 탐색](/help/manage-work/request-queues/understand-request-queues.md)
+      + [Workfront에서 요청 대기열 만들기](/help/manage-work/request-queues/create-a-request-queue.md)
+      + [요청 흐름 설정 구성](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Workfront에서 요청 흐름 만들기](/help/manage-work/request-queues/create-a-request-flow.md)
       + [시스템 관리자 피드백 요청 대기열 만들기](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [요청 대기열에 대한 일반적인 질문에 대한 답변](/help/manage-work/request-queues/request-queue-faq.md)
 
@@ -183,50 +183,50 @@ ht-degree: 83%
       + [작업 및 문제 승인 해결](/help/manage-work/close-a-project/complete-approvals.md)
       + [프로젝트 자산 업로드 및 관리](/help/manage-work/close-a-project/upload-assets.md)
       + [향후 프로젝트에 대해 학습한 레슨 기록](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-      + [시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
+      + [프로젝트 시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + 사용자를 위한 프로젝트 재무 {#project-finances-users}
-      + [재무 정보 찾기](/help/manage-work/project-finances/find-financial-information.md)
-      + [재무 업데이트](/help/manage-work/project-finances/update-and-review-finances.md)
-      + [여러 과금 요율 이해](/help/manage-work/project-finances/multiple-billing-rates.md)
+      + [프로젝트 및 작업에 대한 재무 정보 액세스 및 관리](/help/manage-work/project-finances/find-financial-information.md)
+      + [클라이언트 프로젝트의 재무 업데이트](/help/manage-work/project-finances/update-and-review-finances.md)
+      + [작업 역할에 대한 청구 요금 사용자 정의](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + 중간 프로젝트 {#intermediate-projects}
-      + [기간 유형 및 작업 제한 사항의 이해 및 관리](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-      + [프로젝트 간 전임 작업 이해](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-      + [고급 전임 작업](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+      + [기본 기간 유형 및 작업 제한](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [프로젝트 간 전임 작업으로 종속성 설정](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [기본 고급 작업 종속성](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + 보고 {#reporting}
    + 기본 보고 {#basic-reporting}
-      + [보고 요소 이해](/help/reporting/basic-reporting/reporting-elements.md)
-      + [보고 구성 요소 이해](/help/reporting/basic-reporting/reporting-components.md)
+      + [Workfront 보고 요소 탐색](/help/reporting/basic-reporting/reporting-elements.md)
+      + [Workfront에서 보고 구성 요소 탐색](/help/reporting/basic-reporting/reporting-components.md)
       + [기본 그룹화 만들기](/help/reporting/basic-reporting/create-a-basic-grouping.md)
       + [기본 보기 만들기](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [보기에 기본 조건부 서식 추가](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [기본 필터 만들기](/help/reporting/basic-reporting/create-a-basic-filter.md)
-      + [새 필터 환경 이해](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
+      + [새로운 필터 경험 살펴보기](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [기본 필터 활동 만들기](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [간단한 보고서 만들기](/help/reporting/basic-reporting/create-a-simple-report.md)
-      + [작업 보고서 만들기](/help/reporting/basic-reporting/create-a-task-report.md)
-      + [보고서 복사](/help/reporting/basic-reporting/copy-a-report.md)
-      + [차트로 보고서 만들기](/help/reporting/basic-reporting/create-reports-with-charts.md)
+      + [지연 할당에 대한 작업 보고서 만들기](/help/reporting/basic-reporting/create-a-task-report.md)
+      + [보고서 복사 및 편집](/help/reporting/basic-reporting/copy-a-report.md)
+      + [보고서의 차트로 데이터 시각화](/help/reporting/basic-reporting/create-reports-with-charts.md)
       + [매트릭스 보고서 만들기](/help/reporting/basic-reporting/create-a-matrix-report.md)
-      + [대시보드 만들기](/help/reporting/basic-reporting/create-dashboards.md)
-      + [보고서 보내기 및 공유](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
-      + [보고서 설정 이해](/help/reporting/basic-reporting/report-settings.md)
+      + [Workfront에서 대시보드 만들기](/help/reporting/basic-reporting/create-dashboards.md)
+      + [효과적으로 보고서 전송 및 공유](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
+      + [보고서 설정 및 프롬프트 탐색](/help/reporting/basic-reporting/report-settings.md)
 
    + 중간 보고 {#intermediate-reporting}
       + [사용자 기반의 와일드카드로 필터 만들기](/help/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
       + [일자 기반의 와일드카드로 필터 만들기](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
       + [필터에 OR 구문 만들기](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
-      + [기본 제공 프로젝트 필터 이해](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
-      + [기본 제공 작업 필터 이해](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
-      + [기본 제공 문제 필터 이해](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
-      + [필터의 기본 텍스트 모드 이해](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
-      + [보기의 기본 텍스트 모드 이해](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
-      + [그룹화의 기본 텍스트 모드 이해](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
-      + [사용자 정의 프롬프트 만들기](/help/reporting/intermediate-reporting/custom-prompts.md)
-      + [EXISTS 필터 이해](/help/reporting/intermediate-reporting/understand-exists-filters.md)
+      + [기본 제공 프로젝트 필터 탐색](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
+      + [기본 제공 작업 필터 살펴보기](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
+      + [기본 제공 문제 필터 탐색](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
+      + [Workfront의 필터에 대한 기본 텍스트 모드 탐색](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [Workfront 보기를 위한 기본 텍스트 모드 탐색](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [Workfront에서 그룹화를 위한 기본 텍스트 모드 탐색](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+      + [텍스트 모드를 사용하여 사용자 지정 프롬프트 만들기](/help/reporting/intermediate-reporting/custom-prompts.md)
+      + [복잡한 보고를 위해 EXISTS 필터 만들기](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
    + 고급 보고 {#advanced-reporting}
       + [고급 보고 소개](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -235,18 +235,18 @@ ht-degree: 83%
       + [고급 보고 3부](/help/reporting/advanced-reporting/advanced-reporting-part-3.md)
 
    + 캘린더 보고서 {#calendar-reports}
-      + [캘린더 보고서 인터페이스 이해](/help/reporting/basic-reporting/tour-of-the-interface.md)
+      + [달력 보고서 인터페이스 살펴보기](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [사용자 정의 캘린더 보고서 만들기](/help/reporting/basic-reporting/creating-custom-calendars.md)
-      + [추가 캘린더 보고서 옵션 이해](/help/reporting/basic-reporting/additional-calendar-options.md)
+      + [고급 캘린더 보고서 기능 살펴보기](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [활동 - 캘린더 보고서 만들기](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + 캔버스 대시보드 {#canvas-dashboards}
-      + [캔버스 대시보드 소개](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [Workfront에서 캔버스 대시보드 탐색](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [캔버스 대시보드에서 KPI 보고서 만들기](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [캔버스 대시보드에서 차트 보고서 만들기](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
       + [캔버스 대시보드에서 표 보고서 만들기](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
       + [캔버스 대시보드 보고서에 조건부 서식 추가](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-      + [캔버스 대시보드 보고서에서 OR 필터 사용](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+      + [캔버스 대시보드 보고서에 OR 필터 적용](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
 
 + 리소스 관리 {#manage-resources}
    + 리소스 관리 {#resource-management}
@@ -335,28 +335,28 @@ ht-degree: 83%
       + [Adobe Workfront 플러그인을 사용하여 Creative Cloud와 통합](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ko)
-      + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=ko)
-      + [문서 전송 및 자산 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=ko)
-      + [버전 기록 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=ko)
+      + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [문서 전송 및 자산 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [버전 기록 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [G Suite 통합으로 워크플로 개선](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [&#x200B; [!DNL Jira] 통합 기능으로 가시성 생성](/help/integrations/jira/jira.md)
+      + [ [!DNL Jira] 통합 기능으로 가시성 생성](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook 추가 기능 설치](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Microsoft Teams용 Adobe Workfront 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=ko)
-      + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=ko)
-      + [Microsoft Teams의 Adobe Workfront 액세스](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 항목 검색 및 공유](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=ko)
+      + [Microsoft Teams용 Adobe Workfront 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [Microsoft Teams의 Adobe Workfront 액세스](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 항목 검색 및 공유](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [[!UICONTROL Slack]용 Workfront 이해](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -519,10 +519,10 @@ ht-degree: 83%
 
 + Workfront DAM {#workfront-dam-program}
    + 시스템 설정 {#system-setup}
-      + [&#x200B; [!DNL Workfront DAM] 이해](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [ [!DNL Workfront DAM] 이해](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [시스템 설정 이해](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [[!UICONTROL Brand Portal] 이해](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [&#x200B; [!DNL Workfront DAM] 전략의 분석 및 계획](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [ [!DNL Workfront DAM] 전략의 분석 및 계획](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [그룹 및 사용자 설정](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront에서 통합 구성](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [맞춤화 [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)

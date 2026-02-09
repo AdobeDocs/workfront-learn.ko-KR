@@ -1,5 +1,5 @@
 ---
-title: 요청 흐름 만들기
+title: Workfront에서 요청 흐름 만들기
 description: 효율적인 할당을 위한 라우팅 규칙을 만들고, 중첩된 항목 그룹으로 요청을 구성하고, 대기열 항목을 워크플로우에 연결하고, 요청 흐름 기능을 테스트하고, 정확성과 효율성을 보장하기 위해 유연하게 조정하여 요청 관리를 최적화합니다.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 9%
+source-wordcount: '406'
+ht-degree: 7%
 
 ---
 
-# 요청 흐름 만들기
+# Workfront에서 요청 흐름 만들기
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ ht-degree: 9%
 이 비디오에서는 라우팅 규칙, 주제 그룹, 사용자 정의 양식, 승인 프로세스 및 기본 기간에 연결된 대기열 주제를 만드는 방법을 보여 줍니다.
 마지막으로, 이 비디오에서는 설정이 올바르게 라우팅되는지 확인하기 위해 요청을 제출하여 설정을 테스트하는 방법을 보여 줍니다. &#x200B; 문제가 발생하면 대기열을 조정할 수 있습니다. &#x200B; 이 비디오에서는 적절한 라우팅 및 구성을 보장하기 위해 요청 흐름의 구조 및 기능을 확인하는 것이 중요함을 강조합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433829/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## 핵심 사항
 

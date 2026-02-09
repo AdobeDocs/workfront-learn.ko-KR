@@ -1,5 +1,5 @@
 ---
-title: 재무 업데이트
+title: 클라이언트 프로젝트의 재무 업데이트
 description: 요율 지정, 작업에 비용 및 수익 유형 할당, 지출 관리, 청구 기록 생성 등을 통해 비용 추적 및 청구를 간소화합니다. Workfront는 실제 청구를 하지 않습니다.
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '365'
 ht-degree: 11%
 
 ---
 
 
-# 재무 업데이트
+# 클라이언트 프로젝트의 재무 업데이트
 
 이 비디오는 클라이언트 프로젝트의 시간, 경비 추적 및 청구 기록 작성에 대한 자세한 안내서를 제공합니다. &#x200B; 주요 내용은 다음과 같습니다.
 

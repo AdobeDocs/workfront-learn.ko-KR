@@ -1,5 +1,5 @@
 ---
-title: 캘린더 보고서 인터페이스 이해
+title: 달력 보고서 인터페이스 살펴보기
 description: 캘린더 그룹화, 보기 및 작업을 포함한 캘린더 인터페이스에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ last-substantial-update: 2025-06-18T00:00:00Z
 thumbnail: understand-the-calendar-interface.png
 jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
-# 캘린더 보고서 인터페이스 이해
+# 달력 보고서 인터페이스 살펴보기
 
 캘린더 보고서는 캘린더 보기에 근무와 휴무를 표시하는 동적 보고서입니다. 다음 오브젝트에 대해 캘린더 보고서에 일자 정보를 표시할 수 있습니다.
 
@@ -35,4 +35,4 @@ ht-degree: 100%
 * 요약 정보
 * 애드혹 캘린더 항목을 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3438766/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops=1)

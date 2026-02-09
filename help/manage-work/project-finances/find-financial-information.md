@@ -1,5 +1,5 @@
 ---
-title: 재무 정보 찾기
+title: 프로젝트 및 작업에 대한 재무 정보 액세스 및 관리
 description: 프로젝트 및 작업에 대한 재무 데이터에 효율적으로 액세스하고 분석하고 관리하는 방법을 알아보십시오. 여기에는 프로젝트 및 작업 레벨에서의 예산, 수익, 비용 및 성과 지표가 포함됩니다.
 activity: use
 feature: Work Management
@@ -13,18 +13,18 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 21%
+source-wordcount: '217'
+ht-degree: 17%
 
 ---
 
-# 재무 정보 찾기
+# 프로젝트 및 작업에 대한 재무 정보 액세스 및 관리
 
 이 비디오에서는 프로젝트 및 작업의 재무 정보에 액세스하고 관리하는 방법을 설명합니다. &#x200B;프로젝트 및 작업 수준 모두에서 재무 데이터를 탐색하고 이해하는 방법에 대한 포괄적인 개요를 제공합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3415898/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

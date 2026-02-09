@@ -1,5 +1,5 @@
 ---
-title: EXISTS 필터 이해
+title: 복잡한 보고를 위해 EXISTS 필터 만들기
 description: EXISTS 필터가 무엇인지, 어떤 역할을 하는지, 그리고 처음부터 어떻게 빌드할 수 있는지 알아봅니다. 또한 EXISTS 필터의 많은 유용한 예를 살펴봅니다.
 activity: use
 team: Technical Marketing
@@ -11,22 +11,22 @@ jira: KT-1880
 last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '688'
 ht-degree: 4%
 
 ---
 
-# EXISTS 필터 이해
+# 복잡한 보고를 위해 EXISTS 필터 만들기
 
 EXISTS 필터는 표준 Report Builder에서 2 테이블/필드 이동 제한을 해결할 수 있는 고급 텍스트 모드 필터입니다. 또는 NOTEXISTS를 통해 특정 관계 조건이 부족한 시스템 내 오브젝트를 식별하는 데 사용할 수 있습니다.
 
 이 비디오에서는 EXISTS 필터를 만들어 증명 승인 보고서에서 &quot;현재 프로젝트에 대한 증명 승인&quot;을 보는 방법에 대해 알아봅니다.
 
-EXISTS 함수에 대한 자세한 설명은 [EXISTS 문을 사용하여 복잡한 텍스트 모드 필터 만들기](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) 설명서를 참조하십시오.
+EXISTS 함수에 대한 자세한 설명은 [EXISTS 문을 사용하여 복잡한 텍스트 모드 필터 만들기](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) 설명서를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471210/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## 존재함 필터 예
 

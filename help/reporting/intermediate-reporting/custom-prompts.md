@@ -1,5 +1,5 @@
 ---
-title: 사용자 정의 프롬프트 만들기
+title: 텍스트 모드를 사용하여 사용자 지정 프롬프트 만들기
 description: 사용자 정의 프롬프트의 정의, 텍스트 모드를 사용하여 사용자 정의 프롬프트를 만드는 방법 및 Workfront에서 보고에 사용할 수 있는 몇 가지 예를 알아봅니다.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 100%
+source-wordcount: '204'
+ht-degree: 94%
 
 ---
 
-# 사용자 정의 프롬프트 만들기
+# 텍스트 모드를 사용하여 사용자 지정 프롬프트 만들기
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 텍스트 모드를 사용하여 사용자 정의 프롬프트를 만드는 방법
 * 보고에 사용할 수 있는 몇 가지 예
 
->[!VIDEO](https://video.tv.adobe.com/v/3412693/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
 
 ## “사용자 정의 프롬프트 만들기” 활동
 

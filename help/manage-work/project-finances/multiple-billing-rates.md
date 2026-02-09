@@ -1,5 +1,5 @@
 ---
-title: 여러 과금 요율 이해
+title: 작업 역할에 대한 청구 요금 사용자 정의
 description: 프로젝트 수준에서 작업 역할에 대한 청구 요율을 사용자 정의하고 관리합니다.
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 11%
+source-wordcount: '173'
+ht-degree: 6%
 
 ---
 
 
-# 여러 과금 요율 이해
+# 작업 역할에 대한 청구 요금 사용자 정의
 
 이 비디오에서는 프로젝트 내의 작업 역할에 대한 청구 요율을 관리하고 사용자 지정하는 방법을 설명합니다. &#x200B;동일한 작업 역할에 대해 여러 청구 요율을 설정하고 정확한 시간 기반 조정을 보장하는 유연성이 강조됩니다. &#x200B;
 

@@ -1,5 +1,5 @@
 ---
-title: 요청 대기열 이해
+title: Workfront에서 요청 대기열 탐색
 description: 제출용 중앙 집중식 요청 대기열, 효율적인 대기열 관리 및 향상된 프로젝트 워크플로를 위해 제출된 요청에 대한 간편한 액세스를 통해 Workfront의 작업을 간소화합니다.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 12%
+source-wordcount: '225'
+ht-degree: 9%
 
 ---
 
-# 요청 대기열 이해
+# Workfront에서 요청 대기열 탐색
 
 이 비디오에서는 Workfront의 요청 대기열 개념, 용도 및 요청을 제출하고 관리하는 방법에 대해 설명합니다. &#x200B; 요청 대기열은 다양한 유형의 요청을 제출하는 중앙 집중식 위치 역할을 합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447017/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

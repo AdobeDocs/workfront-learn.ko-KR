@@ -1,5 +1,5 @@
 ---
-title: 기본 제공 프로젝트 필터 이해
+title: 기본 제공 프로젝트 필터 탐색
 description: 기본 제공 프로젝트 필터를 검토하여 빌드 방법을 확인하고 Workfront에서 고유한 프로젝트 필터를 생성하는 방법을 알아봅니다.
 activity: use
 feature: Reports and Dashboards
@@ -12,21 +12,21 @@ last-substantial-update: 2025-07-24T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
-# 기본 제공 프로젝트 필터 이해
+# 기본 제공 프로젝트 필터 탐색
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
 
 * 기본 제공 프로젝트 필터를 검토하여 빌드 방법 확인
 * 학습한 내용을 사용하여 나만의 프로젝트 필터 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3412669/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops=0)
 
 ## “기본 제공 프로젝트 필터 이해하기” 활동
 

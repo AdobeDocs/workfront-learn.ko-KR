@@ -1,5 +1,5 @@
 ---
-title: 그룹화의 기본 텍스트 모드 이해
+title: Workfront에서 그룹화를 위한 기본 텍스트 모드 탐색
 description: 텍스트 모드, 카멜 대/소문자 및 Workfront의 보고서 그룹화에 사용할 수 있는 몇 가지 기본 텍스트 모드에 대해 알아봅니다.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 88%
+source-wordcount: '291'
+ht-degree: 82%
 
 ---
 
-# 그룹화의 기본 텍스트 모드 이해
+# Workfront에서 그룹화를 위한 기본 텍스트 모드 탐색
 
 >[!PREREQUISITES]
 >
@@ -40,7 +40,7 @@ ht-degree: 88%
 * 카멜 표기법의 정의
 * 보고서 그룹화에 사용할 수 있는 _텍스트 모드 코드 블록_
 
->[!VIDEO](https://video.tv.adobe.com/v/3470786/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops=0)
 
 ## “그룹화의 기본 텍스트 모드 이해하기” 활동
 

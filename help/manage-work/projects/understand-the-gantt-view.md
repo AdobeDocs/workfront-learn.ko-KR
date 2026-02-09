@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL 간트] 보기 이해'
+title: 프로젝트 관리를 위해 [!UICONTROL 간트] 보기 탐색
 description: 간트 차트 를 통해 프로젝트 효율성을 극대화하여 전체적인 화면 보기, 진행 상황 추적, 마일스톤 관리, 전임 작업 인사이트 및 사용자 지정 가능한 옵션을 제공함으로써 작업 및 리소스 관리를 간소화합니다.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 13%
+source-wordcount: '369'
+ht-degree: 11%
 
 ---
 
-# [!UICONTROL 간트] 보기 이해
+# 프로젝트 관리를 위해 [!UICONTROL 간트] 보기 탐색
 
 이 비디오에서는 프로젝트 간트 차트 및 작업 간트 차트 를 사용하여 작업과 프로젝트를 효과적으로 시각화하고 관리하는 방법을 설명합니다. &#x200B; 간트 차트는 작업, 템플릿 및 프로젝트에 대한 전체적인 뷰를 제공하며 일반적으로 포트폴리오 내에서 프로젝트 간(특히 리소스를 공유하는 프로젝트) 관계를 이해하는 데 사용됩니다. &#x200B;
 
@@ -40,7 +40,7 @@ ht-degree: 13%
 
 이 비디오에서는 간트 차트의 유연성이 강조되어 사용자가 보기를 사용자 정의하고 여러 요소를 동시에 표시하여 프로젝트를 더 잘 관리할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448013/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 온라인에서 [간트 차트 시작하기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=ko-KR) 문서를 통해 자세히 알아볼 수 있습니다.
 

@@ -1,5 +1,5 @@
 ---
-title: 시간 기록 및 검토
+title: 프로젝트 시간 기록 및 검토
 description: 프로젝트를 종료하기 전에 미해결 시간을 기록하고 기록된 시간을 검토합니다.
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 82%
 
 ---
 
-# 시간 기록 및 검토
+# 프로젝트 시간 기록 및 검토
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
 
 * 프로젝트에 기록된 시간 검토
 * 필요한 경우 프로젝트 시간 승인
 
->[!VIDEO](https://video.tv.adobe.com/v/3441076/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

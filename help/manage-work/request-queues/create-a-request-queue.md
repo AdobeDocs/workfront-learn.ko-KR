@@ -1,5 +1,5 @@
 ---
-title: 요청 대기열 만들기
+title: Workfront에서 요청 대기열 만들기
 description: 액세스 권한을 정의하고, 요청 유형 및 필드를 사용자 정의하고, 큐를 활성화하고, 원활한 프로젝트 제출 관리를 위한 기능을 테스트하여 효율적인 Workfront 요청 큐를 만듭니다.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 11%
+source-wordcount: '248'
+ht-degree: 8%
 
 ---
 
-# 요청 대기열 만들기
+# Workfront에서 요청 대기열 만들기
 
 이 비디오에서는 Workfont 내에 요청 대기열을 만드는 방법에 대한 단계별 안내서를 제공합니다. &#x200B; 이 비디오는 새로 생성된 대기열을 사용하여 요청을 제출하는 방법을 보여 주며, &quot;제출된 요청&quot; 탭에 세부 정보를 입력하고 제출을 확인하는 프로세스를 보여 줍니다. &#x200B;
 
