@@ -27,7 +27,7 @@ ht-degree: 82%
 * 프로젝트에 기록된 시간 검토
 * 필요한 경우 프로젝트 시간 승인
 
->[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441076/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

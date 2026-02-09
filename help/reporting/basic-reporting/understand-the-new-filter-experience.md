@@ -26,4 +26,4 @@ ht-degree: 78%
 * 필터 만들기 및 편집
 * 스택 필터
 
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422819/?captions=kor&quality=12&learn=on&enablevpops=1)

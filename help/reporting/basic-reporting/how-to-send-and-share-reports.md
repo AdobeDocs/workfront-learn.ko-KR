@@ -27,7 +27,7 @@ ht-degree: 58%
 * 사용자와 보고서를 공유하는 방법
 * 수신자가 Workfront 보고서에서 확인하고 수행할 수 있는 사항
 
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3447819/?captions=kor&quality=12&learn=on&enablevpops=0)
 
 ## 핵심 사항
 

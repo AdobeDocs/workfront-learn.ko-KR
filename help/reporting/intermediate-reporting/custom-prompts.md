@@ -27,7 +27,7 @@ ht-degree: 94%
 * 텍스트 모드를 사용하여 사용자 정의 프롬프트를 만드는 방법
 * 보고에 사용할 수 있는 몇 가지 예
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3412693/?captions=kor&quality=12&learn=on&enablevpops=0)
 
 ## “사용자 정의 프롬프트 만들기” 활동
 

@@ -35,4 +35,4 @@ ht-degree: 87%
 * 캘린더 공유
 * 캘린더 삭제
 
->[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445063/?captions=kor&quality=12&learn=on&enablevpops=1)

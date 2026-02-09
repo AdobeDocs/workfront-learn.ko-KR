@@ -36,7 +36,7 @@ ht-degree: 92%
 * 종속 루프 오류
 * 요령 및 모범 사례
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454536/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 전임 작업에 대한 자세한 내용은 [작업 전임 작업 사용](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=ko)을 참조하십시오.
 

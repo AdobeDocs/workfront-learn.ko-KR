@@ -24,7 +24,7 @@ ht-degree: 17%
 
 이 비디오에서는 프로젝트 및 작업의 재무 정보에 액세스하고 관리하는 방법을 설명합니다. &#x200B;프로젝트 및 작업 수준 모두에서 재무 데이터를 탐색하고 이해하는 방법에 대한 포괄적인 개요를 제공합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415898/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

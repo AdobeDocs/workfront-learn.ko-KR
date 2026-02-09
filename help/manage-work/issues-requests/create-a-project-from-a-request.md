@@ -23,7 +23,7 @@ ht-degree: 8%
 
 이 비디오에서는 문제 또는 요청을 프로젝트로 변환하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446629/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 
