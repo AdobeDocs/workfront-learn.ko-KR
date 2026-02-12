@@ -345,7 +345,7 @@ ht-degree: 76%
       + [G Suite 통합으로 워크플로 개선](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [ [!DNL Jira] 통합 기능으로 가시성 생성](/help/integrations/jira/jira.md)
+      + [&#x200B; [!DNL Jira] 통합 기능으로 가시성 생성](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook 추가 기능 설치](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -520,10 +520,10 @@ ht-degree: 76%
 
 + Workfront DAM {#workfront-dam-program}
    + 시스템 설정 {#system-setup}
-      + [ [!DNL Workfront DAM] 이해](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [&#x200B; [!DNL Workfront DAM] 이해](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [시스템 설정 이해](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [[!UICONTROL Brand Portal] 이해](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [ [!DNL Workfront DAM] 전략의 분석 및 계획](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [&#x200B; [!DNL Workfront DAM] 전략의 분석 및 계획](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [그룹 및 사용자 설정](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront에서 통합 구성](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [맞춤화 [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
