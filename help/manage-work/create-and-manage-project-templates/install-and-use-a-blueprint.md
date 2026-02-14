@@ -23,7 +23,7 @@ ht-degree: 24%
 관리자가 블루프린트를 설치하는 방법과 사용자가 블루프린트를 사용하는 방법을 알아봅니다. 이 예에서는 &quot;신규 사용자를 위한 Workfront 교육&quot; 블루프린트를 설치하고 템플릿과 작성된 보기를 교육 체크리스트로 사용하여 Workfront에서 사용자를 활성화하려고 합니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479842/?captions=kor&quality=12&learn=on&enablevpops=0)
 
 ## 핵심 사항
 
