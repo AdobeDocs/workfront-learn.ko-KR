@@ -12,7 +12,7 @@ thumbnail: KT11038.png
 last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 181f611224fc0a981008b04579aa9886594dc183
+source-git-commit: be157b67df534e0be0f58e8aa04a6646950541d0
 workflow-type: tm+mt
 source-wordcount: '1181'
 ht-degree: 77%
@@ -50,19 +50,19 @@ Workfront Fusion에 처음 로그인하고 첫 번째 시나리오를 빌드할 
 
 1. Workfront 인스턴스에 연결하려면 먼저 해당 Workfront 인스턴스에 OAuth 2.0 커넥터를 만들어야 합니다. Workfront 인스턴스에 로그인하려면 **설정 > 시스템 > OAuth2 애플리케이션**(으)로 이동한 다음 **앱 통합 만들기**&#x200B;를 클릭합니다.
 
-아래와 같이 양식의 첫 페이지를 작성하고 **만들기**&#x200B;를 클릭합니다.
+   아래와 같이 양식의 첫 페이지를 작성하고 **만들기**&#x200B;를 클릭합니다.
 
-![초기 시나리오 디자인 이미지 3a](../12-exercises/assets/initial-scenario-design-3a.png)
+   ![초기 시나리오 디자인 이미지 3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
-다음 화면이 나타나면 **리디렉션 URL** 필드에 다음 URL을 입력하십시오.
+1. 다음 화면이 나타나면 **리디렉션 URL** 필드에 다음 URL을 입력하십시오.
 
-`https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
+   `https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-![초기 시나리오 디자인 이미지 3b](../12-exercises/assets/initial-scenario-design-3b.png)
+   ![초기 시나리오 디자인 이미지 3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-**클라이언트 암호 추가** 단추를 클릭합니다. 클라이언트 암호가 나타납니다. 복사한 후 나중에 검색할 수 있는 위치에 저장합니다. Fusion 시나리오에서 이 기능이 필요합니다. **클라이언트 ID**&#x200B;도 복사하고 저장해 두십시오. 복사가 완료되면 응용 프로그램의 맨 아래에 있는 **저장**&#x200B;을 클릭하세요.
+1. **클라이언트 암호 추가** 단추를 클릭합니다. 클라이언트 암호가 나타납니다. 복사한 후 나중에 검색할 수 있는 위치에 저장합니다. Fusion 시나리오에서 이 기능이 필요합니다. **클라이언트 ID**&#x200B;도 복사하고 저장해 두십시오. 복사가 완료되면 응용 프로그램의 맨 아래에 있는 **저장**&#x200B;을 클릭하세요.
 
-![초기 시나리오 디자인 이미지 3c](../12-exercises/assets/initial-scenario-design-3c.png)
+   ![초기 시나리오 디자인 이미지 3c](../12-exercises/assets/initial-scenario-design-3c.png)
 
 1. Fusion으로 돌아가 **추가** 단추를 클릭하여 Workfront에 연결합니다.
 
