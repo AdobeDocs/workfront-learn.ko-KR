@@ -9,13 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
-last-substantial-update: 2025-06-02T00:00:00Z
+last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
+source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
 workflow-type: tm+mt
-source-wordcount: '985'
-ht-degree: 97%
+source-wordcount: '1181'
+ht-degree: 77%
 
 ---
 
@@ -48,19 +48,37 @@ Workfront Fusion에 처음 로그인하고 첫 번째 시나리오를 빌드할 
 
    **Workfront 계정에 대한 모듈 연결을 인증합니다.**
 
-1. 처음으로 연결을 만들려면 추가 버튼을 클릭합니다.
+1. Workfront 인스턴스에 연결하려면 먼저 해당 Workfront 인스턴스에 OAuth 2.0 커넥터를 만들어야 합니다. Workfront 인스턴스에 로그인하려면 **설정 > 시스템 > OAuth2 애플리케이션**(으)로 이동한 다음 **앱 통합 만들기**&#x200B;를 클릭합니다.
 
-   ![초기 시나리오 디자인 이미지 3](../12-exercises/assets/initial-scenario-design-3.png)
+아래와 같이 양식의 첫 페이지를 작성하고 **만들기**&#x200B;를 클릭합니다.
 
-1. 연결에 “My Workfront 2020”과 같은 이름을 지정합니다.
+![초기 시나리오 디자인 이미지 3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
-   ![초기 시나리오 디자인 이미지 4](../12-exercises/assets/initial-scenario-design-4.png)
+다음 화면이 나타나면 **리디렉션 URL** 필드에 다음 URL을 입력하십시오.
 
-1. **Workfront 테스트 드라이브 계정**&#x200B;의 URL을 입력한 후 [다음]을 클릭하십시오.
+`https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-   ![초기 시나리오 디자인 이미지 5](../12-exercises/assets/initial-scenario-design-5.png)
+![초기 시나리오 디자인 이미지 3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-1. 암호를 입력하고 로그인을 클릭합니다.
+**클라이언트 암호 추가** 단추를 클릭합니다. 클라이언트 암호가 나타납니다. 복사한 후 나중에 검색할 수 있는 위치에 저장합니다. Fusion 시나리오에서 이 기능이 필요합니다. **클라이언트 ID**&#x200B;도 복사하고 저장해 두십시오. 복사가 완료되면 응용 프로그램의 맨 아래에 있는 **저장**&#x200B;을 클릭하세요.
+
+![초기 시나리오 디자인 이미지 3c](../12-exercises/assets/initial-scenario-design-3c.png)
+
+1. Fusion으로 돌아가 **추가** 단추를 클릭하여 Workfront에 연결합니다.
+
+   ![초기 시나리오 디자인 이미지 3d](../12-exercises/assets/initial-scenario-design-3d.png)
+
+1. 연결 유형으로 **Adobe Workfront auth**&#x200B;을(를) 선택하고 **고급 설정 표시** 상자를 선택합니다. **계속**&#x200B;을 클릭합니다.
+
+   ![초기 시나리오 디자인 이미지 4a](../12-exercises/assets/initial-scenario-design-4a.png)
+
+1. 이전에 저장한 **클라이언트 ID** 및 **클라이언트 암호**&#x200B;을(를) 사용하여 여기에 입력하십시오. **인증 URL**&#x200B;의 경우 필드 아래에 지정된 기본 인증 URL을 복사하고 `oauth.my`을(를) `<domain name>.testdrive`(으)로 바꾼 다음 **계속**&#x200B;을(를) 클릭하는 것이 가장 쉽습니다.
+
+   ![초기 시나리오 디자인 이미지 5a](../12-exercises/assets/initial-scenario-design-5a.png)
+
+1. 연결을 인증해야 합니다. Workfront에 로그인해야 할 수 있습니다. **액세스 허용**&#x200B;을 클릭합니다.
+
+   ![초기 시나리오 디자인 이미지 5b](../12-exercises/assets/initial-scenario-design-5b.png)
 
    **연결이 설정됩니다. 이제 Workfront에서 다운로드하려는 문서의 문서 ID를 입력합니다.**
 
