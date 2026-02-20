@@ -13,7 +13,7 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
+source-git-commit: 181f611224fc0a981008b04579aa9886594dc183
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 82%
@@ -34,9 +34,9 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 * 시나리오 디자이너 사용
 * 기본 시나리오 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3415976/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
-## 다음은 테스트 드라이브 인스턴스에서 OAuth 앱 통합을 만들 때 **리디렉션 URL** 필드에 붙여 넣을 URL입니다
+**테스트 드라이브 인스턴스에서 OAuth 앱 통합을 만들 때 &quot;리디렉션 URL&quot; 필드에 붙여 넣을 URL은 다음과 같습니다.**
 
 ```
 https://app.workfrontfusion.com/oauth/cb/workfront-workfront
@@ -44,4 +44,4 @@ https://app.workfrontfusion.com/oauth/cb/workfront-workfront
 
 ## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
