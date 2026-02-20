@@ -34,7 +34,7 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 * 시나리오 디자이너 사용
 * 기본 시나리오 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415976/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 **테스트 드라이브 인스턴스에서 OAuth 앱 통합을 만들 때 &quot;리디렉션 URL&quot; 필드에 붙여 넣을 URL은 다음과 같습니다.**
 
