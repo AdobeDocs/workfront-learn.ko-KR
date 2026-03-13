@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 튜토리얼
-user-guide-description: Workfront 기능 및 설정을 더 잘 이해하는 데 도움이 되도록 설계된 교육 비디오 및 문서 라이브러리입니다.
-source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
+user-guide-description: Workfront 기능 및 설정을 더 잘 이해할 수 있도록 설계된 교육 비디오 및 문서 라이브러리입니다.
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '2488'
+source-wordcount: '2485'
 ht-degree: 76%
 
 ---
@@ -158,7 +158,7 @@ ht-degree: 76%
       + [Portfolio 최적화 도구를 사용하여 프로젝트 우선 순위 최적화](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 승인 프로세스 및 마일스톤 경로 {#approval-processes-and-milestone-paths}
-      + [글로벌 승인 프로세스 및 일회용 승인 프로세스 만들기](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [승인 프로세스 만들기 및 관리](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [요청 대기열에 문제 승인 프로세스 적용](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [디지털 작업 검토 및 승인](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [효과적으로 작업, 문제 및 승인 위임](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
@@ -336,28 +336,28 @@ ht-degree: 76%
       + [Adobe Workfront 플러그인을 사용하여 Creative Cloud와 통합](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ko)
-      + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=ko)
-      + [문서 전송 및 자산 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=ko)
-      + [버전 기록 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=ko)
+      + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [문서 전송 및 자산 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [버전 기록 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [G Suite 통합으로 워크플로 개선](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [&#x200B; [!DNL Jira] 통합 기능으로 가시성 생성](/help/integrations/jira/jira.md)
+      + [ [!DNL Jira] 통합 기능으로 가시성 생성](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Microsoft Outlook 추가 기능 설치](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Microsoft Teams용 Adobe Workfront 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=ko)
-      + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=ko)
-      + [Microsoft Teams의 Adobe Workfront 액세스](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 항목 검색 및 공유](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=ko)
-      + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=ko)
+      + [Microsoft Teams용 Adobe Workfront 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [Microsoft Teams의 Adobe Workfront 액세스](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 항목 검색 및 공유](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [[!UICONTROL Slack]용 Workfront 이해](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -520,10 +520,10 @@ ht-degree: 76%
 
 + Workfront DAM {#workfront-dam-program}
    + 시스템 설정 {#system-setup}
-      + [&#x200B; [!DNL Workfront DAM] 이해](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [ [!DNL Workfront DAM] 이해](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [시스템 설정 이해](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [[!UICONTROL Brand Portal] 이해](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [&#x200B; [!DNL Workfront DAM] 전략의 분석 및 계획](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [ [!DNL Workfront DAM] 전략의 분석 및 계획](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [그룹 및 사용자 설정](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Workfront에서 통합 구성](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [맞춤화 [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)

@@ -1,5 +1,5 @@
 ---
-title: 글로벌 승인 프로세스 및 일회용 승인 프로세스 만들기
+title: 승인 프로세스 만들기 및 관리
 description: 작업, 프로젝트 또는 문제에 대해 전역 및 일회용 승인 프로세스를 모두 활용하고, 다단계 단계별 승인을 구현하고, 프로젝트 템플릿에서 재사용성을 통해 효율성을 높여 승인 워크플로를 향상시킵니다.
 activity: use
 feature: Approvals
@@ -13,20 +13,20 @@ last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 25%
+source-wordcount: '288'
+ht-degree: 20%
 
 ---
 
-# 글로벌 승인 프로세스 및 일회용 승인 프로세스 만들기
+# 승인 프로세스 만들기 및 관리
 
 이 비디오에서는 프로젝트, 작업 또는 문제에 대한 승인 프로세스를 만들고 관리하는 방법을 설명하며, 전역 승인 프로세스와 일회용 승인 프로세스를 구분합니다.
 이 비디오에서는 승인 프로세스를 만들고, 승인자를 설정하고, 상태를 구성하고, 여러 수준의 승인을 위해 단계를 사용하는 방법을 보여 줍니다.
 &#x200B;글로벌 프로세스 및 단일 사용 프로세스를 통해 효과적으로 작업 승인을 관리할 수 있는 유연성을 강조하고 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434694/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 
