@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
@@ -31,8 +31,9 @@ ht-degree: 100%
 
 * [!UICONTROL Brand Connect] 개요를 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418794/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on&enablevpops=1)
 
-<!-- Learn more graphic and link to article, below
+<!--
+Learn more graphic and link to article, below
 * Workfront DAM within Workfront
- -->
+-->

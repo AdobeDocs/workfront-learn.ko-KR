@@ -1,6 +1,6 @@
 ---
 title: 사용자를 위한 프로젝트 재무
-description: 프로젝트에 대한 재무 정보를 추적하고, 비용 및 수익 유형을 설정하고, 청구 요금을 재정의하는 방법을 알아봅니다.
+description: 프로젝트에 대한 재무 정보를 추적하고, 비용 및 수익 유형을 설정하고, 과금 요금을 재정의하는 방법을 알아보십시오.
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,12 +11,12 @@ last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-13492
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 1f9d3155-9aa6-422f-a8ac-0f421199df65
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '146'
+ht-degree: 14%
 
 ---
 

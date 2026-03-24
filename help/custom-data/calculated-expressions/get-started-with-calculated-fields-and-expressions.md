@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: gs-calc-fields-expressions.png
 exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 100%
@@ -18,7 +18,9 @@ ht-degree: 100%
 
 # 계산된 필드 및 표현식 시작하기
 
-<!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
+<!--
+**Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.
+-->
 
 Workfront는 여러 비즈니스 영역에서 공통으로 사용되며 업무 관리에 정기적으로 사용되는 다양한 필드를 제공합니다. 계획된 완료 일자, 프로젝트 예산, 작업 할당자 이름 등과 같은 필드
 

@@ -5,11 +5,11 @@ feature: Work Management
 breadcrumb-title: 작업 관리 - 시작
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 68%
+ht-degree: 69%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 68%
       + [[!UICONTROL 작업 노력] 이해](understand-work-effort.md)
       + [실제로 프로젝트 실행](take-a-project-live.md)
 
-   + 프로젝트 관리{#manage-a-project}
+   + 프로젝트 관리 {#manage-a-project}
       + [프로젝트 관리 시작하기](getting-started-manage-a-project.md)
       + [프로젝트 찾기](find-projects.md)
       + [프로젝트 공유](share-a-project.md)

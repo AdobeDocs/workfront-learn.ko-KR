@@ -11,9 +11,9 @@ last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '766'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Workfront을 최대한 활용하는 방법에 대해 자세히 알아보십시�
 >
 >* Workfront 사용에 대한 올바른 이해
 >* 프로젝트를 만들 수 있는 권한이 활성화된 표준 라이선스 유형
->* [작업 관리 - 시작](https://experienceleague.adobe.com/?lang=ko&recommended=Workfront-U-1-2022.1.planners)
+>* [작업 관리 - 시작](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
 
 
 ## 프로젝트 템플릿
