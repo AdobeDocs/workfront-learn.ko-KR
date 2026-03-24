@@ -31,7 +31,7 @@ ht-degree: 100%
 
 * [!UICONTROL Brand Connect] 개요를 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418794/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more graphic and link to article, below

@@ -28,7 +28,7 @@ ht-degree: 100%
 * 그룹 만들기 및 편집
 * 사용자 추가 및 편집
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414470/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 그룹 및 사용자 검토
 
