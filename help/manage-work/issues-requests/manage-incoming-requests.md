@@ -9,9 +9,8 @@ role: User
 level: Beginner
 thumbnail: manage-incoming-requests.jpeg
 jira: KT-10154
-hidefromtoc: true
 exl-id: df831816-fc60-4c63-b46c-ec2ba49fb061
-source-git-commit: fa555822c372f09e0a99e9470a3f45c03f1ddf3c
+source-git-commit: d35545dcc670baef47834464a0a7aae9e50daf18
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 100%
@@ -22,5 +21,5 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->**요청 관리**&#x200B;는 이제 **[요청 찾기 및 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html?lang=ko)**&#x200B;에 포함되어 있습니다.
+>**요청 관리**&#x200B;는 이제 **[요청 찾기 및 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html)**&#x200B;에 포함되어 있습니다.
 
