@@ -21,5 +21,5 @@ ht-degree: 0%
 
 사용자 환경 설정에 따라 여러 언어로 콘텐츠를 표시하도록 사용자 정의 현지화를 구성하는 방법에 대해 알아봅니다. 이 기능은 팀이 자국어로 작업할 수 있도록 하여 지역 간 공동 작업을 간소화합니다. 아래 비디오를 통해 언어별 번역을 효율적으로 설정하고 관리하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483438/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483446/?captions=kor&learn=on&enablevpops)
 
