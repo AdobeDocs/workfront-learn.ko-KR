@@ -21,5 +21,5 @@ ht-degree: 0%
 
 사용자 환경 설정에 따라 여러 언어로 콘텐츠를 표시하도록 사용자 정의 현지화를 구성하는 방법에 대해 알아봅니다. 이를 통해 팀이 모국어로 작업할 수 있으므로 지역 간 협업이 간소화됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483438/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483446/?captions=kor&learn=on&enablevpops)
 
