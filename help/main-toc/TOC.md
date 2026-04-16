@@ -1,7 +1,7 @@
 ---
 user-guide-title: Workfront 튜토리얼
 user-guide-description: Workfront 기능 및 설정을 더 잘 이해할 수 있도록 설계된 교육 비디오 및 문서 라이브러리입니다.
-source-git-commit: bbf9d52b51168d846cc317a44b5eeaed432f8e5a
+source-git-commit: 3b5a94cd50070e090fce922898a546118efbb76b
 workflow-type: tm+mt
 source-wordcount: '2499'
 ht-degree: 76%
