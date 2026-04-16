@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Intermediate
 doc-type: Feature Video
 duration: 151
-last-substantial-update: 2026-04-15T00:00:00Z
+last-substantial-update: 2026-04-16T00:00:00Z
 jira: KT-20169
-source-git-commit: 39fde05ee231b996b4b97169addc5c493c26c308
+source-git-commit: 3b5a94cd50070e090fce922898a546118efbb76b
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -20,5 +20,5 @@ ht-degree: 0%
 
 데이터의 정확성을 보장하기 위해 사용자 정의 양식에 유효성 검사 논리를 추가하는 방법을 알아봅니다. 유효성 검사 논리를 구현하면 오류를 방지하고 프로세스를 간소화할 수 있으며 팀의 효율성을 높일 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483433/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483426/?learn=on&enablevpops)
 
