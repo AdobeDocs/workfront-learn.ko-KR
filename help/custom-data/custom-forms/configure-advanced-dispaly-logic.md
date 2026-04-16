@@ -21,5 +21,5 @@ ht-degree: 0%
 
 고급 표시 논리 표현식을 사용하여 사용자 정의 양식 필드 및 섹션의 가시성을 제어하면 보다 동적이고 맞춤화된 양식을 만들고, 특정 사용자 요구 사항에 맞게 조정하며, 워크플로우 효율성을 향상시킬 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483439/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483458/?captions=kor&learn=on&enablevpops)
 
