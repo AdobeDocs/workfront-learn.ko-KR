@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 튜토리얼
 user-guide-description: Workfront 기능 및 설정을 더 잘 이해할 수 있도록 설계된 교육 비디오 및 문서 라이브러리입니다.
-source-git-commit: 7d929d47386ce95aa82689117dcb1e4d204130cc
+source-git-commit: f846da511d1b9a23eca21e249ea619dba5321420
 workflow-type: tm+mt
-source-wordcount: '2485'
+source-wordcount: '2494'
 ht-degree: 76%
 
 ---
@@ -193,6 +193,7 @@ ht-degree: 76%
 
    + 중간 프로젝트 {#intermediate-projects}
       + [기본 기간 유형 및 작업 제한](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [기준선, 스냅샷 및 자동화된 보고서를 사용한 기본 프로젝트 추적](/help/manage-work/intermediate-projects/baselines-snapshots-and-automated-reports.md)
       + [프로젝트 간 전임 작업으로 종속성 설정](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
       + [기본 고급 작업 종속성](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
