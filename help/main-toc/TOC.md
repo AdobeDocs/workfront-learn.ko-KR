@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront 튜토리얼
 user-guide-description: Workfront 기능 및 설정을 더 잘 이해할 수 있도록 설계된 교육 비디오 및 문서 라이브러리입니다.
-source-git-commit: f846da511d1b9a23eca21e249ea619dba5321420
+source-git-commit: 81308974e68a409b69f789a98b3b570167f2a4fa
 workflow-type: tm+mt
-source-wordcount: '2494'
-ht-degree: 76%
+source-wordcount: '2508'
+ht-degree: 75%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 76%
       + [문제 유형 및 용어 사용자 정의](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [전역 기본 문제의 환경 설정 구성](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
       + [비즈니스 규칙 만들기 및 관리](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
+      + [사용자 정의 현지화 구성](/help/administration-and-setup/configure-system-defaults/configure-user-defined-localization.md)
 
    + 레이아웃 템플릿 {#layout-templates}
       + [레이아웃 템플릿이란 무엇입니까?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -88,6 +89,8 @@ ht-degree: 76%
       + [오브젝트에 사용자 정의 양식 첨부](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [사용자 정의 양식에 섹션 구분 및 논리 추가](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [사용자 정의 양식을 PDF로 내보내기](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
+      + [사용자 지정 Forms에 유효성 검사 논리 추가](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
+      + [고급 표시 논리 구성](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + 계산된 표현식 {#calculated-expressions}
       + [계산된 필드 및 표현식 시작하기](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
