@@ -79,7 +79,7 @@ Workfront의 대시보드에 있는 보고서의 예
 * 요청 작성
 * 제출된 요청 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413117/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 승인 대기 중인 항목
 
