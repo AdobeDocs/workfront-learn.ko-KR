@@ -12,10 +12,10 @@ hide: true
 jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '510'
-ht-degree: 100%
+source-wordcount: '513'
+ht-degree: 91%
 
 ---
 
@@ -40,7 +40,7 @@ Workfront의 보고서는 더 나은 의사결정을 더 빠르게 내리는 데
 
 ### 대시보드
 
-리더는 대시보드를 사용하여 조직에서 현재 진행 중인 작업의 모든 부분을 보고 빠르게 드릴다운할 수 있습니다. 대시보드는 단순히 리더가 정기적으로 확인해야 할 정보를 제공하는 보고서 모음입니다. 대시보드는 완전히 사용자 정의할 수 있으므로 Workfront를 사용하는 사람은 누구나 자신에게 중요한 작업을 볼 수 있습니다.
+리더는 대시보드를 사용하여 조직이 현재 작업 중인 모든 작업 부분을 보고 신속하게 드릴다운할 수 있습니다.대시보드는 정보 리더가 정기적으로 확인해야 할 수 있는 정보를 제공하는 보고서 모음입니다. 대시보드는 완전히 사용자 정의할 수 있으므로 Workfront를 사용하는 사람은 누구나 자신에게 중요한 작업을 볼 수 있습니다.
 
 오른쪽 상단에 있는 메인 메뉴 아이콘에서 대시보드를 클릭하여 대시보드 영역에 액세스합니다.
 
@@ -58,7 +58,7 @@ Workfront의 보고서는 더 나은 의사결정을 더 빠르게 내리는 데
 
 Workfront의 보고서는 직원의 책임감을 높이는 데 도움이 될 수 있습니다. 보고서 활용의 핵심은 조직에서 보고서를 사용하는 방식에 대한 명확한 워크플로를 설정하는 것입니다. 모든 사람이 성공을 측정하는 데 사용되는 보고서를 명확하게 이해하고 있는지 확인하십시오.
 
-![Workfront의 대시보드에 있는 보고서의 예 ](assets/workfront-4-executives-3.png)
+![Workfront의 대시보드에 있는 보고서의 예 &#x200B;](assets/workfront-4-executives-3.png)
 
 Workfront의 대시보드에 있는 보고서의 예
 
@@ -79,7 +79,7 @@ Workfront의 대시보드에 있는 보고서의 예
 * 요청 작성
 * 제출된 요청 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3413117/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3413117/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 승인 대기 중인 항목
 

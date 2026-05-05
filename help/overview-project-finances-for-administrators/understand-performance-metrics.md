@@ -1,6 +1,6 @@
 ---
 title: 성과 지표 이해
-description: 성과 지표, 즉 [!UICONTROL 성과 지수 방식]([!UICONTROL PIM]) 및 [!UICONTROL 완료 시 추정치]([!UICONTROL EAC])를 사용하는 방법에 대해 알아봅니다.
+description: 성과 지표, 즉 [!UICONTROL 성과 지수 방식]​([!UICONTROL PIM]) 및 [!UICONTROL 완료 시 추정치]​([!UICONTROL EAC])를 사용하는 방법에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,9 +10,10 @@ role: User
 level: Intermediate
 jira: KT-10065
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: a7dbd937-0caa-4eb6-bb5d-bff6705e2972
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '445'
 ht-degree: 100%
 
 ---

@@ -12,7 +12,7 @@ jira: KT-8963
 hide: true
 doc-type: video
 exl-id: 6a1a682c-4437-4c1b-8373-5f4d07bb9c28
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 기존의 승인 진행 사용
 * 특정 프로젝트, 작업 또는 문제에 대한 기존 승인 프로세스 편집
 
->[!VIDEO](https://video.tv.adobe.com/v/3414476/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3414476/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

@@ -13,9 +13,9 @@ jira: KT-8774
 hide: true
 doc-type: video
 exl-id: d4e4a273-f712-4104-8c6b-ab7d29175451
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '51'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 100%
 
 * [!DNL Workfront] 프로젝트에서 작업을 구성하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3445603/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3445603/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

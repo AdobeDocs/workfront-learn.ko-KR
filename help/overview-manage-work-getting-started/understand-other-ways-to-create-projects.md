@@ -14,9 +14,9 @@ last-substantial-update: 2024-03-05T00:00:00Z
 hide: true
 doc-type: video
 exl-id: 7a446016-d856-4a93-8c42-bbd5cb670828
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 100%
 * 기존 프로젝트 복사
 * [!DNL Microsoft Project] 파일 가져오기
 
->[!VIDEO](https://video.tv.adobe.com/v/3432170/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3432170/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

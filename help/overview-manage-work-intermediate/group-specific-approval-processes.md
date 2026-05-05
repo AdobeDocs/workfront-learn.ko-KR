@@ -9,9 +9,10 @@ role: Admin
 level: Intermediate
 jira: KT-10017
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 9986469c-b02f-48ac-b71e-055473a2855b
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '214'
 ht-degree: 100%
 
 ---
@@ -35,4 +36,3 @@ ht-degree: 100%
 특정 그룹을 선택하면 해당 그룹에 사용 가능한 상태만 [!UICONTROL “상태가 설정되면 승인 프로세스 시작”] 메뉴에 나타납니다.
 
 상태 필드가 강조 표시된 ![[!UICONTROL 승인 프로세스 편집] 창](assets/admin-fund-approval-processes-3.png)
-

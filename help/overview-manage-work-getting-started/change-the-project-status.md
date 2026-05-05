@@ -13,7 +13,7 @@ last-substantial-update: 2023-05-12T00:00:00Z
 jira: KT-10127
 hide: true
 exl-id: 22920ca3-8185-4347-abaa-561cc41e7406
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 프로젝트 상태를 [!UICONTROL 완료]로 변경하는 이유
 * 프로젝트 상태를 [!UICONTROL 완료]로 변경할 수 없는 경우 수행할 작업
 
->[!VIDEO](https://video.tv.adobe.com/v/3439365/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3439365/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 이 주제와 관련된 추천 튜토리얼
 
