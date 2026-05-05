@@ -58,7 +58,7 @@ Workfront의 보고서는 더 나은 의사결정을 더 빠르게 내리는 데
 
 Workfront의 보고서는 직원의 책임감을 높이는 데 도움이 될 수 있습니다. 보고서 활용의 핵심은 조직에서 보고서를 사용하는 방식에 대한 명확한 워크플로를 설정하는 것입니다. 모든 사람이 성공을 측정하는 데 사용되는 보고서를 명확하게 이해하고 있는지 확인하십시오.
 
-![Workfront의 대시보드에 있는 보고서의 예 ](assets/workfront-4-executives-3.png)
+![Workfront의 대시보드에 있는 보고서의 예 &#x200B;](assets/workfront-4-executives-3.png)
 
 Workfront의 대시보드에 있는 보고서의 예
 
