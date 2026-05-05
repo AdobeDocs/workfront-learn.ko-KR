@@ -14,10 +14,10 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 56b8ea1a-d0cc-47ec-8d88-5f0ef204656f
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 98%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 * 계획된 시간을 추정하는 방법
 * 작업에 계획된 시간을 추가하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3445340/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
 
 
 ## 이 주제와 관련된 추천 튜토리얼 및 문서

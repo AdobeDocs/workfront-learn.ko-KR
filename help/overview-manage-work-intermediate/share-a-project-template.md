@@ -13,7 +13,7 @@ hide: true
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: d154cbc5-f52a-45aa-a236-8c3bf5e712fa
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 다른 사용자와 템플릿 공유
 * 템플릿을 사용하여 만든 프로젝트 공유
 
->[!VIDEO](https://video.tv.adobe.com/v/3415441/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops=1)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

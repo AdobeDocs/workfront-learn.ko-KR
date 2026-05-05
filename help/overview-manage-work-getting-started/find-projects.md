@@ -14,7 +14,7 @@ jira: KT-15115
 hide: true
 doc-type: video
 exl-id: 2cacf2b4-dc43-4a3b-bf39-90bfd46b10ad
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 이 비디오에서는 프로젝트를 찾는 빠르고 쉬운 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439555/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## 이 주제와 관련된 추천 튜토리얼
 

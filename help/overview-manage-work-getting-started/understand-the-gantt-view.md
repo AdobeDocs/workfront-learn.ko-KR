@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-10144
 hide: true
 exl-id: dd1d0a8d-3093-4e46-ac0d-20ae79fee8a4
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 프로젝트 간트 차트
 * 작업 간트 차트
 
->[!VIDEO](https://video.tv.adobe.com/v/3448013/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 온라인에서 [간트 차트 시작하기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=ko-KR) 문서를 통해 자세히 알아볼 수 있습니다.
 

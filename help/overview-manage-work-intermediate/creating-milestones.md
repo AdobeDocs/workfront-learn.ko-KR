@@ -11,7 +11,7 @@ level: Intermediate
 hide: true
 doc-type: video
 exl-id: d33c1c28-63db-4c74-b310-951d091052fa
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 마일스톤 경로를 만드는 방법
 * 마일스톤 경로에 마일스톤 단계를 추가하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3415916/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
