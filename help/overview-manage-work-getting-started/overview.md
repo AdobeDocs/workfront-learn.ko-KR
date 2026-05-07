@@ -13,11 +13,16 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:34:02.499Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -63,7 +68,7 @@ Adobe Workfront에서 프로젝트가 무엇인지, 프로젝트를 시작하고
 * [계획된 시간 이해](understand-planned-hours.md) - Adobe Workfront의 계획된 시간이 무엇인지, 계획된 시간이 프로젝트에 중요한 이유는 무엇인지, 계획된 시간을 작업에 추가하는 방법을 알아봅니다.
 * [프로젝트 타임라인 이해](understand-project-timelines.md) - 시작 또는 완료 날짜부터 프로젝트를 예약하는 방법을 알아봅니다. 그런 다음 기간, 전임 작업 및 작업 제한 사항이 프로젝트 계획에 어떤 영향을 미치는지 알아봅니다.
 * [날짜 유형 및 진행 상태 이해](understand-task-dates-and-progress-status.md) - 보기를 선택하여 Workfront의 다양한 날짜 유형을 비교하고 진행 상태 필드를 사용하는 방법을 알아봅니다.
-* [작업 노력 이해]](understand-work-effort.md) - 프로젝트 타임라인에서 계획된 시간 대신 [!UICONTROL 작업 노력]을 사용할 수 있는 방법을 알아봅니다.[!UICONTROL 
+* [작업 노력 이해](understand-work-effort.md) - 프로젝트 타임라인에서 계획된 시간 대신 [!UICONTROL 작업 노력]을 사용할 수 있는 방법을 알아봅니다.
 * [프로젝트를 실시간으로 활용](take-a-project-live.md) - 프로젝트 상태를 사용하여 프로젝트를 실시간으로 활용하는 방법에 대해 알아봅니다.
 
 ## 프로젝트 관리
