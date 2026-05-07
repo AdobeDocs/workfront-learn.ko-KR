@@ -8,15 +8,26 @@ role: Admin
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-02-01T00:00:00Z
+last-substantial-update: '2024-02-01T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T14:41:28.128Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 20%
+source-wordcount: 426
+ht-degree: 28%
 
 ---
 
@@ -29,23 +40,23 @@ ht-degree: 20%
 >* 또는 라우팅 규칙 및 사용자 정의 양식을 사용하는 요청 대기열을 만드는 것이 익숙합니다.
 
 이 비디오에서는 시스템 관리자를 위한 피드백 요청 대기열을 만드는 방법에 대한 단계별 안내서를 제공합니다.
-&#x200B;큐의 목적은 시스템 관리자가 만든 프로세스 및 워크플로에 대한 사용자 피드백을 수집하여 개선 및 최적화를 가능하게 하는 것입니다.
+큐&#x200B;의 목적은 시스템 관리자가 만든 프로세스 및 워크플로에 대한 사용자 피드백을 수집하여 개선 및 최적화를 가능하게 하는 것입니다.
 이 비디오에서는 사용자 참여의 중요성과 프로세스 개선의 투명성을 강조하여 관리자가 사용자와 피드백 보고서를 공유할 수 있도록 독려합니다.
-&#x200B;추가 지침을 위해 보고서 및 사용자 정의 양식을 만들기 위한 튜토리얼에 대한 링크가 제공됩니다.
+추가 &#x200B; 지침을 위해 보고서 및 사용자 정의 양식을 만들기 위한 튜토리얼에 대한 링크가 제공됩니다.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450504/?captions=kor&quality=12&learn=on&enablevpops=0)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **피드백 요청 대기열의 목적:** 대기열은 시스템 관리자가 만든 프로세스 및 워크플로에 대한 사용자 피드백을 수집하도록 설계되어 개선 및 최적화를 가능하게 합니다&#x200B;.
 * **피드백을 위한 사용자 지정 Forms:** 기본 필드가 아닌 필드에는 프로세스 유형, 등급 및 자세한 피드백과 같은 특정 정보를 수집하기 위해 피드백 문제에 첨부된 사용자 지정 양식이 필요합니다.
 * **라우팅 규칙 및 관리 팀:** 라우팅 규칙은 모든 요청이 관리 팀으로 전달되도록 하여 팀원이 피드백을 선택하여 처리할 수 있도록 합니다.
-* **보고서 통합:** 보고서는 피드백 제출을 요약하므로 관리자가 사용자 입력을 더 쉽게 추적하고 처리할 수 있습니다. &#x200B; 이러한 보고서를 사용자와 공유하면 투명성이 증진되고 참여를 촉진할 수 있습니다.
+* **보고서 통합:** 보고서는 피드백 제출을 요약하므로 관리자가 사용자 입력을 더 쉽게 추적하고 처리할 수 있습니다. 이러한 보고서를 &#x200B; 사용자와 공유하면 투명성이 증진되고 참여를 촉진할 수 있습니다.
 * **테스트 및 액세스 가능성:** 기능을 보장하기 위해 샘플 요청으로 큐를 테스트합니다. 이 워크플로우는 모든 사용자가 액세스할 수 있는 도움말 요청 대기열로 게시되며 기본 완료 기간은 10일입니다.
 
 
-비디오에 사용되는 **관리 팀 피드백 보고서**&#x200B;를 만드는 방법에 대해 알아보려면 **작업 보고서 만들기** 자습서에서 [관리 팀 피드백 보고서 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) 활동을 참조하십시오.
+비디오에 사용되는 **관리 팀 피드백 보고서**&#x200B;를 만드는 방법에 대해 알아보려면 [작업 보고서 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) 자습서에서 **관리 팀 피드백 보고서 만들기** 활동을 참조하십시오.
 
 사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=ko) 튜토리얼을 참조하십시오.
 

@@ -1,6 +1,6 @@
 ---
 title: 교정쇄 세부 정보 이해
-description: 요약 패널 및 [!UICONTROL 문서 세부 정보] 페이지를 통해 [!DNL  Workfront] 의 교정쇄를 뒷받침하는 세부 정보에 대해 더 자세히 알아봅니다.
+description: 요약 패널 및 [!UICONTROL 문서 세부 정보] 페이지를 통해 [!DNL &#x200B; Workfront] 의 교정쇄를 뒷받침하는 세부 정보에 대해 더 자세히 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,10 +10,21 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: cb72c429f0ef4cd9945282876aa49189dab1bd96
-workflow-type: ht
-source-wordcount: '1038'
-ht-degree: 100%
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:56:45.995Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 1038
+ht-degree: 97%
 
 ---
 
@@ -47,7 +58,7 @@ ht-degree: 100%
 
 이렇게 하면 [!UICONTROL 문서 세부 정보] 페이지로 이동하고 왼쪽 패널에 다양한 추가 옵션이 표시됩니다.
 
-![[!DNL  Workfront]의 교정쇄 페이지에 대한 이미지입니다.](assets/document-details.png)
+![[!DNL &#x200B; Workfront]의 교정쇄 페이지에 대한 이미지입니다.](assets/document-details.png)
 
 교정 프로세스와 관련된 정보를 조회할 수 있는 기능은 [!DNL Workfront]에서 보유한 교정 권한에 따라 달라집니다.
 
@@ -68,7 +79,7 @@ ht-degree: 100%
 ![교정쇄 페이지에 있는 [!UICONTROL 교정쇄 뷰어 설정]에서 왼쪽 패널 메뉴의 [!UICONTROL 교정쇄 뷰어 설정] 옵션이 강조 표시된 이미지.](assets/proofing-settings-on-details-page.png)
 
 * **[!UICONTROL 로그인 필요. 이 교정쇄는 게스트 사용자와 공유할 수 없음] -** [!DNL Workfront] 교정 라이선스가 있는 사람에게만 교정쇄를 공유할 수 있습니다.
-* **[!UICONTROL 결정 시 전자 서명 필요] -** 교정쇄를 공유할 때 수신자에게 [!DNL Workfront]의 교정 권한이 있어야 하며, 수신자가 교정 관련 결정을 내릴 때 교정 암호를 입력하여 교정쇄에 “전자 서명”해야 합니다. (참고: 교정 암호는 [!DNL Workfront] 암호와 다릅니다. 교정 암호는 쉽게 액세스할 수 없으므로 대부분 수신자는 이 암호를 알지 못합니다.) Adobe에서는 이 기능을 사용하기 전에 [!DNL Workfront] 컨설턴트와 상담할 것을 권장합니다.
+* **[!UICONTROL 결정 시 전자 서명 필요] -** 교정쇄를 공유할 때 수신자에게 [!DNL Workfront]의 교정 권한이 있어야 하며, 수신자가 교정 관련 결정을 내릴 때 교정 암호를 입력하여 교정쇄에 “전자 서명”해야 합니다. (참고: 교정 암호는 [!DNL Workfront] 암호와 다릅니다. 증명 암호에 쉽게 액세스할 수 없으므로 대부분의 수신자는 이 암호를 알 수 없습니다.) Adobe에서는 이 기능을 사용하기 전에 [!DNL Workfront] 컨설턴트와 상담하는 것이 좋습니다.
 * **[!UICONTROL 필요한 모든 의사결정이 내려지면 교정쇄 잠금] -** 교정쇄에 대한 모든 의사결정이 내려진 후에 댓글, 답변, 의사결정 등을 추가할 수 없도록 교정쇄가 잠깁니다. 이 기능을 사용하면 교정 워크플로의 특정 단계뿐만 아니라 전체 교정쇄 버전이 잠깁니다.
 * **[!UICONTROL 원본 파일 다운로드 허용] -** 교정쇄 수신자가 교정 뷰어에서 교정쇄의 원본 소스 파일을 다운로드할 수 있습니다.
 * **[!UICONTROL 공개 URL 또는 임베드 코드를 통한 교정쇄 공유 허용] -** 교정쇄 수신자가 공개적으로 액세스 가능한 교정쇄 링크를 모든 사람과 공유할 수 있습니다.

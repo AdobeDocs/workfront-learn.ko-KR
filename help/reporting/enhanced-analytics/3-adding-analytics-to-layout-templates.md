@@ -9,23 +9,33 @@ role: Admin
 level: Beginner
 team: Technical Marketing
 jira: KT-8726
-last-substantial-update: 2024-04-02T00:00:00Z
+last-substantial-update: '2024-04-02T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:08:00.924Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: 156
 ht-degree: 100%
 
 ---
-
 
 # 향상된 분석 액세스 방법
 
 대부분의 다른 Workfront 기능과 마찬가지로, 메인 메뉴에서 [!UICONTROL 향상된 분석]에 액세스하려고 할 수 있습니다. 하지만 [!UICONTROL Analytics]는 기본적으로 메인 메뉴에서 제공되지 않습니다.
 
-![An image of the main menu ](assets/analytics-on-main-menu.png)
+![메인 메뉴 이미지 ](assets/analytics-on-main-menu.png)
 
 여기에 표시되지 않으면 시스템 또는 그룹 관리자가 추가해야 합니다. 레이아웃 템플릿에서 Analytics를 추가하게 됩니다. 아래 비디오에서 그 방법을 설명합니다.
 

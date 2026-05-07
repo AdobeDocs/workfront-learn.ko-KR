@@ -12,9 +12,20 @@ jira: KT-8731
 recommendations: noDisplay,catalog
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:11:13.165Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: 237
 ht-degree: 100%
 
 ---
@@ -25,7 +36,7 @@ ht-degree: 100%
 
 * 로그인한 사용자, 작업 상태 변경 및 완료된 작업을 기반으로 프로젝트를 비교하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3437443/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3437443/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 프로젝트 작업 비교
 
@@ -37,7 +48,7 @@ ht-degree: 100%
 * 다른 프로젝트와 비교한 하나의 프로젝트 활동.
 * 프로젝트 작업을 하는 사용자 및 빈도
 
-![An image showing project activity with numbers on areas described in the bullets below](assets/section-2-5.png)
+![아래 항목에서 설명한 영역에 번호가 표시된 프로젝트 활동 화면 이미지](assets/section-2-5.png)
 
 차트에서 다음과 같은 사항을 조회할 수 있습니다.
 

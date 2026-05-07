@@ -10,9 +10,20 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: 2102a538a93169650df317176aa922eaa4e436bf
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:53:14.058Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: 457
 ht-degree: 92%
 
 ---
@@ -60,7 +71,7 @@ ht-degree: 92%
 >Workfront 교육의 일부로 교정쇄를 보낸다는 사실을 동료에게 알려 주시기 바랍니다.
 
 
-컴퓨터에서 3~4개의 파일(PDF, 텍스트 파일 등)을 찾습니다.
+3개 또는 4개의 파일(PDF, 텍스트 파일 등) 찾기 컴퓨터에서.
 
 1. Workfront에서 실습 연습을 위해 사용 중인 프로젝트, 작업 또는 문제를 엽니다.
 1. 파일을 업로드하여 단일 교정쇄로 결합합니다.

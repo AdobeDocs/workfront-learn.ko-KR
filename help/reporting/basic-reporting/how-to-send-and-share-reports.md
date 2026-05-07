@@ -9,13 +9,24 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-last-substantial-update: 2025-05-29T00:00:00Z
+last-substantial-update: '2025-05-29T00:00:00.000Z'
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:18:44.706Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 58%
+source-wordcount: 354
+ht-degree: 59%
 
 ---
 
@@ -29,12 +40,12 @@ ht-degree: 58%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447819/?captions=kor&quality=12&learn=on&enablevpops=0)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **외부 사용자에게 보고서 보내기:** Workfront이 아닌 사용자에게 전자 메일 주소를 입력하여 보고서를 보낼 수 있으므로 조직 외부의 데이터를 쉽게 공유할 수 있습니다. &#x200B;
 * **액세스 권한 제어 가시성:** 보고서에 대한 받는 사람의 보기는 설정한 액세스 권한에 따라 다르므로 데이터 보안과 적절한 가시성을 보장합니다. &#x200B;
 * **스냅숏에 대한 반복 게재:** 예약된 게재는 특정 시간에 고정 데이터 스냅숏을 제공하므로 추세를 추적하고 프로젝트 데이터의 기록을 유지하는 데 유용합니다. &#x200B;
-* **팀과 보고서 공유:** 보고서를 개인, 팀 또는 작업 역할과 공유하여 보기 또는 관리 권한을 부여할 수 있습니다. &#x200B; 공유 보고서는 사용자 &quot;나와 공유&quot; 섹션에 표시됩니다. &#x200B;
+* **팀과 보고서 공유:** 보고서를 개인, 팀 또는 작업 역할과 공유하여 보기 또는 관리 권한을 부여할 수 있습니다. 공유 보고서&#x200B;은 사용자 &quot;나와 공유&quot; 섹션에 표시됩니다. &#x200B;
 * **공개 및 시스템 전체 공유:** 보고서는 외부 사용자에 대한 공개 링크를 통해 공유하거나 모든 Workfront 사용자에 대해 시스템 전체에 표시되도록 할 수 있으므로 데이터 공유에 유연성을 제공합니다.
 
 

@@ -11,9 +11,20 @@ level: Beginner
 jira: KT-10043
 recommendations: noDisplay,catalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:01:21.544Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 315
 ht-degree: 100%
 
 ---
@@ -26,7 +37,7 @@ ht-degree: 100%
 
 캘린더에서 원하는 일자를 클릭하여 범위의 한 일자를 표시한 다음, 원하는 일자를 클릭하여 범위의 다른 쪽 끝을 표시합니다. 시작 일자와 종료 일자가 같은 달이 아닌 경우, 캘린더 상단의 화살표를 사용하여 다른 달로 이동합니다.
 
-![An image of selecting a date range using the calendar widget](assets/section-1-3.png)
+![캘린더 위젯을 사용해 날짜 범위를 선택하는 이미지](assets/section-1-3.png)
 
 기본적으로 [!DNL Analytics]의 차트는 지난 60일 및 다음 15일 동안의 데이터를 표시합니다. [!DNL Analytics]를 사용하는 동안 새 날짜 범위를 선택하고 모든 차트에 이를 적용할 수 있습니다.
 
@@ -36,7 +47,7 @@ ht-degree: 100%
 
 타임라인의 원하는 부분을 클릭하고 드래그하여 일정 필터를 만듭니다. 이제 이 일정은 작업 영역의 모든 차트에 적용되며, 필터 표시줄의 다른 필터 옆에 나타납니다. 일정을 업데이트할 영역을 클릭하고 드래그하여 차트를 자세히 알아보십시오. 일정 필터를 제거하려면 필터 표시줄에서 일정 필터 위로 마우스를 가져간 다음 표시되는 X를 클릭합니다.
 
-![An image of selecting a date range using click and drag](assets/section-1-4.png)
+![클릭 앤 드래그로 날짜 범위를 선택하는 이미지](assets/section-1-4.png)
 
 페이지를 새로 고치거나 다른 곳으로 이동하거나 Workfront에서 로그아웃하면 일정이 제거되고 날짜 범위가 재설정됩니다.
 

@@ -6,26 +6,37 @@ team: Technical Marketing
 feature: Strategic Planning
 thumbnail: introduction-to-the-business-case.png
 type: Tutorial
-last-substantial-update: 2025-01-10T00:00:00Z
+last-substantial-update: '2025-01-10T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T14:30:40.425Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: 238
 ht-degree: 7%
 
 ---
 
 # 포괄적인 비즈니스 사례 만들기
 
-이 비디오에서는 프로젝트 관리에서 비즈니스 사례의 중요성을 설명합니다. 비즈니스 사례를 철저히 작성하면 관리자가 동일한 자원을 두고 경쟁하는 프로젝트를 분석하고 우선 순위를 정할 수 있도록 돕는다는 점을 강조한다. &#x200B; 비즈니스 사례를 제출하면 프로젝트 상태가 &quot;요청됨&quot;으로 변경되고 Portfolio 최적화 도구에서 비교할 전체 점수가 계산됩니다. &#x200B; 필수 필드는 없지만 보다 자세한 정보를 통해 의사 결정을 향상시킬 수 있습니다. &#x200B;
+이 비디오에서는 프로젝트 관리에서 비즈니스 사례의 중요성을 설명합니다. 비즈니스 사례를 철저히 작성하면 관리자가 동일한 자원을 두고 경쟁하는 프로젝트를 분석하고 우선 순위를 정할 수 있도록 돕는다는 점을 강조한다. 비즈니스 사례를 제출하면 &#x200B; 프로젝트 상태가 &quot;요청됨&quot;으로 변경되고 Portfolio 최적화 도구에서 비교할 수 있도록 전체 점수가 계산됩니다. 필수 필드&#x200B;은 없지만 보다 자세한 정보를 통해 의사 결정을 향상시킬 수 있습니다. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442851/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
 이 비디오에서는 다음을 포함한 비즈니스 사례의 주요 섹션을 간략하게 설명합니다.
 

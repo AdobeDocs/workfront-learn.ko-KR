@@ -9,13 +9,24 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-last-substantial-update: 2025-05-20T00:00:00Z
+last-substantial-update: '2025-05-20T00:00:00.000Z'
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:21:46.565Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 62%
+source-wordcount: 411
+ht-degree: 63%
 
 ---
 
@@ -28,10 +39,10 @@ ht-degree: 62%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448190/?captions=kor&quality=12&learn=on&enablevpops=0)
 
-## 핵심 사항
+## 주요 학습 사항
 
-* **매트릭스 보고서 구조:** 매트릭스 보고서는 자동 행 및 열 합계를 사용하여 행과 열로 데이터를 구성합니다. &#x200B; 근무 시간, 비용 및 매출과 같은 지표를 추적하는 데 이상적입니다. &#x200B;
-* **필터 설정:** 필터를 사용하여 특정 홈 팀의 사용자가 지난 분기 동안 작업한 시간과 같은 특정 데이터에 집중합니다. &#x200B; 소유자 필드 소스는 관련 팀원을 식별하는 데 도움이 됩니다. &#x200B;
+* **매트릭스 보고서 구조:** 매트릭스 보고서는 자동 행 및 열 합계를 사용하여 행과 열로 데이터를 구성합니다. 작업 시간&#x200B;, 비용 및 매출과 같은 지표를 추적하는 데 이상적입니다. &#x200B;
+* **필터 설정:** 필터를 사용하여 특정 홈 팀의 사용자가 지난 분기 동안 작업한 시간과 같은 특정 데이터에 집중합니다. &quot;소유자 필드 소스&#x200B;&quot;는 관련 팀원을 식별하는 데 도움이 됩니다. &#x200B;
 * **그룹화 옵션:** 이 예제에서 행은 &quot;소유자 이름&quot;(시간을 사용한 사용자)별로 그룹화되고 열은 &quot;시간 입력 날짜&quot;(월별 및 주별)별로 그룹화됩니다. &#x200B;
 * **요약된 데이터:** 시간, 실제 비용 및 매출과 같은 열이 기본적으로 요약되어 합계가 매트릭스에 표시되도록 합니다. 원하는 경우 이러한 기본값을 해제할 수 있습니다. &#x200B;
 * **차트 통합:** 매트릭스 보고서를 동일한 그룹화 정보를 사용하여 대체 데이터 시각화를 위한 차트로 보완할 수 있습니다. 매트릭스 탭이나 차트 탭을 기본 보기로 설정할 수 있습니다. &#x200B;

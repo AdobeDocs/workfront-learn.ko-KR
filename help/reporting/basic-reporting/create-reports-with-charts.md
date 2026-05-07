@@ -9,19 +9,30 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
-last-substantial-update: 2025-05-06T00:00:00Z
+last-substantial-update: '2025-05-06T00:00:00.000Z'
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:21:20.703Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 37%
+source-wordcount: 590
+ht-degree: 38%
 
 ---
 
 # 보고서의 차트로 데이터 시각화
 
-이 비디오에서는 특히 프로젝트 작업 추적을 위해 차트를 사용하여 데이터를 효과적으로 시각화하는 방법을 설명합니다. &#x200B; Workfront에서 두 가지 유형의 보고서를 만드는 방법을 보여 줍니다.
+이 비디오에서는 특히 프로젝트 작업 추적을 위해 차트를 사용하여 데이터를 효과적으로 시각화하는 방법을 설명합니다. Workfront에서 두 &#x200B; 가지 유형의 보고서를 만드는 방법을 보여 줍니다.
 
 **프로젝트별 지연 작업 보고서:**
 
@@ -40,7 +51,7 @@ ht-degree: 37%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450021/?captions=kor&quality=12&learn=on&enablevpops=0)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **차트 데이터 명확성 향상**: 원형 또는 열 차트와 같은 차트로 데이터를 시각화하면 목록 보고서에 비해 작업 배포 및 프로젝트 진행 상황을 더 쉽게 이해할 수 있습니다. &#x200B;
 * **특정 인사이트에 대한 필터링**: 필터(예: 현재 프로젝트에서 미완료, 지연된 작업)를 적용하면 타깃팅된 분석을 위해 관련 데이터에 집중할 수 있습니다. &#x200B;
@@ -80,7 +91,7 @@ ht-degree: 37%
 1. **[!UICONTROL 차트]** 탭에서 차트 유형에 대한 **[!UICONTROL 열]**&#x200B;을 선택합니다.
 1. [!UICONTROL 왼쪽(Y) 축]에 대해 [!UICONTROL 계획된 비용]을(를) 선택하십시오.
 1. [!UICONTROL 아래쪽(X) 축]에 대해 [!UICONTROL 이름]을 선택하세요.
-1. **[!UICONTROL 조합 차트]** 단추를 클릭하고 [!UICONTROL 값] 필드에서 **[!UICONTROL 실제 비용]**&#x200B;을(를) 선택합니다.
+1. **[!UICONTROL 조합 차트]** 단추를 클릭하고 **[!UICONTROL 값]** 필드에서 [!UICONTROL 실제 비용]을(를) 선택합니다.
 1. **[!UICONTROL 차트 종류]** 필드에서 Line을 선택합니다.
 1. [!UICONTROL 실제 비용] 색상을 변경하려면 색 상자를 클릭하십시오. 색상을 선택합니다.
 1. **[!UICONTROL 저장 및 닫기]**&#x200B;를 클릭합니다. 보고서 이름을 입력하라는 메시지가 표시되면 “지난 분기에 완료된 프로젝트별 계획된 비용과 실제 비용의 비교”라고 지정합니다.

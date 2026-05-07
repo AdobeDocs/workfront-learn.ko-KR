@@ -9,13 +9,24 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
-last-substantial-update: 2026-03-11T00:00:00Z
+last-substantial-update: '2026-03-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:48:52.918Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '449'
-ht-degree: 85%
+source-wordcount: 487
+ht-degree: 82%
 
 ---
 
@@ -35,9 +46,9 @@ ht-degree: 85%
 
 ### Workfront 테스트 드라이브 요청
 
-Workfront Fusion 교육 자습서에서 연습을 완료하려면 이 교육 전체에서 &quot;**Workfront 테스트 드라이브**&quot;라고도 하는 Workfront 지원 환경이 필요합니다. 이미 테스트 드라이브가 있는 경우, 이 교육을 위해 새 테스트 드라이브를 권장합니다.
+Workfront Fusion 교육 자습서에서 연습을 완료하려면 이 교육 과정 전체에서 &quot;**Workfront 테스트 드라이브**&quot;라고도 하는 Workfront 지원 환경이 필요합니다. 이미 테스트 드라이브가 있는 경우, 이 교육을 위해 새 테스트 드라이브를 권장합니다.
 
-[이 양식](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg)을 작성하여 테스트 드라이브를 요청합니다. 양식을 작성하면 **Adobe 인증 프로필 이메일**&#x200B;을 제공해 달라고 요청합니다. 아직 계정이 없는 경우 [Adobe 인증 사이트](https://certification.adobe.com/#)로 이동하여 사용자 프로필을 만드십시오.
+[이 양식](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg)을 작성하여 테스트 드라이브를 요청합니다. 양식을 작성하면 **Adobe 인증 프로필 이메일**&#x200B;을(를) 입력하라는 메시지가 표시됩니다. 아직 계정이 없는 경우 [Adobe 인증 사이트](https://certification.adobe.com/#)&#x200B;(으)로 이동하여 사용자 프로필을 만드십시오.
 
 ### 연습용 Workfront Fusion 액세스
 

@@ -12,22 +12,33 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:46:32.240Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: 265
 ht-degree: 11%
 
 ---
 
 # Workfront에서 효과적으로 프로젝트 계획
 
-이 비디오에서는 Workfront에서 프로젝트를 효과적으로 계획하는 방법에 대한 지침을 제공합니다. &#x200B; 프로젝트가 제 시간에 완료되고 성공적으로 진행될 수 있도록 견고한 기반을 마련하는 것이 중요함을 강조하고 있다. &#x200B; 주요 단계에는 작업, 할당, 기간, 계획된 시간 및 전임 작업 등 5가지 중요 필드 이해가 포함됩니다. &#x200B; 이러한 필드를 통해 프로젝트 계획을 빠르고 정확하게 조정할 수 있습니다. &#x200B;
+이 비디오에서는 Workfront에서 프로젝트를 효과적으로 계획하는 방법에 대한 지침을 제공합니다. 프로젝트&#x200B;이 제시간에 완료되고 성공적으로 진행될 수 있도록 견고한 기반을 마련하는 것이 중요함을 강조하고 있다. 주요 &#x200B; 단계에는 작업, 할당, 기간, 계획된 시간 및 전임 작업 등 5가지 중요 필드 이해가 포함됩니다. 이러한 필드&#x200B;을 사용하면 프로젝트 계획을 빠르고 정확하게 조정할 수 있습니다. &#x200B;
 
 이 비디오에서는 프로젝트 성공을 위한 강력한 토대를 만들기 위한 현실적인 타임라인, 팀 가용성 및 정확한 계획의 중요성을 강조합니다. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448574/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **5개의 주요 필드에 초점을 맞춥니다.** 작업, 할당, 기간, 계획된 시간 및 전임 작업을 이해하여 프로젝트 계획을 효율적이고 정확하게 변경합니다. &#x200B;
 * **프로젝트 상태를 &quot;계획 중&quot;으로 설정:** 계획을 조정하는 동안 불필요한 알림을 방지하려면 프로젝트 상태를 &quot;계획 중&quot;으로 설정해야 합니다. &#x200B;

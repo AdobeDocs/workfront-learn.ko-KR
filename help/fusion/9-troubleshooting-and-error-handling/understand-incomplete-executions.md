@@ -11,10 +11,21 @@ jira: KT-9066
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:07:51.152Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 99%
+source-wordcount: 280
+ht-degree: 93%
 
 ---
 
@@ -27,7 +38,7 @@ ht-degree: 99%
 * 불완전한 실행 정의
 * 불완전한 실행을 초래하는 오류를 처리하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3418154/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3418154/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 불완전한 실행으로 인한 오류
 
@@ -43,6 +54,6 @@ ht-degree: 99%
 * 오류 유형이 DataError, InvalidConfigurationError, InvalidAccessTokenError, UnexpectedError, MaxFileSizeExceededError 또는 MaxResultsExceededError인 경우, 자동 재시도 없이 불완전한 실행 레코드가 저장됩니다.
 * 오류 유형이 위와 다른 경우 실행이 실패합니다.
 
-## 자세히 알아보고 싶으신가요? 다음 자료를 참조하십시오.
+## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
 [Workfront Fusion 설명서](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

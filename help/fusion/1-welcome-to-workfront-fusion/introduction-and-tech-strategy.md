@@ -7,14 +7,25 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-last-substantial-update: 2023-06-08T00:00:00Z
+last-substantial-update: '2023-06-08T00:00:00.000Z'
 jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:50:09.826Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: 319
 ht-degree: 100%
 
 ---
@@ -50,4 +61,4 @@ Fusion 시스템 관리자인 경우, 다음 튜토리얼을 참조하여 팀을
 * Fusion 핵심 및 디자이너 기능
 * Fusion 예제 시나리오
 
->[!VIDEO](https://video.tv.adobe.com/v/3416556/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3416556/?captions=kor&quality=12&learn=on&enablevpops=1)

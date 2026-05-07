@@ -5,13 +5,25 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner
-last-substantial-update: 2024-09-16T00:00:00Z
+last-substantial-update: '2024-09-16T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:40:23.244Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: 709
 ht-degree: 100%
 
 ---
@@ -24,7 +36,7 @@ ht-degree: 100%
 
 다음 비디오를 통해 자세한 내용을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434163/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3434163/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 **사용자에게 대기열에 대한 액세스 권한을 부여했지만 사용자가 요청 대기열 프로젝트도 볼 수 있는 상태입니다. 이유가 무엇입니까?**
 
@@ -62,7 +74,7 @@ ht-degree: 100%
 
 다음 비디오를 통해 자세한 내용을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434183/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3434183/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 
 **보고서에서 요청 대기열을 필터링하는 가장 좋은 방법은 무엇입니까?**
@@ -73,7 +85,7 @@ ht-degree: 100%
 
 다음 비디오를 통해 자세한 내용을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434337/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3434337/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 **요청 대기열에 사용자 정의 상태를 만드는 것이 좋은 방법입니까?**
 
