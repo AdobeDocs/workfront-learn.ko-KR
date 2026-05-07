@@ -36,7 +36,7 @@ ht-degree: 100%
 * 작업 승인 또는 거부
 * 교정쇄 검토
 
->[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447914/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLs

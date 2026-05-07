@@ -34,7 +34,7 @@ ht-degree: 100%
 * 로깅 시간의 가치
 * 작업 할당에 시간을 기록하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438605/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## [!DNL Home]에서 작업 로깅 시간을 위한 팁
 

@@ -37,4 +37,4 @@ ht-degree: 100%
 * [!DNL Scenario Planner]의 계획 업데이트
 * [!DNL Scenario Planner]의 계획 복사
 
->[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412651/?captions=kor&quality=12&learn=on&enablevpops=1)

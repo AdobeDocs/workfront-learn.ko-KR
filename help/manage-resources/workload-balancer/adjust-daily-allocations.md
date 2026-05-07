@@ -36,4 +36,4 @@ ht-degree: 100%
 * 한 사용자의 작업을 다른 사용자에게 재할당
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413847/?captions=kor&quality=12&learn=on&enablevpops=1)

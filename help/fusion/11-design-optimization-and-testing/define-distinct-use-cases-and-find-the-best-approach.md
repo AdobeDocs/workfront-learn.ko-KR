@@ -44,7 +44,7 @@ ht-degree: 90%
 * 고성능에 적합한 설계 결정
 * 가정에 도전하고 관련자에게 최상의 조언 제공
 
->[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418200/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 

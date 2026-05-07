@@ -33,7 +33,7 @@ ht-degree: 100%
 
 사용자 [!UICONTROL 홈] 영역을 맞춤 설정하여 작업을 빠르고 쉽게 액세스하고, 추적하고, 승인하고, 업데이트하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432785/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 <br>
 </br>
@@ -48,4 +48,4 @@ ht-degree: 100%
 * [!UICONTROL 홈]에서 항목 제거
 * [!UICONTROL 홈]에 항목 추가
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432318/?captions=kor&quality=12&learn=on&enablevpops=1)
