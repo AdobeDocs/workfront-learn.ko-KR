@@ -11,10 +11,16 @@ jira: KT-9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:18:10.872Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 99%
+source-wordcount: 411
+ht-degree: 95%
 
 ---
 
@@ -30,7 +36,7 @@ Workfront 및 일부 다른 시스템에 있는 회사를 단방향 동기화하
 
 Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417972/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335296/?quality=12&learn=on&enablevpops=1)
 
 
 
@@ -44,6 +50,6 @@ Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 
 
 데이터 저장소는 데이터 웨어하우스 또는 로깅 용도로 설계되지 않았습니다. 데이터 저장소는 Workfront Fusion 외부에서 액세스할 수 없으며 데이터 저장소와의 상호 작용 중 대부분은 Workfront Fusion 시나리오를 통해 이루어집니다. 결과적으로 데이터 웨어하우스 및 로깅 사용 사례에 대해 예상되는 분석 또는 보고 도구에 데이터 저장소를 연결할 수 없습니다. 이와 같은 사용 사례에서 Workfront Fusion의 역할은 데이터(예: SQL, MariaDB)를 구성하고 저장하는 데 적합한 시스템을 채우는 것입니다.
 
-## 자세히 알아보고 싶으신가요? 다음 자료를 참조하십시오.
+## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

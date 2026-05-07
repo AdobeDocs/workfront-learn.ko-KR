@@ -8,14 +8,20 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-last-substantial-update: 2025-06-26T00:00:00Z
+last-substantial-update: '2025-06-26T00:00:00.000Z'
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T13:58:26.659Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 87%
+source-wordcount: 362
+ht-degree: 88%
 
 ---
 
@@ -26,11 +32,11 @@ ht-degree: 87%
 * 와일드카드를 사용하는 이유 이해
 * 사용자 기반의 와일드카드로 필터 빌드
 
->[!VIDEO](https://video.tv.adobe.com/v/3412657/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on&enablevpops=0)
 
 >[!TIP]
 >
->작업 또는 문제 할당 정보를 조회하는 필터를 빌드할 때 할당 사용자 >> ID 필드 소스 및 이름을 사용합니다. 이 옵션은 &quot;소유자&quot; 또는 기본 할당자뿐만 아니라 작업 또는 문제에 할당된 모든 사용자를 살펴봅니다.
+>작업 또는 문제 할당 정보를 조회하는 필터를 빌드할 때 할당 사용자 >> ID 필드 소스 및 이름을 사용합니다.  이 옵션은 &quot;소유자&quot; 또는 기본 할당자뿐만 아니라 작업 또는 문제에 할당된 모든 사용자를 살펴봅니다.
 
 >[!TIP]
 >

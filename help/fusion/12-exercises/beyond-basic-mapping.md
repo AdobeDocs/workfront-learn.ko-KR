@@ -11,9 +11,15 @@ jira: KT-11039
 thumbnail: KT11039.png
 recommendations: noDisplay,catalog
 exl-id: 979d794d-b936-402e-b07c-71e999f40780
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '0'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:44:57.573Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 314
 ht-degree: 100%
 
 ---
@@ -43,7 +49,7 @@ ht-degree: 100%
    + [내 프로젝트 이름]은 CSV 구문 분석 모듈의 1열이고, [스폰서]는 6열입니다. “별”이라는 단어는 둘 사이에 입력됩니다.
 
 1. 다음으로 계획된 시작 일자로 이동하고 addDays 수식을 사용하여 추가 기본 매핑 워크스루 비디오에 설명된 대로 필드에 15일을 추가합니다.
-1. 우선 순위 필드를 찾아 필드 오른쪽 상단에 있는 지도 버튼을 전환합니다. 선택 목록 메뉴가 숫자로 변경됩니다. CSV 파일 신뢰도 등급이 100 미만인 경우 프로젝트에 높음(4) 우선 순위로 레이블을 지정하는 if 문을 만들고, 그렇지 않으면 보통(2)이 될 수 있습니다.
+1. 우선 순위 필드를 찾아 필드 오른쪽 상단에 있는 지도 버튼을 토글합니다. 선택 목록 메뉴가 숫자로 변경됩니다. CSV 파일 신뢰도 등급이 100 미만인 경우 프로젝트에 높음(4) 우선 순위로 레이블을 지정하는 if 문을 만들고, 그렇지 않으면 보통(2)이 될 수 있습니다.
 
    + 신뢰도 등급은 열 4에 있습니다.
 

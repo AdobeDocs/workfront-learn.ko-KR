@@ -7,22 +7,28 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-09-03T00:00:00Z
+last-substantial-update: '2024-09-03T00:00:00.000Z'
 jira: KT-13492
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 1f9d3155-9aa6-422f-a8ac-0f421199df65
-source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:30:09.369Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 14%
+source-wordcount: 146
+ht-degree: 26%
 
 ---
 
 # 사용자를 위한 프로젝트 재무 개요
 
-프로젝트에 대한 재무 정보를 추적하고, 비용 및 수익 유형을 설정하고, 청구 요금을 재정의하는 방법을 알아봅니다. 이 튜토리얼은 프로젝트와 관련된 재무 데이터를 추적하는 사용자를 위해 설계되었습니다.
+프로젝트에 대한 재무 정보를 추적하고, 비용 및 수익 유형을 설정하고, 과금 요금을 재정의하는 방법을 알아보십시오. 이 튜토리얼은 프로젝트와 관련된 재무 데이터를 추적하는 사용자를 위해 설계되었습니다.
 
 Adobe Workfront은 현재 사용하고 있는 재무 추적 또는 청구 소프트웨어를 대체하기 위한 것은 아니지만, 금전 추적 및 보고를 제공할 수 있습니다.
 

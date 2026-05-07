@@ -12,9 +12,15 @@ jira: KT-8729
 recommendations: noDisplay,catalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:11:51.971Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: 475
 ht-degree: 100%
 
 ---
@@ -25,11 +31,11 @@ ht-degree: 100%
 
 * 플라이트 플랜 차트를 읽는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3439019/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops=1)
 
 ## 플라이트 플랜 차트
 
-![An image of a flight plan chart with numbers matching bullets below](assets/section-2-1.png)
+![아래 항목 번호와 일치하는 숫자가 표시된 비행 계획 차트 이미지](assets/section-2-1.png)
 
 차트에는 다음이 표시됩니다.
 
@@ -53,7 +59,7 @@ ht-degree: 100%
 
 프로젝트 상태는 프로젝트 진행 현황을 시각적으로 표시한 것입니다. Workfront에서는 프로젝트 내 작업의 진행 상태에 따라 상태를 결정합니다.
 
-![An image of possible progress statuses](assets/section-2-2.png)
+![가능한 진행 상태를 보여주는 이미지](assets/section-2-2.png)
 
 프로젝트 상태는 다음과 같이 설정될 수 있습니다.
 
@@ -62,7 +68,7 @@ ht-degree: 100%
 
 Workfront에서는 상태 유형을 ‘진행 상태’로 설정하여 작업 진행 상황을 기반으로 프로젝트의 실제 진행 상황을 명확하게 표시할 것을 권장합니다.
 
-![An image of possible progress statuses](assets/section-2-3.png)
+![가능한 진행 상태를 보여주는 이미지](assets/section-2-3.png)
 
 ‘진행 상태’로 설정하면 프로젝트 상태는 다음과 같을 수 있습니다.
 

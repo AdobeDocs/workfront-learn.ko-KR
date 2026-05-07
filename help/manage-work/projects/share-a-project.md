@@ -8,20 +8,26 @@ thumbnail: share-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-07-21T00:00:00Z
+last-substantial-update: '2023-07-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:45:21.983Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: 357
 ht-degree: 5%
 
 ---
 
 # Workfront에서 효과적으로 프로젝트 공유
 
-이 비디오에서는 이해 당사자와 공동 작업자가 필요한 가시성과 액세스 권한을 갖도록 Workfront에서 프로젝트를 효과적으로 공유하는 방법을 설명합니다. &#x200B; Workfront은 역할에 따라 적절한 액세스 권한을 자동으로 할당하여 공유를 간소화합니다.
+이 비디오에서는 이해 당사자와 공동 작업자가 필요한 가시성과 액세스 권한을 갖도록 Workfront에서 프로젝트를 효과적으로 공유하는 방법을 설명합니다. &#x200B;은 역할에 따라 적절한 액세스 권한을 자동으로 할당하여 공유를 간소화합니다.
 
 **자동 공유:**
 
@@ -45,9 +51,9 @@ ht-degree: 5%
 
 이 비디오에서는 효율적인 공유 관리를 위해 팀과 템플릿을 사용하는 방법을 강조하고 공유 환경 설정을 사용자 지정하는 관리자의 역할을 강조합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423151/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **자동 액세스 권한:** Workfront은 공유를 단순화하기 위해 역할(예: 프로젝트 작성자, 작업자, 후원자 및 리소스 관리자)에 따라 적절한 액세스 권한을 자동으로 할당합니다. &#x200B;
 * **유연한 공유 옵션:** 프로젝트는 개인, 팀, 작업 역할, 그룹 또는 회사와 공유할 수 있으며 포트폴리오나 프로그램을 통해 권한을 상속할 수 있습니다. &#x200B;

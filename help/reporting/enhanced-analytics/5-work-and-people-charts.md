@@ -11,9 +11,15 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: a15b9b2cdd16f661d855806d801ab1f90a0276b4
-workflow-type: ht
-source-wordcount: '291'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:00:43.829Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 293
 ht-degree: 100%
 
 ---
@@ -42,7 +48,7 @@ ht-degree: 100%
 
 ## 사용자 차트 - 팀별 활동
 
-![An image showing an activity by team chart with numbers on areas described in the bullets below](assets/section-3-1.png)
+![아래 항목에서 설명한 영역에 번호가 표시된 팀별 활동 차트 이미지](assets/section-3-1.png)
 
 차트에서 다음과 같은 사항을 조회할 수 있습니다.
 

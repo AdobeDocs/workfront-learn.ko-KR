@@ -10,12 +10,18 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8770
 recommendations: noDisplay,catalog
-last-substantial-update: 2024-03-05T00:00:00Z
+last-substantial-update: '2024-03-05T00:00:00.000Z'
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:43:31.989Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: 451
 ht-degree: 4%
 
 ---
@@ -26,14 +32,14 @@ ht-degree: 4%
 
 **템플릿에서 프로젝트 만들기:**
 
-* 프로젝트 페이지로 이동하여 &quot;새 프로젝트&quot;를 클릭하고 &quot;템플릿의 새 프로젝트&quot;를 선택합니다&#x200B;.
+* 프로젝트 페이지로 이동하여 &quot;새 프로젝트&quot;를 클릭하고 &quot;템플릿의 새 프로젝트&quot;를 선택합니다. &#x200B;
 * 활성 템플릿을 찾아보고, 요약(예: 기간, 소유자, 작업 요약, 사용자 정의 양식)을 미리 보고, 템플릿을 선택합니다. &#x200B;
 * 즐겨찾는 템플릿은 더 빠른 선택을 위해 직접 액세스할 수 있습니다. &#x200B;
-* 초기 정보(예: 프로젝트 이름)를 작성하고 &quot;프로젝트 만들기&quot;를 클릭합니다&#x200B;. 필드는 나중에 편집할 수 있습니다. &#x200B;
+* 초기 정보(예: 프로젝트 이름)를 작성하고 &quot;프로젝트 만들기&quot;를 클릭합니다. 필드&#x200B;은 나중에 편집할 수 있습니다. &#x200B;
 
 **처음부터 프로젝트 만들기:**
 
-* 프로젝트 페이지로 이동하여 &quot;새 프로젝트&quot;를 클릭하고 &quot;새 프로젝트&quot;를 선택합니다&#x200B;.
+* 프로젝트 페이지로 이동하여 &quot;새 프로젝트&quot;를 클릭하고 &quot;새 프로젝트&quot;를 선택합니다. &#x200B;
 * 프로젝트 이름을 지정하고 공유 옵션, 사용자 지정 데이터, 포트폴리오 및 프로그램과 같은 세부 정보를 편집합니다. &#x200B;
 * 그룹 또는 시스템 관리자가 설정한 기본값을 수락하거나 변경할 수 있습니다. &#x200B;
 * 처음에 작성자 및 시스템 관리자와만 공유되는 프로젝트를 저장합니다. &#x200B;
@@ -41,7 +47,7 @@ ht-degree: 4%
 
 **프로젝트 복사:**
 
-* 기존 프로젝트를 열고 점 3개 메뉴를 클릭한 다음 &quot;복사&quot;를 선택합니다&#x200B;.
+* 기존 프로젝트를 열고 점 3개 메뉴를 클릭한 다음 &quot;복사&quot;를 선택합니다. &#x200B;
 * 이름, 상태(예: Planning)를 변경하고 복사하지 않을 항목(예: 경비)을 선택 취소합니다. &#x200B;
 * 복사 후 계획된 시작 일자와 같은 세부 정보를 편집합니다. &#x200B;
 
@@ -55,9 +61,9 @@ ht-degree: 4%
 
 이 비디오는 템플릿을 통해 프로젝트를 제작하고, 스크래치, 복사 또는 가져오기를 수행하며, 다양한 사용자 요구 사항을 충족할 수 있는 Workfront의 유연성에 대해 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3432170/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **템플릿 프로젝트 만들기 간소화:**
 * 작업, 양식 및 공유 옵션과 같은 주요 세부 사항을 사전 설정하여 시간과 노력을 절약할 수 있으므로 템플릿을 사용하는 것이 좋습니다. &#x200B;

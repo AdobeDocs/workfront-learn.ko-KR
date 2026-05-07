@@ -8,14 +8,20 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-02-07T00:00:00Z
+last-substantial-update: '2024-02-07T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:42:45.518Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: 217
 ht-degree: 12%
 
 ---
@@ -24,11 +30,11 @@ ht-degree: 12%
 
 이 비디오에서는 프로젝트 팀의 용도와 관리 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444596/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
-* **자동 팀 채우기:** 사용자가 작업을 할당받거나 프로젝트 소유자로 지정되면 프로젝트 팀이 자동으로 채워집니다. &#x200B; 그러나 할당이 제거되어도 사용자가 자동으로 제거되지 않습니다. 이 작업은 수동으로 수행해야 합니다. &#x200B;
+* **자동 팀 채우기:** 사용자가 작업을 할당받거나 프로젝트 소유자로 지정되면 프로젝트 팀이 자동으로 채워집니다. 단&#x200B;, 할당이 제거되어도 사용자는 자동으로 제거되지 않습니다. 수동으로 제거해야 합니다. &#x200B;
 * **수동 업데이트:** 할당이 없더라도 프로젝트 팀에 사람을 수동으로 추가하거나 제거할 수 있으므로 팀 목록이 정확하고 최신 상태를 유지할 수 있습니다. &#x200B;
 * **중앙 집중식 통신:** 사람 탭에서 프로젝트 수준의 모든 팀원에게 업데이트를 보낼 수 있으므로 팀 전체 통신을 위한 편리한 도구입니다. &#x200B;
 * **전자 메일 알림:** 시스템 관리자는 추가된 문서에 대한 알림, 완료된 마일스톤 작업 또는 문제와 같은 프로젝트 팀에 대한 전자 메일 알림을 활성화하여 팀원이 계속 알림을 받도록 할 수 있습니다. &#x200B;

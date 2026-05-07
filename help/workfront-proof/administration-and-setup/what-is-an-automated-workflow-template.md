@@ -11,9 +11,15 @@ thumbnail: 335129.png
 jira: KT-8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:01:40.520Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: 62
 ht-degree: 100%
 
 ---
@@ -26,7 +32,7 @@ ht-degree: 100%
 * 교정쇄 사용자가 워크플로 템플릿을 통해 얻을 수 있는 이점
 * 어떤 템플릿을 만들지 계획을 시작하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3441304/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn More Icon

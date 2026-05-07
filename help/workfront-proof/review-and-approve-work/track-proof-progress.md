@@ -1,6 +1,6 @@
 ---
 title: 교정 진행 상황 추적
-description: ' [!DNL &#x200B; Workfront]에서 [!UICONTROL SOCD] 표시기, 교정 진행 상황 및 보고서를 사용하여 교정 진행 상황을 추적하는 방법에 대해 알아봅니다.'
+description: ' [!DNL  Workfront]에서 [!UICONTROL SOCD] 표시기, 교정 진행 상황 및 보고서를 사용하여 교정 진행 상황을 추적하는 방법에 대해 알아봅니다.'
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,9 +10,15 @@ level: Beginner
 thumbnail: track-proof-progress.png
 jira: KT-10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
-source-git-commit: 8ad86921177da189503211635116146e886dbd17
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:53:35.724Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '767'
+source-wordcount: 770
 ht-degree: 64%
 
 ---
@@ -27,7 +33,7 @@ ht-degree: 64%
 
 [!UICONTROL 문서] 목록의 [!UICONTROL SOCD] 아이콘을 사용하여 검토 및 승인 프로세스를 통해 교정이 진행되는 방식을 전체적으로 볼 수 있습니다. 이 아이콘은 교정쇄에 대해 수행된 특정 작업을 나타냅니다.
 
-![[!UICONTROL SOCD] 아이콘이 강조 표시된 [!DNL &#x200B; Workfront] 프로젝트의 [!UICONTROL 문서] 목록 이미지](assets/manage-proofs-socd.png)
+![[!UICONTROL SOCD] 아이콘이 강조 표시된 [!DNL  Workfront] 프로젝트의 [!UICONTROL 문서] 목록 이미지](assets/manage-proofs-socd.png)
 
 아이콘은 수신자에게 교정쇄를 보내는 시간부터 교정쇄에 대한 결정을 내리는 시간까지 교정쇄에 수행된 작업을 나타냅니다.
 
@@ -59,7 +65,7 @@ ht-degree: 64%
 
 증명 상태는 단계의 증명 수신자의 상태를 기반으로 합니다. 전체적인 교정쇄 상태는 [!UICONTROL SOCD] 표시기의 오른쪽에 있는 [!UICONTROL 문서] 페이지에서 볼 수 있으므로 교정쇄에 대한 결정이 있는지 쉽게 알 수 있습니다.
 
-![전체 교정쇄 상태가 강조 표시된 [!DNL &#x200B; Workfront] 프로젝트의 [!UICONTROL 문서] 목록 이미지](assets/manage-proofs-overall-status.png)
+![전체 교정쇄 상태가 강조 표시된 [!DNL  Workfront] 프로젝트의 [!UICONTROL 문서] 목록 이미지](assets/manage-proofs-overall-status.png)
 
 이 교정쇄 상태는 교정쇄의 전체 상태를 나타냅니다. 예를 들어 두 명의 수신자가 교정쇄를 승인한 경우, 개별 상태는 [!UICONTROL 승인됨]으로 표시됩니다. 그러나 세 번째 받는 사람이 아직 결정을 내리지 않았으므로 해당 사용자의 상태는 [!UICONTROL 보류 중]입니다. 따라서 전체 상태는 [!UICONTROL 보류 중]으로 표시됩니다.
 
@@ -79,11 +85,11 @@ ht-degree: 64%
 
 교정쇄 승인 보고서를 사용하면 처리되지 않은 승인을 추적하여 기한을 준수할 수 있습니다.
 
-![[!DNL &#x200B; Workfront]의 교정쇄 승인 보고서 이미지](assets/proof-approval-report.png)
+![[!DNL  Workfront]의 교정쇄 승인 보고서 이미지](assets/proof-approval-report.png)
 
 문서 버전 보고서를 사용하면 교정쇄 버전을 관리하고 추적할 수 있습니다.
 
-![[!DNL &#x200B; Workfront]의 문서 버전 보고서 이미지](assets/document-version-report.png)
+![[!DNL  Workfront]의 문서 버전 보고서 이미지](assets/document-version-report.png)
 
 [!DNL Workfront] 컨설턴트와 협력하여 조직의 요구 사항에 맞는 보고서를 작성하는 것이 좋습니다. 일부 보고서는 [!DNL Workfront's] 텍스트 모드 보고에 대해 숙지해야 합니다.
 

@@ -8,13 +8,19 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335131.png
-last-substantial-update: 2024-08-08T00:00:00Z
+last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:06:38.512Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: 578
 ht-degree: 100%
 
 ---
@@ -44,7 +50,7 @@ ht-degree: 100%
 
 이 비디오는 [!UICONTROL 워크플로] 영역에서 적용할 수 있는 변경 사항 중 일부를 보여 줍니다. 이 비디오 아래의 글머리 기호 목록을 참조하십시오. 이러한 설정을 검토하는 내용입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432618/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
 
 다음은 검토 과정에서 [!UICONTROL 워크플로] 섹션에 적용할 수 있는 교정 템플릿 변경 사항입니다.
 

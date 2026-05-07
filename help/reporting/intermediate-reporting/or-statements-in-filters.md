@@ -10,22 +10,27 @@ role: User
 level: Intermediate
 jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-last-substantial-update: 2025-08-11T00:00:00Z
+last-substantial-update: '2025-08-11T00:00:00.000Z'
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T02:11:54.379Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: 318
 ht-degree: 31%
 
 ---
 
 # 필터에 OR 구문 만들기
 
-이 비디오에서는 Workfront에서 여러 규칙을 사용하여 필터를 만들고 사용하는 방법을 설명합니다. &#x200B; 기본적으로 Workfront은 필터 규칙 사이에 &quot;AND&quot;를 사용합니다. 즉, 항목이 목록에 표시되려면 모든 조건이 true여야 합니다.
+이 비디오에서는 Workfront에서 여러 규칙을 사용하여 필터를 만들고 사용하는 방법을 설명합니다. 기본적&#x200B;으로 Workfront은 필터 규칙 사이에 &quot;AND&quot;를 사용합니다. 즉, 항목이 목록에 표시되려면 모든 조건이 true여야 합니다.
 또는 필터 논리를 &quot;OR&quot;로 변경하여 조건을 충족하는 항목을 표시할 수 있습니다.
-이 비디오에서는 필터 그룹을 사용하여 작업을 위한 필터를 만드는 방법도 보여 줍니다. &#x200B; 예를 들어 늦은 크리에이티브 팀에 할당된 미완료 작업에 대한 그룹과 미할당 크리에이티브 팀에 할당된 미완료 작업에 대한 그룹, 이렇게 두 개의 그룹을 만들 수 있습니다. &#x200B; 각 그룹 내에서 &quot;AND&quot; 논리가 적용되며, 이는 그룹의 모든 조건이 충족되어야 함을 의미합니다. &#x200B; 그룹 간의 &quot;OR&quot; 논리는 두 그룹의 조건에 맞는 작업이 표시되도록 합니다.
+이 비디오에서는 필터 그룹을 사용하여 작업을 위한 필터를 만드는 방법도 보여 줍니다. 예를 &#x200B; 들어 늦은 크리에이티브 팀에 할당된 미완료 작업에 대한 그룹과 미할당 크리에이티브 팀에 할당된 미완료 작업에 대한 그룹, 이렇게 두 개의 그룹을 만들 수 있습니다. 각 그룹 내에서&#x200B;은 &quot;AND&quot; 논리가 적용되며, 이는 그룹의 모든 조건이 충족되어야 함을 의미합니다. 그룹 간&#x200B;의 &quot;OR&quot; 논리는 두 그룹의 조건을 충족하는 작업이 표시되도록 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470700/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
 
 ## OR 필터 활동
 

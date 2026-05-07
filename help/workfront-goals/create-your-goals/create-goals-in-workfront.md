@@ -10,9 +10,15 @@ team: Technical Marketing
 jira: KT-10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2: id: fceb5125-bb41-419a-b0db-31958cb42f6c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:18:58.063Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: 890
 ht-degree: 100%
 
 ---
@@ -36,7 +42,7 @@ ht-degree: 100%
 
 * [!UICONTROL 목표 목록] 섹션을 탐색하여 새 목표 추가
 
->[!VIDEO](https://video.tv.adobe.com/v/3412621/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on&enablevpops=1)
 
 ## 기존 목표 복사
 
@@ -58,13 +64,13 @@ ht-degree: 100%
 1. 목표 이름 옆에 있는 점 3개 아이콘을 클릭한 다음 **[!UICONTROL 복사]**&#x200B;를 선택합니다.
 1. 복사된 목표에 대해 다음 정보를 업데이트합니다.
    * **목표 이름** - 새 목표의 이름입니다. “Copy of” 뒤에 원래 목표의 이름이 오는 형태가 기본값입니다.
-   * **기간** - 목표를 달성하고자 하는 기간입니다. 드롭다운 메뉴에서 기간을 선택하거나 ‘사용자 정의 일자 정의’를 클릭하여 사용자 정의 기간을 지정합니다. 기본 기간은 항상 현재 분기입니다.
+   * **기간**- 목표를 달성하고자 하는 기간입니다. 드롭다운 메뉴에서 기간을 선택하거나 ‘사용자 정의 일자 정의’를 클릭하여 사용자 정의 기간을 지정합니다. 기본 기간은 항상 현재 분기입니다.
    * **소유자** - 목표의 소유자입니다. 사용자, 팀, 그룹 또는 회사일 수 있습니다. 기본값은 원래 목표의 소유자입니다.
    * **설명** - 목표에 대한 추가 정보입니다.
 
 1. 원래 목표에 추가된 결과가 있고 이를 새 목표에 복사하려는 경우 **[!UICONTROL 결과 복사]** 상자를 선택합니다. 복사된 목표의 결과는 원래 목표의 결과와 소유자, 이름 및 측정 값이 동일합니다.
 
-1. **[!UICONTROL 목표 복사]**&#x200B;를 클릭합니다. 복사된 목표는 ‘초안’ 상태로 저장됩니다.
+1. **[!UICONTROL 목표 복사]**&#x200B;를 클릭합니다. 복사된 목표는 초안 상태로 저장됩니다.
 
    ![[!DNL Workfront Goals]의 [!UICONTROL 목표 세부 정보] 패널에서 [!UICONTROL 복사] 옵션이 표시된 이미지](assets/03-workfront-goals-copy-a-goal.png)
 
@@ -93,5 +99,5 @@ ht-degree: 100%
 
 * 활동을 추가하고 정렬된 목표로 전환
 
->[!VIDEO](https://video.tv.adobe.com/v/3416526/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops=1)
 

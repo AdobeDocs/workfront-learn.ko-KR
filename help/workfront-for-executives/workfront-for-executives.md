@@ -12,9 +12,15 @@ hide: true
 jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40cid: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T18:59:11.775Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: 513
 ht-degree: 91%
 
 ---
@@ -58,7 +64,7 @@ Workfront의 보고서는 더 나은 의사결정을 더 빠르게 내리는 데
 
 Workfront의 보고서는 직원의 책임감을 높이는 데 도움이 될 수 있습니다. 보고서 활용의 핵심은 조직에서 보고서를 사용하는 방식에 대한 명확한 워크플로를 설정하는 것입니다. 모든 사람이 성공을 측정하는 데 사용되는 보고서를 명확하게 이해하고 있는지 확인하십시오.
 
-![Workfront의 대시보드에 있는 보고서의 예 &#x200B;](assets/workfront-4-executives-3.png)
+![Workfront의 대시보드에 있는 보고서의 예 ](assets/workfront-4-executives-3.png)
 
 Workfront의 대시보드에 있는 보고서의 예
 
@@ -79,7 +85,7 @@ Workfront의 대시보드에 있는 보고서의 예
 * 요청 작성
 * 제출된 요청 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3413117/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## 승인 대기 중인 항목
 

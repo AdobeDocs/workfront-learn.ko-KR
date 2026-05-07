@@ -10,10 +10,16 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T02:02:56.632Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 100%
+source-wordcount: 384
+ht-degree: 97%
 
 ---
 
@@ -24,7 +30,7 @@ ht-degree: 100%
 * 탐색 막대 및 바닥글 사용자 정의
 * 홈 페이지 및 로그인 페이지 사용자 정의
 
->[!VIDEO](https://video.tv.adobe.com/v/3418779/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops=1)
 
 ## 추가 [!UICONTROL 모양] 설정
 
@@ -52,7 +58,7 @@ ht-degree: 100%
 
 **F. 채워진 설명**- 회색 배경에 표시할 텍스트 복사 블록을 입력합니다.
 
-**G. HTML**- HTML 및 CSS를 사용하여 사용자 정의 콘텐츠를 만듭니다. 예를 들어 비디오에 대한 링크를 임베드할 수 있습니다. 다음은 몇 가지 [피해야 할 HTML 태그](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html)입니다.
+**G. HTML** - HTML 및 CSS를 사용하여 사용자 지정 콘텐츠를 만듭니다. 예를 들어 비디오에 대한 링크를 임베드할 수 있습니다. 다음은 몇 가지 [피해야 할 HTML 태그](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html)입니다.
 
 ## 검색 창 추가
 

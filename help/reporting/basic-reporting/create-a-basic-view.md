@@ -8,26 +8,32 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2025-06-06T00:00:00Z
+last-substantial-update: '2025-06-06T00:00:00.000Z'
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:22:21.695Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '976'
-ht-degree: 75%
+source-wordcount: 984
+ht-degree: 71%
 
 ---
 
 # 기본 보기 만들기
 
-이 비디오에서는 프로젝트, 작업, 문제 및 문서와 같이 목록에 있는 항목에 대한 특정 정보를 표시하기 위해 Workfront에서 보기를 만들고 사용자 지정하는 방법을 설명합니다. &#x200B; 보기를 사용하면 이름, 설명, 상태 및 항목과 관련된 기타 필드와 같은 세부 정보를 볼 수 있습니다. &#x200B;
+이 비디오에서는 프로젝트, 작업, 문제 및 문서와 같이 목록에 있는 항목에 대한 특정 정보를 표시하기 위해 Workfront에서 보기를 만들고 사용자 지정하는 방법을 설명합니다. 보기&#x200B;을 사용하면 이름, 설명, 상태 및 항목과 관련된 기타 필드와 같은 세부 정보를 볼 수 있습니다. &#x200B;
 
 이 비디오는 Workfront 보기의 유연성을 강조하며 작성, 사용자 지정 및 관리에 대한 단계별 지침을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450245/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **보기 사용자 지정**: 사용자는 프로젝트 상태 또는 예산과 같은 특정 정보를 표시하기 위해 열을 추가, 제거 또는 다시 정렬하여 기존 보기를 편집하거나 새 보기를 만들 수 있습니다.
 * **인라인 편집**: 개별 항목을 열지 않고 목록 보기의 일부 필드를 직접 업데이트할 수 있으므로 변경 속도가 빨라집니다. &#x200B;
@@ -66,7 +72,7 @@ ht-degree: 75%
 1. [!UICONTROL 이 열에 표시] 필드에 “상태”를 입력한 다음 작업 필드 소스 아래에서 “상태 아이콘”을 선택합니다.
 1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-[!UICONTROL 상태 아이콘] 열의 각 아이콘 위로 마우스를 가져다 대면 해당 아이콘이 무엇을 나타내는지 확인할 수 있습니다. 회색으로 표시된 아이콘은 작업에 메모, 문서, 승인 프로세스 등이 없음을 의미합니다. 아이콘이 컬러로 표시되어 있으면 작업과 관련된 해당 항목이 하나 이상 있는 것입니다. 메모 또는 문서 아이콘을 클릭하여 해당 항목으로 이동할 수 있습니다.
+[!UICONTROL 상태 아이콘] 열의 각 아이콘 위로 마우스를 가져다 대면 해당 아이콘이 무엇을 나타내는지 확인할 수 있습니다. 회색으로 표시된 경우 작업에 메모, 문서, 승인 프로세스 등이 없음을 의미합니다. 아이콘이 색상으로 표시되면 해당 항목 중 하나 이상이 작업에 연결되어 있습니다. 메모 또는 문서 아이콘을 클릭하여 해당 항목으로 이동할 수 있습니다.
 
 ### 활동 2: 마일스톤 보기 만들기
 

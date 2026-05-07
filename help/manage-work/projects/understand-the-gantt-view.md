@@ -8,20 +8,26 @@ thumbnail: understand-the-gantt-view.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-05-11T00:00:00Z
+last-substantial-update: '2023-05-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:43:04.428Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 11%
+source-wordcount: 393
+ht-degree: 15%
 
 ---
 
 # 프로젝트 관리를 위해 [!UICONTROL 간트] 보기 탐색
 
-이 비디오에서는 프로젝트 간트 차트 및 작업 간트 차트 를 사용하여 작업과 프로젝트를 효과적으로 시각화하고 관리하는 방법을 설명합니다. &#x200B; 간트 차트는 작업, 템플릿 및 프로젝트에 대한 전체적인 뷰를 제공하며 일반적으로 포트폴리오 내에서 프로젝트 간(특히 리소스를 공유하는 프로젝트) 관계를 이해하는 데 사용됩니다. &#x200B;
+이 비디오에서는 프로젝트 간트 차트 및 작업 간트 차트 를 사용하여 작업과 프로젝트를 효과적으로 시각화하고 관리하는 방법을 설명합니다. 간트 차트&#x200B;은 작업, 템플릿 및 프로젝트에 대한 전체적인 뷰를 제공하며 일반적으로 포트폴리오 내에서 프로젝트 간(특히 리소스를 공유하는 프로젝트) 관계를 이해하는 데 사용됩니다. &#x200B;
 
 **프로젝트 간트 차트의 주요 기능:**
 
@@ -40,7 +46,7 @@ ht-degree: 11%
 
 이 비디오에서는 간트 차트의 유연성이 강조되어 사용자가 보기를 사용자 정의하고 여러 요소를 동시에 표시하여 프로젝트를 더 잘 관리할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448013/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 온라인에서 [간트 차트 시작하기](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=ko-KR) 문서를 통해 자세히 알아볼 수 있습니다.
 

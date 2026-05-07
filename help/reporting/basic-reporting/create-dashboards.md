@@ -9,28 +9,34 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-last-substantial-update: 2025-05-28T00:00:00Z
+last-substantial-update: '2025-05-28T00:00:00.000Z'
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: caabbe77-a670-4ba9-8190-faf649b1f84a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:20:51.376Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 48%
+source-wordcount: 689
+ht-degree: 45%
 
 ---
 
 # Workfront에서 대시보드 만들기
 
 이 비디오에서는 Workfront의 대시보드를 이해하고 사용하는 방법에 대한 포괄적인 안내서를 제공합니다.
-&#x200B;대시보드는 사용자가 관련 데이터를 한 곳에 정리하고 표시할 수 있는 보고서 모음이라는 설명이다.
+대시보드&#x200B;은 사용자가 관련 데이터를 한 곳에서 정리하고 표시할 수 있는 보고서 모음이라는 설명이다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449129/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **Workfront의 대시보드:** 대시보드는 사용자가 프로젝트, 작업 및 문제와 같은 관련 데이터를 하나의 중앙 보기에서 구성하고 표시할 수 있는 보고서 컬렉션입니다. &#x200B;
-* **대시보드 만들기:** 대시보드는 레이아웃을 선택하고 보고서, 사용자 지정 달력 또는 외부 페이지를 추가한 다음 최적의 표시를 위해 정렬하여 사용자 지정할 수 있습니다. &#x200B; 사용자는 대시보드 내에서 나란히 보고서에 표시할 열을 사용자 지정할 수도 있습니다. &#x200B;
-* **대시보드 액세스:** 대시보드는 대시보드 영역의 &quot;내 대시보드&quot;, &quot;공유 대시보드&quot; 또는 &quot;모든 대시보드&quot;에서 찾을 수 있습니다. &#x200B; 자주 사용하는 대시보드는 빠른 액세스를 위해 즐겨찾기에 고정하거나 추가할 수 있습니다. &#x200B;
+* **대시보드 만들기:** 대시보드는 레이아웃을 선택하고 보고서, 사용자 지정 달력 또는 외부 페이지를 추가한 다음 최적의 표시를 위해 정렬하여 사용자 지정할 수 있습니다. 사용자는 대시보드 &#x200B; 내에서 나란히 보고서에 표시할 열을 사용자 지정할 수도 있습니다. &#x200B;
+* **대시보드 액세스:** 대시보드는 대시보드 영역의 &quot;내 대시보드&quot;, &quot;공유 대시보드&quot; 또는 &quot;모든 대시보드&quot;에서 찾을 수 있습니다. 자주 사용되&#x200B;은 대시보드는 빠른 액세스를 위해 즐겨찾기에 고정하거나 추가할 수 있습니다. &#x200B;
 * **대시보드 공유:** 대시보드는 &quot;대시보드 작업&quot; 메뉴를 통해 대시보드 내의 모든 보고서를 포함한 다른 Workfront 사용자와 공유할 수 있습니다. &#x200B;
 * **대시보드 인쇄:** 대시보드는 &quot;대시보드 작업&quot; 메뉴에서 직접 인쇄할 수 있으므로 데이터의 실제 복사본을 쉽게 공유할 수 있습니다. &#x200B;
 
@@ -41,7 +47,7 @@ ht-degree: 48%
 
 “이 프로젝트에서 메모 검색”이라는 하나의 보고서만 포함된 [!UICONTROL 대시보드]를 만듭니다. 검색할 업데이트가 수천 개인 경우에도 한 프로젝트에서 수행된 모든 업데이트를 빠르게 찾는 데 유용합니다. 이렇게 하면 업데이트 스레드를 검색하여 프롬프트에서 지정한 기준을 충족하는 모든 업데이트를 빠르게 추출합니다.
 
-&quot;메모 보고서 만들기&quot; 활동에서 만든 &quot;메모 검색&quot; 보고서의 복사본을 만들어 이 보고서를 만드십시오. 아직 만들지 않았습니까? [작업 보고서 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) 자습서에서 활동을 보려면 여기를 클릭하십시오.
+&quot;메모 보고서 만들기&quot; 활동에서 만든 &quot;메모 검색&quot; 보고서의 복사본을 만들어 이 보고서를 만드십시오. 아직 만들지 않았습니까? [작업 보고서 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) 자습서에서 활동을 보려면 여기를 클릭하십시오.
 
 * 사본에서 프로젝트 이름 프롬프트를 제거하고 “이 프로젝트에서 메모 검색” 보고서 이름을 바꿉니다.
 * [!UICONTROL 대시보드] 이름을 “메모 검색”으로 지정합니다.
@@ -50,7 +56,7 @@ ht-degree: 48%
 
 ### 답변 1
 
-1. &quot;메모 보고서 만들기&quot; 활동에서 만든 보고서를 실행합니다. 아직 만들지 않았습니까? [작업 보고서 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) 자습서에서 활동을 보려면 여기를 클릭하십시오.
+1. &quot;메모 보고서 만들기&quot; 활동에서 만든 보고서를 실행합니다. 아직 만들지 않았습니까? [작업 보고서 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) 자습서에서 활동을 보려면 여기를 클릭하십시오.
 1. **[!UICONTROL 보고서 작업]**&#x200B;을 클릭하고 **[!UICONTROL 복사]**&#x200B;를 선택합니다. [!DNL Workfront]는 “메모 검색 (사본)”이라는 새 보고서를 만듭니다.
 1. **[!UICONTROL 보고서 작업]**&#x200B;으로 이동하여 **[!UICONTROL 편집]**&#x200B;을 선택합니다. **[!UICONTROL 보고서 설정]**&#x200B;을 클릭하고 이름을 “이 프로젝트에서 메모 검색”으로 변경합니다.
 1. [!UICONTROL 보고서 프롬프트]를 클릭하고 목록에서 [!UICONTROL 프로젝트] > [!UICONTROL 이름] 프롬프트를 삭제합니다.
