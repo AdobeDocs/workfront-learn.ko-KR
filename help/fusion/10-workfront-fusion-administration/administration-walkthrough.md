@@ -47,9 +47,9 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->귀사가 Adobe Admin Console에 온보딩된 경우 [Adobe Admin Console을 통해 Adobe Workfront Fusion에 사용자 추가](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html)를 참조하십시오.
+>귀사가 Adobe Admin Console에 온보딩된 경우 [Adobe Admin Console을 통해 Adobe Workfront Fusion에 사용자 추가](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html?lang=ko)를 참조하십시오.
 
 
 ## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
