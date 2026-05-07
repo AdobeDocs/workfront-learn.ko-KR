@@ -6,10 +6,17 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10906
 exl-id: 0d1ddaed-8daa-40e5-8384-c052ec36fbdc
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/r-JHnUp9uBXJskFfm-bTt-2DnaKRoA-6vpiAOEFSBjw
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40cid: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1434'
-ht-degree: 100%
+source-wordcount: 1446
+ht-degree: 94%
 
 ---
 
@@ -25,7 +32,7 @@ ht-degree: 100%
 
 이 페이지를 스크롤하면 먼저 해당 주제에 대한 모든 모범 사례의 상위 수준 목록을 찾을 수 있습니다. 이를 통해 “이유”에 대한 세부 사항을 자세히 살펴보지 않고도 권장 사항을 검토할 수 있습니다.
 
-“이러한 모범 사례를 채택하는 이유는 무엇입니까?” 영역(상위 수준의 목록 뒤)에서는 일부 모범 사례와 프로세스 및 도구 등으로 간주되는 이유에 대한 자세한 설명이 나와 있으며, Workfront 인스턴스를 사용하여 구현하는 것을 고려해야 합니다.
+상위 수준 목록 다음에 나오는 &quot;이러한 모범 사례는 무엇입니까?&quot; 영역에서는 일부 모범 사례와 이것이 프로세스, 도구 등으로 간주되는 이유에 대해 자세히 설명합니다. Workfront 인스턴스를 사용하여 구현을 고려해야 합니다.
 
 </br>
 </br>
@@ -246,7 +253,7 @@ Workfront 그룹을 최소화하고 조직 부서와 연관시킵니다.
 
 **이유**
 
-Workfront에서 항목(프로젝트, 보고서 등)을 공유할 때 그룹 및 팀과 같은 더 큰 조직 단위를 사용하여선택한 사용자 집합과 동시에 빠르고 쉽게 오브젝트를 공유할 수 있습니다. 개별 사용자의 이름을 공유 창에 추가하는 것은 번거롭고 시간이 많이 소요될 수 있습니다.
+Workfront에서 항목(프로젝트, 보고서 등)을 공유할 때 그룹 및 팀과 같이 더 큰 조직 단위를 사용하면 개체를 선택한 사용자 세트와 동시에 쉽고 빠르게 공유할 수 있습니다. 개별 사용자의 이름을 공유 창에 추가하는 것은 번거롭고 시간이 많이 소요될 수 있습니다.
 
 
 

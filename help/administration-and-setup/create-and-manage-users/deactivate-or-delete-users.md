@@ -10,10 +10,16 @@ level: Beginner
 thumbnail: 10037.jpeg
 jira: KT-10037
 exl-id: 89b7d083-97d3-4783-a61d-35226d6582c0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/bOJ2ng-HrOD5SA9-uAItNK1rFF90zSnuxjeSiyh9LXk
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: 281
+ht-degree: 87%
 
 ---
 
@@ -35,7 +41,7 @@ ht-degree: 100%
 
 [!DNL Workfront]에서 사용자 삭제를 권장하는 **유일한** 때는 사용자가 작업에 할당된 적이 없거나 Workfront 항목에 대한 기록이 전혀 없는 경우입니다.
 
-[!DNL Workfront]에서는 사용자를 삭제하는 대신 비활성화할 것을 **강력히** 권장합니다. 비활성화하면 [!DNL Workfront]의 사용자 정보가 유지되며 이 정보는 정확한 보고, 프로젝트 관리 등에 필요할 수 있습니다. 사용자 비활성화 또는 삭제 여부에 대해 질문이 있는 경우 [!DNL Workfront] 컨설턴트 또는 [!DNL Workfront] 고객 지원에 문의하십시오.
+[!DNL Workfront]에서는 사용자를 삭제하는 대신 비활성화할 것을 **강력히** 권장합니다. 비활성화를 수행하면 정확한 보고, 프로젝트 관리 등에 필요할 수 있는 [!DNL Workfront]의 사용자 정보가 유지됩니다. 사용자를 비활성화할지 또는 삭제할지 여부에 대한 질문이 있는 경우 [!DNL Workfront] 컨설턴트 또는 [!DNL Workfront] 고객 지원 팀에 문의하십시오.
 
 ![[!DNL Users] 페이지의 옵션을 보여 주는 더 보기 메뉴](assets/admin-fund-adding-users-11.png)
 

@@ -9,10 +9,13 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+TQID: https://experienceleague.adobe.com/q25cuV-wKAkoEJTzDIho1Ab-XTexGhEZCHReoE0TFxg
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 100%
+source-wordcount: 400
+ht-degree: 97%
 
 ---
 
@@ -44,19 +47,19 @@ ISBLANK({description})
 
 CONTAINS 텍스트 표현식에는 표현식의 이름, 찾고 있는 단어나 구문, 찾을 필드가 포함됩니다.
 
-**CONTAINS(“phrase”,{fields})**
+**CONTAINS(&quot;구문&quot;,{fields})**
 
 찾고 있는 단어나 구문을 따옴표로 묶어야 하며 그렇지 않으면 표현식이 유효하지 않습니다.
 
 위의 예(프로젝트 설명에서 “자선 이벤트” 찾기)에서 표현식은 다음과 같습니다.
 
-**CONTAINS(“charity event”,{description})**
+**CONTAINS(&quot;자선 행사&quot;,{description})**
 
 ![활용성 보고서가 포함된 워크로드 밸런서](assets/isblank04.png)
 
 **메모**: CONTAINS 표현식은 대소문자를 구분합니다. 예를 들어 “자선 이벤트”가 설명 필드에 대문자로 표시된 경우, 표현식에서 해당 구문을 대문자로 표시합니다.
 
-**CONTAINS(“Charity Event”,{description})**
+**CONTAINS(&quot;자선 행사&quot;,{description})**
 
 값이 있는지 확인하려는 경우 ISBLANK 및 CONTAINS 표현식을 모두 사용하는 것이 좋습니다. 그러나 값이 무엇인지 알고 실제로 값을 보거나 더 나은 인사이트를 제공하기 위해 일종의 설명자를 갖는 것이 더 유용할 수 있습니다.
 

@@ -6,9 +6,15 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
+TQID: https://experienceleague.adobe.com/Aq1RWVPTZE2KQUtbbmDVZQdTE9CGmiFqMP9GvYXlRGk
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40cid: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: 463
 ht-degree: 100%
 
 ---
@@ -49,9 +55,9 @@ ht-degree: 100%
 
 워크플로를 단계별로 살펴보면 커뮤니케이션 포인트를 쉽게 확인하고 적절한 알림이 활성화되어 있는지 확인할 수 있습니다. 이렇게 하면 조직이 이미 작업하고 있는 방식에 대한 알림을 준비하여 스팸이나 커뮤니케이션 분류를 방지합니다.
 
-이벤트 알림을 설정하는 방법에 대한 지침은 [이벤트 알림 설정](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html?lang=ko)을 참조하십시오.
+이벤트 알림을 설정하는 방법에 대한 지침은 [이벤트 알림 설정](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)을 참조하십시오.
 
-이벤트 알림을 관리하는 방법에 대한 지침은 [인앱 및 이메일 이벤트 알림 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html?lang=ko)를 참조하십시오.
+이벤트 알림을 관리하는 방법에 대한 지침은 [인앱 및 이메일 이벤트 알림 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)를 참조하십시오.
 
 </br>
 </br>
@@ -72,5 +78,5 @@ ht-degree: 100%
 * 소유자 이름
 * 입력 일자
 
-프롬프트가 있는 메모 보고서를 만드는 방법에 대한 단계별 지침을 보려면 [작업 보고서 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=ko) 튜토리얼을 시청한 후 다음 활동을 수행합니다.
+프롬프트가 있는 메모 보고서를 만드는 방법에 대한 단계별 지침을 보려면 [작업 보고서 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) 튜토리얼을 시청한 후 다음 활동을 수행합니다.
 

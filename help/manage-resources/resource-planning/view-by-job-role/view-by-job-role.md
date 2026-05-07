@@ -11,9 +11,14 @@ thumbnail: 335169.jpeg
 jira: KT-8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/xqa0b-3ApGd1QiIJh1s4Y0btYfdkgZXDQQ1kAiBWp3I
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: 320
 ht-degree: 100%
 
 ---
@@ -26,7 +31,7 @@ ht-degree: 100%
 * 리소스 정보가 이 보기에 표시되는 방법 알아보기
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3416532/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops=1)
 
 작업 역할별 보기 옵션의 경우, 기본값은 비즈니스 사례에서 프로젝트에 필요한 예상 리소스 수를 가져오는 예산 열을 표시하는 것입니다(채워진 경우). 또한 기본적으로 Net 열이 예산 열의 숫자를 사용하여 남은 리소스 수를 알려 준다는 것을 의미합니다.
 
