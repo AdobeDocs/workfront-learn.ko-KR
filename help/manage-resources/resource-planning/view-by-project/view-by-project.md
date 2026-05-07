@@ -11,9 +11,19 @@ thumbnail: 335170.jpeg
 jira: KT-8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/o3H4L0RX4ioK40tWCZ6X8fqobbtCI8qFJUymEmsHKRw
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: 315
 ht-degree: 100%
 
 ---
@@ -25,7 +35,7 @@ ht-degree: 100%
 * [!UICONTROL 프로젝트별 보기] 참조
 * 리소스 정보가 이 보기에 표시되는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3420158/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3420158/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 프로젝트별 보기 옵션의 경우, 기본값은 비즈니스 사례에서 프로젝트에 필요한 예상 리소스 수를 가져오는 예산 열을 표시하는 것입니다(채워진 경우). 또한 기본적으로 Net 열이 예산 열의 숫자를 사용하여 남은 리소스 수를 알려 준다는 것을 의미합니다.
 

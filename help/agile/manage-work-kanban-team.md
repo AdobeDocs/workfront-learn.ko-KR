@@ -1,47 +1,56 @@
 ---
-title: Kanban 팀으로 작업 관리
-description: Kanban 팀 페이지를 통해 업무와 팀을 관리하는 방법을 알아봅니다.
+title: 칸반 팀으로 작업 관리
+description: 칸반 팀 페이지를 통해 업무와 팀을 관리하는 방법을 알아봅니다.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
 jira: KT-10888
 thumbnail: manage-work-kanban.png
 exl-id: 05656ae0-46b2-4034-ac25-d936090d134c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/-TulZuk86f5dTHLZahmcVIfVyyOIqDtE6NOr9brrOB0
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 100%
+source-wordcount: 393
+ht-degree: 94%
 
 ---
 
-# Kanban 팀으로 작업 관리
+# 칸반 팀으로 작업 관리
 
-Kanban 팀으로 작업 관리
+칸반 팀으로 작업 관리
 Kanban 백로그에 스토리 추가
-크리에이티브 마케팅 팀의 백로그에 스토리를 추가할 수 있는 여러 방법이 있습니다.
+Creative 마케팅 팀의 백로그에 스토리를 추가하는 방법에는 여러 가지가 있습니다.
 
 팀은 백로그에서 직접 스토리를 추가할 수 있습니다.
 프로젝트에서 작업을 할당할 수도 있습니다. 크리에이티브 마케팅 팀에 라우팅된 요청이 있는 경우, 해당 요청이 팀의 요청 탭에 나타납니다. 팀이 요청을 선택하고 스토리로 전환하면 팀의 백로그에 표시됩니다.
 
 
-## Kanban 보드 사용
+## 칸반 보드 사용
 
-백로그에서 스토리의 우선 순위를 정한 후에는 Kanban 보드로 이동합니다. 해당 스토리를 작업할 팀원의 아바타를 스토리 카드에 끌어서 놓아 할당할 수 있습니다.
+백로그에서 스토리의 우선 순위를 정한 후에는 칸반 보드로 이동합니다. 해당 스토리를 작업할 팀원의 아바타를 스토리 카드에 끌어서 놓아 할당할 수 있습니다.
 
 
-스토리가 진행됨에 따라 팀은 스토리보드의 적절한 상태로 스토리를 이동합니다. 팀원은 Kanban 플래그를 사용하여 스토리가 제대로 진행 중인지, 차단되었는지 또는 가져올 준비가 되었는지 표시할 수 있습니다. 작업 항목이 제대로 진행되고 있는지, 작업할 준비가 되었는지 여부를 다른 팀원에게 전달하게 됩니다.
+스토리가 진행됨에 따라 팀은 스토리보드의 적절한 상태로 스토리를 이동합니다. 팀원은 칸반 플래그를 사용하여 스토리가 제대로 진행 중인지, 차단되었는지 또는 가져올 준비가 되었는지 표시할 수 있습니다. 작업 항목이 제대로 진행되고 있는지, 작업할 준비가 되었는지 여부를 다른 팀원에게 전달하게 됩니다.
 
-![Kanban 카드](assets/kanban-01.png)
+![칸반 카드](assets/kanban-01.png)
 
 팀원은 설명, 상태 또는 우선 순위와 같은 항목의 변경 사항을 반영하기 위해 스토리보드에서 바로 카드를 업데이트할 수도 있습니다. 스토리 카드의 드롭다운 메뉴를 클릭하고 해당 필드 [1]을 편집하면 됩니다.
 
-![Kanban 카드 상태](assets/kanban-02.png)
+![칸반 카드 상태](assets/kanban-02.png)
 
-## Kanban 스토리 실행
+## 칸반 스토리 실행
 
 다섯 개의 스토리로 된 진행 중인 작업 제한을 사용하고 있습니다. 보드를 보면 작업을 상태 열로 이동할 때 각 레인의 작업 수가 각 상태 열의 오른쪽 상단에 표시됩니다.
 
-![Kanban WIP 제한](assets/kanban-03.png)
+![칸반 WIP 제한](assets/kanban-03.png)
 
 새로 만들기 또는 진행 중에 해당하는 상태 열의 제한을 초과하면 진행 중인 작업 제한을 초과했음을 나타내는 오류 메시지가 표시됩니다.
 

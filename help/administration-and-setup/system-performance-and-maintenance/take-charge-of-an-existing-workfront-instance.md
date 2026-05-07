@@ -10,10 +10,25 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
+TQID: https://experienceleague.adobe.com/-l24VZKcCqwHrotADh0jzpbVTCnrSU7cPDoJj7bwCbI
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+  - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '748'
-ht-degree: 100%
+source-wordcount: 825
+ht-degree: 96%
 
 ---
 
@@ -23,7 +38,7 @@ Workfront의 놀라운 점은 사용자 정의가 가능하다는 것입니다. 
 
 그러나 상속된 인스턴스 체크리스트를 통해 인스턴스에 대해 알아야 할 모든 것을 배울 수 있습니다.
 
-![상속된 인스턴스 체크리스트 이미지](assets/wf-inherited-instance-image.png)
+![상속된 인스턴스 검사 목록 이미지](assets/wf-inherited-instance-image.png)
 <br></br>
 
 상속된 인스턴스 체크리스트에서 포괄적인 질문, 리소스 및 링크를 검토하여 구성 방법을 명확하게 이해할 수 있습니다.
@@ -98,7 +113,7 @@ Workfront의 놀라운 점은 사용자 정의가 가능하다는 것입니다. 
 </br>
 
 추가 정보는 아래에서 확인할 수 있습니다.
-* [웨비나: 상속된 인스턴스 인수를 위한 팁](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=ko)
+* [웨비나: 상속된 인스턴스를 인수하기 위한 팁](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=ko)
 * [Workfront 구현을 위한 목표 정의](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=ko)
-* [블로그 게시물: 리더십에 대한 후원 및 가치](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353?profile.language=ko)
+* [블로그 게시물: 경영진 후원과 리더십에 대한 가치](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353?profile.language=ko)
 * [블로그 게시물: Adobe Workfront KPI 소개](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001?profile.language=ko)

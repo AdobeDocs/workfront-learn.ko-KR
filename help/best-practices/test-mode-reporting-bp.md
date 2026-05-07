@@ -6,10 +6,21 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10928
 exl-id: c624545c-ba42-4cc3-aafe-8be15baadb75
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/k8DYutzVcGrJc7p0x74B2iQ3nkiohWeQu1egOWZ34AI
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 100%
+source-wordcount: 418
+ht-degree: 90%
 
 ---
 
@@ -25,7 +36,7 @@ ht-degree: 100%
 
 이 페이지를 스크롤하면 먼저 해당 주제에 대한 모든 모범 사례의 상위 수준 목록을 찾을 수 있습니다. 이를 통해 “이유”에 대한 세부 사항을 자세히 살펴보지 않고도 권장 사항을 검토할 수 있습니다.
 
-“이러한 모범 사례를 채택하는 이유는 무엇입니까?” 영역(상위 수준의 목록 뒤)에서는 일부 모범 사례와 프로세스 및 도구 등으로 간주되는 이유에 대한 자세한 설명이 나와 있으며, Workfront 인스턴스를 사용하여 구현하는 것을 고려해야 합니다.
+상위 수준 목록 다음에 나오는 &quot;이러한 모범 사례는 무엇입니까?&quot; 영역에서는 일부 모범 사례와 이것이 프로세스, 도구 등으로 간주되는 이유에 대해 자세히 설명합니다. Workfront 인스턴스를 사용하여 구현을 고려해야 합니다.
 
 </br>
 </br>

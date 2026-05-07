@@ -10,9 +10,20 @@ level: Intermediate
 thumbnail: 10093.jpeg
 jira: KT-10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/VpeDSuAKqWlXviBhwNl8oV2LJ8LRQCjfhu0-XqIRZ6k
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '622'
+source-wordcount: 625
 ht-degree: 100%
 
 ---
@@ -47,7 +58,7 @@ add URL link in the note at the top of the LP
 
 전역 시스템 수준에서 알림을 관리하려면 검색 창에 [!UICONTROL 시스템 이벤트 알림]이 표시되어 있는지 확인합니다
 
-파란색이 표시되도록 전환 버튼을 클릭하여 모든 사용자가 사용할 수 있도록 특정 알림을 켭니다. 파란색이 숨겨져 있으면 알림이 꺼진 것입니다.
+파란색이 표시되도록 토글 버튼을 클릭하여 모든 사용자가 사용할 수 있도록 특정 알림을 켭니다. 파란색이 숨겨져 있으면 알림이 꺼진 것입니다.
 
 [!UICONTROL 이메일 알림] 페이지의 ![[!UICONTROL 활성] 열](assets/admin-fund-notifications-2.png)
 
