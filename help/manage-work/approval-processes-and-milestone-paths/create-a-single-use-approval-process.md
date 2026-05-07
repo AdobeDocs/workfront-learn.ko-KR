@@ -38,7 +38,7 @@ ht-degree: 20%
 이 비디오에서는 승인 프로세스를 만들고, 승인자를 설정하고, 상태를 구성하고, 여러 수준의 승인을 위해 단계를 사용하는 방법을 보여 줍니다.
 업무 승인&#x200B;을 효과적으로 관리하기 위한 글로벌 및 단일 사용 프로세스의 유연성을 강조합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434694/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 

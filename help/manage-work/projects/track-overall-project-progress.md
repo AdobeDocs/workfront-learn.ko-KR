@@ -36,7 +36,7 @@ ht-degree: 14%
 
 이 비디오에서는 정확한 추적과 적시에 프로젝트를 완료할 수 있도록 팀 구성원의 정기적인 업데이트와 사전 예방적 문제 관리의 중요성을 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447417/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 

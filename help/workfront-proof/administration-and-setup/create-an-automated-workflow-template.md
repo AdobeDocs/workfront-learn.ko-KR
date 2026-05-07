@@ -40,7 +40,7 @@ ht-degree: 91%
 * 검토 및 승인 프로세스 기한 설정
 * 자동화된 워크플로 템플릿을 다른 사람과 공유
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454258/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 추가 단계 활성화 옵션
 

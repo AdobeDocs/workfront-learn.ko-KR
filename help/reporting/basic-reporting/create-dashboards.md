@@ -35,7 +35,7 @@ ht-degree: 45%
 이 비디오에서는 Workfront의 대시보드를 이해하고 사용하는 방법에 대한 포괄적인 안내서를 제공합니다.
 대시보드&#x200B;은 사용자가 관련 데이터를 한 곳에서 정리하고 표시할 수 있는 보고서 모음이라는 설명이다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3449129/?captions=kor&quality=12&learn=on&enablevpops=0)
 
 ## 주요 학습 사항
 

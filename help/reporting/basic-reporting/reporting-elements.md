@@ -35,7 +35,7 @@ ht-degree: 0%
 
 이 비디오에서는 보고 요소를 사용자 지정하고 다른 사용자와 공유하는 방법도 보여 줍니다. 이러한 도구&#x200B;을 통해 사용자는 보다 나은 가시성과 관리를 위해 보고서를 필요에 따라 맞춤형으로 작성할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447795/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 

@@ -43,7 +43,7 @@ ht-degree: 87%
 * 팀을 만드는 방법
 * 사용자를 조직 및 팀에 초대하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418194/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

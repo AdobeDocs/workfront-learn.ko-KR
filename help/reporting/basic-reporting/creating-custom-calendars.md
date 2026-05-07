@@ -45,5 +45,5 @@ ht-degree: 83%
 * 캘린더 그룹화에 작업 항목 추가
 * 휴무 캘린더 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452400/?captions=kor&quality=12&learn=on&enablevpops=1)
 

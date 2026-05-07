@@ -36,7 +36,7 @@ ht-degree: 100%
 
 * KPI 데이터에서 가치를 창출하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335046/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445502/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## KPI 비교
 

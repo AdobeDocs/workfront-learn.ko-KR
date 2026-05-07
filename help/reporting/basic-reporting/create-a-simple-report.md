@@ -36,7 +36,7 @@ ht-degree: 46%
 
 이 비디오에서는 사용자 지정 보고서는 기본 설정을 유지하지만 볼 때 일시적으로 변경할 수 있음을 강조합니다. 보고서&#x200B;은 &quot;내 보고서&quot; 섹션에 저장되지만 공유 보고서는 &quot;나와 공유&quot;에 표시됩니다. 자주 사용되&#x200B;은 보고서는 쉽게 액세스할 수 있도록 즐겨찾기로 고정하거나 표시할 수 있습니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3413123/?captions=kor&quality=12&learn=on&enablevpops=0)
 
 ## 주요 학습 사항
 

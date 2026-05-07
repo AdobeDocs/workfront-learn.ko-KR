@@ -36,7 +36,7 @@ ht-degree: 100%
 
 * 작업자가 각 프로젝트에 할애하는 시간을 빠르게 확인하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437806/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 프로젝트에 소요된 시간 검토
 

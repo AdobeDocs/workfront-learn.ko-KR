@@ -37,7 +37,7 @@ ht-degree: 100%
 * 모든 교정쇄 버전 다운로드
 * 교정쇄 버전 삭제
 
->[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438649/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

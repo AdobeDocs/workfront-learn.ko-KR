@@ -34,4 +34,4 @@ ht-degree: 100%
 
 * [!DNL Workfront]에서 작업 할당
 
->[!VIDEO](https://video.tv.adobe.com/v/335117/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441524/?captions=kor&quality=12&learn=on&enablevpops=1)

@@ -39,7 +39,7 @@ ht-degree: 93%
 
 Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417318/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 
 ## 기록 탭에서 전체 텍스트 검색

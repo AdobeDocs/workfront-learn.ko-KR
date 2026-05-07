@@ -35,7 +35,7 @@ ht-degree: 100%
 
 * Workfront Fusion을 구성하는 세 가지 핵심 개념인 시나리오, 앱 및 모듈
 
->[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415964/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 핵심 개념 용어
 

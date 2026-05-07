@@ -38,4 +38,4 @@ ht-degree: 100%
 * 날짜 범위를 변경하는 방법
 * KPI를 서로 다른 두 필터와 나란히 비교하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440254/?captions=kor&quality=12&learn=on&enablevpops=1)

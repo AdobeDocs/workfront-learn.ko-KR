@@ -39,7 +39,7 @@ ht-degree: 89%
 * 폴더 세부 정보 보기
 * 자산 메타데이터 및 키워드 보기 및 업데이트
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453929/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 기본 검색 기준
 

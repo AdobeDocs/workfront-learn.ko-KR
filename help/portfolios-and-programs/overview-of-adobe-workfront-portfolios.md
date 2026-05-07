@@ -35,7 +35,7 @@ ht-degree: 7%
 이 비디오에서는 관리자가 회사 목표에 맞게 프로젝트 선택을 최적화하는 방법에 중점을 두고 포트폴리오 관리에 대해 설명합니다. 포트폴리오&#x200B;의 개념을 공유 자원, 예산, 일정 등을 놓고 경쟁하는 프로젝트의 컬렉션으로 소개한다. 관리자는 Portfolio Optimizer와 같은 도구를 사용하여 노무, 경비, 위험, ROI 및 포트폴리오 목표와의 연계와 같은 기준을 기반으로 프로젝트를 비교할 수 있습니다&#x200B;. 비교할 프로젝트&#x200B;을 준비하려면 각 프로젝트에 대한 비즈니스 사례를 만들어야 합니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442835/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 

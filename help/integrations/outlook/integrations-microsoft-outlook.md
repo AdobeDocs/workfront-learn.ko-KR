@@ -43,7 +43,7 @@ ht-degree: 73%
 
 * Microsoft Outlook 추가 기능 설치
 
->[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3421310/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
