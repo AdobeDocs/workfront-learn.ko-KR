@@ -13,22 +13,16 @@ exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
 last-substantial-update: '2025-04-23T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aadid: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:51:17.520Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: 172
-ht-degree: 28%
+source-wordcount: 178
+ht-degree: 27%
 
 ---
 
@@ -52,3 +46,4 @@ ht-degree: 28%
 * [작업 매출 및 비용 기본값 설정](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
 * [환율 설정](/help/manage-work/project-finances/set-up-exchange-rates.md)
 * [재무 액세스 이해](/help/manage-work/project-finances/understand-financial-access.md)
+* [작업 역할 및 등급 카드 만들기](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
