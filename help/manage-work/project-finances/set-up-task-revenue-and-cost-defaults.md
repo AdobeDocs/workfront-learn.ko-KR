@@ -38,7 +38,7 @@ ht-degree: 37%
 
 수익 유형과 비용 유형이 사용되는 지점 및 시스템 기본값을 설정하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484187/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 
