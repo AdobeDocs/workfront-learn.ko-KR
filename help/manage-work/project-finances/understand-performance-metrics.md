@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:49:39.708Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: 419
+source-wordcount: 425
 ht-degree: 7%
 
 ---
@@ -60,8 +60,8 @@ ht-degree: 7%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-<!--* * [Understand performance metrics](/help/manage-work/project-finances/understand-performance-metrics.md)-->
 * [작업 매출 및 비용 기본값 설정](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
 * [환율 설정](/help/manage-work/project-finances/set-up-exchange-rates.md)
 * [경비 유형 설정](/help/manage-work/project-finances/set-up-expense-types.md)
 * [재무 액세스 이해](/help/manage-work/project-finances/understand-financial-access.md)
+* [작업 역할 및 등급 카드 만들기](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
