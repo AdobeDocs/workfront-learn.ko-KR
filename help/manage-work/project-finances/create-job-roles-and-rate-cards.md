@@ -35,7 +35,7 @@ ht-degree: 13%
 이 비디오에서는 작업 역할 및 비율 카드를 만드는 방법과 프로젝트에서 비율 카드를 첨부하고 제거하는 방법에 대해 설명합니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3486517/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486525/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 
