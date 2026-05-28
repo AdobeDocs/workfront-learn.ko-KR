@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-last-substantial-update: '2025-05-28T00:00:00.000Z'
+last-substantial-update: '2026-05-28T00:00:00.000Z'
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
 product_v2:
@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:20:51.376Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f6c4afc6e1984ef0af8f80e052766f90de7a8655
 workflow-type: tm+mt
-source-wordcount: 689
-ht-degree: 45%
+source-wordcount: 1140
+ht-degree: 29%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 45%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449129/?captions=kor&quality=12&learn=on&enablevpops=0)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **Workfront의 대시보드:** 대시보드는 사용자가 프로젝트, 작업 및 문제와 같은 관련 데이터를 하나의 중앙 보기에서 구성하고 표시할 수 있는 보고서 컬렉션입니다. &#x200B;
 * **대시보드 만들기:** 대시보드는 레이아웃을 선택하고 보고서, 사용자 지정 달력 또는 외부 페이지를 추가한 다음 최적의 표시를 위해 정렬하여 사용자 지정할 수 있습니다. 사용자는 대시보드 &#x200B; 내에서 나란히 보고서에 표시할 열을 사용자 지정할 수도 있습니다. &#x200B;
@@ -90,3 +90,79 @@ ht-degree: 45%
 1. **[!UICONTROL 빠른 링크 이름]** 필드에 &quot;메모 검색&quot;을 입력하십시오.
 1. **[!UICONTROL 추가를 클릭합니다]**.
 1. 왼쪽 패널 메뉴에서 아래쪽 근처에 있는 검색 메모 를 찾습니다. 이름 왼쪽에 있는 점을 클릭하고 업데이트 아래의 오른쪽으로 드래그합니다.
+
+### 활동 2: 내 팀의 진행 중 작업
+
+3개의 &quot;작업 열기&quot; 보고서가 있는 [!UICONTROL 대시보드]를 만드십시오. 각 보고서는 작업에 할당된 다른 팀으로 필터링됩니다.
+
+기존 &quot;작업 열기&quot; 보고서(있는 경우 팀별로 필터링됨)를 사용하거나 이 대시보드에 대해 새 보고서를 만드십시오. 두 개의 추가 팀에 대해 보고서를 두 번 복사하고 편집한 다음 **&quot;내 팀의 진행 중인 작업&quot;이라는 단일 대시보드에 배치하십시오.**
+
+### 답변 2
+
+#### 1부 - 팀 중 하나로 필터링된 &quot;작업 열기&quot; 보고서 만들기
+
+1. **[!UICONTROL 메인 메뉴]**&#x200B;에서 **[!UICONTROL 보고서]**&#x200B;를 선택합니다.
+1. **[!UICONTROL 새 보고서]** 메뉴를 클릭하고 **[!UICONTROL 작업]**&#x200B;을 선택합니다.
+1. 보고서 이름을 &quot;Creative 팀에 할당된 작업 열기&quot;(또는 다른 팀)로 지정합니다.
+1. **[!UICONTROL 열 (보기)]**&#x200B;에서 다음을 포함하도록 열을 설정합니다.
+
+   ![열린 작업 보고서 열을 만드는 화면의 이미지](assets/create-dashboards-activity-2-1.png)
+
+   * [!UICONTROL 프로젝트] > [!UICONTROL 이름]
+   * [!UICONTROL 작업] > [!UICONTROL 이름]
+   * [!UICONTROL 작업] > [!UICONTROL 할당]
+   * [!UICONTROL 작업] > [!UICONTROL 기간]
+   * [!UICONTROL 작업] > [!UICONTROL 계획된 시간]
+   * [!UICONTROL 작업] > [!UICONTROL 계획된 시작 일자]
+   * [!UICONTROL 작업] > [!UICONTROL 계획된 완료 일자]
+   * [!UICONTROL 작업] > [!UICONTROL 완료율]
+
+1. **[!UICONTROL 계획된 완료 일자]** 열을 선택하고 정렬을 **오름차순**(으)로 변경합니다.
+
+1. **[!UICONTROL 필터]** 탭에서 다음을 포함할 필터 규칙을 추가합니다.
+
+   ![열린 작업 보고서 필터를 만드는 화면의 이미지](assets/create-dashboards-activity-2-2.png)
+
+   * [!UICONTROL 프로젝트] > [!UICONTROL 상태가 같음] > [!UICONTROL 같음] > &quot;현재&quot;
+   * [!UICONTROL 작업] > [!UICONTROL 팀 ID] > [!UICONTROL 같음] > &quot;Creative&quot;
+   * [!UICONTROL 작업] > [!UICONTROL 완료율] > [!UICONTROL 미만] > &quot;100&quot;
+
+1. 보고서를 저장하고 닫으려면 **[!UICONTROL 저장+닫기]** 단추를 클릭하십시오.
+
+#### 2부 - 방금 만든 보고서를 복사하고 두 번째 팀을 위한 새 보고서를 만듭니다.
+
+![보고서를 복사할 화면의 이미지](assets/create-dashboards-activity-2-3.png)
+
+1. 방금 만든 보고서를 보려면 **[!UICONTROL 보고서 동작] > [!UICONTROL 복사]**&#x200B;를 클릭하십시오.
+1. 제목에 **&quot;(복사본)&quot;** 이름이 추가된 새 보고서가 나타납니다.
+1. **[!UICONTROL 보고서 동작] > [!UICONTROL 편집]**&#x200B;을 클릭합니다. 그런 다음 필터 및 보고서 제목을 변경하여 Orion 팀(또는 다른 팀)에 초점을 맞춥니다.
+1. [!UICONTROL 필터] 탭을 클릭한 다음 필터 규칙을 변경합니다
+   **[!UICONTROL 작업] > [!UICONTROL 팀 ID] > [!UICONTROL 같음] > &quot;Creative&quot;**
+   **[!UICONTROL 작업] > [!UICONTROL 팀 ID] > [!UICONTROL 같음] > &quot;Orion&quot;**
+1. 보고서 제목 필드에서 단어 **[!UICONTROL &quot;Creative&quot;]**&#x200B;을(를) **[!UICONTROL &quot;Orion&quot;]**(으)로 변경하고 단어 **&quot;(복사)&quot;**&#x200B;을(를) 삭제합니다.
+1. 보고서를 저장하고 닫으려면 **[!UICONTROL 저장+닫기]** 단추를 클릭하십시오.
+
+#### 3부 - 보고서를 다시 복사하고 세 번째 팀을 위한 새 보고서를 만듭니다.
+
+1. 방금 만든 보고서를 보려면 **[!UICONTROL 보고서 동작] > [!UICONTROL 복사]**&#x200B;를 다시 클릭합니다. 이번에는 제목과 필터에서 팀 이름을 &quot;디지털 마케팅&quot;(또는 다른 팀)으로 변경합니다.
+
+#### 4부 - 각 팀에서 진행 중인 작업을 표시하는 대시보드 만들기
+
+1. 메인 메뉴에서 **[!UICONTROL 대시보드]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL 새 대시보드]**&#x200B;를 클릭합니다.
+
+   ![대시보드를 만들 화면의 이미지](assets/create-dashboards-activity-2-4.png)
+
+1. 대시보드 이름을 **&quot;내 팀의 진행 중인 작업&quot;**&#x200B;로 지정합니다.
+1. **[!UICONTROL 이름별 검색]** 필드에 보고서 이름을 입력하세요.
+1. 보고서 이름이 모두 동일한 단어로 시작하므로 다음과 같이 모두 표시되는 것을 볼 수 있습니다.
+
+   ![대시보드 레이아웃 화면의 이미지](assets/create-dashboards-activity-2-5.png)
+
+1. 각 파일을 레이아웃 영역으로 드래그한 다음 저장 + 닫기를 클릭합니다.
+
+   ![대시보드 레이아웃 화면의 이미지](assets/create-dashboards-activity-2-6.png)
+
+1. 최종 대시보드는 다음과 같습니다.
+
+   ![대시보드 레이아웃 화면의 이미지](assets/create-dashboards-activity-2-7.png)
