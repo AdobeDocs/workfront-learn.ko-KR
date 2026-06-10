@@ -7,22 +7,17 @@ feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Intermediate
-jira: KT-1880
+jira: KT-18808
 last-substantial-update: '2025-08-25T00:00:00.000Z'
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2:
-  - id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T02:08:32.688Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 082aa48e99d6c772c973f9bbbc90b0544103e0d5
 workflow-type: tm+mt
 source-wordcount: 706
 ht-degree: 4%
@@ -35,9 +30,9 @@ EXISTS 필터는 표준 Report Builder에서 2 테이블/필드 이동 제한을
 
 이 비디오에서는 EXISTS 필터를 만들어 증명 승인 보고서에서 &quot;현재 프로젝트에 대한 증명 승인&quot;을 보는 방법에 대해 알아봅니다.
 
-EXISTS 함수에 대한 자세한 설명은 [EXISTS 문을 사용하여 복잡한 텍스트 모드 필터 만들기](https://experienceleague.adobe.com/ko/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) 설명서를 참조하십시오.
+EXISTS 함수에 대한 자세한 설명은 [EXISTS 문을 사용하여 복잡한 텍스트 모드 필터 만들기](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) 설명서를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471210/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## 존재함 필터 예
 
