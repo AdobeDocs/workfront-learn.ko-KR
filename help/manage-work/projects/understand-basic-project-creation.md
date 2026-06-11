@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-11-04T00:00:00.000Z'
+last-substantial-update: '2026-06-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:11.134Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 46fe121a9e8bc6855146ed88db8de6ff6cc37940
 workflow-type: tm+mt
-source-wordcount: 241
-ht-degree: 19%
+source-wordcount: 169
+ht-degree: 27%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 19%
 
 * **프로젝트 만들기:** 새 프로젝트를 만들고 이름을 바꾸고 목표, 설명, 시작 날짜 및 목표 완료 날짜를 설정하여 시작합니다.
 * **작업 분류:** 전임 작업을 사용하여 프로젝트를 개별 작업, 기간 예측, 권한 할당 및 작업 순서 지정으로 나눕니다. &#x200B;
-* **문제 처리:** 예기치 않은 문제를 작업으로 전환하거나 다른 프로젝트로 이동하거나 &quot;해결되지 않음&quot;으로 표시하여 관리합니다. &#x200B;
+* **문제 처리:** 예기치 않은 문제를 작업으로 전환하거나 다른 프로젝트로 이동하거나 &quot;해결되지 않음&quot;으로 표시하여 관리합니다&#x200B;.
 * **타임라인 조정:** 작업을 추가하면 프로젝트 타임라인에 영향을 줄 수 있지만 작업이 겹치면 원래 완료 날짜를 유지하는 데 도움이 됩니다. &#x200B;
 * **완료 기준:** 모든 작업이 완료되고 문제가 해결되면 프로젝트가 완료된 것으로 간주됩니다. 초보자는 간단한 &#x200B; 프로젝트에서 시작하여 점차 고급 기능을 탐색해야 합니다. &#x200B;
 
