@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:04:22.081Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 422
-ht-degree: 5%
+source-wordcount: 245
+ht-degree: 6%
 
 ---
 
@@ -38,7 +33,7 @@ ht-degree: 5%
 위임된 승인은 시스템에 표시되며 누가 누구에게 이를 위임했는지 보여 줍니다. &#x200B; 승인과 관련된 업데이트는 업데이트 탭에 나타나고 시스템 활동은 시스템 활동 탭에서 볼 수 있습니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446383/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 
@@ -52,6 +47,6 @@ ht-degree: 5%
 ## 이 주제와 관련된 추천 튜토리얼
 
 * [이벤트 알림 설정](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-* [글로벌 승인 프로세스 및 일회용 승인 프로세스 만들기](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [승인 프로세스 만들기 및 관리](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
 * [그룹별 승인 프로세스 이해](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 

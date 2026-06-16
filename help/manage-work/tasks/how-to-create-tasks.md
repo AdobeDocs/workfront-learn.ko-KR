@@ -10,21 +10,16 @@ last-substantial-update: '2023-05-15T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:39:08.728Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 201
-ht-degree: 9%
+source-wordcount: 204
+ht-degree: 6%
 
 ---
 
@@ -33,9 +28,9 @@ ht-degree: 9%
 이 비디오에서는 긴 방법과 편리한 단축키를 모두 다루는 Workfront 프로젝트에서의 작업 생성에 대한 자습서를 제공합니다. 과제 생성의 유연성을 강조하고 효율적인 과제 관리를 위한 팁을 제공한다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423160/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **작업 만들기 방법:** 자세한 작업을 만들려면 &quot;새 작업&quot; 단추를 사용하고 빠른 인라인 편집에는 &quot;작업 추가&quot; 단추를 사용하십시오.
 * **필수 필드:**&#x200B;작업 이름만 필수입니다. 설명, 기간 및 할당과 같은 다른 필드는 선택 사항이며 나중에 추가할 수 있습니다. &#x200B;
@@ -46,6 +41,6 @@ ht-degree: 9%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [상위-하위 작업 이해](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [작업](/help/manage-work/tasks/work-with-tasks.md)
+* [상위-하위 작업 관계 이해](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Workfront에서 효율적으로 작업 관리](/help/manage-work/tasks/work-with-tasks.md)
 * [프로젝트 계획에서 작업 할당](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)

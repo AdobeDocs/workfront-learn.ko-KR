@@ -13,21 +13,16 @@ jira: KT-13737
 doc-type: video
 hide: true
 exl-id: 1ed29279-3452-49db-976a-157e4ed4c678
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:09:16.844Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 250
-ht-degree: 100%
+source-wordcount: 251
+ht-degree: 98%
 
 ---
 
@@ -37,7 +32,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* [작업 시퀀스 알아보기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=ko-KR)
+>* [Workfront에서 효과적으로 작업 순서 지정](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=ko-KR)
 >* 또는 프로젝트의 전임 항목을 사용하는 것이 익숙합니다.
 
 
@@ -47,6 +42,6 @@ ht-degree: 100%
 * 프로젝트 간 전임 작업을 만드는 방법
 * 보고서에서 프로젝트 간 전임 작업을 추적하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3422838/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
 
 비디오에 사용된 **프로젝트 간 전임 작업 및 후임 작업** 보기 및 **프로젝트 간 전임 작업 및 후임 작업** 보고서를 만드는 방법에 대해 알아보려면 [보기의 기본 텍스트 모드 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ko-KR) 튜토리얼을 참조하고 필요한 경우 목록에 있는 필수 튜토리얼을 선택합니다.

@@ -13,21 +13,16 @@ level: Beginner
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:39.713Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 73
-ht-degree: 78%
+source-wordcount: 75
+ht-degree: 72%
 
 ---
 
@@ -40,11 +35,11 @@ ht-degree: 78%
 * 완료율
 * 진행 상태
 
->[!VIDEO](https://video.tv.adobe.com/v/3438215/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
 
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [프로젝트 타임라인 이해](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [Workfront에서 프로젝트 타임라인 탐색](/help/manage-work/project-timelines/understand-project-timelines.md)
 * [일자 유형 및 진행 상태 이해](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
 

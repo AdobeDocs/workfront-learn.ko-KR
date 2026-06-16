@@ -11,21 +11,16 @@ last-substantial-update: '2024-02-28T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:55:57.327Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 240
-ht-degree: 17%
+source-wordcount: 230
+ht-degree: 12%
 
 ---
 
@@ -33,11 +28,11 @@ ht-degree: 17%
 
 이 비디오에서는 문제 또는 요청을 작업으로 변환하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445437/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
-* **간단한 변환 프로세스:** 문제/요청을 작업으로 변환하려면 문제를 열고 세 점 메뉴를 클릭한 다음 &quot;작업으로 변환&quot;을 선택하십시오. 작업 &#x200B; 이름과 설명은 기본적으로 복사되지만 편집할 수 있습니다. &#x200B;
+* **간단한 변환 프로세스:** 문제/요청을 작업으로 변환하려면 문제를 열고 세 점 메뉴를 클릭한 다음 &quot;작업으로 변환&quot;을 선택하십시오. &#x200B; 작업 이름과 설명은 기본적으로 복사되지만 편집할 수 있습니다. &#x200B;
 * **대상 프로젝트 선택:** 작업의 대상 프로젝트(문제가 있는 기본 프로젝트 또는 액세스 권한이 있는 다른 프로젝트)를 선택할 수 있습니다. &#x200B;
 * **자동 양식 첨부 파일:** 문제에 연결된 사용자 정의 양식이 작업에 자동으로 추가되므로 모든 필드 값이 원활하게 전달됩니다. &#x200B;
 * **변환 옵션:** 주요 옵션은 다음과 같습니다.
@@ -53,7 +48,7 @@ ht-degree: 17%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
-* [문제/요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [계획되지 않은 작업 처리](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [효율적인 요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
+* [문제 또는 요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [계획되지 않은 작업을 효과적으로 처리](/help/manage-work/issues-requests/handle-unplanned-work.md)
 

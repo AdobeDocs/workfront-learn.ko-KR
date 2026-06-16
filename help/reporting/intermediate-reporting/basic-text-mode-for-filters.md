@@ -12,21 +12,16 @@ last-substantial-update: '2025-07-30T00:00:00.000Z'
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2:
-  - id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T13:59:16.164Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 501
-ht-degree: 87%
+source-wordcount: 504
+ht-degree: 85%
 
 ---
 
@@ -34,8 +29,8 @@ ht-degree: 87%
 
 >[!PREREQUISITES]
 >
->* [보고 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=ko)
->* [보고 구성 요소 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=ko)
+>* [Workfront 보고 요소 살펴보기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=ko)
+>* [Workfront에서 보고 구성 요소 탐색](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=ko)
 >* [기본 필터 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=ko)
 
 
@@ -52,7 +47,7 @@ ht-degree: 87%
 * 카멜 대/소문자
 * 보고서 필터에서 사용할 수 있는 일부 _텍스트 모드 코드 블록_
 
->[!VIDEO](https://video.tv.adobe.com/v/3412687/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
 
 ## “필터의 기본 텍스트 모드 이해하기” 활동
 

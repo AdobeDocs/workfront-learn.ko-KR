@@ -13,22 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:40:08.316Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 218
-ht-degree: 9%
+source-wordcount: 198
+ht-degree: 5%
 
 ---
 
@@ -36,7 +30,7 @@ ht-degree: 9%
 
 이 비디오에서는 Workfront의 요청 대기열 개념, 용도 및 요청을 제출하고 관리하는 방법에 대해 설명합니다. 요청 큐&#x200B;은 다양한 유형의 요청을 제출하는 중앙 집중식 위치 역할을 합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447017/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 
@@ -50,6 +44,6 @@ ht-degree: 9%
 ## 이 주제와 관련된 추천 튜토리얼
 
 * [요청 대기열 만들기](/help/manage-work/request-queues/create-a-request-queue.md)
-* [요청 흐름에 대한 설정 이해](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-* [요청 흐름 만들기](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Workfront에서 요청 대기열 만들기](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Workfront에서 요청 흐름 만들기](/help/manage-work/request-queues/create-a-request-flow.md)
 

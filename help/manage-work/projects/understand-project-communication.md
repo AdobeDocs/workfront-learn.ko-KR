@@ -12,21 +12,16 @@ last-substantial-update: '2024-11-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:49.217Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 432
-ht-degree: 13%
+source-wordcount: 378
+ht-degree: 12%
 
 ---
 
@@ -44,13 +39,13 @@ ht-degree: 13%
 
 이 비디오에서는 Workfront이 커뮤니케이션, 작업 관리 및 보고를 간소화하여 모든 프로젝트 관련 정보를 액세스 및 구성하는 방법을 소개합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3436151/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->비디오에 나와 있는 메모 검색 보고서를 만들려면 [작업 보고서 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) 튜토리얼의 활동을 참조하십시오.
+>비디오에 나와 있는 메모 검색 보고서를 만들려면 [작업 보고서 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) 튜토리얼의 활동을 참조하십시오.
 >
->프로젝트 패널에 메모 검색 보고서를 추가하려면 [대시보드 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=ko#activity-1-create-a-dashboard) 튜토리얼의 활동을 참조하십시오.
+>프로젝트 패널에 메모 검색 보고서를 추가하려면 [대시보드 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard) 튜토리얼의 활동을 참조하십시오.
 
 ## 핵심 사항
 
@@ -63,8 +58,8 @@ ht-degree: 13%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [프로젝트 관리 시작하기](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [프로젝트 찾기](/help/manage-work/projects/find-projects.md)
-* [프로젝트 공유](/help/manage-work/projects/share-a-project.md)
+* [현재 상태로 프로젝트 관리](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [효율적인 프로젝트 찾기](/help/manage-work/projects/find-projects.md)
+* [Workfront에서 효과적으로 프로젝트 공유](/help/manage-work/projects/share-a-project.md)
 * [프로젝트 팀 이해](/help/manage-work/projects/understand-the-project-team.md)
 

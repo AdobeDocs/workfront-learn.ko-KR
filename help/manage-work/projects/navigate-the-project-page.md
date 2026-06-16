@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:43.714Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 786
-ht-degree: 56%
+source-wordcount: 711
+ht-degree: 60%
 
 ---
 
@@ -44,7 +39,7 @@ ht-degree: 56%
 * **문서 섹션:** 프로젝트 관련 파일 및 증명을 업로드하고 관리할 수 있습니다. 작업&#x200B;에 첨부된 문서는 쉽게 액세스할 수 있도록 프로젝트 수준으로 롤업됩니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449733/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 
@@ -81,7 +76,7 @@ ht-degree: 56%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [기본 프로젝트 생성 이해하기](/help/manage-work/projects/understand-basic-project-creation.md)
-* [프로젝트를 생성하는 네 가지 방법에 대해 알아보기](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [프로젝트 세부 정보 입력](/help/manage-work/projects/fill-in-the-project-details.md)
+* [처음부터 프로젝트 제작 및 관리](/help/manage-work/projects/understand-basic-project-creation.md)
+* [프로젝트를 만드는 네 가지 방법 살펴보기](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [필수 프로젝트 세부 정보 입력](/help/manage-work/projects/fill-in-the-project-details.md)
 
