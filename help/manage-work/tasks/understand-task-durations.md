@@ -38,7 +38,7 @@ ht-degree: 8%
 정확한 기간&#x200B;은 효과적인 프로젝트 계획 및 리소스 관리에 중요합니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449350/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

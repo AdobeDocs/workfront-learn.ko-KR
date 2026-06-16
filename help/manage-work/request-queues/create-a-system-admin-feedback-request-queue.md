@@ -45,7 +45,7 @@ ht-degree: 30%
 추가 &#x200B; 지침을 위해 보고서 및 사용자 정의 양식을 만들기 위한 튜토리얼에 대한 링크가 제공됩니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450504/?captions=kor&quality=12&learn=on&enablevpops=0)
 
 ## 주요 학습 사항
 

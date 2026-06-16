@@ -35,7 +35,7 @@ ht-degree: 3%
 이 비디오에서는 프로젝트 관리에서 커뮤니케이션의 중요성을 강조하고 커뮤니케이션을 용이하게 하는 핵심 도구로서 이슈의 역할을 조명합니다. 프로젝트&#x200B;을 완료하기 전에 할당, 추적 및 해결해야 하는 작업에 문제가 더 적합하다는 점을 언급하면서 업데이트와 문제의 차이점을 설명합니다. 이 비디오에서&#x200B;은 문제 기록 방법에 대한 단계별 안내서를 제공합니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446573/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 

@@ -46,6 +46,6 @@ ht-degree: 74%
 * 프로젝트 간 전임 작업을 만드는 방법
 * 보고서에서 프로젝트 간 전임 작업을 추적하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422838/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 비디오에 사용되는 **프로젝트 간 전임 작업 및 후임 작업** 보기 및 **프로젝트 간 전임 작업 및 후임 작업** 보고서를 만드는 방법에 대해 알아보려면 [Workfront의 보기에 대한 기본 텍스트 모드 탐색](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ko-KR) 자습서를 참조하고 필요한 경우 여기에 나열된 전임 작업 자습서를 사용하십시오.

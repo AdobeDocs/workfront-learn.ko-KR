@@ -36,7 +36,7 @@ ht-degree: 3%
 이 비디오에서는 프로젝트 내의 작업 역할에 대한 청구 요율을 관리하고 사용자 지정하는 방법을 설명합니다. 동일한 &#x200B; 작업 역할에 대해 여러 청구 요율을 설정하고 정확한 시간 기반 조정을 보장하는 유연성이 강조됩니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3489642/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 
