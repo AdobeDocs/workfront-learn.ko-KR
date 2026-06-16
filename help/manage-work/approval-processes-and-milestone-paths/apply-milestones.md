@@ -49,4 +49,4 @@ ht-degree: 62%
 
 * [프로젝트에서 마일스톤 보기](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [프로젝트 및 작업에 마일스톤 경로 적용](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [기본 보기 만들기에서 마일스톤 보기 활동](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
+* [기본 보기 만들기에서 마일스톤 보기 활동](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)

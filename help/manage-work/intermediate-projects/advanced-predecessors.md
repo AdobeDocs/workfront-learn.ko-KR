@@ -49,8 +49,8 @@ ht-degree: 75%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
 
-전임 작업에 대한 자세한 내용은 [작업 전임 작업 사용](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html)을 참조하십시오.
+전임 작업에 대한 자세한 내용은 [작업 전임 작업 사용](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=ko)을 참조하십시오.
 
-작업 제한에 대한 자세한 내용은 [기본 기간 유형 및 작업 제한](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)을 참조하세요.
+작업 제한에 대한 자세한 내용은 [기본 기간 유형 및 작업 제한](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ko)을 참조하세요.
 
-프로젝트 간 전임 작업에 대한 자세한 내용은 [프로젝트 간 전임 작업과의 종속성 설정](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html)을 참조하세요.
+프로젝트 간 전임 작업에 대한 자세한 내용은 [프로젝트 간 전임 작업과의 종속성 설정](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=ko)을 참조하세요.
