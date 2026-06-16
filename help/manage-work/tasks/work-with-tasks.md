@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:36:54.897Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 219
-ht-degree: 9%
+source-wordcount: 220
+ht-degree: 7%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 9%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448563/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **빠른 변경을 위한 인라인 편집:** 작업 정보를 직접 편집하려면 필드를 두 번 클릭하고 빠르게 업데이트하려면 Tab 키를 사용하여 필드 사이를 이동합니다. &#x200B;
 * **휴지통 백업을 사용하여 작업을 삭제하는 중:** 삭제된 작업은 30일 동안 휴지통으로 이동되며 시스템 관리자만 액세스할 수 있으므로 필요한 경우 복구할 수 있습니다. &#x200B;
@@ -46,6 +46,6 @@ ht-degree: 9%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [상위-하위 작업 이해](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [상위-하위 작업 관계 이해](/help/manage-work/tasks/understand-parent-child-tasks.md)
 * [프로젝트 계획에서 작업 할당](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 * [작업 기간 이해](/help/manage-work/tasks/understand-task-durations.md)

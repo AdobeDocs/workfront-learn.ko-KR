@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:02.349Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 81
-ht-degree: 87%
+source-wordcount: 88
+ht-degree: 70%
 
 ---
 
@@ -46,6 +46,6 @@ ht-degree: 87%
 
 * [기본 워크플로로 교정쇄 업로드](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
 * [프로젝트 상태를 완료로 변경](/help/manage-work/projects/change-the-project-status.md)
-* [승인 완료](/help/manage-work/close-a-project/complete-approvals.md)
-* [배운 내용 기록](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [작업 및 문제 승인 해결](/help/manage-work/close-a-project/complete-approvals.md)
+* [향후 프로젝트에 대해 학습한 레슨 기록](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [프로젝트 시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)

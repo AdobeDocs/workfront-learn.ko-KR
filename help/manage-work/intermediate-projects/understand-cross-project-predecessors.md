@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:57:33.461Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 254
-ht-degree: 95%
+source-wordcount: 257
+ht-degree: 74%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 95%
 
 >[!PREREQUISITES]
 >
->* [작업 시퀀스 알아보기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=ko-KR)
+>* [Workfront에서 효과적으로 작업 순서 지정](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=ko-KR)
 >* 또는 프로젝트의 전임 항목을 사용하는 것이 익숙합니다.
 
 
@@ -48,4 +48,4 @@ ht-degree: 95%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422838/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-비디오에 사용된 **프로젝트 간 전임 작업 및 후임 작업** 보기 및 **프로젝트 간 전임 작업 및 후임 작업** 보고서를 만드는 방법에 대해 알아보려면 [보기의 기본 텍스트 모드 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ko-KR) 튜토리얼을 참조하고 필요한 경우 목록에 있는 필수 튜토리얼을 선택합니다.
+비디오에 사용되는 **프로젝트 간 전임 작업 및 후임 작업** 보기 및 **프로젝트 간 전임 작업 및 후임 작업** 보고서를 만드는 방법에 대해 알아보려면 [Workfront의 보기에 대한 기본 텍스트 모드 탐색](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ko-KR) 자습서를 참조하고 필요한 경우 여기에 나열된 전임 작업 자습서를 사용하십시오.

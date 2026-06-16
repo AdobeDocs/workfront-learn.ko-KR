@@ -25,10 +25,10 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 autotag-review: '2026-05-06T14:56:14.583Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 227
-ht-degree: 9%
+source-wordcount: 176
+ht-degree: 3%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 9%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446629/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **변환 프로세스:** 문제 또는 요청을 프로젝트로 변환하려면 문제를 선택하고 점 3개를 사용한 다음 변환 옵션을 선택합니다. 템플릿으로 사용하는 것이 좋습니다. &#x200B;
 * **템플릿 선택:** 일관성과 편리성을 위해 템플릿을 사용하는 것이 좋습니다. 프로젝트 요구 사항을 기반으로 적절한 템플릿을 검토하고 선택할 &#x200B; 수 있습니다. &#x200B;
@@ -49,7 +49,7 @@ ht-degree: 9%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
-* [문제/요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [계획되지 않은 작업 처리](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [효율적인 요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
+* [문제 또는 요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [계획되지 않은 작업을 효과적으로 처리](/help/manage-work/issues-requests/handle-unplanned-work.md)
 

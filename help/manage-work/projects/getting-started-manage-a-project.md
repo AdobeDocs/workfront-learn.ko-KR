@@ -24,20 +24,20 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:01.284Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 177
-ht-degree: 12%
+source-wordcount: 183
+ht-degree: 8%
 
 ---
 
 # 현재 상태로 프로젝트 관리
 
-이 비디오에서는 상태가 &quot;현재&quot;로 변경된 후의 프로젝트 관리에 대한 개요를 제공합니다. &#x200B;
+이 비디오에서는 상태가 &quot;현재&quot;로 변경된 후의 프로젝트 관리에 대한 개요를 제공합니다&#x200B;.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445174/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **진행 상황 모니터링:** &quot;현재&quot; 상태의 프로젝트가 보고서에 표시되어 관리자가 진행 상황(일정, 지연 또는 기한 초과)을 추적할 수 있습니다.
 * **프로젝트 간 종속성:** 자세한 인사이트를 위해 드릴다운할 수 있는 옵션을 사용하여 프로젝트 간트 보기에서 종속성을 관리하고 볼 수 있습니다.
@@ -49,7 +49,7 @@ ht-degree: 12%
 ## 이 주제와 관련된 추천 튜토리얼
 
 * [실제로 프로젝트 실행](/help/manage-work/projects/take-a-project-live.md)
-* [프로젝트 찾기](/help/manage-work/projects/find-projects.md)
-* [프로젝트 공유](/help/manage-work/projects/share-a-project.md)
+* [효율적인 프로젝트 찾기](/help/manage-work/projects/find-projects.md)
+* [Workfront에서 효과적으로 프로젝트 공유](/help/manage-work/projects/share-a-project.md)
 * [프로젝트 팀 이해](/help/manage-work/projects/understand-the-project-team.md)
-* [프로젝트 커뮤니케이션 이해](/help/manage-work/projects/understand-project-communication.md)
+* [효과적인 커뮤니케이션을 통해 프로젝트 성공 향상](/help/manage-work/projects/understand-project-communication.md)

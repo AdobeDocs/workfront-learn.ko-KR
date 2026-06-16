@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:32.240Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 265
-ht-degree: 11%
+source-wordcount: 230
+ht-degree: 8%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 11%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448574/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **5개의 주요 필드에 초점을 맞춥니다.** 작업, 할당, 기간, 계획된 시간 및 전임 작업을 이해하여 프로젝트 계획을 효율적이고 정확하게 변경합니다. &#x200B;
 * **프로젝트 상태를 &quot;계획 중&quot;으로 설정:** 계획을 조정하는 동안 불필요한 알림을 방지하려면 프로젝트 상태를 &quot;계획 중&quot;으로 설정해야 합니다. &#x200B;
@@ -50,10 +50,10 @@ ht-degree: 11%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [작업 만들기](/help/manage-work/tasks/how-to-create-tasks.md)
-* [작업](/help/manage-work/tasks/work-with-tasks.md)
+* [Workfront에서 효율적으로 작업 만들기](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Workfront에서 효율적으로 작업 관리](/help/manage-work/tasks/work-with-tasks.md)
 * [프로젝트 계획에서 작업 할당](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 * [작업 기간 이해](/help/manage-work/tasks/understand-task-durations.md)
-* [작업 시퀀스 알아보기](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Workfront에서 효과적으로 작업 순서 지정](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [계획된 시간 이해](/help/manage-work/tasks/understand-planned-hours.md)
-* [[!UICONTROL 작업 노력] 이해](/help/manage-work/tasks/understand-work-effort.md)
+* [작업 노력으로 작업 시간 예상](/help/manage-work/tasks/understand-work-effort.md)

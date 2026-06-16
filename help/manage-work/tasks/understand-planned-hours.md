@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:33.224Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 239
+source-wordcount: 201
 ht-degree: 22%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 22%
 >[!VIDEO](https://video.tv.adobe.com/v/3445340/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **계획된 시간 중요도:** 계획된 시간은 작업 기간을 예측하고, 리소스 할당을 관리하고, 소요 시간을 추적하는 데 도움이 되며 향후 프로젝트 계획을 개선하는 데 도움이 됩니다. &#x200B;
 * **정확한 예상 팁:** 긴 작업을 더 작은 하위 작업으로 나누고 시간을 효과적으로 추적하고 변경 사항이나 문제를 문서화하여 계획된 시간 예측을 구체화합니다. &#x200B;
@@ -53,7 +53,7 @@ ht-degree: 22%
 ## 이 주제와 관련된 추천 튜토리얼 및 문서
 
 * [작업 기간 이해](/help/manage-work/tasks/understand-task-durations.md)
-* [작업 시퀀스 알아보기](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [[!UICONTROL 작업 노력] 이해](/help/manage-work/tasks/understand-work-effort.md)
+* [Workfront에서 효과적으로 작업 순서 지정](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [작업 노력으로 작업 시간 예상](/help/manage-work/tasks/understand-work-effort.md)
 * [타임시트 개요](https://experienceleague.adobe.com/ko/docs/workfront/using/timesheets/details/timesheets-overview)
 * [로그 시간](https://experienceleague.adobe.com/ko/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)

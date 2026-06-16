@@ -25,9 +25,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:59.860Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 400
+source-wordcount: 273
 ht-degree: 7%
 
 ---
@@ -36,8 +36,8 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->* [요청 대기열 만들기](/help/manage-work/request-queues/create-a-request-queue.md)
->* [요청 흐름에 대한 설정 이해](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+>* [Workfront에서 요청 큐 만들기](/help/manage-work/request-queues/create-a-request-queue.md)
+>* [요청 흐름 설정 구성](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
 이 비디오는 대기열 주제, 주제 그룹 및 라우팅 규칙을 구성하여 요청 플로우를 만드는 방법에 대한 단계별 안내서를 제공합니다. 이 프로세스&#x200B;은 요청 할당 방법을 정의하는 라우팅 규칙을 만드는 것부터 시작합니다. &#x200B; 그런 다음 요청을 구성하기 위해 주제 그룹이 만들어집니다. &#x200B; 이러한 그룹은 대기열에 추가할 수 있으며 만들 수 있는 주제 그룹 수에는 제한이 없습니다.
 이 비디오에서는 라우팅 규칙, 주제 그룹, 사용자 정의 양식, 승인 프로세스 및 기본 기간에 연결된 대기열 주제를 만드는 방법을 보여 줍니다.

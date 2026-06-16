@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: 179
 ht-degree: 7%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 7%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **전임 작업은 작업 순서를 정의합니다.** 전임 작업은 작업의 순서를 설정하여 다른 작업이 시작되기 전에 특정 작업이 완료되도록 합니다. 이는 프로젝트 성공에 매우 중요합니다. &#x200B;
 * **기간은 타임라인에 영향을 줍니다.** 작업 기간은 작업의 기간을 설정하고 시작 날짜와 완료 날짜를 조정하여 종속 작업에 연속 효과를 줍니다. &#x200B;
@@ -52,4 +52,4 @@ ht-degree: 7%
 
 * [작업 기간 이해](/help/manage-work/tasks/understand-task-durations.md)
 * [계획된 시간 이해](/help/manage-work/tasks/understand-planned-hours.md)
-* [[!UICONTROL 작업 노력] 이해](/help/manage-work/tasks/understand-work-effort.md)
+* [작업 노력으로 작업 시간 예상](/help/manage-work/tasks/understand-work-effort.md)

@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:57:54.939Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 162
-ht-degree: 95%
+source-wordcount: 163
+ht-degree: 75%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 95%
 
 >[!PREREQUISITES]
 >
->* [작업 시퀀스 알아보기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=ko-KR)
+>* [Workfront에서 효과적으로 작업 순서 지정](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=ko-KR)
 >* 또는 프로젝트의 전임 항목을 사용하는 것이 익숙합니다.
 
 
@@ -51,6 +51,6 @@ ht-degree: 95%
 
 전임 작업에 대한 자세한 내용은 [작업 전임 작업 사용](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=ko)을 참조하십시오.
 
-작업 제한 사항에 대한 자세한 내용은 [기간 유형 및 작업 제한 사항 이해 및 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ko)를 참조하십시오.
+작업 제한에 대한 자세한 내용은 [기본 기간 유형 및 작업 제한](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ko)을 참조하세요.
 
-프로젝트 간 전임 작업에 대한 자세한 내용은 [프로젝트 간 전임 작업 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=ko)를 참조하십시오.
+프로젝트 간 전임 작업에 대한 자세한 내용은 [프로젝트 간 전임 작업과의 종속성 설정](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=ko)을 참조하세요.

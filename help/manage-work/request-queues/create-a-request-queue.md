@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:42.290Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 241
-ht-degree: 8%
+source-wordcount: 192
+ht-degree: 3%
 
 ---
 
@@ -42,13 +42,13 @@ ht-degree: 8%
 
 * **요청 큐 만들기:** 새 프로젝트를 만들고 이름을 지정하여 시작합니다. 이 프로젝트는 나중에 요청 큐로 사용됩니다. &quot;도움말 요청 대기열로 게시&quot; 상자를 선택하여 대기열로 공식 지정합니다&#x200B;. &#x200B;
 * **액세스 권한:** 네 가지 옵션(모든 사용자, 프로젝트 뷰어, 회사 구성원 또는 그룹 구성원)에서 선택하여 대기열에 요청을 제출할 수 있는 사용자를 정의합니다. &#x200B;
-* **요청 유형:** 문제, 버그 보고서, 순서 변경 또는 일반 요청과 같은 특정 유형의 요청을 포함하도록 큐를 사용자 지정합니다. 기본 옵션&#x200B;은 &quot;issues&quot;입니다. &#x200B;
+* **요청 유형:** 문제, 버그 보고서, 순서 변경 또는 일반 요청과 같은 특정 유형의 요청을 포함하도록 큐를 사용자 지정합니다. 기본 옵션&#x200B;은 &quot;issues&quot;입니다&#x200B;.
 * **사용자 지정 가능한 필드:** 기본 응답 시간, 권한 및 기타 큐 특성과 같은 추가 세부 정보를 설정하여 해당 기능을 조정합니다. &#x200B;
 * **큐를 라이브로 설정:** 설정을 저장하고 프로젝트 상태를 &quot;현재&quot;로 설정하여 큐를 활성화합니다. 요청을 &#x200B; 제출하고 &quot;제출된 요청&quot; 탭에서 확인하여 기능을 테스트합니다.
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [요청 대기열 이해](/help/manage-work/request-queues/understand-request-queues.md)
-* [요청 흐름에 대한 설정 이해](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-* [요청 흐름 만들기](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Workfront에서 요청 대기열 탐색](/help/manage-work/request-queues/understand-request-queues.md)
+* [요청 흐름 설정 구성](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Workfront에서 요청 흐름 만들기](/help/manage-work/request-queues/create-a-request-flow.md)
 

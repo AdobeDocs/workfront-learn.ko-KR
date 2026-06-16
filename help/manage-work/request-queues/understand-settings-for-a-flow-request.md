@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:39:31.882Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 272
-ht-degree: 8%
+source-wordcount: 227
+ht-degree: 6%
 
 ---
 
@@ -36,15 +36,15 @@ ht-degree: 8%
 
 이 비디오에서는 대기열 관리, 라우팅 규칙, 주제 그룹 및 대기열 주제를 중심으로 Workfront의 요청 흐름 프로세스에 대해 설명합니다. 다음 세 &#x200B; 가지 주요 질문에 답하여 요청 대기열을 구성하는 것이 중요함을 강조합니다.
 
-1. **어떤 항목이 필요합니까?** - 제출된 요청을 분류하는 대기열 주제이므로 &#x200B; 보다 쉽게 관리하고 사용자 정의할 수 있습니다. &#x200B;
-1. **주제를 더 구성할 수 있습니까?** &#x200B; - 주제 그룹은 더 나은 조직을 위해 관련 대기열 주제를 그룹화하는 데 도움이 됩니다(예: 브로셔, 명함 및 &quot;인쇄&quot; 아래의 게시판). &#x200B;
-1. **요청을 누구에게 할당해야 합니까?** - 라우팅 규칙&#x200B;은 특정 팀, 역할 또는 사용자에게 자동으로 제출을 안내하여 요청이 무시되지 않도록 합니다. &#x200B;
+1. **어떤 항목이 필요합니까?**&#x200B; - 제출된 요청을 분류하는 대기열 항목으로서, 보다 쉽게 관리하고 사용자 지정할 수 있습니다. &#x200B;
+1. **주제를 더 구성할 수 있습니까?** &#x200B; - 주제 그룹은 더 나은 조직을 위해 관련 대기열 주제를 그룹화하는 데 도움이 됩니다(예: 브로셔, 명함 및 &quot;인쇄&quot; 아래의 게시판&#x200B;).
+1. **요청을 누구에게 할당해야 합니까?**&#x200B; - 라우팅 규칙은 특정 팀, 역할 또는 사용자에게 자동으로 제출을 안내하므로 요청이 감지되지 않도록 합니다. &#x200B;
 
 이러한 질문을 해결하면 사용자는 Workfront에서 요청 대기열을 효과적으로 계획 및 구성할 수 있습니다. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441912/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **대기열 주제:** 다양한 유형의 요청을 대기열 주제로 정의 및 구성하여 분류 및 사용자 지정을 간소화합니다. &#x200B;
 * **주제 그룹:** 주제 그룹을 사용하여 대기열 주제를 추가로 구성하면 관련 요청(예: &quot;인쇄&quot; 및 &quot;디지털&quot; 범주 그룹화)을 더 쉽게 찾을 수 있습니다. &#x200B;
@@ -54,6 +54,6 @@ ht-degree: 8%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [요청 대기열 만들기](/help/manage-work/request-queues/create-a-request-queue.md)
-* [요청 흐름 만들기](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Workfront에서 요청 대기열 만들기](/help/manage-work/request-queues/create-a-request-queue.md)
+* [Workfront에서 요청 흐름 만들기](/help/manage-work/request-queues/create-a-request-flow.md)
 * [시스템 관리자 피드백 요청 대기열 만들기](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)

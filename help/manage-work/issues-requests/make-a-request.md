@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 257
-ht-degree: 12%
+source-wordcount: 253
+ht-degree: 2%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 12%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413117/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **간소화된 요청 만들기:** 사용자는 기본 메뉴에서 &quot;요청&quot;을 선택하고, 요청 유형을 선택하고, 필수 필드를 작성하고, 관련 문서를 첨부하여 요청을 쉽게 만들 수 있습니다. &#x200B;
 * **사용자 지정 가능한 워크플로:** 요청 큐 및 양식은 조직 워크플로에 맞게 조정되므로 사용자가 세부 정보(예: 매장 내, 야외, 소셜 미디어) 및 우선 순위를 지정할 수 있습니다.
@@ -47,8 +47,8 @@ ht-degree: 12%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [요청 대기열 이해](/help/manage-work/request-queues/understand-request-queues.md)
-* [요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
-* [요청 업데이트](/help/manage-work/issues-requests/update-a-request.md)
-* [문제/요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [문제/요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Workfront에서 요청 대기열 탐색](/help/manage-work/request-queues/understand-request-queues.md)
+* [효율적인 요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
+* [Workfront에서 요청 업데이트](/help/manage-work/issues-requests/update-a-request.md)
+* [문제 또는 요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [문제 또는 요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:57:12.678Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 260
-ht-degree: 11%
+source-wordcount: 223
+ht-degree: 3%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 11%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446573/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **문제와 업데이트 비교:** 프로젝트 완료 전에 할당, 추적 및 해결해야 하는 작업에 대해 업데이트와 비교하여 더 쉽게 모니터링하고 구성할 수 있으므로 문제를 사용합니다. &#x200B;
 * **문제 로깅:** 문제는 문제 탭을 통해 작업 또는 프로젝트 수준에서 기록할 수 있습니다. 우선 &#x200B; 순위를 설정할 수 있으며 할당 및 업데이트에 대해 이메일 알림을 구성할 수 있습니다.
@@ -48,7 +48,7 @@ ht-degree: 11%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [프로젝트 관리 시작하기](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [프로젝트 커뮤니케이션 이해](/help/manage-work/projects/understand-project-communication.md)
-* [문제/요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [문제/요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [현재 상태로 프로젝트 관리](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [효과적인 커뮤니케이션을 통해 프로젝트 성공 향상](/help/manage-work/projects/understand-project-communication.md)
+* [문제 또는 요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [문제 또는 요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

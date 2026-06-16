@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:44:38.813Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 239
-ht-degree: 14%
+source-wordcount: 226
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 14%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447417/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **완료율 계산:** 전체 프로젝트 진행률은 개별 작업의 완료율 값을 기준으로 계산되며, 이 값은 해당 작업의 기간 또는 계획된 시간으로 가중치가 적용됩니다. &#x200B;
 * **계획된 날짜와 예상 날짜 비교:** Workfront은 작업 기간 및 전임 작업을 기반으로 계획된 날짜와 예상 시작/완료 날짜를 계산합니다. 이 &#x200B; 날짜 사이의 불일치는 잠재적인 지연을 나타냅니다. &#x200B;
@@ -49,7 +49,7 @@ ht-degree: 14%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [프로젝트 관리 시작하기](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [현재 상태로 프로젝트 관리](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [프로젝트 지표로 작업 진행 상황 추적](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [[!UICONTROL 간트] 보기 이해](/help/manage-work/projects/understand-the-gantt-view.md)
-* [[!UICONTROL 보드] 보기 이해](/help/manage-work/projects/understand-the-board-view.md)
+* [프로젝트 관리를 위한 간트 보기 탐색](/help/manage-work/projects/understand-the-gantt-view.md)
+* [작업 관리를 위한 게시판 보기 탐색](/help/manage-work/projects/understand-the-board-view.md)

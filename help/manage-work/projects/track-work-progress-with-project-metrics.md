@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:44:54.048Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 323
-ht-degree: 13%
+source-wordcount: 177
+ht-degree: 16%
 
 ---
 
@@ -50,8 +50,8 @@ ht-degree: 13%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [프로젝트 관리 시작하기](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [현재 상태로 프로젝트 관리](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [전체 프로젝트 진행 상황 추적](/help/manage-work/projects/track-overall-project-progress.md)
 * [프로젝트 지표로 작업 진행 상황 추적](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [[!UICONTROL 간트] 보기 이해](/help/manage-work/projects/understand-the-gantt-view.md)
-* [[!UICONTROL 보드] 보기 이해](/help/manage-work/projects/understand-the-board-view.md)
+* [프로젝트 관리를 위한 간트 보기 탐색](/help/manage-work/projects/understand-the-gantt-view.md)
+* [작업 관리를 위한 게시판 보기 탐색](/help/manage-work/projects/understand-the-board-view.md)

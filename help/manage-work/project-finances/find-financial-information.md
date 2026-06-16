@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:52:10.607Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 215
-ht-degree: 17%
+source-wordcount: 203
+ht-degree: 16%
 
 ---
 
@@ -49,6 +49,6 @@ ht-degree: 17%
 ## 이 주제와 관련된 추천 튜토리얼
 
 <!--* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)-->
-* [재무 업데이트](/help/manage-work/project-finances/update-and-review-finances.md)
-* [여러 과금 요율 이해](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [클라이언트 프로젝트의 재무 업데이트](/help/manage-work/project-finances/update-and-review-finances.md)
+* [작업 역할에 대한 청구 요금 사용자 정의](/help/manage-work/project-finances/multiple-billing-rates.md)
 

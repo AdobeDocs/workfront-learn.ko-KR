@@ -23,9 +23,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:15.124Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 257
+source-wordcount: 185
 ht-degree: 7%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 7%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445603/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **프로젝트 백본으로서의 작업:** 작업은 프로젝트를 완료하는 데 필요한 작업 항목을 나타내며 효과적인 프로젝트 계획 및 관리에 중요합니다. &#x200B;
 * **상위-하위 작업 구조:** 상위 작업은 프로젝트를 단계, 단계 또는 마일스톤으로 그룹화하는 반면 하위 작업(하위 작업)은 팀원에게 할당된 실행 가능한 작업을 나타냅니다. &#x200B;
@@ -48,7 +48,7 @@ ht-degree: 7%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [작업 만들기](/help/manage-work/tasks/how-to-create-tasks.md)
-* [작업](/help/manage-work/tasks/work-with-tasks.md)
+* [Workfront에서 효율적으로 작업 만들기](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Workfront에서 효율적으로 작업 관리](/help/manage-work/tasks/work-with-tasks.md)
 * [프로젝트 계획에서 작업 할당](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 

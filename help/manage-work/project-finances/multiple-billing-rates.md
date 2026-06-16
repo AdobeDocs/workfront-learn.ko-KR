@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:51:58.756Z'
-source-git-commit: 36eba67de4075935d1162cab84d8dc4c984eba48
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 217
-ht-degree: 4%
+source-wordcount: 207
+ht-degree: 3%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3489642/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 
 * **기본 청구 요금:** 시스템 관리자가 각 작업 역할에 대해 기본 청구 요금을 설정하지만 개별 프로젝트에 대해 사용자 지정할 수 있습니다. &#x200B;
@@ -49,7 +49,7 @@ ht-degree: 4%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [재무 정보 찾기](/help/manage-work/project-finances/find-financial-information.md)
-* [재무 업데이트](/help/manage-work/project-finances/update-and-review-finances.md)
+* [프로젝트 및 작업에 대한 재무 정보 액세스 및 관리](/help/manage-work/project-finances/find-financial-information.md)
+* [클라이언트 프로젝트의 재무 업데이트](/help/manage-work/project-finances/update-and-review-finances.md)
   <!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
 

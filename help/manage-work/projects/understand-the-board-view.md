@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:17.788Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 295
-ht-degree: 8%
+source-wordcount: 291
+ht-degree: 5%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 8%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423281/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **보드 보기 개요:** Workfront의 보드 보기는 프로젝트 작업을 보고 관리할 수 있는 칸반 스타일 인터페이스를 제공하므로 기존의 작업 목록 보기에 대한 대안을 제공합니다. &#x200B;
 * **작업 관리:** 작업을 정렬, 그룹화 및 열 내부 또는 열 간에 이동할 수 있으며, 작업이 이동할 때 상태 업데이트가 자동으로 적용됩니다. &#x200B;
@@ -47,7 +47,7 @@ ht-degree: 8%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [프로젝트 관리 시작하기](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [현재 상태로 프로젝트 관리](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [전체 프로젝트 진행 상황 추적](/help/manage-work/projects/track-overall-project-progress.md)
 * [프로젝트 지표로 작업 진행 상황 추적](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [[!UICONTROL 간트] 보기 이해](/help/manage-work/projects/understand-the-gantt-view.md)
+* [프로젝트 관리를 위한 간트 보기 탐색](/help/manage-work/projects/understand-the-gantt-view.md)

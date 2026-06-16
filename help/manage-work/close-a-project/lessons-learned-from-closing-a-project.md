@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:29.285Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 75
-ht-degree: 84%
+source-wordcount: 82
+ht-degree: 67%
 
 ---
 
@@ -45,6 +45,6 @@ ht-degree: 84%
 ## 이 주제와 관련된 추천 튜토리얼
 
 * [프로젝트 상태를 완료로 변경](/help/manage-work/projects/change-the-project-status.md)
-* [승인 완료](/help/manage-work/close-a-project/complete-approvals.md)
-* [자산 업로드](/help/manage-work/close-a-project/upload-assets.md)
-* [시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [작업 및 문제 승인 해결](/help/manage-work/close-a-project/complete-approvals.md)
+* [프로젝트 자산 업로드 및 관리](/help/manage-work/close-a-project/upload-assets.md)
+* [프로젝트 시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)

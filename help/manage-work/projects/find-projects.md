@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:13.116Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 169
-ht-degree: 21%
+source-wordcount: 162
+ht-degree: 15%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 21%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439555/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **필터 및 검색 옵션:** 고급 검색을 포함한 필터 및 검색 도구를 사용하여 이름, 설명 또는 사용자 지정 데이터 필드를 기반으로 특정 프로젝트를 빠르게 찾을 수 있습니다. &#x200B;
 * **최근 항목 목록:** 최근에 본 프로젝트가 최근 항목 목록에 자동으로 표시되며, 이 목록은 빠른 액세스를 위해 최대 20개의 프로젝트를 표시할 수 있습니다. &#x200B;
@@ -48,7 +48,7 @@ ht-degree: 21%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [프로젝트 관리 시작하기](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [프로젝트 공유](/help/manage-work/projects/share-a-project.md)
+* [현재 상태로 프로젝트 관리](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Workfront에서 효과적으로 프로젝트 공유](/help/manage-work/projects/share-a-project.md)
 * [프로젝트 팀 이해](/help/manage-work/projects/understand-the-project-team.md)
-* [프로젝트 커뮤니케이션 이해](/help/manage-work/projects/understand-project-communication.md)
+* [효과적인 커뮤니케이션을 통해 프로젝트 성공 향상](/help/manage-work/projects/understand-project-communication.md)

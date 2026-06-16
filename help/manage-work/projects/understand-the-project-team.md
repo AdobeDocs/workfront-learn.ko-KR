@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:42:45.518Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 217
-ht-degree: 12%
+source-wordcount: 208
+ht-degree: 7%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 12%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444596/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 주요 학습 사항
+## 핵심 사항
 
 * **자동 팀 채우기:** 사용자가 작업을 할당받거나 프로젝트 소유자로 지정되면 프로젝트 팀이 자동으로 채워집니다. 단&#x200B;, 할당이 제거되어도 사용자는 자동으로 제거되지 않습니다. 수동으로 제거해야 합니다. &#x200B;
 * **수동 업데이트:** 할당이 없더라도 프로젝트 팀에 사람을 수동으로 추가하거나 제거할 수 있으므로 팀 목록이 정확하고 최신 상태를 유지할 수 있습니다. &#x200B;
@@ -47,7 +47,7 @@ ht-degree: 12%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [프로젝트 관리 시작하기](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [프로젝트 찾기](/help/manage-work/projects/find-projects.md)
-* [프로젝트 공유](/help/manage-work/projects/share-a-project.md)
-* [프로젝트 커뮤니케이션 이해](/help/manage-work/projects/understand-project-communication.md)
+* [현재 상태로 프로젝트 관리](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [효율적인 프로젝트 찾기](/help/manage-work/projects/find-projects.md)
+* [Workfront에서 효과적으로 프로젝트 공유](/help/manage-work/projects/share-a-project.md)
+* [효과적인 커뮤니케이션을 통해 프로젝트 성공 향상](/help/manage-work/projects/understand-project-communication.md)

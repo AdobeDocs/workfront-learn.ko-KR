@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:49.217Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 432
-ht-degree: 13%
+source-wordcount: 378
+ht-degree: 12%
 
 ---
 
@@ -63,8 +63,8 @@ ht-degree: 13%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [프로젝트 관리 시작하기](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [프로젝트 찾기](/help/manage-work/projects/find-projects.md)
-* [프로젝트 공유](/help/manage-work/projects/share-a-project.md)
+* [현재 상태로 프로젝트 관리](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [효율적인 프로젝트 찾기](/help/manage-work/projects/find-projects.md)
+* [Workfront에서 효과적으로 프로젝트 공유](/help/manage-work/projects/share-a-project.md)
 * [프로젝트 팀 이해](/help/manage-work/projects/understand-the-project-team.md)
 

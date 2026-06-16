@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 426
-ht-degree: 28%
+source-wordcount: 373
+ht-degree: 30%
 
 ---
 
@@ -35,8 +35,8 @@ ht-degree: 28%
 
 >[!PREREQUISITES]
 >
->* [요청 대기열 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=ko)
->* [요청 흐름 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=ko)
+>* [Workfront에서 요청 큐 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=ko)
+>* [Workfront에서 요청 흐름 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=ko)
 >* 또는 라우팅 규칙 및 사용자 정의 양식을 사용하는 요청 대기열을 만드는 것이 익숙합니다.
 
 이 비디오에서는 시스템 관리자를 위한 피드백 요청 대기열을 만드는 방법에 대한 단계별 안내서를 제공합니다.

@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:15:03.293Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 160
-ht-degree: 8%
+source-wordcount: 163
+ht-degree: 3%
 
 ---
 
@@ -34,14 +34,14 @@ ht-degree: 8%
 
 >[!PREREQUISITES]
 >
->* [캔버스 대시보드 소개](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+>* [Workfront에서 캔버스 대시보드 탐색](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
 캔버스 대시보드 **보고서**&#x200B;를 만들기 전에 먼저 수행해야 하는 작업은 다음과 같습니다.
 
 * 캔버스 대시보드 베타에 등록 및
 * 캔버스 대시보드 만들기
 
-[캔버스 대시보드 소개](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)에서는 두 가지 작업을 모두 수행하는 방법을 단계별로 보여 줍니다.
+[Workfront에서 캔버스 대시보드 살펴보기](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)에서는 두 가지 작업을 모두 수행하는 방법을 단계별로 보여 줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475821/?captions=kor&quality=12&learn=on&enablevpops=1)
 
@@ -51,8 +51,8 @@ ht-degree: 8%
 
 ## 이 주제와 관련된 추천 튜토리얼
 
-* [캔버스 대시보드 소개](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [Workfront에서 캔버스 대시보드 탐색](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [캔버스 대시보드에서 KPI 보고서 만들기](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [캔버스 대시보드에서 표 보고서 만들기](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [캔버스 대시보드 보고서에 조건부 서식 추가](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-* [캔버스 대시보드 보고서에서 OR 필터 사용](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+* [캔버스 대시보드 보고서에 OR 필터 적용](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
