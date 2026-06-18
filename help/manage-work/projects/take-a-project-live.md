@@ -8,22 +8,18 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: '2026-06-18T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:46.743Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: dca6f8510edc49351593fb73d0d5f2b0ac9be53e
 workflow-type: tm+mt
 source-wordcount: 168
 ht-degree: 8%
@@ -34,7 +30,7 @@ ht-degree: 8%
 
 이 비디오에서는 상태를 &quot;현재&quot;로 변경하여 프로젝트를 라이브로 전환하는 마지막 단계에 대해 설명합니다. &#x200B; 시작하기 전에 작업 이름, 기간, 계획된 시간, 전임 작업, 시작 및 완료 일자, 할당 등의 주요 프로젝트 요소를 검토하여 모든 것이 정확하고 올바르게 설정되었는지 확인합니다. 프로젝트&#x200B;이 활성 상태가 되면 프로젝트 관리자는 전역 및 개인 설정을 기반으로 알림을 수신하고 프로젝트가 활성 프로젝트에 대한 보고서 및 필터에 표시됩니다. 이것&#x200B;은 그 일을 공식적으로 시작한 것이다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3438995/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
 
 ## 핵심 사항
 
