@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:09:16.844Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 251
 ht-degree: 98%
@@ -50,3 +50,4 @@ ht-degree: 98%
 >[!VIDEO](https://video.tv.adobe.com/v/3422838/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 비디오에 사용된 **프로젝트 간 전임 작업 및 후임 작업** 보기 및 **프로젝트 간 전임 작업 및 후임 작업** 보고서를 만드는 방법에 대해 알아보려면 [보기의 기본 텍스트 모드 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=ko-KR) 튜토리얼을 참조하고 필요한 경우 목록에 있는 필수 튜토리얼을 선택합니다.
+

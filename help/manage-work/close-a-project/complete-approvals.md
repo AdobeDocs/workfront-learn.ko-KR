@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:02:44.128Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 78
 ht-degree: 66%
@@ -46,4 +46,5 @@ ht-degree: 66%
 * [프로젝트 자산 업로드 및 관리](/help/manage-work/close-a-project/upload-assets.md)
 * [향후 프로젝트에 대해 학습한 레슨 기록](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
 * [프로젝트 시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
+
 
