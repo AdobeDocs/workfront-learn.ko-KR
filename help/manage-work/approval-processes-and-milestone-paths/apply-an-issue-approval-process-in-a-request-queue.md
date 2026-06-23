@@ -13,19 +13,13 @@ last-substantial-update: '2025-03-26T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aadid: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:58:59.618Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 291
 ht-degree: 24%
@@ -43,7 +37,7 @@ ht-degree: 24%
 이 비디오에서는 요청 대기열을 만들 때 기본 승인 프로세스를 적용하는 프로세스에 대해 설명합니다. 요청&#x200B;이 만들어지면 &quot;신규 - 승인 보류 중&quot; 상태로 시작되고 지정된 승인자에게 승인 알림이 전송됩니다. 승인된 &#x200B; 경우 상태가 &quot;신규&quot;로 변경되어 할당된 개인이 작업을 시작할 수 있습니다. 거부된 경우 승인 프로세스 설정의 일반적인 실수로 인해 상태가 &quot;신규&quot;로 잘못 &#x200B; 되돌아갈 수 있습니다. &#x200B;
 이 비디오에서는 상태가 새 요청의 기본값인 &quot;새로 만들기&quot;로 설정되면 승인 프로세스가 트리거됨을 강조합니다. 거부되면 &#x200B; 시스템은 기본적으로 상태를 이전 상태로 다시 변경하는 것으로 설정되며, 이는 새 요청에 이상적이지 않습니다. 대신 &#x200B; &quot;해결되지 않음&quot;과 같은 다른 상태를 선택해야 합니다. 또한 &#x200B; 기본적으로 제공되는 &quot;거부됨&quot; 상태가 없지만, 필요한 경우 시스템 관리자가 만들 수 있습니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3455031/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 
@@ -60,3 +54,4 @@ ht-degree: 24%
 * [그룹별 승인 프로세스 이해](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Workfront에서 요청 흐름 만들기](/help/manage-work/request-queues/create-a-request-flow.md)
 * [승인 프로세스 만들기 및 관리](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+

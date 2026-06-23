@@ -12,18 +12,13 @@ last-substantial-update: '2025-08-12T00:00:00.000Z'
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2:
-  - id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T13:59:41.713Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 367
 ht-degree: 80%
@@ -51,7 +46,7 @@ ht-degree: 80%
 * 카멜 표기법의 정의
 * 보고서 그룹화에 사용할 수 있는 _텍스트 모드 코드 블록_
 
->[!VIDEO](https://video.tv.adobe.com/v/3470786/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops=0)
 
 ## “그룹화의 기본 텍스트 모드 이해하기” 활동
 
@@ -138,4 +133,5 @@ group.0.valueformat=HTML
 ```
 
 ![프로젝트 이름별로 그룹화된 교정쇄 승인을 보여 주는 화면 이미지](assets/proof-approvals-grouped-by-doc-name.png)
+
 

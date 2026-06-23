@@ -12,18 +12,13 @@ last-substantial-update: '2025-08-12T00:00:00.000Z'
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2:
-  - id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T02:12:30.619Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 736
 ht-degree: 90%
@@ -52,7 +47,7 @@ ht-degree: 90%
 * 카멜 표기법의 정의
 * 보고서 보기에서 사용할 수 있는 일부 _텍스트 모드 코드 블록_
 
->[!VIDEO](https://video.tv.adobe.com/v/3470795/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops=0)
 
 ## “보기의 기본 텍스트 모드 이해하기” 활동
 
@@ -548,3 +543,4 @@ valueformat=HTML
 ```
 
 ![교정쇄 승인의 프로젝트 및 작업을 보여 주는 화면 이미지](assets/proof-approval-project-and-task.png)
+
