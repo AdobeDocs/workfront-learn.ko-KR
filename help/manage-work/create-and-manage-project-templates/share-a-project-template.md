@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:58:34.198Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
 source-wordcount: 78
 ht-degree: 62%
@@ -46,3 +46,4 @@ ht-degree: 62%
 * [기존 프로젝트를 효율적으로 복사](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [프로젝트 템플릿 비활성화](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [템플릿에서 프로젝트 팀 편집](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

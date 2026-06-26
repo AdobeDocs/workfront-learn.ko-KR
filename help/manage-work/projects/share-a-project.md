@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:21.983Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
 source-wordcount: 362
 ht-degree: 3%
@@ -58,7 +58,7 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423151/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **자동 액세스 권한:** Workfront은 공유를 단순화하기 위해 역할(예: 프로젝트 작성자, 작업자, 후원자 및 리소스 관리자)에 따라 적절한 액세스 권한을 자동으로 할당합니다. &#x200B;
 * **유연한 공유 옵션:** 프로젝트는 개인, 팀, 작업 역할, 그룹 또는 회사와 공유할 수 있으며 포트폴리오나 프로그램을 통해 권한을 상속할 수 있습니다. &#x200B;
@@ -73,4 +73,5 @@ ht-degree: 3%
 * [효율적인 프로젝트 찾기](/help/manage-work/projects/find-projects.md)
 * [프로젝트 팀 이해](/help/manage-work/projects/understand-the-project-team.md)
 * [효과적인 커뮤니케이션을 통해 프로젝트 성공 향상](/help/manage-work/projects/understand-project-communication.md)
+
 

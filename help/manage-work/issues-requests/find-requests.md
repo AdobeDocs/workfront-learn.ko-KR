@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:56:55.448Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 219
-ht-degree: 51%
+source-wordcount: 232
+ht-degree: 10%
 
 ---
 
@@ -43,13 +43,13 @@ ht-degree: 51%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441661/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
-* **Workfront Home에서 요청 찾기:** 사용자는 자신의 역할에 따라 본인에게 할당된 요청이나 승인 대기 중인 요청을 확인할 수 있습니다. &#x200B;
-* **요청 영역에서 필터 사용:** “내 요청” 및 “내 진행 중 요청”과 같은 필터를 사용하면 사용자가 생성한 요청을 조회할 수 있습니다. &#x200B;
-* **팀 페이지에서 요청 관리:** 할당되지 않은 팀 요청을 확인하고 자신 또는 다른 팀원에게 할당할 수 있으며, 워크로드 밸런서를 활용하여 현재 업무량을 기준으로 팀원 할당을 조정할 수 있습니다. &#x200B;
-* **사용자 정의 보고서 및 대시보드:** 사용자 정의 보고서를 생성하여 요청을 추적할 수 있으며, 이를 통해 요청의 명칭, 필터, 보기 방식, 그룹화를 맞춤화하여 보다 효과적으로 요청을 관리하고 우선순위를 정할 수 있습니다. &#x200B;
-* **필터의 &quot;내&quot; 이해:** 홈에서 &quot;내&quot;라는 용어는 내게 할당된 문제를 나타냅니다. 요청 영역의 &quot;내&quot;라는 용어는 내가 요청한 문제를 나타냅니다. &#x200B;
+* **Workfront 홈에서 요청 찾기:** 사용자는 역할에 따라 자신에게 할당된 요청 또는 승인 대기 중인 요청을 볼 수 있습니다. &#x200B;
+* **요청 영역에서 필터를 사용:** &quot;내 요청&quot; 및 &quot;내 열기 요청&quot;과 같은 필터를 사용하면 사용자가 만든 요청을 볼 수 있습니다. &#x200B;
+* **팀 페이지에서 요청 관리:** 사용자는 할당 해제된 팀 요청을 보고 업무 균형자를 사용하여 현재 업무량을 기준으로 팀원 할당을 관리하면서 자신이나 다른 사용자에게 할당할 수 있습니다. &#x200B;
+* **사용자 지정 보고서 및 대시보드:** 사용자는 사용자 지정 보고서를 만들어 요청을 추적할 수 있으므로 개인화된 이름 지정, 필터, 보기 및 그룹화를 허용하여 요청을 효과적으로 관리하고 우선 순위를 매기는 데 도움이 됩니다. &#x200B;
+* **필터에서의 “내” 이해:** Home에서 “내”는 나에게 할당된 문제를 의미합니다. 요청 영역의 &quot;내&quot;라는 용어는 내가 요청한 문제를 나타냅니다. 
 
 
 ## 이 주제와 관련된 추천 튜토리얼
@@ -59,4 +59,5 @@ ht-degree: 51%
 * [Workfront에서 요청 업데이트](/help/manage-work/issues-requests/update-a-request.md)
 * [문제 또는 요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [문제 또는 요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+
 

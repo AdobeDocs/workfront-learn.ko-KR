@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:53:40.935Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 355
-ht-degree: 11%
+source-wordcount: 372
+ht-degree: 10%
 
 ---
 
@@ -44,11 +44,11 @@ ht-degree: 11%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444953/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **중앙 집중식 승인 관리:** 홈 영역의 &quot;내 승인 대기 중&quot; 위젯에서 승인 대기 중인 모든 항목에 액세스할 수 있습니다. &#x200B;
 * **유연한 검토 옵션:** 홈 영역에서 직접 승인 또는 거부하거나 항목 이름을 클릭하여 결정을 내리기 전에 세부 사항을 검토할 수 있습니다. &#x200B;
-* **댓글 달기 옵션:** 댓글을 추가하는 것은 선택 사항이지만 명확성을 위해 권장됩니다. 홈 영역&#x200B;에서 이루어진 승인은 댓글을 입력하라는 메시지를 표시하지만 항목 내에서 이루어진 승인은 주석을 표시하지 않습니다. &#x200B;
+* **댓글 달기 옵션:** 댓글을 추가하는 것은 선택 사항이지만 명확성을 위해 권장됩니다. 홈 영역&#x200B;에서 이루어진 승인은 댓글을 입력하라는 메시지를 표시하지만 항목 내에서 이루어진 승인은 주석을 표시하지 않습니다. 
 * **증명 승인 세부 정보:** 증명 승인은 &quot;변경 사항과 함께 승인됨&quot;, &quot;변경 필요&quot;, &quot;관련 없음&quot; 등 여러 옵션을 제공하여 자세한 피드백을 제공합니다. &#x200B;
 * **변경 내용 처리:** 변경 내용이 필요한 문서나 증명에 대해서는 주석의 변경 내용을 지정하여 다시 제출하거나 업데이트하기 위해 통신을 명확하게 할 수 있습니다. &#x200B;
 
@@ -71,3 +71,4 @@ Guides
 Home overview for Reviewers
 Issue page overview
 -->
+

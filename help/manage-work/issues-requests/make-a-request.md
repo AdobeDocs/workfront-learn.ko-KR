@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 253
+source-wordcount: 264
 ht-degree: 2%
 
 ---
@@ -37,11 +37,11 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413117/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **간소화된 요청 만들기:** 사용자는 기본 메뉴에서 &quot;요청&quot;을 선택하고, 요청 유형을 선택하고, 필수 필드를 작성하고, 관련 문서를 첨부하여 요청을 쉽게 만들 수 있습니다. &#x200B;
 * **사용자 지정 가능한 워크플로:** 요청 큐 및 양식은 조직 워크플로에 맞게 조정되므로 사용자가 세부 정보(예: 매장 내, 야외, 소셜 미디어) 및 우선 순위를 지정할 수 있습니다.
-* **초안 자동 저장 기능:** 초안은 사용자가 제목 필드를 채울 때 자동으로 저장되며 일시 중지하거나 다른 곳으로 이동할 경우 데이터가 손실되지 않도록 합니다. 초안&#x200B;은 나중에 완료하기 위해 액세스하거나 필요하지 않은 경우 삭제할 수 있습니다. &#x200B;
+* **초안 자동 저장 기능:** 초안은 사용자가 제목 필드를 채울 때 자동으로 저장되며 일시 중지하거나 다른 곳으로 이동할 경우 데이터가 손실되지 않도록 합니다. 초안&#x200B;은 나중에 완료하기 위해 액세스하거나 필요하지 않은 경우 삭제할 수 있습니다. 
 * **요청 추적 및 필터링:** 제출된 요청은 &quot;제출된&quot; 페이지에서 추적할 수 있으며, 필터를 사용하여 열려 있거나 확인되지 않았거나 사용자 권한에 따라 모든 요청을 볼 수 있습니다. &#x200B;
 * **요청 복사 및 재사용:** 사용자는 기존 요청을 복사하여 새 요청을 만들 수 있으므로 처음부터 새로 시작하지 않고도 유사한 요청을 쉽게 제출할 수 있습니다.
 
@@ -52,3 +52,4 @@ ht-degree: 2%
 * [Workfront에서 요청 업데이트](/help/manage-work/issues-requests/update-a-request.md)
 * [문제 또는 요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [문제 또는 요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+
