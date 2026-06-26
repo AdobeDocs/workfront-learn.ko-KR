@@ -23,9 +23,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:17.788Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 291
+source-wordcount: 299
 ht-degree: 5%
 
 ---
@@ -36,11 +36,11 @@ ht-degree: 5%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423281/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **보드 보기 개요:** Workfront의 보드 보기는 프로젝트 작업을 보고 관리할 수 있는 칸반 스타일 인터페이스를 제공하므로 기존의 작업 목록 보기에 대한 대안을 제공합니다. &#x200B;
 * **작업 관리:** 작업을 정렬, 그룹화 및 열 내부 또는 열 간에 이동할 수 있으며, 작업이 이동할 때 상태 업데이트가 자동으로 적용됩니다. &#x200B;
-* **작업 만들기:** 프로젝트에 새 작업을 생성하는 보드 보기에서 직접 새 카드를 만들 수 있습니다. 이러한 작업&#x200B;은 편집하고 즉시 할당할 수 있습니다. &#x200B;
+* **작업 만들기:** 프로젝트에 새 작업을 생성하는 보드 보기에서 직접 새 카드를 만들 수 있습니다. 이러한 작업&#x200B;은 편집하고 즉시 할당할 수 있습니다. 
 * **사용자 지정:** 보드 보기의 열과 카드를 프로젝트 요구 사항에 맞게 구성하여 작업 조직의 유연성을 높일 수 있습니다. &#x200B;
 * **작업 목록과 통합:** 작업 상태 업데이트 또는 새 작업 만들기와 같이 보드 보기에서 변경한 내용이 작업 목록 보기에 반영되어 보기 간에 원활하게 통합됩니다. &#x200B;
 
@@ -51,3 +51,4 @@ ht-degree: 5%
 * [전체 프로젝트 진행 상황 추적](/help/manage-work/projects/track-overall-project-progress.md)
 * [프로젝트 지표로 작업 진행 상황 추적](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
 * [프로젝트 관리를 위한 간트 보기 탐색](/help/manage-work/projects/understand-the-gantt-view.md)
+

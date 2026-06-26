@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:40:23.244Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
 source-wordcount: 714
 ht-degree: 96%
@@ -100,3 +100,4 @@ ht-degree: 96%
 * [요청 흐름 설정 구성](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Workfront에서 요청 흐름 만들기](/help/manage-work/request-queues/create-a-request-flow.md)
 * [시스템 관리자 피드백 요청 대기열 만들기](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
+

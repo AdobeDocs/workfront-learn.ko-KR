@@ -23,16 +23,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:04.428Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 370
-ht-degree: 13%
+source-wordcount: 397
+ht-degree: 12%
 
 ---
 
 # 프로젝트 관리를 위해 [!UICONTROL 간트] 보기 탐색
 
-이 비디오에서는 프로젝트 간트 차트 및 작업 간트 차트 를 사용하여 작업과 프로젝트를 효과적으로 시각화하고 관리하는 방법을 설명합니다. 간트 차트&#x200B;은 작업, 템플릿 및 프로젝트에 대한 전체적인 뷰를 제공하며 일반적으로 포트폴리오 내에서 프로젝트 간(특히 리소스를 공유하는 프로젝트) 관계를 이해하는 데 사용됩니다. &#x200B;
+이 비디오에서는 프로젝트 간트 차트 및 작업 간트 차트 를 사용하여 작업과 프로젝트를 효과적으로 시각화하고 관리하는 방법을 설명합니다. 간트 차트&#x200B;은 작업, 템플릿 및 프로젝트에 대한 전체적인 뷰를 제공하며 일반적으로 포트폴리오 내에서 프로젝트 간(특히 리소스를 공유하는 프로젝트) 관계를 이해하는 데 사용됩니다. 
 
 **프로젝트 간트 차트의 주요 기능:**
 
@@ -70,3 +70,4 @@ ht-degree: 13%
 * [전체 프로젝트 진행 상황 추적](/help/manage-work/projects/track-overall-project-progress.md)
 * [프로젝트 지표로 작업 진행 상황 추적](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
 * [작업 관리를 위한 게시판 보기 탐색](/help/manage-work/projects/understand-the-board-view.md)
+

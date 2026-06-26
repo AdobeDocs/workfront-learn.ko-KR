@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 30%
+source-wordcount: 431
+ht-degree: 25%
 
 ---
 
@@ -39,10 +39,7 @@ ht-degree: 30%
 >* [Workfront에서 요청 흐름 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=ko)
 >* 또는 라우팅 규칙 및 사용자 정의 양식을 사용하는 요청 대기열을 만드는 것이 익숙합니다.
 
-이 비디오에서는 시스템 관리자를 위한 피드백 요청 대기열을 만드는 방법에 대한 단계별 안내서를 제공합니다.
-큐&#x200B;의 목적은 시스템 관리자가 만든 프로세스 및 워크플로에 대한 사용자 피드백을 수집하여 개선 및 최적화를 가능하게 하는 것입니다.
-이 비디오에서는 사용자 참여의 중요성과 프로세스 개선의 투명성을 강조하여 관리자가 사용자와 피드백 보고서를 공유할 수 있도록 독려합니다.
-추가 &#x200B; 지침을 위해 보고서 및 사용자 정의 양식을 만들기 위한 튜토리얼에 대한 링크가 제공됩니다.
+이 비디오에서는 시스템 관리자를 위한 피드백 요청 대기열을 만드는 방법에 대한 단계별 안내서를 제공합니다.큐&#x200B;의 목적은 시스템 관리자가 만든 프로세스 및 워크플로에 대한 사용자 피드백을 수집하여 개선 및 최적화를 가능하게 하는 것입니다.이 비디오에서는 사용자 참여의 중요성과 프로세스 개선의 투명성을 강조하여 관리자가 사용자와 피드백 보고서를 공유할 수 있도록 독려합니다.추가 &#x200B; 지침을 위해 보고서 및 사용자 정의 양식을 만들기 위한 튜토리얼에 대한 링크가 제공됩니다.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450504/?captions=kor&quality=12&learn=on&enablevpops=0)
@@ -63,3 +60,4 @@ ht-degree: 30%
 ## 이 주제와 관련된 추천 튜토리얼
 
 * [요청 대기열에 대한 일반적인 질문에 대한 답변](/help/manage-work/request-queues/request-queue-faq.md)
+

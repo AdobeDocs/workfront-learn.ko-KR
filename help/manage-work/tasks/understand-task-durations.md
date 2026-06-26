@@ -24,23 +24,21 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:12.123Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 188
-ht-degree: 8%
+source-wordcount: 230
+ht-degree: 6%
 
 ---
 
 # 작업 기간 이해
 
-이 비디오에서는 Workfront의 작업 기간, 작업 시작 및 완료 날짜에 대한 작업 기간 영향, 프로젝트 타임라인 및 기간을 효과적으로 사용하기 위한 모범 사례에 대해 설명합니다.
-제한 사항으로 자동 조정을 방지할 수 있으므로 Workfront에서는 제한 사항을 수동으로 설정하는 대신 지속 기간 및 전임 작업을 사용하여 작업 타임라인을 설정하는 것이 좋습니다.
-정확한 기간&#x200B;은 효과적인 프로젝트 계획 및 리소스 관리에 중요합니다.
+이 비디오에서는 Workfront의 작업 기간, 작업 시작 및 완료 날짜에 대한 작업 기간 영향, 프로젝트 타임라인 및 기간을 효과적으로 사용하기 위한 모범 사례에 대해 설명합니다.제한 사항으로 자동 조정을 방지할 수 있으므로 Workfront에서는 제한 사항을 수동으로 설정하는 대신 지속 기간 및 전임 작업을 사용하여 작업 타임라인을 설정하는 것이 좋습니다.정확한 기간&#x200B;은 효과적인 프로젝트 계획 및 리소스 관리에 중요합니다.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449350/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **작업 기간 정의:** 작업 기간은 작업의 계획된 시작 일자와 계획된 완료 일자의 차이로, 작업을 완료하는 데 걸리는 시간을 나타냅니다. &#x200B;
 * **프로젝트 타임라인에 미치는 영향:** 작업 기간은 전체 프로젝트 길이 및 계획된 완료 날짜에 직접 영향을 미치므로 정확한 프로젝트 계획에 매우 중요합니다. &#x200B;
@@ -54,4 +52,5 @@ ht-degree: 8%
 * [Workfront에서 효과적으로 작업 순서 지정](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [계획된 시간 이해](/help/manage-work/tasks/understand-planned-hours.md)
 * [작업 노력으로 작업 시간 예상](/help/manage-work/tasks/understand-work-effort.md)
+
 

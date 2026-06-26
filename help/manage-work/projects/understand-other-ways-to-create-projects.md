@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:31.989Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 446
+source-wordcount: 451
 ht-degree: 4%
 
 ---
@@ -37,14 +37,14 @@ ht-degree: 4%
 
 **템플릿에서 프로젝트 만들기:**
 
-* 프로젝트 페이지로 이동하여 &quot;새 프로젝트&quot;를 클릭하고 &quot;템플릿의 새 프로젝트&quot;를 선택합니다&#x200B;.
+* 프로젝트 페이지로 이동하여 &quot;새 프로젝트&quot;를 클릭하고 &quot;템플릿의 새 프로젝트&quot;를 선택합니다. &#x200B;
 * 활성 템플릿을 찾아보고, 요약(예: 기간, 소유자, 작업 요약, 사용자 정의 양식)을 미리 보고, 템플릿을 선택합니다. &#x200B;
 * 즐겨찾는 템플릿은 더 빠른 선택을 위해 직접 액세스할 수 있습니다. &#x200B;
-* 초기 정보(예: 프로젝트 이름)를 작성하고 &quot;프로젝트 만들기&quot;를 클릭합니다. &#x200B; 필드는 나중에 편집할 수 있습니다. &#x200B;
+* 초기 정보(예: 프로젝트 이름)를 작성하고 &quot;프로젝트 만들기&quot;를 클릭합니다. 필드&#x200B;은 나중에 편집할 수 있습니다. 
 
 **처음부터 프로젝트 만들기:**
 
-* 프로젝트 페이지로 이동하여 &quot;새 프로젝트&quot;를 클릭하고 &quot;새 프로젝트&quot;를 선택합니다&#x200B;.
+* 프로젝트 페이지로 이동하여 &quot;새 프로젝트&quot;를 클릭하고 &quot;새 프로젝트&quot;를 선택합니다. &#x200B;
 * 프로젝트 이름을 지정하고 공유 옵션, 사용자 지정 데이터, 포트폴리오 및 프로그램과 같은 세부 정보를 편집합니다. &#x200B;
 * 그룹 또는 시스템 관리자가 설정한 기본값을 수락하거나 변경할 수 있습니다. &#x200B;
 * 처음에 작성자 및 시스템 관리자와만 공유되는 프로젝트를 저장합니다. &#x200B;
@@ -52,7 +52,7 @@ ht-degree: 4%
 
 **프로젝트 복사:**
 
-* 기존 프로젝트를 열고 점 3개 메뉴를 클릭한 다음 &quot;복사&quot;를 선택합니다&#x200B;.
+* 기존 프로젝트를 열고 점 3개 메뉴를 클릭한 다음 &quot;복사&quot;를 선택합니다. &#x200B;
 * 이름, 상태(예: Planning)를 변경하고 복사하지 않을 항목(예: 경비)을 선택 취소합니다. &#x200B;
 * 복사 후 계획된 시작 일자와 같은 세부 정보를 편집합니다. &#x200B;
 
@@ -68,7 +68,7 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432170/?captions=kor&quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **템플릿 프로젝트 만들기 간소화:**
 * 작업, 양식 및 공유 옵션과 같은 주요 세부 사항을 사전 설정하여 시간과 노력을 절약할 수 있으므로 템플릿을 사용하는 것이 좋습니다. &#x200B;
@@ -88,4 +88,5 @@ ht-degree: 4%
 * [기본 프로젝트 생성 이해하기](/help/manage-work/projects/understand-basic-project-creation.md)
 * [프로젝트 페이지 탐색](/help/manage-work/projects/navigate-the-project-page.md)
 * [프로젝트 세부 정보 입력](/help/manage-work/projects/fill-in-the-project-details.md)
+
 
