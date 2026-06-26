@@ -14,11 +14,16 @@ last-substantial-update: 2026-04-30
 recommendations: noDisplay,catalog
 TQID: https://experienceleague.adobe.com/mqU3PMeLzOIohXLIWUfAGPG821rjKLKmArAW5Oij5m4
 doc-type: video
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T18:52:20.298Z'
 source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
@@ -67,7 +72,7 @@ Workfront은 청구 가능 항목을 추적하지만 실제 청구는 처리하�
 ## 이 주제와 관련된 추천 튜토리얼
 
 * [프로젝트 및 작업에 대한 재무 정보 액세스 및 관리](/help/manage-work/project-finances/find-financial-information.md)
-* [작업 역할에 대한 청구 요금 사용자 지정
+* &lbrack;작업 역할에 대한 청구 요금 사용자 지정
   <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 
 
