@@ -12,32 +12,26 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:15.124Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 185
-ht-degree: 7%
+source-wordcount: 270
+ht-degree: 4%
 
 ---
 
 # 상위-하위 작업 관계 이해
 
-이 비디오에서는 Workfront의 작업 구조를 설명합니다. 작업은 프로젝트의 필수 구성 요소로, 완료에 필요한 작업 항목을 나타냅니다. &#x200B; 이 비디오에서는 프로젝트 계획 및 관리의 핵심 단계로 작업을 정확하게 구성해야 함을 강조합니다. 작업 시작 방법을 보여 주고, 상위-하위 작업 관계에 대해 설명합니다.
-상위 작업&#x200B;은 이끌이 역할을 하며 프로젝트를 단계, 단계 또는 마일스톤으로 그룹화하고 개인에게 할당되지 않습니다. 하위 작업 또는 하위 작업은 팀원에게 할당된 실행 가능한 작업을 나타냅니다.
+이 비디오에서는 Workfront의 작업 구조를 설명합니다. 작업은 프로젝트의 필수 구성 요소로, 완료에 필요한 작업 항목을 나타냅니다. &#x200B; 이 비디오에서는 프로젝트 계획 및 관리의 핵심 단계로 작업을 정확하게 구성해야 함을 강조합니다. 작업 시작 방법을 보여 주고, 상위-하위 작업 관계에 대해 설명합니다.상위 작업&#x200B;은 이끌이 역할을 하며 프로젝트를 단계, 단계 또는 마일스톤으로 그룹화하고 개인에게 할당되지 않습니다. 하위 작업 또는 하위 작업은 팀원에게 할당된 실행 가능한 작업을 나타냅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445603/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **프로젝트 백본으로서의 작업:** 작업은 프로젝트를 완료하는 데 필요한 작업 항목을 나타내며 효과적인 프로젝트 계획 및 관리에 중요합니다. &#x200B;
 * **상위-하위 작업 구조:** 상위 작업은 프로젝트를 단계, 단계 또는 마일스톤으로 그룹화하는 반면 하위 작업(하위 작업)은 팀원에게 할당된 실행 가능한 작업을 나타냅니다. &#x200B;
@@ -51,4 +45,5 @@ ht-degree: 7%
 * [Workfront에서 효율적으로 작업 만들기](/help/manage-work/tasks/how-to-create-tasks.md)
 * [Workfront에서 효율적으로 작업 관리](/help/manage-work/tasks/work-with-tasks.md)
 * [프로젝트 계획에서 작업 할당](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+
 

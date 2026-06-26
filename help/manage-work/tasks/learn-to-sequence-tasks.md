@@ -13,34 +13,27 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 179
-ht-degree: 7%
+source-wordcount: 213
+ht-degree: 6%
 
 ---
 
 # Workfront에서 효과적으로 작업 순서 지정
 
-이 비디오에서는 프로젝트 타임라인을 효과적으로 관리하기 위해 전임 작업 및 기간을 사용하여 Workfront에서 작업의 순서를 지정하는 방법을 설명합니다.
-이 비디오에서는 새로운 작업에 대한 전임 작업을 설정하여 순차적 순서와 정확한 시작 날짜를 확인하는 방법을 보여 줍니다.
-프로젝트 타임라인&#x200B;에 미치는 영향을 파악하는 전임 작업 수행의 중요성을 강조하고 효율적인 프로젝트 계획을 위해서는 기간 및 전임 작업 사용을 권장합니다.
+이 비디오에서는 프로젝트 타임라인을 효과적으로 관리하기 위해 전임 작업 및 기간을 사용하여 Workfront에서 작업의 순서를 지정하는 방법을 설명합니다.이 비디오에서는 새로운 작업에 대한 전임 작업을 설정하여 순차적 순서와 정확한 시작 날짜를 확인하는 방법을 보여 줍니다.프로젝트 타임라인&#x200B;에 미치는 영향을 파악하는 전임 작업 수행의 중요성을 강조하고 효율적인 프로젝트 계획을 위해서는 기간 및 전임 작업 사용을 권장합니다.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **전임 작업은 작업 순서를 정의합니다.** 전임 작업은 작업의 순서를 설정하여 다른 작업이 시작되기 전에 특정 작업이 완료되도록 합니다. 이는 프로젝트 성공에 매우 중요합니다. &#x200B;
 * **기간은 타임라인에 영향을 줍니다.** 작업 기간은 작업의 기간을 설정하고 시작 날짜와 완료 날짜를 조정하여 종속 작업에 연속 효과를 줍니다. &#x200B;
@@ -53,3 +46,4 @@ ht-degree: 7%
 * [작업 기간 이해](/help/manage-work/tasks/understand-task-durations.md)
 * [계획된 시간 이해](/help/manage-work/tasks/understand-planned-hours.md)
 * [작업 노력으로 작업 시간 예상](/help/manage-work/tasks/understand-work-effort.md)
+

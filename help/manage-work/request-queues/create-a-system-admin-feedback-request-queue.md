@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 30%
+source-wordcount: 431
+ht-degree: 25%
 
 ---
 
@@ -35,17 +30,14 @@ ht-degree: 30%
 
 >[!PREREQUISITES]
 >
->* [Workfront에서 요청 큐 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=ko)
->* [Workfront에서 요청 흐름 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=ko)
+>* [Workfront에서 요청 큐 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
+>* [Workfront에서 요청 흐름 만들기](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* 또는 라우팅 규칙 및 사용자 정의 양식을 사용하는 요청 대기열을 만드는 것이 익숙합니다.
 
-이 비디오에서는 시스템 관리자를 위한 피드백 요청 대기열을 만드는 방법에 대한 단계별 안내서를 제공합니다.
-큐&#x200B;의 목적은 시스템 관리자가 만든 프로세스 및 워크플로에 대한 사용자 피드백을 수집하여 개선 및 최적화를 가능하게 하는 것입니다.
-이 비디오에서는 사용자 참여의 중요성과 프로세스 개선의 투명성을 강조하여 관리자가 사용자와 피드백 보고서를 공유할 수 있도록 독려합니다.
-추가 &#x200B; 지침을 위해 보고서 및 사용자 정의 양식을 만들기 위한 튜토리얼에 대한 링크가 제공됩니다.
+이 비디오에서는 시스템 관리자를 위한 피드백 요청 대기열을 만드는 방법에 대한 단계별 안내서를 제공합니다.큐&#x200B;의 목적은 시스템 관리자가 만든 프로세스 및 워크플로에 대한 사용자 피드백을 수집하여 개선 및 최적화를 가능하게 하는 것입니다.이 비디오에서는 사용자 참여의 중요성과 프로세스 개선의 투명성을 강조하여 관리자가 사용자와 피드백 보고서를 공유할 수 있도록 독려합니다.추가 &#x200B; 지침을 위해 보고서 및 사용자 정의 양식을 만들기 위한 튜토리얼에 대한 링크가 제공됩니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3450504/?captions=kor&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
 
 ## 주요 학습 사항
 
@@ -56,10 +48,11 @@ ht-degree: 30%
 * **테스트 및 액세스 가능성:** 기능을 보장하기 위해 샘플 요청으로 큐를 테스트합니다. 이 워크플로우는 모든 사용자가 액세스할 수 있는 도움말 요청 대기열로 게시되며 기본 완료 기간은 10일입니다.
 
 
-비디오에 사용되는 **관리 팀 피드백 보고서**&#x200B;를 만드는 방법에 대해 알아보려면 [작업 보고서 만들기](https://experienceleague.adobe.com/ko/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) 자습서에서 **관리 팀 피드백 보고서 만들기** 활동을 참조하십시오.
+비디오에 사용되는 **관리 팀 피드백 보고서**&#x200B;를 만드는 방법에 대해 알아보려면 [작업 보고서 만들기](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) 자습서에서 **관리 팀 피드백 보고서 만들기** 활동을 참조하십시오.
 
-사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=ko) 튜토리얼을 참조하십시오.
+사용자 정의 양식을 만드는 방법을 알아보려면 [사용자 정의 양식 만들기 및 공유](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 튜토리얼을 참조하십시오.
 
 ## 이 주제와 관련된 추천 튜토리얼
 
 * [요청 대기열에 대한 일반적인 질문에 대한 답변](/help/manage-work/request-queues/request-queue-faq.md)
+
