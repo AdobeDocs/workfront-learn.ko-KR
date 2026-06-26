@@ -36,7 +36,7 @@ ht-degree: 18%
 이 비디오에서는 작업을 완료하는 데 필요한 예상 시간인 계획된 시간의 개념을 설명합니다.계획된 시간은 Workfront의 리소스 관리에 있어 리소스 초과 또는 미달 할당을 식별하는 데 중요합니다.또한 작업에 소요된 시간을 추적하고 향후 예상치를 개선하며 작업자에 대한 기대치를 명확히 하는 데 도움이 됩니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445340/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 
 ## 주요 학습 사항

@@ -36,7 +36,7 @@ ht-degree: 6%
 이 비디오에서는 Workfront의 작업 기간, 작업 시작 및 완료 날짜에 대한 작업 기간 영향, 프로젝트 타임라인 및 기간을 효과적으로 사용하기 위한 모범 사례에 대해 설명합니다.제한 사항으로 자동 조정을 방지할 수 있으므로 Workfront에서는 제한 사항을 수동으로 설정하는 대신 지속 기간 및 전임 작업을 사용하여 작업 타임라인을 설정하는 것이 좋습니다.정확한 기간&#x200B;은 효과적인 프로젝트 계획 및 리소스 관리에 중요합니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449350/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 

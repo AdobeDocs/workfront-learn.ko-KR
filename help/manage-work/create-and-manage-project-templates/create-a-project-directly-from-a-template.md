@@ -35,7 +35,7 @@ ht-degree: 11%
 
 이 비디오에서는 템플릿에서 프로젝트를 만드는 방법을 설명합니다. 템플릿&#x200B;을 열 수 있는 권한이 있는 경우 바로 가기로 사용하여 프로젝트를 만들 수 있습니다. 이렇게 &#x200B; 하려면 템플릿을 열고 점 3개 메뉴에 액세스한 다음 &quot;프로젝트 만들기&quot;를 선택합니다. 이렇게 &#x200B; 하면 프로젝트 세부 정보를 편집할 수 있는 화면으로 이동합니다. 준비가 &#x200B; 되면 &quot;프로젝트 만들기&quot;를 클릭하여 완료합니다. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456020/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 

@@ -36,7 +36,7 @@ ht-degree: 5%
 
 이 비디오에서는 Workfront의 요청 대기열 개념, 용도 및 요청을 제출하고 관리하는 방법에 대해 설명합니다. 요청 큐&#x200B;은 다양한 유형의 요청을 제출하는 중앙 집중식 위치 역할을 합니다. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447017/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 

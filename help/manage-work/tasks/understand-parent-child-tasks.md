@@ -34,7 +34,7 @@ ht-degree: 4%
 
 이 비디오에서는 Workfront의 작업 구조를 설명합니다. 작업은 프로젝트의 필수 구성 요소로, 완료에 필요한 작업 항목을 나타냅니다. &#x200B; 이 비디오에서는 프로젝트 계획 및 관리의 핵심 단계로 작업을 정확하게 구성해야 함을 강조합니다. 작업 시작 방법을 보여 주고, 상위-하위 작업 관계에 대해 설명합니다.상위 작업&#x200B;은 이끌이 역할을 하며 프로젝트를 단계, 단계 또는 마일스톤으로 그룹화하고 개인에게 할당되지 않습니다. 하위 작업 또는 하위 작업은 팀원에게 할당된 실행 가능한 작업을 나타냅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445603/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 
