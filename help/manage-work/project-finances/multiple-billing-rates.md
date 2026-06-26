@@ -13,32 +13,27 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: '2026-05-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:51:58.756Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 207
+source-wordcount: 226
 ht-degree: 3%
 
 ---
 
 # 작업 역할에 대한 청구 요금 사용자 정의
 
-이 비디오에서는 프로젝트 내의 작업 역할에 대한 청구 요율을 관리하고 사용자 지정하는 방법을 설명합니다. 동일한 &#x200B; 작업 역할에 대해 여러 청구 요율을 설정하고 정확한 시간 기반 조정을 보장하는 유연성이 강조됩니다. &#x200B;
+이 비디오에서는 프로젝트 내의 작업 역할에 대한 청구 요율을 관리하고 사용자 지정하는 방법을 설명합니다. 동일한 &#x200B; 작업 역할에 대해 여러 청구 요율을 설정하고 정확한 시간 기반 조정을 보장하는 유연성이 강조됩니다. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3489642/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
 
-## 핵심 사항
+## 주요 학습 사항
 
 
 * **기본 청구 요금:** 시스템 관리자가 각 작업 역할에 대해 기본 청구 요금을 설정하지만 개별 프로젝트에 대해 사용자 지정할 수 있습니다. &#x200B;
@@ -50,6 +45,7 @@ ht-degree: 3%
 ## 이 주제와 관련된 추천 튜토리얼
 
 * [프로젝트 및 작업에 대한 재무 정보 액세스 및 관리](/help/manage-work/project-finances/find-financial-information.md)
-* [클라이언트 프로젝트의 재무 업데이트](/help/manage-work/project-finances/update-and-review-finances.md)
+* [클라이언트 프로젝트의 재무 업데이트
   <!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
+
 
