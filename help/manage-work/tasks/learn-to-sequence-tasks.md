@@ -36,7 +36,7 @@ ht-degree: 6%
 이 비디오에서는 프로젝트 타임라인을 효과적으로 관리하기 위해 전임 작업 및 기간을 사용하여 Workfront에서 작업의 순서를 지정하는 방법을 설명합니다.이 비디오에서는 새로운 작업에 대한 전임 작업을 설정하여 순차적 순서와 정확한 시작 날짜를 확인하는 방법을 보여 줍니다.프로젝트 타임라인&#x200B;에 미치는 영향을 파악하는 전임 작업 수행의 중요성을 강조하고 효율적인 프로젝트 계획을 위해서는 기간 및 전임 작업 사용을 권장합니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447327/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 
