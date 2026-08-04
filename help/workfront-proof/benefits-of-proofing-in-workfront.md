@@ -36,7 +36,7 @@ ht-degree: 100%
 * 교정쇄가란 무엇입니까?
 * [!DNL Workfront]에서 디지털 교정 사용의 이점
 
->[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439115/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 교정 용어
 

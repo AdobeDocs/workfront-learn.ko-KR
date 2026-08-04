@@ -36,4 +36,4 @@ ht-degree: 100%
 * 할당된 작업 영역에서 사용자 목록 필터링
 * 할당되지 않은 작업 영역 필터링
 
->[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413859/?captions=kor&quality=12&learn=on&enablevpops=1)

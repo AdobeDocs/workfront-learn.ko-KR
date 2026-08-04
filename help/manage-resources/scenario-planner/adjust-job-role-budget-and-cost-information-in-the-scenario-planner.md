@@ -36,4 +36,4 @@ ht-degree: 100%
 * 예산 정보 조정
 * 비용 정보 조정
 
->[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412645/?captions=kor&quality=12&learn=on&enablevpops=1)

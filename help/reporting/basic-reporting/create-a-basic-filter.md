@@ -35,7 +35,7 @@ ht-degree: 3%
 이 비디오에서는 Workfront에서 필터를 만들고 사용하여 특정 기준에 따라 목록 보고서를 사용자 지정하는 방법을 설명합니다. 필터&#x200B;을 사용하면 조건을 정의하여 작업, 프로젝트 또는 문서와 같은 목록의 범위를 좁힐 수 있습니다. 필터 &#x200B; 조건과 일치하며 로그인한 사용자가 액세스할 수 있는 항목만 목록에 표시됩니다. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431680/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 
