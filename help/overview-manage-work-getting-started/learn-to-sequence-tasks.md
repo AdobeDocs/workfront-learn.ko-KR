@@ -43,7 +43,7 @@ ht-degree: 100%
 * 작업 시작 일자 설정이 작업 제한 사항에 미치는 영향
 * 전임 작업 진입 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447327/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more urls
