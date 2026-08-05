@@ -38,7 +38,7 @@ ht-degree: 19%
 또한 작업에 소요된 시간을 추적하고 향후 예상치를 개선하며 팀 구성원과 함께 기대치를 명확하게 하는 데에도 도움이 됩니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445340/?captions=kor&learn=on)
 
 
 ## 주요 학습 사항
