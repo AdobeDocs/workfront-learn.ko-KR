@@ -1,6 +1,6 @@
 ---
-title: 메타데이터 이해
-description: '[!UICONTROL Workfront DAM] 관리자, 2부 메타데이터 및 키워드 과정에서 다룰 내용에 대해 알아봅니다.'
+title: 메타데이터 및 키워드 소개
+description: 메타데이터는 자산을 설명하는 데 사용되는 모든 데이터입니다. 키워드는 메타데이터의 하위 집합이며 에셋의 내용에 대한 수사적 용어를 포함합니다.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -21,14 +21,14 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T01:57:17.963Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
 workflow-type: tm+mt
-source-wordcount: 125
-ht-degree: 100%
+source-wordcount: 139
+ht-degree: 82%
 
 ---
 
-# 메타데이터 이해
+# 메타데이터 및 키워드 소개
 
 메타데이터는 자산을 설명하는 데 사용되는 모든 데이터입니다. 메타데이터 필드에는 이름이 있으며, 사용자는 해당 필드의 많은 정보를 편집하거나 변경할 수 있습니다. 일부 메타데이터 필드는 자산을 가져온 애플리케이션 또는 디바이스에 의해 채워지며 편집할 수 없습니다.
 

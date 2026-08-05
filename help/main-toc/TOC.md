@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 튜토리얼
 user-guide-description: Workfront 기능 및 설정을 더 잘 이해할 수 있도록 설계된 교육 비디오 및 문서 라이브러리입니다.
-source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
+source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
 workflow-type: tm+mt
-source-wordcount: '2657'
+source-wordcount: '2659'
 ht-degree: 74%
 
 ---
@@ -525,7 +525,7 @@ ht-degree: 74%
     + [맞춤화 [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
   + 메타데이터 및 키워드 {#metadata-and-keywords}
-    + [메타데이터 이해](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
+    + [메타데이터 및 키워드 소개](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
     + [키워드 분류 체계의 활성화 및 시행](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
     + [메타데이터 용어 검토](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
     + [메타데이터 및 키워드를 사용하여 자산 검색](/help/workfront-dam/metadata-and-keywords/search-for-assets.md)
