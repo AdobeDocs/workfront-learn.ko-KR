@@ -38,7 +38,7 @@ ht-degree: 6%
 프로젝트 타임라인&#x200B;에 미치는 영향을 파악하는 전임 작업 수행의 중요성을 강조하고 효율적인 프로젝트 계획을 위해서는 기간 및 전임 작업 사용을 권장합니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447327/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 
