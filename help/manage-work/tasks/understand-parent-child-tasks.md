@@ -1,18 +1,18 @@
 ---
 title: 상위-하위 작업 관계 이해
-description: 효율성을 위해 상위-하위 구조, 자동 상위 작업 완료, 유연한 조직 도구 및 맞춤형 작업 구조를 사용하여 작업을 기반으로 프로젝트 관리를 최적화합니다.
-activity: use
+description: 상위-하위 작업 구조가 자동 상위 완료 및 유연한 맞춤형 작업 조직을 포함하여 Workfront에서 프로젝트를 구성하는 방법에 대해 알아봅니다.
 feature: Work Management
 thumbnail: 335087.jpeg
 type: Tutorial
 role: User
 level: Beginner
+duration: 459
 team: Technical Marketing
 recommendations: noDisplay,catalog
-last-substantial-update: '2026-07-28T00:00:00.000Z'
+last-substantial-update: '2026-07-28'
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
-doc-type: video
+doc-type: Feature Video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
 feature_v2:
@@ -24,21 +24,21 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:15.124Z'
-source-git-commit: f4ee97efb7f49a98f8b6bcd5145558c6d6476fe4
+source-git-commit: 974178416cf6b743c3c5f3d7297bc221707daa54
 workflow-type: tm+mt
-source-wordcount: 185
-ht-degree: 7%
+source-wordcount: 264
+ht-degree: 4%
 
 ---
 
 # 상위-하위 작업 관계 이해
 
 이 비디오에서는 Workfront의 작업 구조를 설명합니다. 작업은 프로젝트의 필수 구성 요소로, 완료에 필요한 작업 항목을 나타냅니다. &#x200B; 이 비디오에서는 프로젝트 계획 및 관리의 핵심 단계로 작업을 정확하게 구성해야 함을 강조합니다. 작업 시작 방법을 보여 주고, 상위-하위 작업 관계에 대해 설명합니다.
-상위 작업&#x200B;은 이끌이 역할을 하며 프로젝트를 단계, 단계 또는 마일스톤으로 그룹화하고 개인에게 할당되지 않습니다. 하위 작업 또는 하위 작업은 팀원에게 할당된 실행 가능한 작업을 나타냅니다.
+상위 작업은 조직자 역할을 하며 프로젝트를 단계, 단계 또는 마일스톤으로 그룹화하고 개인에게 할당되지 않습니다. 하위 작업 또는 하위 작업은 팀원에게 할당된 실행 가능한 작업을 나타냅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445603/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445603/?captions=kor&learn=on)
 
-## 핵심 사항
+## 주요 학습 사항
 
 * **프로젝트 백본으로서의 작업:** 작업은 프로젝트를 완료하는 데 필요한 작업 항목을 나타내며 효과적인 프로젝트 계획 및 관리에 중요합니다. &#x200B;
 * **상위-하위 작업 구조:** 상위 작업은 프로젝트를 단계, 단계 또는 마일스톤으로 그룹화하는 반면 하위 작업(하위 작업)은 팀원에게 할당된 실행 가능한 작업을 나타냅니다. &#x200B;

@@ -1,18 +1,18 @@
 ---
 title: 계획된 시간 이해
-description: 계획된 시간을 활용하여 기간 예측, 리소스 관리, 시간 추적, 내역 참조 활용 및 할당 간소화를 통해 Workfront에서 프로젝트 계획을 최적화합니다.
-activity: use
+description: 계획된 시간을 활용하여 기간 예측, 리소스 관리, 시간 추적, 내역 참조 사용 및 할당 간소화를 통해 프로젝트 계획을 최적화합니다.
 feature: Work Management
 thumbnail: 335090.jpeg
 type: Tutorial
 role: User
 level: Beginner
+duration: 299
 team: Technical Marketing
 jira: KT-8777
-last-substantial-update: '2026-08-04T00:00:00.000Z'
+last-substantial-update: '2026-08-04'
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
-doc-type: video
+doc-type: Feature Video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
 feature_v2:
@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:33.224Z'
-source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
+source-git-commit: 517fcede8ffdd50bf3c15febb6b442c603f0dc10
 workflow-type: tm+mt
-source-wordcount: 243
-ht-degree: 18%
+source-wordcount: 242
+ht-degree: 19%
 
 ---
 
@@ -35,10 +35,10 @@ ht-degree: 18%
 
 이 비디오에서는 작업을 완료하는 데 필요한 예상 시간인 계획된 시간의 개념을 설명합니다.
 계획된 시간은 Workfront의 리소스 관리에 있어 리소스 초과 또는 미달 할당을 식별하는 데 중요합니다.
-또한 작업에 소요된 시간을 추적하고 향후 예상치를 개선하며 작업자에 대한 기대치를 명확히 하는 데 도움이 됩니다.
+또한 작업에 소요된 시간을 추적하고 향후 예상치를 개선하며 팀 구성원과 함께 기대치를 명확하게 하는 데에도 도움이 됩니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3445340/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445340/?captions=kor&learn=on)
 
 
 ## 주요 학습 사항
@@ -46,8 +46,8 @@ ht-degree: 18%
 * **계획된 시간 중요도:** 계획된 시간은 작업 기간을 예측하고, 리소스 할당을 관리하고, 소요 시간을 추적하는 데 도움이 되며 향후 프로젝트 계획을 개선하는 데 도움이 됩니다. &#x200B;
 * **정확한 예상 팁:** 긴 작업을 더 작은 하위 작업으로 나누고 시간을 효과적으로 추적하고 변경 사항이나 문제를 문서화하여 계획된 시간 예측을 구체화합니다. &#x200B;
 * **리소스 관리:** Workfront은 계획된 시간을 사용하여 리소스 초과 또는 미달 할당을 식별하여 효율적인 작업 할당을 보장합니다. &#x200B;
-* **이전 참조:** 완료된 프로젝트는 향후 계획, 특히 새 작업자에게 할당된 작업의 참조로 유지되어야 합니다. &#x200B;
-* **사용 편의성:** 인라인 편집을 사용하여 계획된 시간을 추가하거나 편집할 수 있으며 상위 작업 시간은 하위 작업을 합하여 자동으로 계산됩니다. 프로젝트 템플릿&#x200B;에 계획된 시간을 포함하는 것이 좋습니다. &#x200B;
+* **이전 참조:** 완료된 프로젝트는 향후 계획, 특히 새 팀원에게 할당된 작업의 참조로 유지되어야 합니다. &#x200B;
+* **사용 편의성:** 인라인 편집을 사용하여 계획된 시간을 추가하거나 편집할 수 있으며 상위 작업 시간은 하위 작업을 합하여 자동으로 계산됩니다. 프로젝트 템플릿&#x200B;에 계획된 시간을 포함하는 것이 좋습니다.
 
 
 ## 이 주제와 관련된 추천 튜토리얼 및 문서

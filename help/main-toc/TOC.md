@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 튜토리얼
 user-guide-description: Workfront 기능 및 설정을 더 잘 이해할 수 있도록 설계된 교육 비디오 및 문서 라이브러리입니다.
-source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
+source-git-commit: 14693616f1b7b47558aa98c6ea4b101b8fc27f19
 workflow-type: tm+mt
-source-wordcount: '2659'
+source-wordcount: '2658'
 ht-degree: 74%
 
 ---
@@ -191,7 +191,7 @@ ht-degree: 74%
     + [프로젝트 시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
 
   + 사용자를 위한 프로젝트 재무 {#project-finances-users}
-    + [프로젝트 및 작업에 대한 재무 정보 액세스 및 관리](/help/manage-work/project-finances/find-financial-information.md)
+    + [프로젝트 재정을 위한 재무 정보 액세스 및 관리](/help/manage-work/project-finances/find-financial-information.md)
     + [클라이언트 프로젝트의 재무 업데이트](/help/manage-work/project-finances/update-and-review-finances.md)
     + [작업 역할에 대한 청구 요금 사용자 정의](/help/manage-work/project-finances/multiple-billing-rates.md)
 
