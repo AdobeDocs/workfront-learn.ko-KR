@@ -11,18 +11,13 @@ jira: KT-11048
 thumbnail: KT11048.png
 recommendations: noDisplay,catalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:45:52.312Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 9ae283a3880351d9aa7c0738e02bef084e999f5f
 workflow-type: tm+mt
 source-wordcount: 493
 ht-degree: 94%
@@ -47,7 +42,7 @@ ht-degree: 94%
 
 1. 새 시나리오를 만들고 이름을 “고급 집계”로 지정합니다.
 1. 트리거 모듈을 HTTP - 요청 만들기 모듈로 설정합니다.
-1. 스페인어를 사용하는 모든 국가 목록이 있는 해당 URL(`https://restcountries.com/v2/lang/es`)을 사용합니다.
+1. 스페인어를 사용하는 모든 국가 목록이 있는 해당 URL(`https://countries.dev/lang/es`)을 사용합니다.
 1. 메서드를 가져오기로 둡니다.
 1. 응답 구문 분석 확인란을 클릭합니다.
 1. 이 모듈의 이름을 “국가 가져오기”로 바꿉니다.
@@ -59,7 +54,7 @@ ht-degree: 94%
 
    **각 국가에 대한 하위 지역 정보를 수집해야 하므로 추가 HTTP 요청을 수행해야 합니다.**
 
-1. 하위 지역 정보를 얻으려면 다른 요청을 추가합니다. 첫 번째 국가만 반환하지만 지금은 괜찮습니다. 다른 HTTP 추가 요청 모듈을 만들고 해당 URL(`https://restcountries.com/v2/name/{country name}`)을 사용합니다.
+1. 하위 지역 정보를 얻으려면 다른 요청을 추가합니다. 첫 번째 국가만 반환하지만 지금은 괜찮습니다. 다른 HTTP 추가 요청 모듈을 만들고 해당 URL(`https://countries.dev/name/{country name}`)을 사용합니다.
 1. 첫 번째 국가의 이름을 얻으려면 매핑 패널로 이동하고 데이터를 클릭한 다음 배열에서 이름을 클릭합니다. 데이터 필드의 [1]은 배열의 첫 번째 항목을 반환한다는 의미입니다.
 
    + 필요한 경우 숫자를 클릭하고 색인을 변경하지만, 이 경우에는 첫 번째 항목만 해당합니다.
