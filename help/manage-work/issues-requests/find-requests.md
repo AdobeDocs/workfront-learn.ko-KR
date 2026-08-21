@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2025-02-26T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:56:55.448Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 1349efa7ac6687138985cc075db7b31c3e7dc693
 workflow-type: tm+mt
 source-wordcount: 232
 ht-degree: 10%
@@ -49,7 +49,7 @@ ht-degree: 10%
 * **요청 영역에서 필터를 사용:** &quot;내 요청&quot; 및 &quot;내 열기 요청&quot;과 같은 필터를 사용하면 사용자가 만든 요청을 볼 수 있습니다. &#x200B;
 * **팀 페이지에서 요청 관리:** 사용자는 할당 해제된 팀 요청을 보고 업무 균형자를 사용하여 현재 업무량을 기준으로 팀원 할당을 관리하면서 자신이나 다른 사용자에게 할당할 수 있습니다. &#x200B;
 * **사용자 지정 보고서 및 대시보드:** 사용자는 사용자 지정 보고서를 만들어 요청을 추적할 수 있으므로 개인화된 이름 지정, 필터, 보기 및 그룹화를 허용하여 요청을 효과적으로 관리하고 우선 순위를 매기는 데 도움이 됩니다. &#x200B;
-* **필터에서의 “내” 이해:** Home에서 “내”는 나에게 할당된 문제를 의미합니다. 요청 영역의 &quot;내&quot;라는 용어는 내가 요청한 문제를 나타냅니다. 
+* **필터에서의 “내” 이해:** Home에서 “내”는 나에게 할당된 문제를 의미합니다. 요청 영역의 &quot;내&quot;라는 용어는 내가 요청한 문제를 나타냅니다. &#x200B;
 
 
 ## 이 주제와 관련된 추천 튜토리얼
