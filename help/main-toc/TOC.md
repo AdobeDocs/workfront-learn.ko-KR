@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 튜토리얼
 user-guide-description: Workfront 기능 및 설정을 더 잘 이해할 수 있도록 설계된 교육 비디오 및 문서 라이브러리입니다.
-source-git-commit: 14693616f1b7b47558aa98c6ea4b101b8fc27f19
+source-git-commit: 71fb13f139ceffafa58845488f865c5287093273
 workflow-type: tm+mt
-source-wordcount: '2658'
+source-wordcount: '2670'
 ht-degree: 74%
 
 ---
@@ -563,6 +563,10 @@ ht-degree: 74%
 
 + 홈 {#home}
   + [Home에서 위젯 제거, 추가 및 재배열](/help/workfront-home/remove-add-and-rearrange-widgets.md)
+
++ 우선순위 {#priorities}
+  + [우선 순위를 사용하여 하루를 집중하십시오.](/help/priorities/focus-your-day-using-priorities.md)
+  + [작업 수행 및 작업 표시](/help/priorities/taking-action-and-showing-your-work.md)
 
 
 + 애자일 {#agile}
