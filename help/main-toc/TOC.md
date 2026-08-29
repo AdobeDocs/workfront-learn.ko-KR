@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 튜토리얼
 user-guide-description: Workfront 기능 및 설정을 더 잘 이해할 수 있도록 설계된 교육 비디오 및 문서 라이브러리입니다.
-source-git-commit: 14693616f1b7b47558aa98c6ea4b101b8fc27f19
+source-git-commit: 71fb13f139ceffafa58845488f865c5287093273
 workflow-type: tm+mt
-source-wordcount: '2658'
+source-wordcount: '2670'
 ht-degree: 74%
 
 ---
@@ -341,19 +341,19 @@ ht-degree: 74%
     + [Adobe Workfront 플러그인을 사용하여 Creative Cloud와 통합](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
   + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-    + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ko)
-    + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=ko)
-    + [문서 전송 및 에셋 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=ko)
-    + [버전 내역 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=ko)
+    + [통합 구성](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+    + [메타데이터 매핑](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+    + [문서 전송 및 에셋 연결](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+    + [버전 내역 유지](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
   + Microsoft Teams {#ms-teams}
-    + [Adobe Workfront for Microsoft Teams 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=ko)
-    + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=ko)
-    + [Microsoft Teams에서 Adobe Workfront 액세스](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=ko)
-    + [Microsoft Teams에서 Adobe Workfront 항목 검색 및 공유](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=ko)
-    + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=ko)
-    + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=ko)
-    + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=ko)
+    + [Adobe Workfront for Microsoft Teams 개요](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+    + [Microsoft Teams용 Adobe Workfront 설치](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+    + [Microsoft Teams에서 Adobe Workfront 액세스](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+    + [Microsoft Teams에서 Adobe Workfront 항목 검색 및 공유](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+    + [Microsoft Teams에서 Adobe Workfront 작업 만들기](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+    + [Microsoft Teams에서 Adobe Workfront 요청 제출](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+    + [Microsoft Teams에서 Adobe Workfront 알림 관리](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
   + Slack {#slack}
     + [[!UICONTROL Slack]용 Workfront 이해](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -516,10 +516,10 @@ ht-degree: 74%
 
 + Workfront DAM {#workfront-dam-program}
   + 시스템 설정 {#system-setup}
-    + [&#x200B; [!DNL Workfront DAM] 이해](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
+    + [ [!DNL Workfront DAM] 이해](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
     + [시스템 설정 이해](/help/workfront-dam/system-setup/system-setup-system-settings.md)
     + [[!UICONTROL Brand Portal] 이해](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-    + [&#x200B; [!DNL Workfront DAM] 전략의 분석 및 계획](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+    + [ [!DNL Workfront DAM] 전략의 분석 및 계획](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
     + [그룹 및 사용자 설정](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
     + [Workfront에서 통합 구성](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
     + [맞춤화 [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
@@ -563,6 +563,10 @@ ht-degree: 74%
 
 + 홈 {#home}
   + [Home에서 위젯 제거, 추가 및 재배열](/help/workfront-home/remove-add-and-rearrange-widgets.md)
+
++ 우선순위 {#priorities}
+  + [우선 순위를 사용하여 하루를 집중하십시오.](/help/priorities/focus-your-day-using-priorities.md)
+  + [작업 수행 및 작업 표시](/help/priorities/taking-action-and-showing-your-work.md)
 
 
 + 애자일 {#agile}
