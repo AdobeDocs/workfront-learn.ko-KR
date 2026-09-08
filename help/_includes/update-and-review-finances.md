@@ -31,7 +31,7 @@ Workfront은 청구 가능 항목을 추적하지만 실제 청구는 처리하�
 
 이 비디오에서는 클라이언트 청구 프로세스를 간소화할 수 있는 적절한 설정 및 추적의 중요성을 강조합니다. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486195/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 ## 주요 학습 사항
 
