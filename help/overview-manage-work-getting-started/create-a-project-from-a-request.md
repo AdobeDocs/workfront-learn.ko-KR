@@ -13,37 +13,19 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 8d06625f-172c-4201-afd5-8c953ccdca78
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:36:21.501Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 79
+source-wordcount: 33
 ht-degree: 100%
 
 ---
 
 # 문제/요청을 프로젝트로 전환
 
-이 비디오에서는 다음 방법을 배우게 됩니다.
-
-* 요청에서 프로젝트로 전환 시작
-* 해당 프로젝트 템플릿 선택
-* 요청에서 프로젝트로 전환 완료
-
->[!VIDEO](https://video.tv.adobe.com/v/3446629/?captions=kor&quality=12&learn=on&enablevpops=1)
-
-
-## 이 주제와 관련된 추천 튜토리얼
-
-* [요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
-* [문제/요청을 작업으로 전환](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [계획되지 않은 작업 처리](/help/manage-work/issues-requests/handle-unplanned-work.md)
+{{$include /help/_includes/create-a-project-from-a-request.md}}
