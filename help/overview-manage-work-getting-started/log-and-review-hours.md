@@ -24,25 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:32:37.168Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 57
+source-wordcount: 20
 ht-degree: 100%
 
 ---
 
 # 시간 기록 및 검토
 
-이 비디오에서는 다음 방법을 배우게 됩니다.
-
-* 프로젝트에 기록된 시간 검토
-* 필요한 경우 프로젝트 시간 승인
-
->[!VIDEO](https://video.tv.adobe.com/v/3441076/?captions=kor&quality=12&learn=on&enablevpops=1)
-
-## 이 주제와 관련된 추천 튜토리얼
-
-* [프로젝트 상태를 완료로 변경](/help/manage-work/projects/change-the-project-status.md)
-* [승인 완료](/help/manage-work/close-a-project/complete-approvals.md)
-* [자산 업로드](/help/manage-work/close-a-project/upload-assets.md)
-* [배운 내용 기록](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+{{$include /help/_includes/log-and-review-hours.md}}

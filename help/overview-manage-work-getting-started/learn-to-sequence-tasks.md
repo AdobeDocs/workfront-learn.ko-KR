@@ -26,37 +26,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:33:39.240Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 90
+source-wordcount: 32
 ht-degree: 100%
 
 ---
 
 # 작업 시퀀스 알아보기
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
-
-* Workfront 전임 작업 정의
-* 기간 및 전임 작업을 사용하여 타임라인을 만드는 방법
-* 프로젝트에서 전임 작업으로 작업 순서를 지정하는 방법
-* 작업 시작 일자 설정이 작업 제한 사항에 미치는 영향
-* 전임 작업 진입 방법
-
->[!VIDEO](https://video.tv.adobe.com/v/3447327/?captions=kor&quality=12&learn=on&enablevpops=1)
-
-<!--
-Learn more urls
-There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
-Overview of task predecessors
-Create predecessor relationships by chaining tasks
-Creating a predecessor relationship on the task list
-Overview of lag types
-Overview of task dependency types
--->
-
-## 이 주제와 관련된 추천 튜토리얼
-
-* [작업 기간 이해](/help/manage-work/tasks/understand-task-durations.md)
-* [계획된 시간 이해](/help/manage-work/tasks/understand-planned-hours.md)
-* [[!UICONTROL 작업 노력] 이해](/help/manage-work/tasks/understand-work-effort.md)
+{{$include /help/_includes/learn-to-sequence-tasks.md}}

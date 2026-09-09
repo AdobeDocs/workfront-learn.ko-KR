@@ -1,0 +1,29 @@
+---
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+workflow-type: tm+mt
+source-wordcount: '245'
+ht-degree: 9%
+
+---
+# 환율 설정 - 공유
+
+이 비디오에서는 Workfront 재무 추적 시스템의 통화 관리에 대한 안내서를 제공합니다. 기본 통화&#x200B;은 미국 달러지만 글로벌 또는 개별 프로젝트 및 작업 역할에 대해 추가 통화를 설정할 수 있다고 설명한다.
+영상에는 현재 환율이 제공되지 않기 때문에 사용자가 외부에서 환율에 대한 소스를 제공해야 한다는 점을 강조하고 있다. 일단 설정되면 환율은 프로젝트 또는 작업 역할의 기본값이 되지만 자동으로 업데이트되지는 않습니다&#x200B;. 적절한 권한이 있는 사용자는 수동으로 업데이트해야 합니다. 통화를 설정한 &#x200B; 후 사용자는 새 프로젝트를 만들고 사용 가능한 통화 옵션에서 선택할 수 있으며 개별 프로젝트에 대한 환율을 사용자 지정할 수 있습니다. &#x200B;
+
+>[!VIDEO](https://video.tv.adobe.com/v/3484545/?captions=kor&quality=12&learn=on&enablevpops=1)
+
+## 주요 학습 사항
+
+* **기본 통화:** 시스템의 기본 통화는 미국 달러이지만 전체적으로 또는 개별 프로젝트 및 작업 역할에 대해 변경할 수 있습니다. &#x200B;
+* **통화 추가:** 설정 영역에서 환율과 함께 추가 통화를 설정할 수 있습니다. &#x200B;
+* **수동 환율 업데이트:** 시스템에서 현재 환율을 제공하지 않습니다. 사용자는 외부에서 환율을 소싱하고 수동으로 입력해야 합니다. &#x200B;
+* **프로젝트별 사용자 지정:** 설정 영역에서 설정된 환율은 기본값으로 사용되지만 사용자는 개별 프로젝트의 환율을 사용자 지정할 수 있습니다. &#x200B;
+* **업데이트 및 사용 권한:** 설정 영역의 변경 내용은 기존 프로젝트를 자동으로 업데이트하지 않습니다. 프로젝트 또는 작업 역할의 환율을 업데이트하려면 적절한 사용자 권한이 필요합니다.
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [성과 지표 이해](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [작업 매출 및 비용 기본값 설정](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [경비 유형 설정](/help/manage-work/project-finances/set-up-expense-types.md)
+* [재무 액세스 이해](/help/manage-work/project-finances/understand-financial-access.md)
+* [작업 역할 및 등급 카드 만들기](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)

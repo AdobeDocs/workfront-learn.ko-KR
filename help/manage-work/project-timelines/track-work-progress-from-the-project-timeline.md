@@ -24,28 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:39.713Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 75
-ht-degree: 72%
+source-wordcount: 35
+ht-degree: 54%
 
 ---
 
 # 완료율 및 진행 상태를 사용하여 진행 추적
 
-작업이 프로젝트 기한을 지켜야 하는 방식으로 진행되고 있는지 확인합니다.
-
-이 비디오에서 배울 내용은 다음과 같습니다.
-
-* 완료율
-* 진행 상태
-
->[!VIDEO](https://video.tv.adobe.com/v/3438215/?captions=kor&quality=12&learn=on&enablevpops=1)
-
-
-## 이 주제와 관련된 추천 튜토리얼
-
-* [Workfront에서 프로젝트 타임라인 탐색](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [일자 유형 및 진행 상태 이해](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-
-
+{{$include /help/_includes/track-work-progress-from-the-project-timeline.md}}

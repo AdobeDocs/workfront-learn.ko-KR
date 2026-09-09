@@ -24,26 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:37:00.304Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 77
+source-wordcount: 27
 ht-degree: 100%
 
 ---
 
 # 프로젝트 상태를 완료로 변경
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
-
-* 프로젝트 상태를 [!UICONTROL 완료]로 변경하는 방법
-* 프로젝트 상태를 [!UICONTROL 완료]로 변경하는 이유
-* 프로젝트 상태를 [!UICONTROL 완료]로 변경할 수 없는 경우 수행할 작업
-
->[!VIDEO](https://video.tv.adobe.com/v/3439365/?captions=kor&quality=12&learn=on&enablevpops=1)
-
-## 이 주제와 관련된 추천 튜토리얼
-
-* [승인 완료](/help/manage-work/close-a-project/complete-approvals.md)
-* [자산 업로드](/help/manage-work/close-a-project/upload-assets.md)
-* [배운 내용 기록](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
+{{$include /help/_includes/change-the-project-status.md}}

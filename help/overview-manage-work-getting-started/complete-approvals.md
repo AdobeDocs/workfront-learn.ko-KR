@@ -25,26 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:36:38.984Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 66
+source-wordcount: 20
 ht-degree: 100%
 
 ---
 
 # 승인 완료
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
-
-* 해결되지 않은 작업 승인을 찾고 처리하는 방법
-* 해결되지 않은 문제 승인을 찾고 처리하는 방법
-
->[!VIDEO](https://video.tv.adobe.com/v/3439431/?captions=kor&quality=12&learn=on&enablevpops=1)
-
-## 이 주제와 관련된 추천 튜토리얼
-
-* [프로젝트 상태를 완료로 변경](/help/manage-work/projects/change-the-project-status.md)
-* [자산 업로드](/help/manage-work/close-a-project/upload-assets.md)
-* [배운 내용 기록](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
-
+{{$include /help/_includes/complete-approvals.md}}

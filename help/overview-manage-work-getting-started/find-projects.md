@@ -25,22 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:35:00.636Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 47
+source-wordcount: 13
 ht-degree: 100%
 
 ---
 
 # 프로젝트 찾기
 
-이 비디오에서는 프로젝트를 찾는 빠르고 쉬운 방법에 대해 알아봅니다.
-
->[!VIDEO](https://video.tv.adobe.com/v/3439555/?captions=kor&quality=12&learn=on&enablevpops=1)
-
-## 이 주제와 관련된 추천 튜토리얼
-
-* [프로젝트 관리 시작하기](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [프로젝트 공유](/help/manage-work/projects/share-a-project.md)
-* [프로젝트 팀 이해](/help/manage-work/projects/understand-the-project-team.md)
-* [프로젝트 커뮤니케이션 이해](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/find-projects.md}}

@@ -1,0 +1,30 @@
+---
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+workflow-type: tm+mt
+source-wordcount: '216'
+ht-degree: 6%
+
+---
+# 전체 프로젝트 진행 상황 추적 - 공유
+
+이 비디오에서는 완료율, 예상 일자, 조건 및 진행 상태, 진행 문제, 조건 업데이트 열 등 Workfront의 다양한 지표를 사용하여 전체 프로젝트 진행 상황을 추적하는 방법을 설명합니다.
+
+이 비디오에서는 정확한 추적과 적시에 프로젝트를 완료할 수 있도록 팀 구성원의 정기적인 업데이트와 사전 예방적 문제 관리의 중요성을 강조합니다. &#x200B;
+
+>[!VIDEO](https://video.tv.adobe.com/v/3447417/?captions=kor&quality=12&learn=on&enablevpops=1)
+
+## 주요 학습 사항
+
+* **완료율 계산:** 전체 프로젝트 진행률은 개별 작업의 완료율 값을 기준으로 계산되며, 이 값은 해당 작업의 기간 또는 계획된 시간으로 가중치가 적용됩니다. &#x200B;
+* **계획된 날짜와 예상 날짜 비교:** Workfront은 작업 기간 및 전임 작업을 기반으로 계획된 날짜와 예상 시작/완료 날짜를 계산합니다. 이 &#x200B; 날짜 사이의 불일치는 잠재적인 지연을 나타냅니다. &#x200B;
+* **프로젝트 상태:** 상태 필드(예: 대상, 위험, 문제 발생)는 프로젝트 상태를 반영하며 진행 상태 모드를 사용하여 수동 또는 자동으로 설정할 수 있습니다. &#x200B;
+* **진행 중 문제 관리:** 진행 중 문제는 잠재적인 위험을 나타냅니다. 프로젝트 일정&#x200B;을 유지하려면 신속하게 검토하고 작업으로 변환하는 것이 중요합니다. &#x200B;
+* **상태 업데이트 열:** 프로젝트 관리자가 상태 업데이트 열에 매주 업데이트하여 진행 상황에 대한 명확한 요약을 제공하고 최신 개발 상황을 추적하는 데 도움이 됩니다. &#x200B;
+
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [현재 상태로 프로젝트 관리](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [프로젝트 지표로 작업 진행 상황 추적](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [프로젝트 관리를 위한 간트 보기 탐색](/help/manage-work/projects/understand-the-gantt-view.md)
+* [작업 관리를 위한 게시판 보기 탐색](/help/manage-work/projects/understand-the-board-view.md)

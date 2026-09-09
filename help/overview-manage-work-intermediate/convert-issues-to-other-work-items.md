@@ -23,25 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:23:18.240Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 82
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
 # 문제/요청을 작업으로 전환
 
-이 비디오에서는 문제 또는 요청을 작업으로 전환하는 방법에 대해 알아봅니다.
-
->[!VIDEO](https://video.tv.adobe.com/v/3445437/?captions=kor&quality=12&learn=on&enablevpops=1)
-
->[!NOTE]
->
->문제는 “계획되지 않은 작업”을 나타내므로 프로젝트 타임라인에 추가할 수 없습니다. 프로젝트 타임라인은 작업을 의미하는 “계획된 작업”을 위한 것입니다.
-
-## 이 주제와 관련된 추천 튜토리얼
-
-* [요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
-* [문제/요청을 프로젝트로 전환](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [계획되지 않은 작업 처리](/help/manage-work/issues-requests/handle-unplanned-work.md)
+{{$include /help/_includes/convert-issues-to-other-work-items.md}}

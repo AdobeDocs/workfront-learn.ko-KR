@@ -25,27 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:34:47.354Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 73
+source-wordcount: 28
 ht-degree: 100%
 
 ---
 
 # 프로젝트 관리 시작하기
 
-이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
-
-* 프로젝트 진행 상황을 모니터링하는 방법
-* 드릴다운하여 작업 세부 정보를 확인하는 방법
-* 관련자들과 소통하는 방법
-
->[!VIDEO](https://video.tv.adobe.com/v/3445174/?captions=kor&quality=12&learn=on&enablevpops=1)
-
-## 이 주제와 관련된 추천 튜토리얼
-
-* [실제로 프로젝트 실행](/help/manage-work/projects/take-a-project-live.md)
-* [프로젝트 찾기](/help/manage-work/projects/find-projects.md)
-* [프로젝트 공유](/help/manage-work/projects/share-a-project.md)
-* [프로젝트 팀 이해](/help/manage-work/projects/understand-the-project-team.md)
-* [프로젝트 커뮤니케이션 이해](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/getting-started-manage-a-project.md}}

@@ -23,23 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:27:48.210Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: 29
 ht-degree: 100%
 
 ---
 
 # 프로젝트 타임라인 이해
 
-이 비디오에서 배울 내용은 다음과 같습니다.
-
-* 기본 프로젝트 타임라인 관리
-* 시작 또는 완료 일자부터 프로젝트 일정 예약
-* 작업 제한 사항
-
->[!VIDEO](https://video.tv.adobe.com/v/3435842/?captions=kor&quality=12&learn=on&enablevpops=1)
-
->[!IMPORTANT]
->
->기간 유형 및 작업 제한 사항에 대한 자세한 설명은 [기간 유형 및 작업 제한 사항의 이해 및 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=ko-KR)를 참조하십시오.
+{{$include /help/_includes/understand-project-timelines.md}}

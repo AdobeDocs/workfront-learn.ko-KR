@@ -25,26 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:14:42.100Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 56
+source-wordcount: 17
 ht-degree: 100%
 
 ---
 
 # 문제 보고서
 
-이 비디오에서는 다음과 같은 항목을 만드는 방법을 알아봅니다.
-
-* 오브젝트 해결을 보여 주는 문제 보고서
-* 전환된 문제 정보를 보여 주는 프로젝트 보고서
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops=1)
-
-
-## 이 주제와 관련된 추천 튜토리얼
-
-* [기본 보기 만들기](/help/reporting/basic-reporting/create-a-basic-view.md)
-* [간단한 보고서 만들기](/help/reporting/basic-reporting/create-a-simple-report.md)
-* [요청 찾기 및 관리](/help/manage-work/issues-requests/find-requests.md)
+{{$include /help/_includes/report-on-issues.md}}

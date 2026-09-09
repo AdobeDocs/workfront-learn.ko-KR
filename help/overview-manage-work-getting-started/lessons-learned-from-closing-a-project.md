@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:32:59.903Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 79
+source-wordcount: 27
 ht-degree: 100%
 
 ---
 
 # 배운 내용 기록
 
-이 비디오에서 다음과 같은 이점을 확인하실 수 있습니다.
-
-* “배운 내용” 작업 만들기
-* 프로젝트에 “배운 내용” 사용자 정의 양식 첨부
-* “배운 내용” 사용자 정의 보고서 만들기
-* “배운 내용” 프로젝트 만들기
-
->[!VIDEO](https://video.tv.adobe.com/v/3441019/?captions=kor&quality=12&learn=on&enablevpops=1)
-
-## 이 주제와 관련된 추천 튜토리얼
-
-* [프로젝트 상태를 완료로 변경](/help/manage-work/projects/change-the-project-status.md)
-* [승인 완료](/help/manage-work/close-a-project/complete-approvals.md)
-* [자산 업로드](/help/manage-work/close-a-project/upload-assets.md)
-* [시간 기록 및 검토](/help/manage-work/close-a-project/log-and-review-hours.md)
+{{$include /help/_includes/lessons-learned-from-closing-a-project.md}}
