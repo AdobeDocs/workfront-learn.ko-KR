@@ -1,0 +1,30 @@
+---
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 41%
+
+---
+# 블루프린트 설치 및 사용 - 공유
+
+관리자가 블루프린트를 설치하는 방법과 사용자가 블루프린트를 사용하는 방법을 알아봅니다. 이 예에서는 &quot;신규 사용자를 위한 Workfront 교육&quot; 블루프린트를 설치하고 템플릿과 작성된 보기를 교육 체크리스트로 사용하여 Workfront에서 사용자를 활성화하려고 합니다.
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
+
+## 주요 학습 사항
+
+* 블루프린트를 선택하고 이미 설치되었는지 여부를 확인하는 방법. 이 작업은 대부분의 사용자가 Standard 라이선스를 사용하여 수행할 수 있습니다.
+* 블루프린트를 설치하고 블루프린트에서 만든 오브젝트를 공유하는 방법. 이를 위해서는 시스템 관리자의 서비스가 필요합니다.
+* 블루프린트를 설치하여 만든 새 프로젝트 템플릿을 찾고 사용하는 방법입니다.
+
+
+## 이 주제와 관련된 추천 튜토리얼
+
+* [프로젝트 템플릿 만들기 및 블루프린트 살펴보기](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [템플릿에서 직접 프로젝트 만들기](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [효과적으로 프로젝트 템플릿 공유](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [기존 프로젝트를 효율적으로 복사](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [프로젝트 템플릿 비활성화](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [템플릿에서 프로젝트 팀 편집](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

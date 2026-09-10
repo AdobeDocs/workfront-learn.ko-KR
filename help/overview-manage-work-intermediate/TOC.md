@@ -6,10 +6,10 @@ breadcrumb-title: 작업 관리 - 중간
 solution: Workfront
 sub-product: Work Management
 index: true
-source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 64%
+source-wordcount: '221'
+ht-degree: 12%
 
 ---
 
@@ -18,36 +18,39 @@ ht-degree: 64%
 
 + [작업 관리 - 중간](overview.md)
 + 작업 관리 - 중간 {#manage-work-intermediate}
-   + 프로젝트 템플릿 {#project-templates}
-      + [프로젝트 템플릿 만들기 및 블루프린트에 대해 알아보기](create-a-project-template.md)
-      + [템플릿에서 직접 프로젝트 만들기](create-a-project-directly-from-a-template.md)
-      + [프로젝트 템플릿 공유](share-a-project-template.md)
-      + [기존 프로젝트 복사](copy-an-existing-project.md)
-      + [프로젝트 템플릿 비활성화](deactivate-a-project-template.md)
-      + [프로젝트 템플릿에서 프로젝트 팀 편집](edit-the-project-team-in-a-project-template.md)
+  + 프로젝트 템플릿 {#project-templates}
+    + [프로젝트 템플릿 만들기 및 블루프린트 살펴보기](create-a-project-template.md)
+    + [블루프린트 설치 및 사용](install-and-use-a-blueprint.md)
+    + [템플릿에서 직접 프로젝트 만들기](create-a-project-directly-from-a-template.md)
+    + [효과적으로 프로젝트 템플릿 공유](share-a-project-template.md)
+    + [기존 프로젝트를 효율적으로 복사](copy-an-existing-project.md)
+    + [프로젝트 템플릿 비활성화](deactivate-a-project-template.md)
+    + [템플릿에서 프로젝트 팀 편집](edit-the-project-team-in-a-project-template.md)
 
-   + 승인 프로세스를 만들고 사용하는 방법 {#how-to-create-and-use-approval-processes}
-      + [글로벌 승인 프로세스 및 일회용 승인 프로세스 만들기](create-a-single-use-approval-process.md)
-      + [그룹별 승인 프로세스 이해](group-specific-approval-processes.md)
-      + [디지털 작업 검토 및 승인](review-and-approve-digital-work.md)
-      + [작업, 문제 및 승인 위임](delegate-approvals.md)
+  + 승인 프로세스를 만들고 사용하는 방법 {#how-to-create-and-use-approval-processes}
+    + [승인 프로세스 만들기 및 관리](create-a-single-use-approval-process.md)
+    + [그룹별 승인 프로세스 이해](group-specific-approval-processes.md)
+    + [요청 대기열에 문제 승인 프로세스 적용](apply-an-issue-approval-process-in-a-request-queue.md)
+    + [디지털 작업 검토 및 승인](review-and-approve-digital-work.md)
+    + [작업, 문제 및 승인 위임](delegate-approvals.md)
 
-   + 이정표를 만들고 사용하는 방법 {#how-to-create-and-use-milestones}
-      + [마일스톤 만들기](creating-milestones.md)
-      + [마일스톤 적용](apply-milestones.md)
-      + [마일스톤 보기](view-milestones.md)
+  + 이정표를 만들고 사용하는 방법 {#how-to-create-and-use-milestones}
+    + [마일스톤 경로 및 단계 만들기](creating-milestones.md)
+    + [프로젝트 및 작업에 마일스톤 경로 적용](apply-milestones.md)
+    + [프로젝트에서 마일스톤 보기](view-milestones.md)
 
-   + 문제 작업 방법 {#how-to-work-with-issues}
-      + [계획되지 않은 작업 처리](handle-unplanned-work.md)
-      + [요청 작성](make-a-request.md)
-      + [요청 찾기 및 관리](find-requests.md)
-      + [문제 할당 관리](manage-issue-assignments.md)
-      + [요청 업데이트](update-a-request.md)
-      + [문제/요청을 프로젝트로 전환](create-a-project-from-a-request.md)
-      + [문제/요청을 작업으로 전환](convert-issues-to-other-work-items.md)
-      + [문제 보고서](report-on-issues.md)
+  + 문제 작업 방법 {#how-to-work-with-issues}
+    + [계획되지 않은 작업을 효과적으로 처리](handle-unplanned-work.md)
+    + [Workfront에서 요청 만들기 및 관리](make-a-request.md)
+    + [효율적인 요청 찾기 및 관리](find-requests.md)
+    + [효과적으로 문제 할당 관리](manage-issue-assignments.md)
+    + [Workfront에서 요청 업데이트](update-a-request.md)
+    + [문제 또는 요청을 프로젝트로 전환](create-a-project-from-a-request.md)
+    + [문제 또는 요청을 작업으로 전환](convert-issues-to-other-work-items.md)
+    + [문제 관리를 위한 사용자 지정 보고서 만들기](report-on-issues.md)
 
-   + 더 깊이 파고들기 {#digging-deeper}
-      + [기간 유형 및 작업 제한 사항의 이해 및 관리](understand-and-manage-duration-types-and-task-constraints.md)
-      + [프로젝트 간 전임 작업 이해](understand-cross-project-predecessors.md)
-      + [고급 전임 작업](advanced-predecessors.md)
+  + 더 깊이 파고들기 {#digging-deeper}
+    + [기본 기간 유형 및 작업 제한](understand-and-manage-duration-types-and-task-constraints.md)
+    + [기준선, 스냅샷 및 자동화된 보고서를 사용한 기본 프로젝트 추적](baselines-snapshots-and-automated-reports.md)
+    + [프로젝트 간 전임 작업으로 종속성 설정](understand-cross-project-predecessors.md)
+    + [기본 고급 작업 종속성](advanced-predecessors.md)
