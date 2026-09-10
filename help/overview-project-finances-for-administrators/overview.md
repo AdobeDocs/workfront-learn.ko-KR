@@ -7,7 +7,7 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: '2024-09-03T00:00:00.000Z'
+last-substantial-update: '2026-09-09T00:00:00.000Z'
 jira: KT-13491
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:33:15.445Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: 199
 ht-degree: 4%
 
 ---
@@ -45,4 +45,5 @@ ht-degree: 4%
 * [작업 수익 및 비용 기본값 설정](set-up-task-revenue-and-cost-defaults.md) - 수익 유형과 비용 유형을 사용하여 작업에 대한 계획 및 실제 재무 정보를 계산하는 방법을 알아봅니다.
 * [환율 설정](set-up-exchange-rates.md) - 프로젝트 및 보고서에서 환율을 사용하여 전 세계의 다양한 통화로 된 재무 정보를 반영하는 방법에 대해 알아봅니다.
 * [경비 유형 설정](set-up-expense-types.md) - 미리 작성된 경비 유형을 사용하고 새 경비 유형을 만드는 방법을 알아봅니다.
+* [작업 역할 및 비율 카드 만들기](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md) - 작업 역할 및 비율 카드를 만드는 방법과 프로젝트에서 비율 카드를 첨부하고 제거하는 방법에 대해 알아봅니다.
 * [금융 액세스 이해](understand-financial-access.md) - 금융 액세스 권한을 통해 관리자가 Workfront에서 추적된 금융 정보를 보고 편집할 수 있는 사람을 제어하는 방법에 대해 알아봅니다.
