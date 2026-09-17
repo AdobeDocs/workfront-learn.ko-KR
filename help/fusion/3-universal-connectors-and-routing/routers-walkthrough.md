@@ -1,6 +1,6 @@
 ---
 title: 라우터 워크스루
-description: ' [!DNL Adobe Workfront Fusion]에서 라우터를 사용하여 Pokemon 대 슈퍼히어로 번들을 올바른 경로로 전달하는 방법을 알아봅니다.'
+description: 라우터를 사용하여 Pokemon과 슈퍼 히어로 번들을 [!DNL Adobe Workfront Fusion]의 올바른 경로로 전달하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 doc-type: video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:35:48.709Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 873
-ht-degree: 98%
-
+source-wordcount: '873'
+ht-degree: 96%
 ---
-
 # 라우터 워크스루
 
 라우터를 사용하여 Pokemon 대 슈퍼히어로 번들을 올바른 경로로 전달한 다음 각 캐릭터에 대한 작업을 만듭니다.
@@ -39,13 +43,13 @@ ht-degree: 98%
 
 Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416574/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on&enablevpops=1)
 
 ## 연습용 URL
 
-* 슈퍼히어로 API 웹 사이트: `https://www.superheroapi.com/`
-* 첫 번째 연습용 URL: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
-* 두 번째 연습용 URL: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
+* 슈퍼히어로 API 웹 사이트: `https://superheroapi.com/`
+* 첫 번째 연습용 URL: `https://superheroapi.com/api/{access-token}/{character-id}/appearance`
+* 두 번째 연습용 URL: `https://superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 자체 슈퍼히어로 토큰에 액세스하는 데 문제가 있는 경우, 다음 공유 토큰(10110256647253588)을 사용할 수 있습니다. 모든 사람에게 공유 토큰이 계속 작동하도록 슈퍼히어로 API에 호출하는 횟수를 고려하십시오.
 
@@ -116,4 +120,4 @@ Pokemon 캐릭터에 대한 여러 변수 설정 모듈에서 “Stat(Level)”�
 
 ## 자세히 알아보고자 하십니까? 다음 자료를 참조하십시오.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

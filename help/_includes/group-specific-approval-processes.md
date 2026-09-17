@@ -1,9 +1,8 @@
 ---
-source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 96%
-
 ---
 # 그룹별 승인 프로세스 이해 - 공유
 
@@ -11,17 +10,17 @@ ht-degree: 96%
 
 [!DNL Workfront]의 모든 사용자가 사용할 수 있는 승인 프로세스의 경우, [!UICONTROL “이 승인 진행을 사용할 수 있는 대상자”] 필드가 [!UICONTROL 모든 그룹]으로 설정되어 있는지 확인합니다.
 
-그룹 필드가 강조 표시된 ![[!UICONTROL 승인 프로세스 편집] 창](assets/admin-fund-approval-processes-1.png)
+그룹 필드가 강조 표시된 ![[!UICONTROL 승인 프로세스 편집] 창](/help/administration-and-setup/approval-processes-and-milestone-paths/assets/admin-fund-approval-processes-1.png)
 
 [!UICONTROL “상태가 설정되면 승인 프로세스 시작”] 메뉴에서 사용할 수 있는 상태는 “사용자” 필드의 선택에 따라 달라집니다. [!UICONTROL 모든 그룹]을 선택한 경우, 시스템 전체의 잠금 상태만 사용할 수 있습니다.
 
 특정 그룹에 대한 승인 프로세스를 제한하려면 [!UICONTROL “이 승인 진행을 사용할 수 있는 대상자”] 필드의 목록에서 해당 그룹 이름을 선택합니다.
 
-그룹 필드가 확장된 ![[!UICONTROL 승인 프로세스 편집] 창](assets/admin-fund-approval-processes-2.png)
+그룹 필드가 확장된 ![[!UICONTROL 승인 프로세스 편집] 창](/help/administration-and-setup/approval-processes-and-milestone-paths/assets/admin-fund-approval-processes-2.png)
 
 그룹 관리자는 [!UICONTROL 모든 그룹] 옵션을 사용할 수 없습니다.
 
 특정 그룹을 선택하면 해당 그룹에 사용 가능한 상태만 [!UICONTROL “상태가 설정되면 승인 프로세스 시작”] 메뉴에 나타납니다.
 
-상태 필드가 강조 표시된 ![[!UICONTROL 승인 프로세스 편집] 창](assets/admin-fund-approval-processes-3.png)
+상태 필드가 강조 표시된 ![[!UICONTROL 승인 프로세스 편집] 창](/help/administration-and-setup/approval-processes-and-milestone-paths/assets/admin-fund-approval-processes-3.png)
 

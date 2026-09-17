@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:41:51.365Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 760
-ht-degree: 100%
-
+source-wordcount: '762'
+ht-degree: 96%
 ---
-
 # 라우터 연습
 
 라우터의 중요성과 다양한 모듈을 조건부로 처리하는 데 라우터를 사용하는 방법을 이해합니다.
@@ -64,14 +68,14 @@ ht-degree: 100%
 
    **다음으로 복제된 새 모듈에서 매핑된 값을 변경합니다.**
 
-1. <https://www.superheroapi.com/>으로 이동하고 Facebook 계정을 사용하여 액세스 토큰을 가져옵니다.
+1. 액세스 토큰을 얻으려면 <https://superheroapi.com/>(으)로 이동하고 **GitHub로 로그인**&#x200B;을 클릭합니다.
 
    >[!NOTE]
    >
    >자체 슈퍼히어로 토큰에 액세스하는 데 문제가 있는 경우, 다음 공유 토큰(10110256647253588)을 사용할 수 있습니다. 모든 사람에게 공유 토큰이 계속 작동하도록 슈퍼히어로 API에 호출하는 횟수를 고려하십시오.
 
-1. 슈퍼히어로 모양 가져오기의 설정을 열고 URL을 `https://www.superheroapi.com/api/[access- token]/332/appearance`로 변경합니다. URL에 액세스 토큰을 포함해야 합니다. 확인을 클릭합니다.
-1. 슈퍼히어로 능력 가져오기의 설정을 열고 URL을 `https://www.superheroapi.com/api/[access- token]/332/powerstats`로 변경합니다. URL에 액세스 토큰을 포함해야 합니다. 확인을 클릭합니다.
+1. 슈퍼히어로 모양 가져오기의 설정을 열고 URL을 `https://superheroapi.com/api/[access- token]/332/appearance`로 변경합니다. URL에 액세스 토큰을 포함해야 합니다. 확인을 클릭합니다.
+1. 슈퍼히어로 능력 가져오기의 설정을 열고 URL을 `https://superheroapi.com/api/[access- token]/332/powerstats`로 변경합니다. URL에 액세스 토큰을 포함해야 합니다. 확인을 클릭합니다.
 1. 각 슈퍼히어로 모듈을 마우스 오른쪽 버튼으로 클릭하고 이 모듈만 실행을 선택합니다. 이렇게 하면 매핑을 위해 확인해야 하는 데이터 구조가 생성됩니다.
 1. 둘 다 실행한 후에 각 URL 필드의 숫자 “332”를 CSV 구문 분석 모듈에서 매핑된 열 4로 변경합니다.
 
@@ -79,7 +83,7 @@ ht-degree: 100%
 
    **이제 슈퍼히어로 경로에서 여러 변수 설정 모듈을 클릭하고 이름, 키, 몸무게 및 능력을 업데이트할 수 있습니다.**
 
-1. 슈퍼히어로 능력 가져오기 모듈(모듈 8)에서 이름 및 능력 필드를 업데이트합니다.
+1. 슈퍼 히어로 능력 가져오기 모듈(모듈 8)에서 이름 필드와 능력 필드를 업데이트합니다.
 
    ![라우터 이미지 5](../12-exercises/assets/routers-walkthrough-5.png)
 
