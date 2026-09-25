@@ -1,5 +1,5 @@
 ---
-title: ' [!DNL Workfront Goals] 방식 이해'
+title: '[!DNL Workfront Goals] 방식 이해'
 description: 계획 단계에서 “무엇”과 “이유”를 명확하게 표현하는 방법, 예시 목표 및 영향력 범위에 대해 알아봅니다.
 activity: use
 feature: Workfront Goals,Get Started with Workfront
@@ -10,24 +10,29 @@ team: Technical Marketing
 jira: KT-8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
+autotag-review: '2026-05-05T20:16:05.888Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
 subfeature_v2:
   - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T20:16:05.888Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 246
+source-wordcount: '246'
 ht-degree: 100%
-
 ---
-
 # [!DNL Workfront Goals] 방식 이해
 
 이 비디오에서 배울 내용은 다음과 같습니다.
@@ -36,7 +41,7 @@ ht-degree: 100%
 * 예시 목표
 * 영향력 범위
 
->[!VIDEO](https://video.tv.adobe.com/v/3413135/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on&enablevpops=1)
 
 ## 책임자 지정
 

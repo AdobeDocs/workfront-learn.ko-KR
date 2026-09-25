@@ -1,6 +1,6 @@
 ---
 title: 교정쇄 세부 정보 이해
-description: 요약 패널 및 [!UICONTROL 문서 세부 정보] 페이지를 통해 [!DNL &#x200B; Workfront] 의 교정쇄를 뒷받침하는 세부 정보에 대해 더 자세히 알아봅니다.
+description: 요약 패널 및 [!UICONTROL 문서 세부 정보] 페이지를 통해 [!DNL  Workfront]에서 증명 뒤에 있는 세부 정보를 자세히 알아보세요.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,24 +10,29 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
+autotag-review: '2026-05-05T19:56:45.995Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:56:45.995Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1038
-ht-degree: 97%
-
+source-wordcount: '1039'
+ht-degree: 95%
 ---
-
 # 교정쇄 세부 정보 이해
 
 ## 교정쇄 세부 정보 보기
@@ -58,7 +63,7 @@ ht-degree: 97%
 
 이렇게 하면 [!UICONTROL 문서 세부 정보] 페이지로 이동하고 왼쪽 패널에 다양한 추가 옵션이 표시됩니다.
 
-![[!DNL &#x200B; Workfront]의 교정쇄 페이지에 대한 이미지입니다.](assets/document-details.png)
+![[!DNL  Workfront]의 교정쇄 페이지에 대한 이미지입니다.](assets/document-details.png)
 
 교정 프로세스와 관련된 정보를 조회할 수 있는 기능은 [!DNL Workfront]에서 보유한 교정 권한에 따라 달라집니다.
 

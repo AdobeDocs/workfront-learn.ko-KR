@@ -1,6 +1,6 @@
 ---
 title: 소개 및 기술 전략
-description: ' [!DNL Adobe Workfront Fusion]의 강력함과 유연성 및 Fusion 인스턴스를 사용하여 시작하는 방법을 알아봅니다.'
+description: '[!DNL Adobe Workfront Fusion]의 강력함과 유연성 및 Fusion 인스턴스를 사용하여 시작하는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,24 +12,26 @@ jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:50:09.826Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:50:09.826Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '319'
 ht-degree: 100%
-
 ---
-
 # 소개 및 기술 전략
 
 [!DNL Adobe Workfront Fusion]의 강력함과 유연성 및 Fusion 인스턴스를 사용하여 시작하는 방법을 알아봅니다.
@@ -61,4 +63,4 @@ Fusion 시스템 관리자인 경우, 다음 튜토리얼을 참조하여 팀을
 * Fusion 핵심 및 디자이너 기능
 * Fusion 예제 시나리오
 
->[!VIDEO](https://video.tv.adobe.com/v/3416556/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops=1)

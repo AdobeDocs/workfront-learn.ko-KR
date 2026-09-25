@@ -6,22 +6,28 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-TQID: https://experienceleague.adobe.com/0m7HL1cXKtWUA6-cEOYgOvd3Z-WIQi7V39qPZjjxnng
+TQID: 'https://experienceleague.adobe.com/0m7HL1cXKtWUA6-cEOYgOvd3Z-WIQi7V39qPZjjxnng'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 488
+source-wordcount: '488'
 ht-degree: 100%
-
 ---
-
 # 모범 사례 - 비즈니스 사례 및 포트폴리오 최적화 도구
 
 ## Adobe Workfront “모범 사례”란 무엇입니까?
@@ -60,7 +66,7 @@ ht-degree: 100%
 
 또한 프로젝트가 부서, 지역 및/또는 기업 목표에 기여하는 방식을 관련자에게 보여 줄 기회를 제공합니다.
 
-비즈니스 사례를 사용하는 방법에 대한 지침은 [비즈니스 사례 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=ko)를 참조하십시오.
+비즈니스 사례를 사용하는 방법에 대한 지침은 [비즈니스 사례 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)를 참조하십시오.
 
 </br>
 </br>
@@ -73,7 +79,7 @@ ht-degree: 100%
 
 이 정보가 “실제” 프로젝트에 수반되는 정보에 근접한지 확인하면 포트폴리오 최적화 도구의 점수 기능을 정확하게 사용하여 나열된 프로젝트의 우선 순위를 결정할 수 있습니다. 포트폴리오 최적화 도구는 프로젝트의 우선 순위를 효율적으로 지정하고 기업의 전략 및 가치에 맞게 조정할 수 있는 뛰어난 도구입니다.
 
-비즈니스 사례를 사용하는 방법에 대한 지침은 [비즈니스 사례 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=ko)를 참조하십시오.
+비즈니스 사례를 사용하는 방법에 대한 지침은 [비즈니스 사례 이해](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)를 참조하십시오.
 
-포트폴리오 최적화 도구를 사용하는 방법에 대한 지침은 [ 포트폴리오 최적화 도구를 사용하여 업무 우선 순위 지정 및 업무 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=ko)를 참조하십시오.
+포트폴리오 최적화 도구를 사용하는 방법에 대한 지침은 [ 포트폴리오 최적화 도구를 사용하여 업무 우선 순위 지정 및 업무 관리](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)를 참조하십시오.
 

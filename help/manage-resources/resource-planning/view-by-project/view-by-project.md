@@ -11,23 +11,28 @@ thumbnail: 335170.jpeg
 jira: KT-8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
 doc-type: video
-TQID: https://experienceleague.adobe.com/o3H4L0RX4ioK40tWCZ6X8fqobbtCI8qFJUymEmsHKRw
+TQID: 'https://experienceleague.adobe.com/o3H4L0RX4ioK40tWCZ6X8fqobbtCI8qFJUymEmsHKRw'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 315
+source-wordcount: '315'
 ht-degree: 100%
-
 ---
-
 # [!DNL Resource Planner]의 프로젝트별 보기
 
 이 비디오에서는 다음과 같은 작업을 수행합니다.
@@ -35,7 +40,7 @@ ht-degree: 100%
 * [!UICONTROL 프로젝트별 보기] 참조
 * 리소스 정보가 이 보기에 표시되는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3420158/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops=1)
 
 프로젝트별 보기 옵션의 경우, 기본값은 비즈니스 사례에서 프로젝트에 필요한 예상 리소스 수를 가져오는 예산 열을 표시하는 것입니다(채워진 경우). 또한 기본적으로 Net 열이 예산 열의 숫자를 사용하여 남은 리소스 수를 알려 준다는 것을 의미합니다.
 

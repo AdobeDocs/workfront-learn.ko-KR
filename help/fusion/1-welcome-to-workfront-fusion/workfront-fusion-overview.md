@@ -12,24 +12,26 @@ jira: KT-11035
 last-substantial-update: '2026-03-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
+autotag-review: '2026-05-06T16:48:52.918Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:48:52.918Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 487
+source-wordcount: '487'
 ht-degree: 82%
-
 ---
-
 # Workfront Fusion 교육 개요
 
 각 Workfront Fusion 섹션에는 다음 튜토리얼로 진행되기 전에 이해해야 할 개념을 제공하는 여러 튜토리얼이 있습니다. 워크스루 연습을 통해 대부분의 개념을 숙지할 수 있습니다.
@@ -72,6 +74,6 @@ Workfront는 Workfront Fusion 테스트 드라이브를 제공하지 않습니�
 
 워크스루 연습을 통해 얻을 수 있도록 단계별 지침이 제공됩니다.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-질문을 게시할 수 있는 [Workfront Fusion 2.0 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=ko)가 있습니다.
+질문을 게시할 수 있는 [Workfront Fusion 2.0 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2)가 있습니다.

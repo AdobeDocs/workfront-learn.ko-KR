@@ -6,13 +6,20 @@ type: Tutorial
 team: Technical Marketing
 jira: KT-8806
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%
-
 ---
-
 # 요청 작성
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
@@ -22,7 +29,7 @@ ht-degree: 100%
 * 제출된 요청 보기
 * 요청 초안 찾기
 
->[!VIDEO](https://video.tv.adobe.com/v/3413117/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## 요청 대기열 경로에 빠르고 쉽게 액세스
 

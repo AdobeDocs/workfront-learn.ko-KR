@@ -1,6 +1,6 @@
 ---
 title: 교정쇄 댓글 관리
-description: 댓글 작업을 적용하고, 댓글을 확인하고, 댓글 열을 필터링하여  [!DNL  Workfront] 에서 교정쇄 댓글을 관리하는 방법에 대해 알아봅니다.
+description: 댓글 작업을 적용하고, 댓글을 해결하며, 댓글 열을 필터링하여 [!DNL  Workfront]에서 증명 댓글을 관리하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,24 +10,29 @@ level: Beginner
 thumbnail: manage-proof-comments.png
 jira: KT-10109
 exl-id: 603023f3-f79e-414c-a6da-1f42c234c63d
+autotag-review: '2026-05-05T19:59:03.344Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:59:03.344Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 449
-ht-degree: 100%
-
+source-wordcount: '450'
+ht-degree: 96%
 ---
-
 # 교정쇄 댓글 관리
 
 [!DNL Workfront]는 댓글 작업을 사용하거나 댓글을 확인하여 자산을 수정하는 것과 같이 교정쇄에 대한 각 댓글과 관련된 작업을 추적하고 관리할 수 있습니다.

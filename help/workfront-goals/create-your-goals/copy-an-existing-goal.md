@@ -1,6 +1,6 @@
 ---
 title: 기존 목표 복사
-description: ' [!DNL Workfront Goals]에서 기존 목표를 복사하는 방법에 대해 알아봅니다.'
+description: '[!DNL Workfront Goals]에서 기존 목표를 복사하는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -9,13 +9,26 @@ role: User
 level: Beginner
 jira: KT-10121
 exl-id: bf9ac10a-8419-458b-b4e8-bedb0ad3b98f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '530'
-ht-degree: 100%
-
+ht-degree: 98%
 ---
-
 # 기존 목표 복사
 
 분기가 끝나 다음 기간에 대한 기존 목표를 다시 만들고 싶다고 가정해 보겠습니다. 또는 목표를 완료하지 못하여 다음 기간으로 연장해야 하는 경우가 있습니다. 해당 목표를 만드는 최선의 옵션은 무엇일까요? 바로 기존 목표를 복사하여 수정하는 것입니다.
