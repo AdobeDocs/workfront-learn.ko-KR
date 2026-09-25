@@ -74,6 +74,6 @@ Workfront는 Workfront Fusion 테스트 드라이브를 제공하지 않습니�
 
 워크스루 연습을 통해 얻을 수 있도록 단계별 지침이 제공됩니다.
 
-[Workfront Fusion 설명서](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 설명서](https://experienceleague.adobe.com/ko/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-질문을 게시할 수 있는 [Workfront Fusion 2.0 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2)가 있습니다.
+질문을 게시할 수 있는 [Workfront Fusion 2.0 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=ko)가 있습니다.
