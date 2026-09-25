@@ -43,4 +43,4 @@ ht-degree: 69%
 * LEFT/RIGHT 표현식으로 수행하는 작업
 * 계산된 필드에서 LEFT/RIGHT 텍스트 표현식을 사용하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417124/?captions=kor&quality=12&learn=on&enablevpops=1)

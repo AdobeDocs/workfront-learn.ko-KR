@@ -38,4 +38,4 @@ ht-degree: 87%
 
 * 질적 또는 작성형 업데이트
 
->[!VIDEO](https://video.tv.adobe.com/v/335197/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415951/?captions=kor&quality=12&learn=on&enablevpops=1)

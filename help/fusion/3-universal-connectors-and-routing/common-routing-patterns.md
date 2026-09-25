@@ -37,4 +37,4 @@ ht-degree: 65%
 
 * 상호 배타적 라우터 경로와 비배타적 라우터 경로의 차이점
 
->[!VIDEO](https://video.tv.adobe.com/v/335273/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417258/?captions=kor&quality=12&learn=on&enablevpops=1)

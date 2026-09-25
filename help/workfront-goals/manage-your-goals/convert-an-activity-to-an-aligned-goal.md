@@ -38,4 +38,4 @@ ht-degree: 90%
 
 * 활동을 정렬된 목표로 전환
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416526/?captions=kor&quality=12&learn=on&enablevpops=1)

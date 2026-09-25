@@ -41,7 +41,7 @@ Workfront에서 프로젝트에 대한 정보를 조회하고 관련 정보가 �
 
 Workfront에서는 연습 워크스루 비디오를 시청한 다음, 사용자 개인의 환경에서 연습 내용을 재현할 것을 권장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417276/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 
 ## 사용자 차례

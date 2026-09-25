@@ -39,4 +39,4 @@ ht-degree: 57%
 
 * [!DNL Slack]을 통해 [!DNL Workfront] 검색
 
->[!VIDEO](https://video.tv.adobe.com/v/335121/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437518/?captions=kor&quality=12&learn=on&enablevpops=1)

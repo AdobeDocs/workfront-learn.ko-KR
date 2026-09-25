@@ -27,7 +27,7 @@ ht-degree: 100%
 * 제출한 요청 찾기
 * 요청 업데이트
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422300/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 <!--
 Guide
