@@ -1,6 +1,6 @@
 ---
 title: 교정쇄 뷰어 탐색
-description: '[!DNL  Workfront] 증명 뷰어에서 증명을 이동하고, 콘텐츠를 확대/축소하고, 썸네일 열을 사용하고, 증명 주석을 필터링하는 방법 등에 대해 알아봅니다.'
+description: '[!DNL &#x200B; Workfront] 증명 뷰어에서 증명을 이동하고, 콘텐츠를 확대/축소하고, 썸네일 열을 사용하고, 증명 주석을 필터링하는 방법 등에 대해 알아봅니다.'
 activity: use
 feature: Workfront Proof
 type: Tutorial

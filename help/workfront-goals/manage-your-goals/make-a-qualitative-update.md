@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Workfront Goals]에서 정성 업데이트'
-description: '[!DNL   Goals]에서 정성 업데이트 또는 서면 업데이트 방법을 알아봅니다.'
+description: '[!DNL &#x200B;  Goals]에서 정성 업데이트 또는 서면 업데이트 방법을 알아봅니다.'
 activity: use
 feature: Workfront Goals
 type: Tutorial

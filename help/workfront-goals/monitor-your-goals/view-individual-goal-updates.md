@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Workfront Goals]에서 개별 목표 업데이트 보기'
-description: '[!DNL   Goals]의 [!UICONTROL Pulse] 업데이트 스트림에서 개별 목표를 보는 방법에 대해 알아봅니다.'
+description: '[!DNL &#x200B;  Goals]의 [!UICONTROL Pulse] 업데이트 스트림에서 개별 목표를 보는 방법에 대해 알아봅니다.'
 activity: use
 feature: Workfront Goals
 type: Tutorial

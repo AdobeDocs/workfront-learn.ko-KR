@@ -1,6 +1,6 @@
 ---
 title: 교정의 이점 알아보기
-description: '[!DNL  Workfront]에서 증명이 무엇인지, 디지털 증명을 사용할 때의 이점에 대해 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 증명이 무엇인지, 디지털 증명을 사용할 때의 이점에 대해 알아봅니다.'
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -45,7 +45,7 @@ ht-degree: 92%
 
 ## 교정 용어
 
-[!DNL  Workfront]에서 교정쇄 설정을 알아보기 전에 교정과 관련된 용어 사용에 대해 파악합니다. 이 튜토리얼 전체에서 이러한 용어가 자주 사용되는 것을 볼 수 있습니다.
+[!DNL &#x200B; Workfront]에서 교정쇄 설정을 알아보기 전에 교정과 관련된 용어 사용에 대해 파악합니다. 이 튜토리얼 전체에서 이러한 용어가 자주 사용되는 것을 볼 수 있습니다.
 
 * **교정쇄 -** [!DNL Workfront's] 교정쇄 뷰어를 통해 검토, 표시 및 승인할 수 있는 파일의 디지털 버전입니다.
 * **교정 워크플로 -** [!DNL Workfront] 내에서 교정쇄를 생성, 라우팅 및 관리하는 프로세스입니다. 이러한 작업을 완료하기 위해 따라야 하는 단계입니다.

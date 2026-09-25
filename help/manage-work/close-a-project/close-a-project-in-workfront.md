@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 종료
-description: '[!DNL  Workfront]에서 데이터를 닫기 전에 프로젝트에서 검토할 정보와 데이터를 업데이트하는 것이 중요한 이유를 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 데이터를 닫기 전에 프로젝트에서 검토할 정보와 데이터를 업데이트하는 것이 중요한 이유를 알아봅니다.'
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg

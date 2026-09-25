@@ -1,6 +1,6 @@
 ---
 title: 교정쇄 댓글 검토 및 응답
-description: 증명 뷰어 및 [!DNL  Workfront]의 [!UICONTROL 업데이트] 섹션에서 증명 댓글을 보고 응답하는 방법에 대해 알아봅니다.
+description: 증명 뷰어 및 [!DNL &#x200B; Workfront]의 [!UICONTROL 업데이트] 섹션에서 증명 댓글을 보고 응답하는 방법에 대해 알아봅니다.
 activity: use
 feature: Workfront Proof
 type: Tutorial

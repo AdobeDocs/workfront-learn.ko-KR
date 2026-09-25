@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 타임라인의 일부로 교정 워크플로 이해하기
-description: 증명 워크플로를 만들기 위해 수집할 정보와 [!DNL  Workfront]에서 기본 증명 워크플로와 고급 증명 워크플로의 차이점을 알아봅니다.
+description: 증명 워크플로를 만들기 위해 수집할 정보와 [!DNL &#x200B; Workfront]에서 기본 증명 워크플로와 고급 증명 워크플로의 차이점을 알아봅니다.
 activity: use
 feature: Workfront Proof
 type: Tutorial

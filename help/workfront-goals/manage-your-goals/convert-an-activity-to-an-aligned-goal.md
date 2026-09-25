@@ -1,6 +1,6 @@
 ---
 title: 활동을 정렬된 목표로 전환
-description: '[!DNL   Goals]에서 활동 또는 결과를 정렬된 목표로 변환하는 방법에 대해 알아봅니다.'
+description: '[!DNL &#x200B;  Goals]에서 활동 또는 결과를 정렬된 목표로 변환하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Workfront Goals
 type: Tutorial

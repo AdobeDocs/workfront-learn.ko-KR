@@ -1,6 +1,6 @@
 ---
 title: 기존 승인 프로세스 첨부 및 편집
-description: '[!DNL  Workfront]에서 프로젝트, 작업 또는 문제에 대한 기존 승인 프로세스를 사용하고 편집하는 방법에 대해 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 프로젝트, 작업 또는 문제에 대한 기존 승인 프로세스를 사용하고 편집하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Approvals
 thumbnail: 335226.jpeg

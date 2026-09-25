@@ -1,6 +1,6 @@
 ---
 title: 레이아웃 템플릿으로 오브젝트 영역 사용자 정의
-description: 레이아웃 템플릿을 사용하여 [!DNL  Workfront]의 왼쪽 패널 메뉴에서 항목을 추가, 제거 및 다시 정렬하는 방법에 대해 알아봅니다.
+description: 레이아웃 템플릿을 사용하여 [!DNL &#x200B; Workfront]의 왼쪽 패널 메뉴에서 항목을 추가, 제거 및 다시 정렬하는 방법에 대해 알아봅니다.
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing

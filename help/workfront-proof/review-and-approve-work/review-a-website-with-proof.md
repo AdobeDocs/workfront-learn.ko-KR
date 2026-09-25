@@ -1,6 +1,6 @@
 ---
 title: 교정쇄가 포함된 웹 사이트 검토
-description: '[!DNL  Workfront]에서 정적 또는 대화형 웹 사이트 증명을 열고 댓글을 작성하는 방법에 대해 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 정적 또는 대화형 웹 사이트 증명을 열고 댓글을 작성하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Workfront Proof
 type: Tutorial

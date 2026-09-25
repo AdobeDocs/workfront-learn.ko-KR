@@ -1,6 +1,6 @@
 ---
 title: 교정쇄 세부 정보 이해
-description: 요약 패널 및 [!UICONTROL 문서 세부 정보] 페이지를 통해 [!DNL  Workfront]에서 증명 뒤에 있는 세부 정보를 자세히 알아보세요.
+description: 요약 패널 및 [!UICONTROL 문서 세부 정보] 페이지를 통해 [!DNL &#x200B; Workfront]에서 증명 뒤에 있는 세부 정보를 자세히 알아보세요.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -63,7 +63,7 @@ ht-degree: 95%
 
 이렇게 하면 [!UICONTROL 문서 세부 정보] 페이지로 이동하고 왼쪽 패널에 다양한 추가 옵션이 표시됩니다.
 
-![[!DNL  Workfront]의 교정쇄 페이지에 대한 이미지입니다.](assets/document-details.png)
+![[!DNL &#x200B; Workfront]의 교정쇄 페이지에 대한 이미지입니다.](assets/document-details.png)
 
 교정 프로세스와 관련된 정보를 조회할 수 있는 기능은 [!DNL Workfront]에서 보유한 교정 권한에 따라 달라집니다.
 

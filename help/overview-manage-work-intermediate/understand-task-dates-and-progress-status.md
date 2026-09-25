@@ -1,6 +1,6 @@
 ---
 title: 일자 유형 및 진행 상태 이해
-description: '[!DNL  Workfront]에서 다양한 날짜 유형을 보고 진행 상태를 사용하여 작업 진행 상황을 추적하는 방법에 대해 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 다양한 날짜 유형을 보고 진행 상태를 사용하여 작업 진행 상황을 추적하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg

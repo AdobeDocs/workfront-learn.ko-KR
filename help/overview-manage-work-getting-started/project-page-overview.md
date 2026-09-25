@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 페이지 이해
-description: 프로젝트를 계획하고 관리하는 데 도움이 되는 [!DNL  Workfront]의 프로젝트 페이지의 주요 기능에 대해 알아봅니다.
+description: 프로젝트를 계획하고 관리하는 데 도움이 되는 [!DNL &#x200B; Workfront]의 프로젝트 페이지의 주요 기능에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management

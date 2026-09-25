@@ -50,7 +50,7 @@ ht-degree: 96%
 
 자산을 검토하고 승인할 준비가 되면 이메일 알림을 받게 됩니다.
 
-![[!DNL  Workfront]에서 두 가지 교정쇄의 검토 및 승인을 요청하는 새로운 교정쇄 이메일의 이미지](assets/new-proof-emails.png)
+![[!DNL &#x200B; Workfront]에서 두 가지 교정쇄의 검토 및 승인을 요청하는 새로운 교정쇄 이메일의 이미지](assets/new-proof-emails.png)
 
 이 교정쇄 링크는 사용자 고유의 것임에 유의하는 것이 중요합니다. 다른 사람과 링크를 공유하면 그들이 하는 모든 댓글과 마크업에 내 이름이 태그됩니다.
 
@@ -81,7 +81,7 @@ ht-degree: 96%
 
 주로 [!DNL Workfront]에서 프로젝트, 작업 또는 문제로 작업하는 경우, 해당 항목의 [!DNL Documents] 섹션에서 바로 교정쇄를 여는 것을 선호할 수 있습니다.
 
-![[!UICONTROL 교정쇄 열기] 링크가 강조 표시된 [!DNL  Workfront] 작업에서 발견된 [!UICONTROL 문서] 섹션의 이미지](assets/open-proof-from-documents.png)
+![[!UICONTROL 교정쇄 열기] 링크가 강조 표시된 [!DNL &#x200B; Workfront] 작업에서 발견된 [!UICONTROL 문서] 섹션의 이미지](assets/open-proof-from-documents.png)
 
 1. 프로젝트, 작업 또는 문제의 이름을 클릭합니다.
 2. 항목 페이지의 왼쪽 패널 메뉴에서 [!UICONTROL 문서]를 클릭합니다.

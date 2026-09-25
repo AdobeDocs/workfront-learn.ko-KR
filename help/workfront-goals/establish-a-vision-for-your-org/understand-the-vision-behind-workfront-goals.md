@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL Workfront Goals]의 비전 이해'
-description: 제품 팀에서 [!DNL  Workfront]의 [!DNL Workfront Goals]에 대해 알아보세요.
+description: 제품 팀에서 [!DNL &#x200B; Workfront]의 [!DNL Workfront Goals]에 대해 알아보세요.
 activity: use
 feature: Workfront Goals
 type: Tutorial

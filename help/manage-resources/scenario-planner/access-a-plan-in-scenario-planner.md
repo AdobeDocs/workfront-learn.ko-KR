@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL 시나리오 플래너]의 계획 액세스'
-description: 사용자가 [!UICONTROL 시나리오 플래너]의 플랜에 액세스하는 데 필요한 [!DNL  Workfront] 권한을 알아봅니다.
+description: 사용자가 [!UICONTROL 시나리오 플래너]의 플랜에 액세스하는 데 필요한 [!DNL &#x200B; Workfront] 권한을 알아봅니다.
 feature: Resource Management
 type: Tutorial
 role: Leader, User

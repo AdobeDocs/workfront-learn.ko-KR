@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 타임라인의 일부인 교정 워크플로
-description: '[!DNL  Workfront]에서 검토 및 승인 프로세스를 프로젝트 타임라인과 혼합하기 위한 권장 사항에 대해 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 검토 및 승인 프로세스를 프로젝트 타임라인과 혼합하기 위한 권장 사항에 대해 알아봅니다.'
 activity: use
 feature: Workfront Proof
 type: Tutorial

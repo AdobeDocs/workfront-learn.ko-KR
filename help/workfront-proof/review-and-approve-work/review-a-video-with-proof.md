@@ -1,6 +1,6 @@
 ---
 title: 교정쇄로 비디오 검토
-description: '[!DNL  Workfront]에서 증명을 사용하여 뷰어 설정을 조정하고 비디오에 타임스탬프가 지정된 댓글을 추가하는 방법에 대해 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 증명을 사용하여 뷰어 설정을 조정하고 비디오에 타임스탬프가 지정된 댓글을 추가하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Workfront Proof
 type: Tutorial

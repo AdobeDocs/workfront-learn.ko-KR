@@ -1,6 +1,6 @@
 ---
 title: 검토자를 위한 [!DNL Workfront] 소개
-description: 리뷰 라이선스가 있는 사용자가 [!DNL  Workfront]을(를) 사용할 수 있는 방법을 알아봅니다.
+description: 리뷰 라이선스가 있는 사용자가 [!DNL &#x200B; Workfront]을(를) 사용할 수 있는 방법을 알아봅니다.
 activity: use
 type: Tutorial
 team: Technical Marketing
@@ -22,6 +22,6 @@ ht-degree: 70%
 ---
 # 검토자를 위한 [!DNL Workfront] 소개
 
-이 비디오에서는 검토 라이선스가 있는 [!DNL  Workfront]를 사용하는 방법을 알아봅니다.
+이 비디오에서는 검토 라이선스가 있는 [!DNL &#x200B; Workfront]를 사용하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on&enablevpops=1)

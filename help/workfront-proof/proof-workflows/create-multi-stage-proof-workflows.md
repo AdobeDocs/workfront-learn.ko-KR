@@ -1,6 +1,6 @@
 ---
 title: 자동화된 워크플로 시작하기
-description: '[!DNL  Workfront]에서 자동화된 증명 워크플로가 무엇인지, 기본 워크플로와 어떻게 다른지 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 자동화된 증명 워크플로가 무엇인지, 기본 워크플로와 어떻게 다른지 알아봅니다.'
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

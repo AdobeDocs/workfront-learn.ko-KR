@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 타임라인에서 진행 상황 추적
-description: 완료율, 상태, 할당 또는 제한을 사용하여 [!DNL  Workfront]의 프로젝트 타임라인에서 작업 진행 상황을 추적하는 방법에 대해 알아봅니다.
+description: 완료율, 상태, 할당 또는 제한을 사용하여 [!DNL &#x200B; Workfront]의 프로젝트 타임라인에서 작업 진행 상황을 추적하는 방법에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management

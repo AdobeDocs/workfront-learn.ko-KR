@@ -1,6 +1,6 @@
 ---
 title: 교정쇄 댓글 관리
-description: 댓글 작업을 적용하고, 댓글을 해결하며, 댓글 열을 필터링하여 [!DNL  Workfront]에서 증명 댓글을 관리하는 방법을 알아봅니다.
+description: 댓글 작업을 적용하고, 댓글을 해결하며, 댓글 열을 필터링하여 [!DNL &#x200B; Workfront]에서 증명 댓글을 관리하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

@@ -1,6 +1,6 @@
 ---
 title: 과정 소개
-description: '[!DNL  Workfront]에서 프로젝트의 예산을 사용하고, 비용과 수익을 추적하고, 비용을 처리하는 방법에 대해 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 프로젝트의 예산을 사용하고, 비용과 수익을 추적하고, 비용을 처리하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Work Management
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Scenario Planner]에서 계획 업데이트 및 복사'
-description: '[!DNL  Workfront] [!DNL Scenario Planner]에서 플랜을 업데이트하거나 복사하는 방법을 알아봅니다.'
+description: '[!DNL &#x200B; Workfront] [!DNL Scenario Planner]에서 플랜을 업데이트하거나 복사하는 방법을 알아봅니다.'
 feature: Resource Management
 type: Tutorial
 role: Leader, User
