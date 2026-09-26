@@ -1,6 +1,6 @@
 ---
 title: 체크인을 사용하여 목표 추적 및 업데이트
-description: ' [!DNL Workfront Goals]에서 목표에 대한 진행 상황을 추적, 업데이트 및 계산하는 방법에 대해 알아봅니다.'
+description: '[!DNL Workfront Goals]에서 목표에 대한 진행률을 추적, 업데이트 및 계산하는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -9,13 +9,26 @@ role: User
 level: Beginner
 jira: KT-10126
 exl-id: acb6670a-486a-4d88-b422-57ed21833f76
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: '736'
-ht-degree: 100%
-
+source-wordcount: '756'
+ht-degree: 98%
 ---
-
 # [!UICONTROL 체크인]을 사용하여 목표 추적 및 업데이트
 
 목표를 활성화한 후에 목표를 달성하기 위해 노력할 수 있습니다. 그러나 목표에 대한 진행 상황은 어떻게 추적하고 업데이트하고 계산합니까? 현재 있는 위치와 작업이 목표 달성에 기여하는 방식을 어떻게 알 수 있습니까? 먼저 [!UICONTROL 체크인]을 시작으로 목표 진행 상황을 업데이트한 다음, 목표 상태를 보고 이해하는 방법에 대해 알아보겠습니다.
@@ -39,9 +52,9 @@ ht-degree: 100%
 * [!DNL Workfront]의 [!UICONTROL **메인 메뉴**] 아이콘을 클릭한 다음 [!UICONTROL **목표**]&#x200B;를 클릭합니다. 이렇게 하면 [!DNL Workfront Goals] 영역이 열립니다. [!UICONTROL 목표 목록] 섹션은 기본적으로 표시되며 귀하, 귀하의 팀, 그룹 또는 조직에 속한 모든 목표를 보여 줍니다.
 * 목표 목록에 액세스하려면 왼쪽 패널에서 다음 섹션 중 하나를 클릭합니다.
 
-   * [!UICONTROL 목표 정렬]
-   * [!UICONTROL 펄스]
-   * [!UICONTROL 체크인]
+  * [!UICONTROL 목표 정렬]
+  * [!UICONTROL 펄스]
+  * [!UICONTROL 체크인]
 
 목표 목록이 있는 섹션으로 이동하면 목표 이름을 클릭하여 [!UICONTROL 목표 세부 정보] 패널을 엽니다. 목표를 업데이트합니다.
 

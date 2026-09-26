@@ -12,24 +12,29 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
+autotag-review: '2026-05-06T14:31:42.945Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-06T14:31:42.945Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 284
+source-wordcount: '284'
 ht-degree: 4%
-
 ---
-
 # Portfolio 최적화 도구를 사용하여 프로젝트 우선 순위 최적화
 
 이 비디오에서는 Workfront에서 Portfolio 최적화 도구를 사용하여 포트폴리오 내에서 프로젝트를 평가하고 우선 순위를 지정하는 방법을 설명합니다. 프로젝트&#x200B;에 대한 비즈니스 사례를 제출하고 상태를 &quot;요청됨&quot;으로 변경하고 승인하거나 거부할 수 있는 옵션을 활성화하는 것으로 시작됩니다. 승인 전&#x200B;에 사용자는 Portfolio 최적화 도구를 사용하여 프로젝트를 포트폴리오의 다른 사용자와 비교할 수 있습니다. &#x200B;

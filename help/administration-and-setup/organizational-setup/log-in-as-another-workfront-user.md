@@ -10,24 +10,29 @@ level: Beginner
 thumbnail: 10104.jpeg
 jira: KT-10104
 exl-id: 7a29d9e9-6b19-4ca7-86ed-9fcb65050f29
-TQID: https://experienceleague.adobe.com/J87mQcZGFozOPxxPbvRpBdmfOLMVmYbpsK-Id4hjtpE
+TQID: 'https://experienceleague.adobe.com/J87mQcZGFozOPxxPbvRpBdmfOLMVmYbpsK-Id4hjtpE'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Administration
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 255
+source-wordcount: '255'
 ht-degree: 100%
-
 ---
-
 # 다른 사용자로 로그인
 
 Workfront 관리자가 사용자 환경을 설정할 때 유용하다고 생각하는 한 가지 기능은 다음으로 로그인 기능입니다. [!UICONTROL 설정] 영역의 이 기능을 사용하여 자신의 계정에서 로그아웃하지 않고도 다른 사용자로 로그인할 수 있습니다.

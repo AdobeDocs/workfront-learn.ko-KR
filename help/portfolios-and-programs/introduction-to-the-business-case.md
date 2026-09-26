@@ -12,24 +12,29 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
+autotag-review: '2026-05-06T14:30:40.425Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-06T14:30:40.425Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 238
+source-wordcount: '238'
 ht-degree: 7%
-
 ---
-
 # 포괄적인 비즈니스 사례 만들기
 
 이 비디오에서는 프로젝트 관리에서 비즈니스 사례의 중요성을 설명합니다. 비즈니스 사례를 철저히 작성하면 관리자가 동일한 자원을 두고 경쟁하는 프로젝트를 분석하고 우선 순위를 정할 수 있도록 돕는다는 점을 강조한다. 비즈니스 사례를 제출하면 &#x200B; 프로젝트 상태가 &quot;요청됨&quot;으로 변경되고 Portfolio 최적화 도구에서 비교할 수 있도록 전체 점수가 계산됩니다. 필수 필드&#x200B;은 없지만 보다 자세한 정보를 통해 의사 결정을 향상시킬 수 있습니다. &#x200B;

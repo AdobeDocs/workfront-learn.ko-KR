@@ -12,24 +12,29 @@ recommendations: noDisplay,catalog
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
+autotag-review: '2026-05-06T14:31:13.412Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T14:31:13.412Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 277
+source-wordcount: '277'
 ht-degree: 7%
-
 ---
-
 # 포트폴리오 관리 및 최적화 살펴보기
 
 이 비디오에서는 관리자가 회사 목표에 맞게 프로젝트 선택을 최적화하는 방법에 중점을 두고 포트폴리오 관리에 대해 설명합니다. 포트폴리오&#x200B;의 개념을 공유 자원, 예산, 일정 등을 놓고 경쟁하는 프로젝트의 컬렉션으로 소개한다. 관리자는 Portfolio Optimizer와 같은 도구를 사용하여 노무, 경비, 위험, ROI 및 포트폴리오 목표와의 연계와 같은 기준을 기반으로 프로젝트를 비교할 수 있습니다&#x200B;. 비교할 프로젝트&#x200B;을 준비하려면 각 프로젝트에 대한 비즈니스 사례를 만들어야 합니다. &#x200B;

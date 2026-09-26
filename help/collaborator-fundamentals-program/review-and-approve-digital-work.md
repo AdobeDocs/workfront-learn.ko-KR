@@ -6,13 +6,20 @@ type: Tutorial
 team: Technical Marketing
 jira: KT-8808
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
-
 ---
-
 # 디지털 작업 검토 및 승인
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
@@ -22,7 +29,7 @@ ht-degree: 100%
 * 문서 승인
 * 교정쇄 승인
 
->[!VIDEO](https://video.tv.adobe.com/v/3444953/?quality=12&learn=on&enablevpops=1&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3444953/?captions=kor&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

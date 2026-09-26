@@ -1,6 +1,6 @@
 ---
 title: 교정쇄 검토 및 승인
-description: ' [!DNL Workfront]에서 교정쇄에 액세스하여 댓글을 달고, 마크업을 사용하여 필요한 변경 사항을 표시하고, 교정쇄 댓글에 답글을 달고, 교정쇄에 대한 결정을 내리는 방법에 대해 알아봅니다.'
+description: '[!DNL Workfront]에서 증명에 액세스하고 증명에 댓글을 달고, 마크업을 사용하여 필요한 변경 내용을 표시하고, 증명 댓글에 답글을 달고, 증명에 대한 결정을 내리는 방법에 대해 알아봅니다.'
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,24 +11,31 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
+autotag-review: '2026-05-05T19:55:03.417Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:55:03.417Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 727
-ht-degree: 100%
-
+source-wordcount: '727'
+ht-degree: 96%
 ---
-
 # 교정쇄 검토 및 승인
 
 교정쇄 검토를 시작하기 전에 자신에게 기대되는 바를 파악하고 있도록 합니다. 교정 워크플로에서 귀하의 역할은 무엇입니까? 교정쇄를 검토 또는 승인하거나 둘 다 하시겠습니까?
@@ -43,7 +50,7 @@ ht-degree: 100%
 
 자산을 검토하고 승인할 준비가 되면 이메일 알림을 받게 됩니다.
 
-![[!DNL  Workfront]에서 두 가지 교정쇄의 검토 및 승인을 요청하는 새로운 교정쇄 이메일의 이미지](assets/new-proof-emails.png)
+![[!DNL &#x200B; Workfront]에서 두 가지 교정쇄의 검토 및 승인을 요청하는 새로운 교정쇄 이메일의 이미지](assets/new-proof-emails.png)
 
 이 교정쇄 링크는 사용자 고유의 것임에 유의하는 것이 중요합니다. 다른 사람과 링크를 공유하면 그들이 하는 모든 댓글과 마크업에 내 이름이 태그됩니다.
 
@@ -74,7 +81,7 @@ ht-degree: 100%
 
 주로 [!DNL Workfront]에서 프로젝트, 작업 또는 문제로 작업하는 경우, 해당 항목의 [!DNL Documents] 섹션에서 바로 교정쇄를 여는 것을 선호할 수 있습니다.
 
-![[!UICONTROL 교정쇄 열기] 링크가 강조 표시된 [!DNL  Workfront] 작업에서 발견된 [!UICONTROL 문서] 섹션의 이미지](assets/open-proof-from-documents.png)
+![[!UICONTROL 교정쇄 열기] 링크가 강조 표시된 [!DNL &#x200B; Workfront] 작업에서 발견된 [!UICONTROL 문서] 섹션의 이미지](assets/open-proof-from-documents.png)
 
 1. 프로젝트, 작업 또는 문제의 이름을 클릭합니다.
 2. 항목 페이지의 왼쪽 패널 메뉴에서 [!UICONTROL 문서]를 클릭합니다.

@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Jira] 통합 기능으로 가시성 생성'
-description: ' [!DNL Jira] 통합 기능으로 팀의 수행 작업에 대한 가시성을 생성하는 방법을 엿볼 수 있습니다.'
+title: '[!DNL Jira] 통합 기능으로 가시성 생성'
+description: '[!DNL Jira] 통합으로 팀이 수행하는 작업을 확인하는 방법을 살펴봅니다.'
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -9,24 +9,29 @@ level: Beginner
 team: Technical Marketing
 jira: KT-10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
+autotag-review: '2026-05-06T16:03:35.649Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+    internal-label: Integrations
+  - id: a1f87682-0525-5459-aa06-3560bb4c3b2a
+    internal-label: Workfront Integrations and Apps
 subfeature_v2:
   - id: b8ea32d4-f1fe-4c71-8871-afe5a702a009
+    internal-label: Adobe Workfront for Jira
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:03:35.649Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 100%
-
+source-wordcount: '374'
+ht-degree: 95%
 ---
-
 # [!DNL Jira] 통합 기능으로 가시성 생성
 
 [!DNL Jira]는 개발 및 기술 지원 팀의 프로젝트 및 문제를 추적하는 데 사용하는 제품입니다. 많은 팀에서 Jira를 사용하여 작업 수준의 진행 상황을 추적하며, 높은 수준의 진행률을 볼 수 있기 때문에 [!DNL Workfront]를 사용하여 프로젝트를 제대로 관리합니다. [!DNL Jira] 네이티브 통합을 통해 두 애플리케이션 간에 이 정보를 자동 전송할 수 있습니다.

@@ -1,6 +1,6 @@
 ---
 title: 웹후크 워크스루
-description: ' [!DNL Adobe Workfront Fusion]에서 웹 후크를 사용하여 고객이 주류를 구매할 수 있는 연령인지 판단하는 앱을 만드는 방법을 알아봅니다.'
+description: 웹후크를 사용하여 앱을 만들어 고객이 알코올을 구매할 수 있을 만큼 나이가 들었는지 여부를 확인하는 방법에 대해 알아봅니다. 모두 [!DNL Adobe Workfront Fusion]에 있습니다.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,26 @@ jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:29:34.923Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:29:34.923Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 356
-ht-degree: 95%
-
+source-wordcount: '356'
+ht-degree: 88%
 ---
-
 # 웹후크 워크스루
 
 이 시나리오는 고객이 주류를 구매할 수 있는 나이인지 여부를 쉽게 확인할 수 있도록 스토어 앱을 만듭니다. 계산원은 제공된 URL에 고객의 이름과 생년월일 및 확인된 클라이언트 토큰을 게시하기만 하면 됩니다. 입력한 후에 시나리오가 트리거되어 적절한 응답을 계산하고 이를 요청자에게 반환합니다.

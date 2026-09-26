@@ -1,6 +1,6 @@
 ---
 title: 교정의 이점 알아보기
-description: ' [!DNL  Workfront]에서 교정쇄가란 무엇이며 디지털 교정쇄를 사용할 때의 이점에 대해 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 증명이 무엇인지, 디지털 증명을 사용할 때의 이점에 대해 알아봅니다.'
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -11,24 +11,29 @@ thumbnail: 336095.png
 jira: KT-8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
 doc-type: video
+autotag-review: '2026-05-05T20:02:03.579Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T20:02:03.579Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 169
-ht-degree: 100%
-
+source-wordcount: '169'
+ht-degree: 92%
 ---
-
 # 교정쇄의 이점 알아보기
 
 이 비디오를 통해 다음과 같은 사항을 알아볼 수 있습니다.
@@ -40,7 +45,7 @@ ht-degree: 100%
 
 ## 교정 용어
 
-[!DNL  Workfront]에서 교정쇄 설정을 알아보기 전에 교정과 관련된 용어 사용에 대해 파악합니다. 이 튜토리얼 전체에서 이러한 용어가 자주 사용되는 것을 볼 수 있습니다.
+[!DNL &#x200B; Workfront]에서 교정쇄 설정을 알아보기 전에 교정과 관련된 용어 사용에 대해 파악합니다. 이 튜토리얼 전체에서 이러한 용어가 자주 사용되는 것을 볼 수 있습니다.
 
 * **교정쇄 -** [!DNL Workfront's] 교정쇄 뷰어를 통해 검토, 표시 및 승인할 수 있는 파일의 디지털 버전입니다.
 * **교정 워크플로 -** [!DNL Workfront] 내에서 교정쇄를 생성, 라우팅 및 관리하는 프로세스입니다. 이러한 작업을 완료하기 위해 따라야 하는 단계입니다.

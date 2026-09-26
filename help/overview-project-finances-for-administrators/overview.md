@@ -13,24 +13,29 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 97e5f13f-61f8-4ba8-95f9-f064050d5593
+autotag-review: '2026-05-06T14:33:15.445Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: d7426fc3-7d63-4697-8cfb-b215e1531552
+    internal-label: Rate card management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T14:33:15.445Z'
-source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '199'
 ht-degree: 4%
-
 ---
-
 # 관리자를 위한 프로젝트 재무
 
 조직 전반에서 청구 및 보고의 일관성을 보장하기 위해 시스템 전체 재무 설정을 설정하는 방법에 대해 알아봅니다.
