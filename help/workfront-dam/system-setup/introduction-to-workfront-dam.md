@@ -10,25 +10,29 @@ team: Technical Marketing
 jira: KT-8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
 doc-type: video
+autotag-review: '2026-05-05T20:30:20.706Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:30:20.706Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL Workfront DAM] 이해
 
 [!UICONTROL Workfront DAM]은 마케팅 및 크리에이티브 자산을 관리, 제어 및 게시하기 위해 특별히 제작된 디지털 자산 관리(DAM) 솔루션입니다. [!DNL Workfront]에 이미 있는 워크플로와 함께 사용할 수 있으며 여기에서 프로젝트, 작업 할당 및 기타 작업을 관리할 수 있습니다. [!DNL Workfront]를 사용하여 자산 요청을 만든 다음 자산의 프로덕션 및 검토를 관리합니다. [!UICONTROL Workfront DAM]을 사용하여 완성되고 승인된 자산을 선별, 저장 및 배포합니다.
@@ -47,4 +51,4 @@ ht-degree: 100%
 * 자산 검색 및 보기
 * 폴더 구조가 자산 구성 및 액세스에 미치는 영향 살펴보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3420105/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops=1)

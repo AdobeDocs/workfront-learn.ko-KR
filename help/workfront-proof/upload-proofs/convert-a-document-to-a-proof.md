@@ -1,6 +1,6 @@
 ---
 title: 문서를 교정쇄로 전환
-description: ' [!DNL  Workfront]에 이미 있는 문서의 교정쇄를 생성하고, 교정쇄에 워크플로를 추가하고 교정쇄가 생성된 후 워크플로를 추가하거나 편집하는 방법을 알아봅니다.'
+description: '[!DNL  Workfront]에 이미 있는 문서의 증명을 생성하고, 증명에 워크플로를 추가하고, 증명을 만든 후 워크플로를 추가하거나 편집하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,24 +11,27 @@ thumbnail: 335134.png
 jira: KT-8834
 exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
 doc-type: video
+autotag-review: '2026-05-05T19:52:27.954Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:52:27.954Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 240
-ht-degree: 100%
-
+source-wordcount: '240'
+ht-degree: 88%
 ---
-
 # 문서를 교정쇄로 전환
 
 이 비디오에서는 다음 방법을 배우게 됩니다.
@@ -37,7 +40,7 @@ ht-degree: 100%
 * 교정쇄를 생성하는 동안 워크플로 추가
 * 교정쇄가 생성된 후 워크플로 추가 또는 편집
 
->[!VIDEO](https://video.tv.adobe.com/v/3443474/?captions=kor&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops=1)
 
 
 ## 문서를 업로드할 수 있는 사람은 누구입니까?

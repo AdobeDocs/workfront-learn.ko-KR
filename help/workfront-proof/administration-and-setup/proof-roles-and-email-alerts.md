@@ -1,6 +1,6 @@
 ---
 title: 교정 역할 및 이메일 경고
-description: ' [!DNL  Workfront]에서 적절한 교정 역할 및 이메일 경고를 활성화하여 교정쇄 수신자가 교정쇄에 액세스하고 수행 중인 작업에 대한 가시성을 확보하도록 하는 방법을 알아봅니다.'
+description: 증명 수신자가 증명에 액세스하고 [!DNL  Workfront]에서 수행되는 작업을 볼 수 있도록 적절한 증명 역할과 이메일 알림을 활성화하는 방법에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,25 +10,29 @@ level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
 jira: KT-10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
+autotag-review: '2026-05-05T20:05:31.746Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T20:05:31.746Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 552
-ht-degree: 100%
-
+source-wordcount: '552'
+ht-degree: 95%
 ---
-
 # 교정 역할 및 이메일 경고
 
 교정 역할 및 이메일 경고는 수신자가 교정쇄에 대한 올바른 액세스 권한을 보유하고 수행 중인 작업을 볼 수 있도록 하여 교정 워크플로를 원활하게 진행하는 데 도움을 줍니다.
