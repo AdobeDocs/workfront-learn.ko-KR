@@ -1,6 +1,6 @@
 ---
 title: 교정 워크플로 편집
-description: 증명 기한을 업데이트하고, 기존 워크플로에 사용자를 추가하고, [!DNL  Workfront]에서 기존 워크플로를 자동화된 워크플로로 전환하는 방법에 대해 알아봅니다.
+description: 증명 기한을 업데이트하고, 기존 워크플로에 사용자를 추가하고, [!DNL &#x200B; Workfront]에서 기존 워크플로를 자동화된 워크플로로 전환하는 방법에 대해 알아봅니다.
 activity: use
 feature: Workfront Proof
 type: Tutorial

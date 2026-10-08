@@ -1,6 +1,6 @@
 ---
 title: 교정쇄 버전은 누가 업로드합니까?
-description: '[!DNL  Workfront]에서 증명 버전을 업로드하는 담당자는 다를 수 있습니다. 일반적인 사용 사례를 통해 조직의 이상적인 설정을 파악할 수 있습니다.'
+description: '[!DNL &#x200B; Workfront]에서 증명 버전을 업로드하는 담당자는 다를 수 있습니다. 일반적인 사용 사례를 통해 조직의 이상적인 설정을 파악할 수 있습니다.'
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

@@ -1,6 +1,6 @@
 ---
 title: 이메일 경고 및 교정쇄 알림 이해
-description: '[!DNL  Workfront]에서 전자 메일 알림과 증명 알림의 차이점을 이해합니다.'
+description: '[!DNL &#x200B; Workfront]에서 전자 메일 알림과 증명 알림의 차이점을 이해합니다.'
 feature: Workfront Proof
 type: Tutorial
 role: User

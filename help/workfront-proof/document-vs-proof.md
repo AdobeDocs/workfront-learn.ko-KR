@@ -1,6 +1,6 @@
 ---
 title: 문서와 교정쇄의 차이점 이해
-description: '[!DNL  Workfront]에서 문서와 증명의 차이점을 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 문서와 증명의 차이점을 알아봅니다.'
 activity: use
 feature: Workfront Proof
 type: Tutorial

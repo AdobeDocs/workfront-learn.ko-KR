@@ -1,6 +1,6 @@
 ---
 title: 자동화된 워크플로 템플릿 편집
-description: '[!DNL  Workfront]에서 기존의 자동 증명 워크플로 템플릿을 변경하는 방법에 대해 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 기존의 자동 증명 워크플로 템플릿을 변경하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Workfront Proof
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: 비디오 교정쇄 업로드
-description: '[!DNL  Workfront]에서 증명을 위해 비디오를 업로드하는 방법을 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 증명을 위해 비디오를 업로드하는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

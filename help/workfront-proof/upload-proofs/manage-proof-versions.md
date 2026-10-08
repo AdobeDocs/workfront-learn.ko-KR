@@ -1,6 +1,6 @@
 ---
 title: 교정쇄 버전 관리
-description: 증명이 업로드된 시기에 대한 세부 정보를 찾고, 모든 증명 버전을 다운로드하고, [!DNL  Workfront]에서 증명 버전을 삭제하는 방법에 대해 알아봅니다.
+description: 증명이 업로드된 시기에 대한 세부 정보를 찾고, 모든 증명 버전을 다운로드하고, [!DNL &#x200B; Workfront]에서 증명 버전을 삭제하는 방법에 대해 알아봅니다.
 activity: use
 feature: Workfront Proof
 type: Tutorial

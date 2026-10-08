@@ -1,6 +1,6 @@
 ---
 title: 교정쇄 버전 보기 및 비교
-description: '[!DNL  Workfront]에서 증명 버전을 열고, 식별하고, 마크업하고, 댓글을 달고, 비교하는 방법을 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 증명 버전을 열고, 식별하고, 마크업하고, 댓글을 달고, 비교하는 방법을 알아봅니다.'
 activity: use
 feature: Workfront Proof
 type: Tutorial

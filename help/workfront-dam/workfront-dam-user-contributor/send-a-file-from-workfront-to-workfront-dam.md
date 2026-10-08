@@ -1,6 +1,6 @@
 ---
 title: 참여자로 파일 보내기
-description: '[!DNL Workfront]에서 완료된 파일을 [!UICONTROL Workfront DAM](으)로 보내는 방법을 알아봅니다.'
+description: '[!DNL Workfront]에서 완료된 파일을 [!UICONTROL Workfront DAM] (으)로 보내는 방법을 알아봅니다.'
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents

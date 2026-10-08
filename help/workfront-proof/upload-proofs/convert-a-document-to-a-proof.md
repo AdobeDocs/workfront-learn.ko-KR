@@ -1,6 +1,6 @@
 ---
 title: 문서를 교정쇄로 전환
-description: '[!DNL  Workfront]에 이미 있는 문서의 증명을 생성하고, 증명에 워크플로를 추가하고, 증명을 만든 후 워크플로를 추가하거나 편집하는 방법에 대해 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에 이미 있는 문서의 증명을 생성하고, 증명에 워크플로를 추가하고, 증명을 만든 후 워크플로를 추가하거나 편집하는 방법에 대해 알아봅니다.'
 activity: use
 feature: Workfront Proof
 type: Tutorial

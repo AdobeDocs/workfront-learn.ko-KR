@@ -1,6 +1,6 @@
 ---
 title: 드래그 앤 드롭으로 업로드
-description: 드래그 앤 드롭을 사용하여 [!DNL  Workfront]에 파일을 업로드하는 것의 이점 및 제한 사항에 대해 알아봅니다.
+description: 드래그 앤 드롭을 사용하여 [!DNL &#x200B; Workfront]에 파일을 업로드하는 것의 이점 및 제한 사항에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -35,10 +35,10 @@ ht-degree: 92%
 
 [!DNL Workfront]에서 드래그 앤 드롭을 사용하여 [!UICONTROL 문서] 섹션에 직접 파일을 업로드할 수 있습니다. 이렇게 교정쇄를 빠르게 업로드할 수 있지만 동시에 교정 워크플로를 할당할 수는 없습니다.
 
-![[!DNL  Workfront] 프로젝트에서 커서로 문서 목록을 가리키고 있으며 [!UICONTROL 여기에 문서 드래그 앤 드롭] 메시지가 표시된 [!UICONTROL 문서] 영역의 이미지.](assets/drag-and-drop-1.png)
+![[!DNL &#x200B; Workfront] 프로젝트에서 커서로 문서 목록을 가리키고 있으며 [!UICONTROL 여기에 문서 드래그 앤 드롭] 메시지가 표시된 [!UICONTROL 문서] 영역의 이미지.](assets/drag-and-drop-1.png)
 
 일부 [!DNL Workfront] 고객의 경우에 일반적인 교정 워크플로입니다. 크리에이티브 디자이너 또는 팀원이 파일을 업로드하지만, 적절한 수신자가 작업을 검토할 수 있도록 교정 워크플로를 할당하는 것은 교정쇄 관리자 또는 프로젝트 관리자의 몫입니다.
 
 [!DNL Workfront] 시스템 설정에 따라 드래그 앤 드롭으로 업로드할 때 교정쇄가 생성되지 않을 수 있습니다. 이 경우 [!UICONTROL 교정쇄 생성] 옵션을 사용하고 [!UICONTROL 고급]을 선택하여 교정쇄를 생성하고 워크플로를 할당해야 합니다. 여기에서 교정 워크플로를 설정할 수 있습니다.
 
-![[!DNL  Workfront] 프로젝트에서 [!UICONTROL 교정쇄 생성]이 강조 표시된 [!UICONTROL 문서] 영역의 이미지.](assets/drag-and-drop-2.png)
+![[!DNL &#x200B; Workfront] 프로젝트에서 [!UICONTROL 교정쇄 생성]이 강조 표시된 [!UICONTROL 문서] 영역의 이미지.](assets/drag-and-drop-2.png)

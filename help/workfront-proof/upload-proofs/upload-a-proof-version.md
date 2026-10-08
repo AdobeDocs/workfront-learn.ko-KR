@@ -1,6 +1,6 @@
 ---
 title: 교정쇄 버전 업로드
-description: 새 증명 버전을 업로드하고 증명 워크플로를 [!DNL  Workfront]의 버전에 적용하는 방법에 대해 알아봅니다.
+description: 새 증명 버전을 업로드하고 증명 워크플로를 [!DNL &#x200B; Workfront]의 버전에 적용하는 방법에 대해 알아봅니다.
 activity: use
 feature: Workfront Proof
 type: Tutorial

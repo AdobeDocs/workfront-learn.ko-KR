@@ -1,6 +1,6 @@
 ---
 title: 교정 역할 및 이메일 경고
-description: 증명 수신자가 증명에 액세스하고 [!DNL  Workfront]에서 수행되는 작업을 볼 수 있도록 적절한 증명 역할과 이메일 알림을 활성화하는 방법에 대해 알아봅니다.
+description: 증명 수신자가 증명에 액세스하고 [!DNL &#x200B; Workfront]에서 수행되는 작업을 볼 수 있도록 적절한 증명 역할과 이메일 알림을 활성화하는 방법에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

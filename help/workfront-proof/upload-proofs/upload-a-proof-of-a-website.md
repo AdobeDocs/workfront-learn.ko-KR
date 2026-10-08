@@ -1,6 +1,6 @@
 ---
 title: 웹 사이트 교정쇄 업로드
-description: '[!DNL  Workfront]에서 웹 사이트를 정적 증명 및 대화형 증명으로 업로드하는 방법을 알아봅니다.'
+description: '[!DNL &#x200B; Workfront]에서 웹 사이트를 정적 증명 및 대화형 증명으로 업로드하는 방법을 알아봅니다.'
 activity: use
 feature: Workfront Proof
 type: Tutorial
