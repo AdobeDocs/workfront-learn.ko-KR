@@ -10,24 +10,27 @@ team: Technical Marketing
 jira: KT-8970
 exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
 doc-type: video
+autotag-review: '2026-05-06T01:57:17.963Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-06T01:57:17.963Z'
-source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 139
+source-wordcount: '139'
 ht-degree: 82%
-
 ---
-
 # 메타데이터 및 키워드 소개
 
 메타데이터는 자산을 설명하는 데 사용되는 모든 데이터입니다. 메타데이터 필드에는 이름이 있으며, 사용자는 해당 필드의 많은 정보를 편집하거나 변경할 수 있습니다. 일부 메타데이터 필드는 자산을 가져온 애플리케이션 또는 디바이스에 의해 채워지며 편집할 수 없습니다.

@@ -9,24 +9,27 @@ role: Admin
 level: Intermediate
 jira: KT-10086
 exl-id: f2132b79-5d36-4f5a-b06b-9cefa3d2ff7f
+autotag-review: '2026-05-05T20:32:27.177Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:32:27.177Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 411
+source-wordcount: '411'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL Workfront DAM] 전략 분석 및 계획
 
 조직을 위한 [!UICONTROL Workfront DAM]을 설정하기 전에 조직 전략 및 메타데이터/키워드 전략을 수립하는 것이 중요합니다.
@@ -41,13 +44,13 @@ ht-degree: 100%
 * **키워드 분류 체계**- 키워드는 자산을 설명하는 단어입니다. 분류 체계는 사용자가 자산에 키워드를 추가하기 위해 선택할 수 있는 사전 정의된 용어 목록입니다. 분류 체계는 키워드 활동에서 통제력과 일관성을 유지하기 위한 핵심입니다.
 * **워크플로 프로세스**- [!UICONTROL Workfront DAM]을 성공적으로 사용하기 위한 또 다른 핵심 단계는 조직의 워크플로 프로세스를 구성하는 것입니다. 이는 단순히 자산을 업로드하는 사람 이상을 의미합니다. 고려해야 할 몇 가지 사항(이 목록에 포함되지 않음):
 
-   * 자산을 업로드해야 하는 폴더는 무엇입니까?
-   * 각 자산에 필요한 메타데이터 필드는 무엇입니까?
-   * 메타데이터는 업로드 전후에 추가됩니까?
-   * 누가 자산을 업로드할 수 있습니까?
-   * 누가 메타데이터를 추가할 수 있습니까?
-   * 키워드 분류 체계를 사용해야 합니까? 또는 사용자가 추가 키워드를 추가할 수 있습니까?
-   * 메타데이터를 추가하기 위한 모범 사례는 무엇입니까? 일자 형식은 어떻게 지정됩니까? 회사 이름이나 클라이언트 이름을 입력합니까?
-   * 신규 사용자는 [!UICONTROL Workfront DAM]에 어떻게 로그인합니까?
+  * 자산을 업로드해야 하는 폴더는 무엇입니까?
+  * 각 자산에 필요한 메타데이터 필드는 무엇입니까?
+  * 메타데이터는 업로드 전후에 추가됩니까?
+  * 누가 자산을 업로드할 수 있습니까?
+  * 누가 메타데이터를 추가할 수 있습니까?
+  * 키워드 분류 체계를 사용해야 합니까? 또는 사용자가 추가 키워드를 추가할 수 있습니까?
+  * 메타데이터를 추가하기 위한 모범 사례는 무엇입니까? 일자 형식은 어떻게 지정됩니까? 회사 이름이나 클라이언트 이름을 입력합니까?
+  * 신규 사용자는 [!UICONTROL Workfront DAM]에 어떻게 로그인합니까?
 
 장기적인 성공을 위해서는 설정을 시작하기 전에 시스템 구조를 계획하고, 메타데이터 스키마를 계획하고, 최종 사용자 교육을 계획하고, 지속적인 유지 관리를 계획하는 등의 계획을 세우는 것이 중요합니다.

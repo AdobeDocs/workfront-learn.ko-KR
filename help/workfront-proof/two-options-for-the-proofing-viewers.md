@@ -1,30 +1,33 @@
 ---
 title: 교정쇄 뷰어 설명
-description: ' [!DNL Workfront]의 웹 기반 교정쇄 뷰어 및 데스크탑 교정쇄 뷰어, 두 뷰어의 차이점 및 서로 액세스하는 방법에 대해 알아봅니다.'
+description: '[!DNL Workfront]의 웹 기반 증명 뷰어와 데스크톱 증명 뷰어, 둘 사이의 차이점 및 각각의 액세스 방법에 대해 알아봅니다.'
 feature: Workfront Proof
 type: Tutorial
 role: User
 level: Beginner
 jira: KT-10160
 exl-id: 07575429-3d34-4cbf-8a35-d75dc912245a
+autotag-review: '2026-05-05T19:54:01.603Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:54:01.603Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 287
-ht-degree: 100%
-
+source-wordcount: '288'
+ht-degree: 92%
 ---
-
 # 교정쇄 뷰어 설명
 
 [!DNL Workfront]를 사용하여 정적 및 인터랙티브한 두 가지 주요 교정쇄 카테고리를 검토할 수 있습니다.
