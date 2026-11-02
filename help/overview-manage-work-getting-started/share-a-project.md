@@ -1,6 +1,6 @@
 ---
-title: 프로젝트 공유
-description: 관련자와 프로젝트에 관심이 있는 다른 사용자들이  [!DNL  Workfront]를 사용하여 수행 중인 작업에 대한 가시성을 확보할 수 있도록 프로젝트를 공유하는 방법에 대해 알아봅니다.
+title: Workfront에서 효과적으로 프로젝트 공유
+description: 자동 액세스 권한, 유연한 옵션, 팀 기반 관리, 템플릿 공유 및 사용자 정의 가능한 시스템 기본값을 사용하여 Workfront에서 프로젝트 공유를 간소화하여 공동 작업을 간소화합니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: share-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-07-21T00:00:00.000Z'
+last-substantial-update: '2026-07-06T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10148
 hide: true
@@ -29,13 +29,12 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:31:33.943Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 29
-ht-degree: 100%
-
+source-wordcount: '33'
+ht-degree: 0%
 ---
-
-# 프로젝트 공유
+# Workfront에서 효과적으로 프로젝트 공유
 
 {{$include /help/_includes/share-a-project.md}}
+

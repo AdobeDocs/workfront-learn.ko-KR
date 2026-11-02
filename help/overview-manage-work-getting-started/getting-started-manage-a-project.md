@@ -1,6 +1,6 @@
 ---
-title: 프로젝트 관리 시작하기
-description: 프로젝트 진행 상황을 모니터링하고, 드릴다운하여 작업 세부 정보를 확인하고, 관련자들과 소통하는 방법을 알아봅니다.
+title: 현재 상태로 프로젝트 관리
+description: 보고서를 통해 프로젝트 진행 상황을 효과적으로 추적하고, 간트 보기를 통해 종속성을 관리하고, 작업 및 승인을 모니터링하고, 팀 커뮤니케이션을 향상하고, 자주 업데이트하면서 원활한 워크플로를 보장합니다.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-04-22T00:00:00.000Z'
+last-substantial-update: '2026-06-18T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8781
 hide: true
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 100%
+source-wordcount: '37'
+ht-degree: 0%
 ---
-# 프로젝트 관리 시작하기
+# 현재 상태로 프로젝트 관리
 
 {{$include /help/_includes/getting-started-manage-a-project.md}}

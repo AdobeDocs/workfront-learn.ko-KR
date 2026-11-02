@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL 간트] 보기 이해'
-description: 간트 차트를 사용하여 작업과 프로젝트를 높은 수준에서 세부적으로 빠르게 보는 방법을 알아봅니다.
+title: 프로젝트 관리를 위해 [!UICONTROL 간트] 보기 탐색
+description: 간트 차트 를 통해 프로젝트 효율성을 극대화하여 전체적인 화면 보기, 진행 상황 추적, 마일스톤 관리, 전임 작업 인사이트 및 사용자 지정 가능한 옵션을 제공함으로써 작업 및 리소스 관리를 간소화합니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:26:09.573Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 32
-ht-degree: 100%
-
+source-wordcount: '39'
+ht-degree: 0%
 ---
-
-# [!UICONTROL 간트] 보기 이해
+# 프로젝트 관리를 위해 [!UICONTROL 간트] 보기 탐색
 
 {{$include /help/_includes/understand-the-gantt-view.md}}

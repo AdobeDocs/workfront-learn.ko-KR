@@ -1,6 +1,6 @@
 ---
-title: 프로젝트 정보 보기
-description: 프로젝트 관리에 도움이 되도록 필터, 보기 및 그룹화를 사용하여 프로젝트 정보를 쉽게 표시하는 방법을 알아봅니다.
+title: 프로젝트 관리를 위한 필터, 보기 및 그룹화 탐색
+description: 사용자 정의 가능한 필터, 세부 보기, 효율적인 그룹화, 작업 관리 도구 및 문제 추적 기능을 사용하여 프로젝트 워크플로를 간소화하여 조직과 명확성을 개선합니다.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -31,11 +31,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '23'
-ht-degree: 100%
+source-wordcount: '38'
+ht-degree: 0%
 ---
-# 프로젝트 정보 보기
+# 프로젝트 관리를 위한 필터, 보기 및 그룹화 탐색
 
 {{$include /help/_includes/view-project-information.md}}

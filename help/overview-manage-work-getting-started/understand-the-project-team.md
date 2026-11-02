@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 팀 이해
-description: 프로젝트 팀의 용도 및 팀을 유지하는 방법을 알아봅니다.
+description: 자동 팀 채우기, 수동 업데이트, 중앙 집중식 통신, 이메일 알림 및 프로젝트 참여 추적을 통해 Workfront에서 프로젝트 팀을 효율적으로 관리하여 공동 작업을 간소화합니다.
 feature: Work Management
 thumbnail: 3427227.jpg
 type: Tutorial
@@ -30,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:24:57.327Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 22
-ht-degree: 100%
-
+source-wordcount: '31'
+ht-degree: 25%
 ---
-
 # 프로젝트 팀 이해
 
 {{$include /help/_includes/understand-the-project-team.md}}
