@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL 보드] 보기 이해'
-description: 랜딩 프로젝트 페이지에서 [!UICONTROL 보드] 보기를 사용하는 방법을 알아봅니다.
+title: 작업 관리를 위한 게시판 보기 탐색
+description: '[!UICONTROL 보드] 보기의 [!DNL Kanban] 인터페이스를 사용하여 Workfront에서 작업 관리를 간소화하여 작업 정렬, 만들기, 사용자 지정 및 효율적인 프로젝트 구성을 위한 작업 목록 보기와 매끄러운 통합을 제공합니다.'
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:25:56.436Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '41'
+ht-degree: 0%
 ---
-
-# [!UICONTROL 보드] 보기 이해
+# 작업 관리를 위한 게시판 보기 탐색
 
 {{$include /help/_includes/understand-the-board-view.md}}
