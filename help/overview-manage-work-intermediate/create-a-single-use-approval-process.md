@@ -1,6 +1,6 @@
 ---
-title: 글로벌 승인 프로세스 및 일회용 승인 프로세스 만들기
-description: 프로젝트, 작업 또는 문제에 대한 글로벌 및 일회용 승인 프로세스를 만드는 방법에 대해 알아봅니다.
+title: 승인 프로세스 만들기 및 관리
+description: 작업, 프로젝트 또는 문제에 대해 전역 및 일회용 승인 프로세스를 모두 활용하고, 다단계 단계별 승인을 구현하고, 프로젝트 템플릿에서 재사용성을 통해 효율성을 높여 승인 워크플로를 향상시킵니다.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -9,6 +9,8 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
+last-substantial-update: '2025-03-26T00:00:00.000Z'
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
@@ -34,11 +36,11 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 100%
+source-wordcount: '40'
+ht-degree: 0%
 ---
-# 글로벌 승인 프로세스 및 일회용 승인 프로세스 만들기
+# 승인 프로세스 만들기 및 관리
 
 {{$include /help/_includes/create-a-single-use-approval-process.md}}

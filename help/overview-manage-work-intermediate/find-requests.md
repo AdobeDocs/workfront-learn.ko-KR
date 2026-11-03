@@ -1,6 +1,6 @@
 ---
-title: 요청 찾기 및 관리
-description: 대시보드, [!UICONTROL 홈], [!UICONTROL 요청] 영역 및 [!UICONTROL 팀] 페이지를 사용하여 요청 대기열을 통해 수신 요청을 찾는 방법에 대해 알아봅니다.
+title: 효율적인 요청 찾기 및 관리
+description: 효과적인 요청 관리를 위해 필터를 사용하고, 팀 할당을 관리하고, 사용자 지정 보고서 및 대시보드를 만들고, 다양한 컨텍스트에서 "내"의 의미를 명확히 하는 방법을 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-08-10T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 0%
 ---
-# 요청 찾기 및 관리
+# 효율적인 요청 찾기 및 관리
 
 {{$include /help/_includes/find-requests.md}}

@@ -1,6 +1,6 @@
 ---
-title: 요청 작성
-description: '[!UICONTROL 요청] 영역을 찾고 요청을 작성하는 방법을 알아봅니다. 그런 다음 제출된 요청 및 초안 요청을 보는 방법을 알아봅니다.'
+title: Workfront에서 요청 만들기 및 관리
+description: 간소화된 요청 생성, 사용자 정의 가능한 워크플로, 초안 자동 저장, 추적 및 필터링 도구, 요청 복사 및 재사용 기능을 통해 Workfront의 효율성을 향상시킵니다.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: '2024-07-09T00:00:00.000Z'
+last-substantial-update: '2026-08-13T00:00:00.000Z'
 jira: KT-8806
 hide: true
 recommendations: noDisplay,catalog
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '26'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 0%
 ---
-# 요청 작성
+# Workfront에서 요청 만들기 및 관리
 
 {{$include /help/_includes/make-a-request.md}}

@@ -1,14 +1,15 @@
 ---
-title: 재무 정보 찾기
-description: 프로젝트에 대한 재무 정보를 찾는 방법 및 정보의 출처를 이해하는 방법을 알아봅니다.
+title: 프로젝트 재정을 위한 재무 정보 액세스 및 관리
+description: 예산, 수익, 비용 및 성과 지표를 포함하여 프로젝트 및 작업의 재무 데이터에 액세스, 분석 및 관리하는 방법에 대해 알아봅니다.
 activity: use
 feature: Work Management
 thumbnail: 335208.png
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8948
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 06e6a1a3-6c40-403c-9c9d-cb2b5e178a7a
@@ -28,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:03:25.349Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 21
-ht-degree: 100%
-
+source-wordcount: '36'
+ht-degree: 0%
 ---
-
-# 재무 정보 찾기
+# 프로젝트 재정을 위한 재무 정보 액세스 및 관리
 
 {{$include /help/_includes/find-financial-information.md}}

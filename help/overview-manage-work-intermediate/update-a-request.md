@@ -1,13 +1,13 @@
 ---
-title: 요청 업데이트
-description: '[!DNL  Workfront]에서 제출한 요청을 찾고 해당 요청을 업데이트하는 방법에 대해 알아봅니다.'
+title: Workfront에서 요청 업데이트
+description: 필터를 사용하여 요청을 찾고, 상태와 세부 정보를 효율적으로 업데이트하고, 전체 정보에 액세스하고, 간소화된 워크플로우를 위해 중앙 집중식 공동 작업을 촉진하여 Workfront에서 요청 관리를 간소화합니다.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-07-10T00:00:00.000Z'
+last-substantial-update: '2026-08-18T00:00:00.000Z'
 thumbnail: 336091.png
 jira: KT-8807
 recommendations: noDisplay,catalog
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 0%
 ---
-# 요청 업데이트
+# Workfront에서 요청 업데이트
 
 {{$include /help/_includes/update-a-request.md}}

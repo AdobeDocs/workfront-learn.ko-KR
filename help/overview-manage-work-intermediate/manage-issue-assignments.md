@@ -1,6 +1,6 @@
 ---
-title: 문제 할당 관리
-description: 문제가 해결될 수 있도록 개별 사용자, 여러 사용자 또는 팀에 문제를 할당하는 방법을 알아봅니다.
+title: 효과적으로 문제 할당 관리
+description: 할당에 대한 인라인 편집 및 업무 균형자 를 사용하고, 진행 상황을 추적 및 업데이트하고, 문제 상태를 변경하고, 팀별 워크플로우를 준수하여 원활한 프로젝트 실행을 통해 Workfront의 문제를 효과적으로 관리합니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: manage-issue-assignments.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-26T00:00:00.000Z'
+last-substantial-update: '2026-08-14T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10071
 hide: true
@@ -31,13 +31,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:13:29.079Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 28
-ht-degree: 100%
-
+source-wordcount: '40'
+ht-degree: 0%
 ---
-
-# 문제 할당 관리
+# 효과적으로 문제 할당 관리
 
 {{$include /help/_includes/manage-issue-assignments.md}}
