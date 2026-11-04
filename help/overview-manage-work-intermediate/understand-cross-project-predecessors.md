@@ -1,5 +1,5 @@
 ---
-title: 프로젝트 간 전임 작업 이해
+title: 프로젝트 간 전임 작업으로 종속성 설정
 description: 2개 이상의 프로젝트에서 전임 작업을 사용하고 추적하는 방법을 알아봅니다.
 feature: Work Management
 thumbnail: 3422123.jpg
@@ -29,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:09:16.844Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 23
-ht-degree: 100%
-
+source-wordcount: '27'
+ht-degree: 55%
 ---
-
-# 프로젝트 간 전임 작업 이해
+# 프로젝트 간 전임 작업으로 종속성 설정
 
 {{$include /help/_includes/understand-cross-project-predecessors.md}}

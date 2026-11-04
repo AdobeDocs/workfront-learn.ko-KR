@@ -1,5 +1,5 @@
 ---
-title: 프로젝트 템플릿 만들기 및 [!UICONTROL 블루프린트]에 대해 알아보기
+title: 프로젝트 템플릿 만들기 및 블루프린트 살펴보기
 description: 처음부터 기존 프로젝트에서 프로젝트 템플릿을 만드는 방법을 알아보고 [!UICONTROL 블루프린트]를 통해 Workfront 전문가가 만든 유용한 프로젝트 템플릿의 세계에 액세스하는 방법을 이해합니다.
 activity: use
 feature: Work Management
@@ -8,9 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2023-08-31T00:00:00.000Z'
-jira: KT-8950
+last-substantial-update: '2026-09-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
+jira: KT-8950
 hide: true
 doc-type: video
 exl-id: 8b373be7-df75-4929-9027-d95947c42f94
@@ -30,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:21:02.093Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 48
-ht-degree: 100%
-
+source-wordcount: '46'
+ht-degree: 69%
 ---
-
-# 프로젝트 템플릿 만들기 및 [!UICONTROL 블루프린트]에 대해 알아보기
+# 프로젝트 템플릿 만들기 및 블루프린트 살펴보기
 
 {{$include /help/_includes/create-a-project-template.md}}

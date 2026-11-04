@@ -1,5 +1,5 @@
 ---
-title: 고급 전임 작업
+title: 기본 고급 작업 종속성
 description: 전임 작업 종속 유형, 지연 유형, 강제 전임 작업, 종속 루프 오류, 몇 가지 요령 및 모범 사례에 대해 알아봅니다.
 feature: Work Management
 thumbnail: 3424287.jpg
@@ -29,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:23:55.145Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 23
-ht-degree: 100%
-
+source-wordcount: '27'
+ht-degree: 70%
 ---
-
-# 고급 전임 작업
+# 기본 고급 작업 종속성
 
 {{$include /help/_includes/advanced-predecessors.md}}

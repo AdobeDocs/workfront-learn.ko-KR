@@ -1,6 +1,6 @@
 ---
-title: 마일스톤 보기
-description: ' [!DNL  Workfront] 프로젝트에서 마일스톤을 보고 [!UICONTROL 프로젝트] 영역에서 마일스톤 보기를 사용하는 방법에 대해 알아봅니다.'
+title: 프로젝트에서 마일스톤 보기
+description: 프로젝트에서 마일스톤을 보고 [!UICONTROL 프로젝트] 영역에서 마일스톤 보기를 사용하는 방법에 대해 알아봅니다.
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg
@@ -8,6 +8,8 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: '2024-10-09T00:00:00.000Z'
+recommendations: noDisplay,catalog
 jira: KT-8946
 hide: true
 doc-type: video
@@ -30,13 +32,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:04:49.686Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '27'
+ht-degree: 62%
 ---
-
-# 마일스톤 보기
+# 프로젝트에서 마일스톤 보기
 
 {{$include /help/_includes/view-milestones.md}}

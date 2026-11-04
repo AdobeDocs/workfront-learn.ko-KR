@@ -1,6 +1,6 @@
 ---
 title: 프로젝트 시간 기록 및 검토
-description: 프로젝트를 종료하기 전에 미해결 시간을 기록하고 기록된 시간을 검토합니다.
+description: Workfront에서 프로젝트 시간을 검토, 로그, 편집 및 승인하는 방법을 알아봅니다. 이 초보자용 튜토리얼에서는 시간 섹션, 로그 시간, 인라인 편집 및 시간 승인을 사용하는 방법을 보여 줍니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,7 +10,7 @@ role: User
 level: Beginner
 jira: KT-10136
 recommendations: noDisplay,catalog
-last-substantial-update: '2024-12-12T00:00:00.000Z'
+last-substantial-update: '2026-11-2T00:00:00.000Z'
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
 product_v2:
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-06T15:01:14.617Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 21
-ht-degree: 52%
-
+source-wordcount: '41'
+ht-degree: 0%
 ---
-
 # 프로젝트 시간 기록 및 검토
 
 {{$include /help/_includes/log-and-review-hours.md}}

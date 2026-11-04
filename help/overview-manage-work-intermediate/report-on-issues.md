@@ -1,6 +1,6 @@
 ---
-title: 문제 보고서
-description: 미해결 문제와 전환 정보를 보여 주는 보고서를 만드는 방법에 대해 알아봅니다.
+title: 문제 관리를 위한 사용자 지정 보고서 만들기
+description: 문제 및 프로젝트 관리를 위한 사용자 정의 보고서를 생성하는 방법과, 이를 통해 진행 중인 문제를 중앙에서 추적하고, 열과 필터를 사용자화하며, 문제 및 프로젝트 관리를 최적화하는 방법에 대해 알아봅니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -31,13 +31,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:14:42.100Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 17
-ht-degree: 100%
-
+source-wordcount: '41'
+ht-degree: 70%
 ---
-
-# 문제 보고서
+# 문제 관리를 위한 사용자 지정 보고서 만들기
 
 {{$include /help/_includes/report-on-issues.md}}

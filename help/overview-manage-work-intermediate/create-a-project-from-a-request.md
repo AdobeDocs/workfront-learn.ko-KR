@@ -1,6 +1,6 @@
 ---
-title: 문제/요청을 프로젝트로 전환
-description: 요청에서 프로젝트로의 전환을 시작하고, 적절한 프로젝트 템플릿을 선택하고, 전환을 완료하는 방법에 대해 알아봅니다.
+title: 문제 또는 요청을 프로젝트로 전환
+description: 템플릿을 사용하여 문제를 프로젝트로 전환하고, 프로젝트 세부 정보를 맞춤화하고, 문제 해결 옵션을 관리하고, 원활한 워크플로에 대한 가시성과 액세스를 보장하여 Workfront에서 프로젝트 관리를 간소화합니다.
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -9,6 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+last-substantial-update: '2026-08-19T00:00:00.000Z'
 recommendations: noDisplay,catalog
 hide: true
 doc-type: video
@@ -31,13 +32,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:20:37.203Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 33
-ht-degree: 100%
-
+source-wordcount: '43'
+ht-degree: 0%
 ---
-
-# 문제/요청을 프로젝트로 전환
+# 문제 또는 요청을 프로젝트로 전환
 
 {{$include /help/_includes/create-a-project-from-a-request.md}}

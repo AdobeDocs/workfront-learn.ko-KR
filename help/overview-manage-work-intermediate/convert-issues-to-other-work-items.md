@@ -1,13 +1,13 @@
 ---
-title: 문제/요청을 작업으로 전환
-description: 문제 또는 요청을 작업으로 전환하는 방법을 알아봅니다.
+title: 문제 또는 요청을 작업으로 전환
+description: 간소화된 워크플로를 위해 편집 가능한 이름, 원활한 사용자 정의 양식 첨부, 유연한 프로젝트 선택, 전환 옵션, 동기화된 상태 업데이트를 통해 문제를 Workfront의 작업으로 손쉽게 전환합니다.
 activity: use
 team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
-last-substantial-update: '2024-02-28T00:00:00.000Z'
+last-substantial-update: '2026-08-20T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10069
 hide: true
@@ -28,13 +28,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:23:18.240Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 25
-ht-degree: 100%
-
+source-wordcount: '42'
+ht-degree: 0%
 ---
-
-# 문제/요청을 작업으로 전환
+# 문제 또는 요청을 작업으로 전환
 
 {{$include /help/_includes/convert-issues-to-other-work-items.md}}
