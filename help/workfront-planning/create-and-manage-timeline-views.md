@@ -56,4 +56,4 @@ ht-degree: 71%
 
 Workfront Planning에서 타임라인 보기를 관리하고 사용자 정의하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457601/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3506104/?captions=kor&learn=on&enablevpops=1)
