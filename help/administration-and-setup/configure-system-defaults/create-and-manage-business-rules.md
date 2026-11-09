@@ -37,4 +37,4 @@ ht-degree: 100%
 
 비즈니스 규칙을 만들고 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433105/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508029/?captions=kor&quality=12&learn=on&enablevpops=1)
