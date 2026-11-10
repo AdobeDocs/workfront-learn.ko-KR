@@ -32,4 +32,4 @@ ht-degree: 84%
 
 이 비디오에서는 마일스톤을 통해 [!DNL &#x200B; Workfront] 프로젝트의 진행을 유지하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508020/?captions=kor&quality=12&learn=on&enablevpops=1)
